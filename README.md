@@ -24,4 +24,4 @@ http://iptvnation.com/southpark.mp4
 #EXTINF: -1 Grupo-title = "Serie", Family Guy TLC
 http://iptvnation.com/familyguy.mp4
 #EXTINF: -1 Grupo-title = "Serie", Bobs Hamburguesas TLC
-http://iptvnation.com/bobs.mp4
+http://iptvnation.com/bobs.mp4 
