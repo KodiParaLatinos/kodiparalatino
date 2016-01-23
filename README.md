@@ -1,6 +1,4 @@
-# EXTM3U
-#EXTINF: -1 Grupo-title = "Serie",:. Serie EN:.
-
+#EXTM3U
 #EXTINF: -1 Grupo-title = "Serie", Dos hombres y medio TLC
 http://iptvnation.com/two.mp4
 #EXTINF: -1 Grupo-title = "Serie", Cómo conocí a vuestra madre TLC
