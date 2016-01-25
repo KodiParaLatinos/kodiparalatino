@@ -81,7 +81,7 @@ http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/177.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Univisión Network (East) (UNI)" tvg-name="Univisión Network (East) (UNI)" tvg-logo="198562.jpg" group-title="ENTRETENIMIENTO",Univisión (Este)
 http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/178.m3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR lime][B]<< INFANTILES >>[/B][/COLOR]
+#EXTINF:0, [COLOR lime][B]<< INFANTILES >>[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI INFANTILES" tvg-name="INFANTILES" tvg-logo="INFANTILES"
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?playkodi=%2F.ts
