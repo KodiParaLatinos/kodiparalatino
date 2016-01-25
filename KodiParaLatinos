@@ -1321,7 +1321,7 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE02.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Fox Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="Fox Sports 2 México - BR" group-title="BAJA RESOLUCIÓN",Fox Sports 2 México - BR
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE02.m3u8?playkodi=%2F.ts
 
-#EXTINF:0, [COLOR red][B]<< ADULTOS >>[/B][/COLOR]
+#EXTINF:0, [COLOR lime][B]<< ADULTOS >>[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Logo_venus_out_color.jpg" group-title="ADULTOS",Venus
 http://5.189.152.43:11757/live/PlayKodi-PKA/PlayKodi-PKA/24.m3u8
