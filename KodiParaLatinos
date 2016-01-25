@@ -83,7 +83,7 @@ http://5.189.152.43:11757/live/PlayKodi-PKB/PlayKodi-PKB/178.m3u8
 
 #EXTINF:0, group-title="etiquetas",[COLOR lime][B]<< INFANTILES >>[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Boomerang" tvg-name="Boomerang" tvg-logo="Boomerang" ="INFANTILES",Boomerang
+#EXTINF:-1 tvg-id="Lista PLAY-KODI INFANTILES" tvg-name="INFANTILES" tvg-logo="INFANTILES"
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Cartoon Network" tvg-name="Cartoon Network" tvg-logo="Cartoon Network" group-title="INFANTILES",Cartoon Network
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?playkodi=%2F.ts
