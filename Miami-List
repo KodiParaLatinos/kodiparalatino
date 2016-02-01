@@ -1,0 +1,2494 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+    <channels>
+    <channels_info> <!-- this is optional -->
+      <title>[COLOR red][B]MIAMI-LIST [/B][/COLOR]</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>TODOS</genre>
+      <description>Para mejoras se aceptan donaciones por paypal: linecall1@hotmail.com</description>
+      <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+      <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+      <date>AÃ‘O</date>
+      <credits>CREDITOS</credits>
+    </channels_info>
+	
+    <channel>
+    <name>                                                [COLOR red][B]MIAMI-LIST [/B][/COLOR]</name>
+    <info>Cuenta de Paypal</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>	
+	
+    <channel>
+    <name>[COLOR lime][B]Se aceptan donaciones por paypal: linecall1@hotmail.com[/B][/COLOR]</name>
+    <info>Cuenta de Paypal</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>	
+	 
+	     <channel>
+    <name>                                           [COLOR blue][B]Update 02/01/16[/B][/COLOR]</name>
+    <info>Update</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>	
+    
+    <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]USA[/B][/COLOR]</name>
+    <info>PAISES</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+
+    <item>
+	<title>[COLOR lime][B]ABC News 2[/B][/COLOR]</title>
+	<link>http://abclive.abcnews.com/i/abc_live2@136328/index_2500_av-b.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>   
+	
+	<item>
+	<title>[COLOR lime][B]ABC News 3[/B][/COLOR]</title>
+	<link>http://abclive.abcnews.com/i/abc_live3@136329/index_2500_av-b.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>  
+	
+	<item>
+	<title>[COLOR lime][B]Bloomberg [/B][/COLOR]</title>
+	<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>  
+	
+	<item>
+	<title>[COLOR lime][B]WRC  News 4[/B][/COLOR]</title>
+	<link>http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/index_1286_av-p.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>  
+	
+	<item>
+	<title>[COLOR lime][B]3ABN - NTV - Nationwide TV[/B][/COLOR]</title>
+	<link>http://moiptvus-lh.akamaihd.net/i/moiptv1_1@303632/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>  
+	
+	<item>
+	<title>[COLOR lime][B]3ABN Latino [/B][/COLOR]</title>
+	<link>http://moiptvus-lh.akamaihd.net/i/moiptv2_1@304497/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>  
+	
+	<item>
+	<title>[COLOR lime][B]ABC News 1[/B][/COLOR]</title>
+	<link>http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-b.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>  
+	
+	<item>
+	<title>[COLOR lime][B]DC Dis Columbia",CBSN - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",CNBC - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+	<title>[COLOR lime][B]DC Dis Columbia",CNBC - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://www.cnbc.com/live-tv/</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+     <item>
+	<title>[COLOR lime][B]DC Dis Columbia",CNN - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",CTN Sat - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>rtmp://rtmp.ottdemo.rrsat.com:1935/ctntv/ctntv1</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",DrTV - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://jimmyadamsmedia.mpl.miisolutions.net:1935/jimmyadamsmedia-live-1/smil:DRTV.smil/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title> [COLOR lime][B]Dis Columbia",EWTN - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>rtmp://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/_definst_/900.mp4</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title> [COLOR lime][B]Dis Columbia",JUCE TV - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B] Dis Columbia",N3 Next News - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>rtmp://97.79.237.82:1935/N3med/N3med</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",NASA HD Education - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://nasatv-lh.akamaihd.net/i/NASA_102@319272/index_1000_av-p.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",NASA HD Media - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://nasatv-lh.akamaihd.net/i/NASA_103@319271/index_1000_av-p.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",NASA HD Public - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",NASA ISS Views - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://iphone-streaming.ustream.tv/ustreamVideo/17074538/streams/live/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",Newsmax TV - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",PBS NewsHour - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://iphone-streaming.ustream.tv/ustreamVideo/4424524/streams/live/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",RT America - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-p.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",TBN - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",The Word Network - NTV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>http://thewordlive-lh.akamaihd.net/thewordlive_univ_2000@141816?v=3.3.0&p=aasp-3.3.0.99.43&fp=WIN%2017,0,0,134&r=MSTHT&g=DOQEVJMKBLQJ</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]DC Dis Columbia",EarthCam TV - Cam TV - Nationwide TV - DC Dis Columbia[/B][/COLOR]</title>
+    <link>rtmp://video1.earthcam.com/earthcamtv/Stream1</link>
+	<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+	
+	<item>
+	<title>[COLOR lime][B]UATV - 9CTV - Anchorage - AK Alaska[/B][/COLOR]</title>
+    rtmp://137.229.218.178/live/uaslive/uaslivestream</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+    <item>
+	<title>[COLOR lime][B]KTBY 4 News - 20 DT - Anchorage - AK Alaska[/B][/COLOR]</title>
+    <link>http://iphone-streaming.ustream.tv/ustreamVideo/13860127/streams/live/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+    <item>
+	<title>[COLOR lime][B]KTVA 11 News - 28 DT - Anchorage - AK Alaska[/B][/COLOR]</title>
+    <link>http://iphone-streaming.ustream.tv/ustreamVideo/19076498/streams/live/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+    <item>
+	<title>[COLOR lime][B]WVTM 13 News - 13 DT - Birmingham - AL Alabama[/B][/COLOR]</title>
+    <link>http://content.uplynk.com/channel/8e7504962da04956953c874a7ad11c6b.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+    <item>
+	<title>[COLOR lime][B]WBMA 33/40 Radar - 40 LD - Birmingham - AL Alabama[/B][/COLOR]</title>
+    <link>http://iphone-streaming.ustream.tv/ustreamVideo/520983/streams/live/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]WTVY News 4 - 36 DT - Dothan - AL Alabama[/B][/COLOR]</title>
+    <link>http://graywtvylive-i.akamaihd.net/hls/live/207250/WTVY/qa/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]WBCF 3 Launch TV - 39 LD - Florence - AL Alabama[/B][/COLOR]</title>
+    <link>rtmp://johndash.videocdn.scaleengine.net/johndash-live/play/launch</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]WAAY 31 FirstNews - 32 DT - Huntsville - AL Alabama[/B][/COLOR]</title>
+    <link>http://waay-lh.akamaihd.net/i/WAAY_1223@57557/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]WPMI Local 15 Cam - 15 DT - Mobile - AL Alabama[/B][/COLOR]</title>
+    <link>http://ms-9.sbgnet.com/liveevents/smil:wpmievent.smil/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]WKRG News 5 - 27 DT - Mobile - AL Alabama[/B][/COLOR]</title>
+    <link>http://play-prod1.live.anvato.net/server/play/mg-wkrg-dfp/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]KHOG 40/29 News - 15 DT - Fayetteville - AR Arkansas[/B][/COLOR]</title>
+    <link>http://play-prod1.live.anvato.net/server/play/hearst-khog-dfp/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]KNWA 51 - 50 DT - Fort Smith - AR Arkansas[/B][/COLOR]</title>
+    <link>http://knwa-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]KTHV THV 11 - 12 DT - Little Rock - AR Arkansas[/B][/COLOR]</title>
+    <link>http://kthv-lh.akamaihd.net/KTHV_Live_1_2000@9607?videoId=2160467886001&lineUpId=&pubId=34300056001&playerId=2857332821001&affiliateId=&accountid=34300056001&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2016,0,0,305&r=ROXHV&g=QSAZWRYENHVG</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]KLRT 16 News - 30 DT - Little Rock - AR Arkansas[/B][/COLOR]</title>
+    <link>http://klrt-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]City Council - 11CTV - Glendale - AZ Arizona[/B][/COLOR]</title>
+    <link>mms://207.7.154.96/G0727_001</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]City of Mesa - 11CTV - Mesa - AZ Arizona[/B][/COLOR]</title>
+    <link>rtmp://207.7.154.95/mesaaz/G0911_002</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]KPNX 12 News - 12 DT - Phoenix - AZ Arizona[/B][/COLOR]</title>
+    <link>http://b_kpnx-f.akamaihd.net/i/KPNX_Live_1@72416/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]KNXV 15 News - 15 DT - Phoenix - AZ Arizona[/B][/COLOR]</title>
+    <link>http://spsknxv-i.akamaihd.net/hls/live/203386/anvato/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]KTVP 22.1 Good News - 22 LD - Phoenix - AZ Arizona[/B][/COLOR]</title>
+    <link>http://wow.eleden.com/livegntv/ngrp:livestream_all/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]K38IZ-D 38.1 IZTV - 38 DC - Phoenix - AZ Arizona[/B][/COLOR]</title>
+    <link>http://iphone-streaming.ustream.tv/ustreamVideo/18739366/streams/live/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+    <item>
+	<title>[COLOR lime][B]KVOA News 4 - 23 DT - Tucson - AZ Arizona[/B][/COLOR]</title>
+    <link>http://kvoa-lh.akamaihd.net/i/KVOA_1264@124308/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]KERO 23 News - 10 DT - Bakersfield - CA California[/B][/COLOR]</title>
+    <link>http://stskerostr01-i.akamaihd.net/hls/live/203189/anvato/master.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]K06MU TV Big Bear - 6 TV - Big Bear Lake - CA California[/B][/COLOR]</title>
+    <link>http://iphone-streaming.ustream.tv/ustreamVideo/1760618/streams/live/playlist.m3u8</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]KNVN Action News 24 - 24 DT - Chico - CA California[/B][/COLOR]</title>
+    <link>rtmp://76.12.161.174/gocom-edge/livestream.stream_360p</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+   <item>
+	<title>[COLOR lime][B]KMPH 26 News - 28 DT - Fresno - CA California[/B][/COLOR]</title>
+    <link>rtmp://cp37963.live.edgefcs.net/live/KMPH_793_Flash@23464</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]KFSN 30 Action News - 30 DT - Fresno - CA California[/B][/COLOR]</title>
+    <link>http://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/KFSNwatch.m3u8?tc=1&exp=1444661880263&rn=9857.124346005401&ct=c&oid=96195dc445894d079a91958abba8d3af&eid=KFSNwatch&ad=watchkfsnlive&ad.kv=station%2Ckfsn&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=8d9091c76d1aed403385d3cb5b147c38df509e51512aa6a46727a50ec0ca2ed9&ad.cping=1&referer=abc30.com</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR lime][B]KNXT 49/38 Catholic - 50 DT - Fresno - CA California[/B][/COLOR]</title>
+    <link>rtmp://origin3-edge1.yourstreamlive.com/live/yourstreamlive/out_2324_4sqkvkde_1</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KABC 7 News - 7 DT - Los Angeles - CA California[/B][/COLOR]</title>
+<link>http://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8?tc=1&exp=1442928477102&rn=2594.9674072588814&ct=c&oid=2118d9222a87420ab69223af9cfa0a0f&eid=KABCwatch&ad=watchkabclive&ad.kv=station%2Ckabc&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=14678b39de25e111751da0c0ae3dea632901f11351c35ad6c09aed501512fafe&ad.cping=1&referer=abc7.com</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KCAL 9 News - 9 DT - Los Angeles - CA California[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KBEH 63.2 Guadalupe - 24 DT - Los Angeles - CA California[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/11524451/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KNBC 4 News - 36 DT - Los Angeles - CA California[/B][/COLOR]</title>
+<link>http://knbclive-f.akamaihd.net/i/knbca1_1@13988/index_1286_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KCBS 2 News - 43 DT - Los Angeles - CA California[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kcbsx-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KESQ News Channel 3 - 42 DT - Palm Springs - CA California[/B][/COLOR]</title>
+<link>http://kesq_live-lh.akamaihd.net/i/0fupc9sax_1@167696/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KXTV News10 - 10 DT - Sacramento - CA California[/B][/COLOR]</title>
+<link>http://kxtv-lh.akamaihd.net/KXTV_Live_1_2000@74761?videoId=2166100606001&lineUpId=&pubId=35121343001&playerId=1811591078001&affiliateId=&accountid=35121343001&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2016,0,0,305&r=NVLKP&g=KFDXSNYRFCBN</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KMAX CW 31 - 21 DT - Sacramento - CA California[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kmax-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KOVR 13 Cam - 25 DT - Sacramento - CA California[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kovry-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KOVR 13 News - 25 DT - Sacramento - CA California[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KCRA 3 News - 35 DT - Sacramento - CA California[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-kcra-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KSBW Action News 8 - 8 DT - Salinas - CA California[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-ksbw-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KGTV 10 News - 10 DT - San Diego - CA California[/B][/COLOR]</title>
+<link>http://stskgtvstr01-i.akamaihd.net/hls/live/203183/anvato/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KUSI 51 News - 18 DT - San Diego - CA California[/B][/COLOR]</title>
+<link>http://kusi-lh.akamaihd.net/i/KUSI_1042@106171/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]XETV CW 6 - 23 DT - San Diego - CA California[/B][/COLOR]</title>
+<link>http://cdn.bimvidlive.com/xetv/xetv1/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KNSD 7 News - 40 DT - San Diego - CA California[/B][/COLOR]</title>
+<link>http://knsdlive-f.akamaihd.net/i/knsda1_1@22926/index_1286_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KGO 7 News - 7 DT - San Francisco - CA California[/B][/COLOR]</title>
+<link>http://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/KGOwatch.m3u8?tc=1&exp=1442928723327&rn=7410.37659135572&ct=c&oid=4413701bf5a1488db55b767f8ae9d4fa&eid=KGOwatch&ad=watchkgolive&ad.kv=station%2Ckgo&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=f743d614aa7ceabc2038d04b2207489a0e73edf52d5654b5c3cc598623e85398&ad.cping=1&referer=abc7news.com</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KNTV News 11 - 12 DT - San Francisco - CA California[/B][/COLOR]</title>
+<link>http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KPIX 5 News - 29 DT - San Francisco - CA California[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kpix-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KQED 9.1 PBS - 30 DT - San Francisco - CA California[/B][/COLOR]</title>
+<link>rtmp://204.107.26.254/live/?id=0ad5aac39bb13fbe53e8671ed614194ce0b25c3dde3fc921aa182ddade0b44f1b28cd8f61b6eb776bce071eb7569dc7b7c824c0a5f75163a26c764dcb5654ee99b5082ffe4159a905cc4197c9a8e9da47355836bc0e744e1294f087fc2f27abddc0bc57c76f295ffd81005e9edf6b8657d439304919100a455fe41f074dbe083e22bb68fe307382cf855141247901af2865edfc7f63ad87d323d154cdf968018/2011.high.stream</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KTVU 2 News - 44 DT - San Francisco - CA California[/B][/COLOR]</title>
+<link>http://ktvulive-i.akamaihd.net/hls/live/224677/ktvu1/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]San Francisco Cam - Cam TV - San Francisco - CA California[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/6603.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KSBY 6 News - 15 DT - San Luis Obispo - CA California[/B][/COLOR]</title>
+<link>http://ksby-lh.akamaihd.net/i/KSBY_1273@126337/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KTLN TLN 68 - 47 DT - San Rafael - CA California[/B][/COLOR]</title>
+<link>rtmp://cp242911.live.edgefcs.net/live/iadesigns@136980</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KTAV Almavision 35 - 46 LD - Santa Ana - CA California[/B][/COLOR]</title>
+<link>rtmp://cdn3.iviplanet.com/Almavision/_definst_/mp4:almavision1</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KXRM 21 News - 22 DT - Colorado Springs - CO Colorado[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/mg-kxrm-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KRDO NewsChannel 13 - 24 DT - Colorado Springs - CO Colorado[/B][/COLOR]</title>
+<link>rtmp://cp126787.live.edgefcs.net/live/0_v0elkkfe_1@69388</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KOAA News 5 Now - 42 DT - Colorado Springs - CO Colorado[/B][/COLOR]</title>
+<link>http://koaa-lh.akamaihd.net/i/KOAA_1251@7384/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KKTV 11 News - 49 DT - Colorado Springs - CO Colorado[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-kktv-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KMGH 7 News - 7 DT - Denver - CO Colorado[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/epsps-kmgh-v-20/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KUSA 9 News - 9 DT - Denver - CO Colorado[/B][/COLOR]</title>
+<link>http://kusalive.gannetttv.com/i/KUSA_Live_1@98937/index_2000_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WeatherNation 9.2 - 9 TV - Denver - CO Colorado[/B][/COLOR]</title>
+<link>http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]ZDN The Cool TV - 31 LD - Denver - CO Colorado[/B][/COLOR]</title>
+<link>http://198.179.31.201/live/272.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeaf214842ad6cd287a3091d41de6568cc1e13084b2188fb6b1122279c1490ef5e0cafab4a1f13232828a052c317dec05b7f1243b9cd9789697bddfaed1cbf3336e330599ba0b385e09d2ce16f1386b5fdc60c2c6fa766eecdd33218e06e0a61256317127aa45ff3f1b468cee1be7d887e571f83cc49138c3ba2226f9bf49452ecbef539cb02cc718aea95aa2b82dae52d</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KCNC 4 News - 35 DT - Denver - CO Colorado[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kcnc-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KREX NewsChannel 5 - 2 DT - Grand Junction - CO Colorado[/B][/COLOR]</title>
+<link>http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KKCO 11 News - 12 DT - Grand Junction - CO Colorado[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-kkco-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]KJCT 8 News - 20 LD - Grand Junction - CO Colorado[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-kjct-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]Grand County TV18 - 18CTV - Winter Park - CO Colorado[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/9745341/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WVIT 30 News - 35 DT - Hartford - CT Connecticut[/B][/COLOR]</title>
+<link>http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/index_1286_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]News12 Connecticut - 12CTV - Norwalk - CT Connecticut[/B][/COLOR]</title>
+<link>rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]Traffic & Weather CT - 12CTV - Norwalk - CT Connecticut[/B][/COLOR]</title>
+<link>rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WBEC BECON 63 - 40 DT - Boca Raton - FL Florida[/B][/COLOR]</title>
+<link>rtmp://becon.browardschools.com/adobe/beconlive</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WDES BeachTV 32 - 48 CA - Destin - FL Florida[/B][/COLOR]</title>
+<link>rtmp://media4.tripsmarter.com/LiveTV/DTVHD</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WRXY CTN10 - 33 DT - Fort Myers - FL Florida[/B][/COLOR]</title>
+<link>rtsp://media.ctntv.net/wrxy</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WRUF 10 GatorWeather - 5 LD - Gainesville - FL Florida[/B][/COLOR]</title>
+<link>rtmp://fms01.jou.ufl.edu/live/weather</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WTLV 12 News - 13 DT - Jacksonville - FL Florida[/B][/COLOR]</title>
+<link>http://wtlv-lh.akamaihd.net/WTLV_Live_1_2000@36769?videoId=2160442443001&lineUpId=&pubId=35067928001&playerId=2857356520001&affiliateId=&accountid=35067928001&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2016,0,0,305&r=HRHFG&g=FMIPBPSMKZBT</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WVVQ MeeMee TV - 18 LD - Jacksonville - FL Florida[/B][/COLOR]</title>
+<link>http://live-h1.frontlayer.net/fl623481/live/live.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WJAX 47 Action News - 19 DT - Jacksonville - FL Florida[/B][/COLOR]</title>
+<link>rtmp://syndilivefs.fplive.net/syndilive-live/stream96-WTEV</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WJXT News 4 Jax - 42 DT - Jacksonville - FL Florida[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/pns-wjxt-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WCAY KeyTV 36 - 36 DC - Key West - FL Florida[/B][/COLOR]</title>
+<link>rtmp://media4.tripsmarter.com/LiveTV/KTVHD</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WSVN 7 News - 7 DT - Miami - FL Florida[/B][/COLOR]</title>
+<link>http://wsvn.mpl.miisolutions.net/wsvn-live01/wsvn_1044/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WPLG Local 10 News - 10 DT - Miami - FL Florida[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/pns-wplg-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WFOR 4 News - 22 DT - Miami - FL Florida[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wfor-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WTVJ 6 News - 31 DT - Miami - FL Florida[/B][/COLOR]</title>
+<link>http://wtvjlive-f.akamaihd.net/i/wtvja1_1@19309/index_1286_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WFUN 48 teveo - 48 LD - Miami - FL Florida[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/14034121/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]Biscayne Bay Cam - Cam TV - Miami - FL Florida[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/miamivishd4.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]Downtown Miami Cam - Cam TV - Miami - FL Florida[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/miamivishd5.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WESH 2 News - 11 DT - Orlando - FL Florida[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-wesh-dfp-1/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WKMG Local 6 News - 26 DT - Orlando - FL Florida[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/wkmg-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WRCF 29.2 Orange TV - 35 DC - Orlando - FL Florida[/B][/COLOR]</title>
+<link>http://otv.ocfl.net:1936/OrangeTV/OTVLive.stream/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WRCF 29.3 Vision TV - 35 DC - Orlando - FL Florida[/B][/COLOR]</title>
+<link>http://otv.ocfl.net:1936/VisionTV/VisionTVLive.stream/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WFTV Doppler 9 Radar - 39 DT - Orlando - FL Florida[/B][/COLOR]</title>
+<link>http://brightcove03-f.akamaihd.net/WFTV_DOPPLER_800@50743</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WFTV News 9 - 39 DT - Orlando - FL Florida[/B][/COLOR]</title>
+<link>http://brightcove03-f.akamaihd.net/WFTV_NEWSCAST_1800@50743</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WACX SuperChannel 55 - 40 DT - Orlando - FL Florida[/B][/COLOR]</title>
+<link>http://cdn.rbm.tv/rightbrainmedia-live-122/stream_8085_2/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WTGL Good Life 45 - 46 DT - Orlando - FL Florida[/B][/COLOR]</title>
+<link>http://fss29.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WMBB News 13 - 13 DT - Panama City - FL Florida[/B][/COLOR]</title>
+<link>http://wmbb-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WJHG NewsChannel 7 - 18 DT - Panama City - FL Florida[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wjhg-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>[COLOR lime][B]WPCT BeachTV 46 - 47 DT - Panama City Bch - FL Florida[/B][/COLOR]</title>
+<link>rtmp://media4.tripsmarter.com/LiveTV/BTVHD</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WHBR CTN33 - 34 DT - Pensacola - FL Florida[/B][/COLOR]</title>
+<link>http://whbr6922.srfms.com:2125/live/livestream/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>HSN - NTV - Saint Petersburg - FL Florida[/B][/COLOR]</title>
+<link>rtmp://hsn.mpl.miisolutions.net/hsn-live01/mp4:420p500kB31</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WWSB 40 7 News - 24 DT - Sarasota - FL Florida[/B][/COLOR]</title>
+<link>http://wwsb-lh.akamaihd.net/i/WWSB_1224@52010/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTXL 27 News - 27 DT - Tallahassee - FL Florida[/B][/COLOR]</title>
+<link>http://wtxl-lh.akamaihd.net/i/WTXL_1228@84520/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCTV 6 News - 46 DT - Tallahassee - FL Florida[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wctv-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTSP 10 News - 10 DT - Tampa - FL Florida[/B][/COLOR]</title>
+<link>http://wtsp-lh.akamaihd.net/WTSP_Live_1_2000@68348?videoId=2165136583001&lineUpId=&pubId=35087134001&playerId=2810881989001&affiliateId=&accountid=35087134001&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2016,0,0,305&r=OMFPO&g=NPQTREIOLSLJ</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCLF CTN22 - 21 DT - Tampa - FL Florida[/B][/COLOR]</title>
+<link>rtsp://media.ctntv.net/wclf</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WFTS Action News - 29 DT - Tampa - FL Florida[/B][/COLOR]</title>
+<link>rtmp://cp165279.live.edgefcs.net/live/SPS-WFTS-S01FLV_7@46036</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WPTV News Channel 5 - 12 DT - West Palm Beach - FL Florida[/B][/COLOR]</title>
+<link>http://spswptv-i.akamaihd.net/hls/live/203384/anvato/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WPEC 12.2 Weather - 13 DT - West Palm Beach - FL Florida[/B][/COLOR]</title>
+<link>http://ms-9.sbgnet.com/liveevents/smil:wpecevent.smil/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WPBF 25 News - 16 DT - West Palm Beach - FL Florida[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-wpbf-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WFGC CTN61 - 49 DT - West Palm Beach - FL Florida[/B][/COLOR]</title>
+<link>http://hls1.livestreamingcdn.com/livecdn631/myStream.sdp/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>TUFF TV - NTV - Atlanta - GA Georgia[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/20379563/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WEQT La Mega Mundial - 9 LD - Atlanta - GA Georgia[/B][/COLOR]</title>
+<link>rtmp://video.lamegamundial.com/lamegamundial/lamegamundial2</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WXIA 11 Alive - 10 DT - Atlanta - GA Georgia[/B][/COLOR]</title>
+<link>http://wxia-lh.akamaihd.net/WXIA_Live_1_2000@17577?videoId=2160479897001&lineUpId=&pubId=34310441001&playerId=2857340254001&affiliateId=&accountid=34310441001&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2016,0,0,305&r=LQWYK&g=OAITLSUXMPQE</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WSB Action News 2 - 39 DT - Atlanta - GA Georgia[/B][/COLOR]</title>
+<link>http://cmgdigitalhd2-lh.akamaihd.net/i/88246163001_1@131098/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTHC ATL Channel - 42 LD - Atlanta - GA Georgia[/B][/COLOR]</title>
+<link>rtmp://media4.tripsmarter.com/LiveTV/ATLHD</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WUPA CW 69 - 43 DT - Atlanta - GA Georgia[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wupa-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WRDW News 12 - 12 DT - Augusta - GA Georgia[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wrdw-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WBPI TV49 - 49 DC - Augusta - GA Georgia[/B][/COLOR]</title>
+<link>http://fss28.streamhoster.com/lv_rod_tvf1/lv_rod_tvf1-wbpi.smil/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WYBU CTN16 - 16 DC - Columbus - GA Georgia[/B][/COLOR]</title>
+<link>rtmp://wybutv.srfms.com:2327/live//livestream</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WJCN Community - 33 LD - La Grange - GA Georgia[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/10362042/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WMAZ News 13 - 13 DT - Macon - GA Georgia[/B][/COLOR]</title>
+<link>http://wmaz-lh.akamaihd.net/WMAZ_Live_1_2000@69977?videoId=2160479908001&lineUpId=&pubId=34300057001&playerId=1815029623001&affiliateId=&accountid=34300057001&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2019,0,0,245&r=YXBJP&g=ORGMSTTRIAIX</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WGXA 24.1 FOX 24 - 16 DT - Macon - GA Georgia[/B][/COLOR]</title>
+<link>rtmp://ms-9.sbgnet.com/liveevents/_definst_/mp4:wgxaevent_medium</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WPGA TV58 - 32 DT - Macon - GA Georgia[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/5418769/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTOC News 11 - 11 DT - Savannah - GA Georgia[/B][/COLOR]</title>
+<link>http://wtoc-lh.akamaihd.net/i/WTOC_838@74909/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WJCL 22 News - 22 DT - Savannah - GA Georgia[/B][/COLOR]</title>
+<link>http://content.uplynk.com/channel/ddfd74f57fc54540a17e35471c56ce0a.m3u8?exp=1444236471&rn=334501414&tc=1&ad.preroll=1&ad=wjclvod&cid=ddfd74f57fc54540a17e35471c56ce0a&ct=a&sig=1f1887c61aa98c9acd370e2bfe5b0ecbaeec92c14a310a950a12ab0bd2b4103c&ad.cping=1&referer=www.wjcl.com</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>KHNL News Now 13 - 35 DT - Honolulu - HI Hawaii[/B][/COLOR]</title>
+<link>http://khnl-lh.akamaihd.net/i/KHNL_824@54739/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KITV 4 News - 40 DT - Honolulu - HI Hawaii[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-kitv-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>City of Ames - 12CTV - Ames - IA Iowa[/B][/COLOR]</title>
+<link>rtmp://granicus.mpl.miisolutions.net/granicus-livepull-us-2/ames/G0320_002</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Cedar Falls City - 15CTV - Cedar Falls - IA Iowa[/B][/COLOR]</title>
+<link>mms://sire-cntl-vid01.siretechnologies.com/cedarfallscity</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KCRG 9 News - 9 DT - Cedar Rapids - IA Iowa[/B][/COLOR]</title>
+<link>http://cdn.bimvidlive.com/kcrg1/kcrg1/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KCRG 9 Weather - 9 DT - Cedar Rapids - IA Iowa[/B][/COLOR]</title>
+<link>http://cdn.bimvidlive.com/kcrg2/kcrg2/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KFXA 28 News - 27 DT - Cedar Rapids - IA Iowa[/B][/COLOR]</title>
+<link>http://content.uplynk.com/358798d9732b4f0599efb8feec497cd8.m3u8?tc=1&exp=1441281957&rn=1729886405&ct=a&cid=358798d9732b4f0599efb8feec497cd8&sig=df877143ae5945d01ccbd5c3e3fd6263a2cd28a52127ce1025e5d61994d65cfb</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KGAN 2 News - 29 DT - Cedar Rapids - IA Iowa[/B][/COLOR]</title>
+<link>http://content.uplynk.com/358798d9732b4f0599efb8feec497cd8.m3u8?tc=1&exp=1441281978&rn=1538494997&ct=a&cid=358798d9732b4f0599efb8feec497cd8&sig=1eec26ac80b8488169b445238a7dfd7d950d2d1ba268935c06a9322e3b46597d
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>CoralVision - 5CTV - Coralville - IA Iowa[/B][/COLOR]</title>
+<link>rtmp://64.22.99.223/CoralvilleIALIVE/CoralvilleIALIVE.stream</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WOI Local 5 News - 5 DT - Des Moines - IA Iowa[/B][/COLOR]</title>
+<link>http://woi-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>DMTV - 7CTV - Des Moines - IA Iowa[/B][/COLOR]</title>
+<link>rtmp://cp256783.live.edgefcs.net/live/T03081@180367</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KCCI News 8 - 8 DT - Des Moines - IA Iowa[/B][/COLOR]</title>
+http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WHO 13.2 Weather - 13 DT - Des Moines - IA Iowa[/B][/COLOR]</title>
+<link>http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>City of Dubuque - 8CTV - Dubuque - IA Iowa[/B][/COLOR]</title>
+<link>rtmp://granicus.mpl.miisolutions.net/granicus-livepull-us-5/cityofdubque/mp4:G0526_001</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KFXB CTN40 - 43 DT - Dubuque - IA Iowa[/B][/COLOR]</title>
+<link>rtsp://media.ctntv.net/kfxb</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>City of Iowa City - 4CTV - Iowa City - IA Iowa[/B][/COLOR]</title>
+<link>rtmp://64.22.99.223/IowaCityIALIVE/IowaCityIALIVE.stream</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KCAU 9 News - 9 DT - Sioux City - IA Iowa[/B][/COLOR]</title>
+<link>http://kcau-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KMEG 14 News - 39 DT - Sioux City - IA Iowa[/B][/COLOR]</title>
+<link>http://kmeg-lh.akamaihd.net/i/KMEG_1067@111922/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KTIV News 4 - 41 DT - Sioux City - IA Iowa[/B][/COLOR]</title>
+<link>http://ktiv-lh.akamaihd.net/i/KTIV_1174@105250/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KWWL News Channel 7 - 7 DT - Waterloo - IA Iowa[/B][/COLOR]</title>
+<link>http://kwwl-lh.akamaihd.net/i/KWWL_1173@107791/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>KTVB News 7 - 7 DT - Boise - ID Idaho[/B][/COLOR]</title>
+<link>http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/index_2000_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KIFI News 8 Now - 8 DT - Idaho Falls - ID Idaho[/B][/COLOR]</title>
+<link>http://kifi_live-lh.akamaihd.net/i/0v7bzeufb_1@153713/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KMVT 11 News - 11 DT - Twin Falls - ID Idaho[/B][/COLOR]</title>
+<link>http://cdn.bimvidlive.com/kmvt1/kmvt1/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>WCIA 3 News - 48 DT - Champaign - IL Illinois[/B][/COLOR]</title>
+<link>http://wcia-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WBBM 2 News - 12 DT - Chicago - IL Illinois[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wbbmx-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WGN 9 News - 19 DT - Chicago - IL Illinois[/B][/COLOR]</title>
+<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WMAQ 5 News - 29 DT - Chicago - IL Illinois[/B][/COLOR]</title>
+<link>http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@24420/index_1286_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WLS 7 News - 44 DT - Chicago - IL Illinois[/B][/COLOR]</title>
+<link>http://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/WLSwatch.m3u8?tc=1&exp=1439980201987&rn=8093.935757982601&ct=c&oid=aac37e2c66614e699fb189ab391084ff&eid=WLSwatch&ad=watchwlslive&ad.kv=station%2Cwls&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=59c048c79e1f341237babd8779abb2fb0ec79ffd2fd568b64315c1adef8fb6b4&ad.cping=1</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Chicago Cam - Cam TV - Chicago - IL Illinois[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/5187.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCIA Charleston Cam - 48 DT - Danville - IL Illinois</title>
+<link>http://wms-east2.wetmet.net/live/161-04-01/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WAND 17 News - 17 DT - Decatur - IL Illinois[/B][/COLOR]</title>
+<link>http://wand-lh.akamaihd.net/i/WAND_1094@119736/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCIA Champaign Cam - 48 DT - Decatur - IL Illinois[/B][/COLOR]</title>
+<link>http://wms-east2.wetmet.net/live/161-01-01/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCIA Danville Cam - 48 DT - Decatur - IL Illinois[/B][/COLOR]</title>
+<link>http://wms-east2.wetmet.net/live/161-05-01/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTCT 27.1 TCT - 17 DT - Marion - IL Illinois[/B][/COLOR]</title>
+<link>http://brightcove03-f.akamaihd.net/TCT_Live_1200@69088</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTCT 27.3 TCT Family - 17 DT - Marion - IL Illinois[/B][/COLOR]</title>
+<link>http://brightcove03-f.akamaihd.net/TCTHD_Live_1200@69088</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTCT 27.3 TCT Kids - 17 DT - Marion - IL Illinois[/B][/COLOR]</title>
+<link>http://brightcove03-f.akamaihd.net/Family_Live_1200@69088</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WMBD 31 News - 30 DT - Peoria - IL Illinois[/B][/COLOR]</title>
+<link>http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WGEM News 10 - 10 DT - Quincy - IL Illinois[/B][/COLOR]</title>
+<link>http://wgem-lh.akamaihd.net/i/WGEM_1168@110232/master.m3u8
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTJR CTN16 - 32 DT - Quincy - IL Illinois[/B][/COLOR]</title>
+<link>rtsp://wtjrtv.serverroom.net/wtjrtv
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WREX 13 News - 13 DT - Rockford - IL Illinois[/B][/COLOR]</title>
+<link>http://wrex-lh.akamaihd.net/i/WREX_1167@110233/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WIFR 23 News - 41 DT - Rockford - IL Illinois[/B][/COLOR]</title>
+<link>http://graywifrlive-i.akamaihd.net/hls/live/206975/WIFR/qa/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>WEHT Local 25 - 7 DT - Evansville - IN Indiana[/B][/COLOR]</title>
+<link>http://weht-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WFIE 14 News - 46 DT - Evansville - IN Indiana[/B][/COLOR]</title>
+<link>http://wfie-lh.akamaihd.net/i/WFIE_860@76470/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTHR Channel 13 - 13 DT - Indianapolis - IN Indiana[/B][/COLOR]</title>
+<link>http://wthr-lh.akamaihd.net/i/WTHR_1258@24344/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WRTV rtv6 - 25 DT - Indianapolis - IN Indiana[/B][/COLOR]</title>
+<link>rtmp://cp162895.live.edgefcs.net/live/STS-162895-WRTVFLV_7@509</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WRTV rtv6 Newsy - 25 DT - Indianapolis - IN Indiana[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/sps-wrtv-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WSJV 28 News - 28 DT - South Bend - IN Indiana[/B][/COLOR]</title>
+<link>http://wsjv-lh.akamaihd.net/i/WSJV_1166@110798/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WBND 57 News - 34 LD - South Bend - IN Indiana[/B][/COLOR]</title>
+<link>http://wbnd-lh.akamaihd.net/i/WBND_1236@35811/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WNDU Newscenter 16 - 42 DT - South Bend - IN Indiana[/B][/COLOR]</title>
+<link>http://graywndulive-i.akamaihd.net/hls/live/206973/WNDU/qa/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTWO 2 News - 36 DT - Terre Haute - IN Indiana[/B][/COLOR]</title>
+<link>http://wtwo-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTWO Cam 1 - 36 DT - Terre Haute - IN Indiana[/B][/COLOR]</title>
+<link>rtmp://wms-east2.wetmet.net/live/174-01-01</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTWO Cam 2 - 36 DT - Terre Haute - IN Indiana[/B][/COLOR]</title>
+<link>rtmp://wms-east2.wetmet.net/live/174-02-01</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>KALB News Channel 5 - 35 DT - Alexandria - LA Louisiana[/B][/COLOR]</title>
+<link>http://graykalbhls-i.akamaihd.net/hls/live/220420/KALB/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WBRZ 2 Traffic - 13 DT - Baton Rouge - LA Louisiana[/B][/COLOR]</title>
+<link>http://hosting3.synapseip.tv/wbrztraffic/trafficstream.sdp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WBRZ 2.2 News - 13 DT - Baton Rouge - LA Louisiana[/B][/COLOR]</title>
+<link>http://hosting3.synapseip.tv/wbrz-edge/livestream.stream/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WBRZ 2.3 Weather - 13 DT - Baton Rouge - LA Louisiana[/B][/COLOR]</title>
+<link>http://hosting3.synapseip.tv/wbrz-edge/weather.stream/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KPBN The Pelican - 14 LD - Baton Rouge - LA Louisiana[/B][/COLOR]</title>
+<link>mms://win-edge2.acs.playstream.com/kpbn2</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WLPB LPB 27 - 25 DT - Baton Rouge - LA Louisiana[/B][/COLOR]</title>
+<link>rtmp://media2.lpb.org:1935/livepkgr/debate</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WVLA 33 News - 34 DT - Baton Rouge - LA Louisiana[/B][/COLOR]</title>
+<link>http://wvla-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KATC 3 News - 28 DT - Lafayette - LA Louisiana[/B][/COLOR]</title>
+<link>http://katc-lh.akamaihd.net/i/KATC_1249@7387/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KNOE 8 News - 8 DT - Monroe - LA Louisiana[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-knoe-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WVUE 8 News - 29 DT - New Orleans - LA Louisiana[/B][/COLOR]</title>
+<link>http://wvue-lh.akamaihd.net/i/WVUE_815@78384/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WWL Channel 4 News - 36 DT - New Orleans - LA Louisiana[/B][/COLOR]</title>
+<link>http://wwl-lh.akamaihd.net/i/WWL_Shows_1@72428/index_2000_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KNOV NOTV - 41 DC - New Orleans - LA Louisiana[/B][/COLOR]</title>
+<link>rtmp://media4.tripsmarter.com/LiveTV/NOTVHD</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WDSU 6 News - 43 DT - New Orleans - LA Louisiana[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-wdsu-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KTBS 3.3 24-HourNews - 28 DT - Shreveport - LA Louisiana[/B][/COLOR]</title>
+<link>http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>WCVB NewsCenter 5 - 20 DT - Boston - MA Massachusetts[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-wcvb-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WBZ  4 News - 30 DT - Boston - MA Massachusetts[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wbzx-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WHDH 7 News - 42 DT - Boston - MA Massachusetts[/B][/COLOR]</title>
+<link>http://whdh.mpl.miisolutions.net/whdh-live01/whdh_1/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCEA 58 MasTV - 45 LD - Boston - MA Massachusetts[/B][/COLOR]</title>
+<link>rtmp://wceatv1.srfms.com:2177/live/livestream</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+<item>
+	<title>Boston Cam - Cam TV - Boston - MA Massachusetts[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/4049sonesta.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>EBCTV Community - 9CTV - East Bridgewater - MA Massachusetts[/B][/COLOR]</title>
+<link>rtmp://cp45648.live.edgefcs.net/live/T01812@50342</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WSHM W Mass News 3 - 21 LD - Springfield - MA Massachusetts[/B][/COLOR]</title>
+<link>http://wshm-lh.akamaihd.net/i/WSHM_1100@59198/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>EVINE Live - NTV - Minneapolis - MN Minnesota[/B][/COLOR]</title>
+<link>http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/layer1.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>MCN6 Metro Cable - 6CTV - Minneapolis - MN Minnesota[/B][/COLOR]</title>
+<link>http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KARE 11 News - 11 DT - Minneapolis - MN Minnesota[/B][/COLOR]</title>
+<link>http://kare-lh.akamaihd.net/KARE_Live_1_2000@99186?videoId=2160396515001&lineUpId=&pubId=35140830001&playerId=2777746665001&affiliateId=&accountid=35140830001&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2016,0,0,305&r=WTKQH&g=FGCPDYYHXPPS</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Northwest Community - 12CTV - Minneapolis - MN Minnesota[/B][/COLOR]</title>
+<link>http://xnwctx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>MPS Public Schools - 15CTV - Minneapolis - MN Minnesota[/B][/COLOR]</title>
+<link>rtmp://205.215.175.21:1935/live/blade11</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCCO 4 News - 32 DT - Minneapolis - MN Minnesota[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wcco-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Minneapolis 79 - 79CTV - Minneapolis - MN Minnesota[/B][/COLOR]</title>
+<link>rtmp://wowza1.qc.implex.net/cityofminneapolis/live1</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KTTC News Center 10 - 10 DT - Rochester - MN Minnesota[/B][/COLOR]</title>
+<link>http://kttc-lh.akamaihd.net/i/KTTC_1164@19656/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>WLBT MS News Now 3 - 30 DT - Jackson - MS Mississippi[/B][/COLOR]</title>
+<link>http://wlbt-lh.akamaihd.net/i/WLBT_867@29376/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTOK NewsCenter 11 - 11 DT - Meridian - MS Mississippi[/B][/COLOR]</title>
+<link>http://graywtoklive-i.akamaihd.net/hls/live/207157/WTOK/qa/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTVA News 9 - 8 DT - Tupelo - MS Mississippi[/B][/COLOR]</title>
+<link>http://wtva-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>WLOS News 13 - 13 DT - Asheville - NC Nth Carolina[/B][/COLOR]</title>
+<link>http://content.uplynk.com/751ea38c19b740d1b1815f553f24a550.m3u8?tc=1&exp=1444320000&rn=200588&ct=a&cid=751ea38c19b740d1b1815f553f24a550&sig=dc1b3a33b97ecf715add6665341677df92d865fbfa0d337e44e50ff0773595ea</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCNC 36 News - 22 DT - Charlotte - NC Nth Carolina[/B][/COLOR]</title>
+<link>http://wcnc-lh.akamaihd.net/i/WCNC_Shows_1@195111/index_2000_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>UNC CLT Channel 22 - 22CTV - Charlotte - NC Nth Carolina[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/14519473/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WGSR Star 47 - 47 LD - Reidsville - NC Nth Carolina[/B][/COLOR]</title>
+<link>http://stream2.starnewsource.com/live/starreidsville/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WNCR TV41 - 41 LD - Rocky Mount - NC Nth Carolina[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/431862/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WWAY 3 News - 46 DT - Wilmington - NC Nth Carolina[/B][/COLOR]</title>
+<link>http://wway-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WXII 12 News - 31 DT - Winston-Salem - NC Nth Carolina[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-wxii-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>Cheshire TV - 8CTV - Keene - NH New Hampshire[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/132378/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WMUR News 9 - 9 DT - Manchester - NH New Hampshire[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-wmur-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>News12 New Jersey - 12CTV - Edison - NJ New Jersey[/B][/COLOR]</title>
+<link>rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Traffic & Weather NJ - 12CTV - Edison - NJ New Jersey[/B][/COLOR]</title>
+<link>rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>KOAT 7 News - 7 DT - Albuquerque - NM New Mexico[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-koat-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KCHF SBN 11 - 10 DT - Albuquerque - NM New Mexico[/B][/COLOR]</title>
+<link>rtmp://fss28.streamhoster.com/lv_rod_tvf1/broadcast14</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KAZQ TV32 - 17 DT - Albuquerque - NM New Mexico[/B][/COLOR]</title>
+<link>http://156.obj.netromedia.net/KAZQH264/KAZQH264/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>KLAS 8 News Now - 7 DT - Las Vegas - NV Nevada[/B][/COLOR]</title>
+<link>rtmp://cp5431.live.edgefcs.net/live/KLAS_720_Flash@50746</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KRNV News 4 - 7 DT - Reno - NV Nevada[/B][/COLOR]</title>
+<link>http://krnv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KOLO News Now 8 - 8 DT - Reno - NV Nevada[/B][/COLOR]</title>
+<link>http://graykololive-i.akamaihd.net/hls/live/207081/KOLO/qa/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCTV Washoe County - 217CTV - Reno - NV Nevada[/B][/COLOR]</title>
+<link>rtmp://granicus.mpl.miisolutions.net/granicus-livepull-us-6/washoe-nv/G0511_001</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>WRGB 6 News - 6 DT - Albany - NY New York[/B][/COLOR]</title>
+<link>http://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTEN 10.2 Weather - 26 DT - Albany - NY New York[/B][/COLOR]</title>
+<link>http://mg_wten_hls-i.akamaihd.net/hls/live/220746/WTEN/888k/prog.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>News12 The Bronx - 12CTV - Bronx - NY New York[/B][/COLOR]</title>
+<link>rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>News12 Brooklyn - 12CTV - Brooklyn - NY New York[/B][/COLOR]</title>
+<link>rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Traffic & Weather NY - 12CTV - Brooklyn - NY New York[/B][/COLOR]</title>
+<link>rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+<item>
+	<title>WGRZ 2 News - 33 DT - Buffalo - NY New York[/B][/COLOR]</title>
+<link>http://wgrz-lh.akamaihd.net/WGRZ_Live_1_2000@68352?videoId=2160435806001&lineUpId=&pubId=34300055001&playerId=1403311915001&affiliateId=&accountid=34300055001&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2016,0,0,305&r=QGUFW&g=MSFYVUDPJWRV</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WKBW News 7 - 38 DT - Buffalo - NY New York[/B][/COLOR]</title>
+<link>http://stswkbw-i.akamaihd.net/hls/live/220610/anvato/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WETM 18 News - 18 DT - Elmira - NY New York[/B][/COLOR]</title>
+<link>http://wetm-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Cartoon 7 TV - ITV - New York City - NY New York[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/13635287/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WABC 7 News - 7 DT - New York City - NY New York[/B][/COLOR]</title>
+<link>http://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/WABCwatch.m3u8?tc=1&exp=1437385690317&rn=220.514381547402&ct=c&oid=72750b711f704e4a94b5cfe6dc99f5e1&eid=WABCwatch&ad=watchwabclive&ad.kv=station%2Cwabc&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=4aa17e61f18f51d6a846ede2a99053837f71b8c68a353895c6070295a05645be&ad.cping=1</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WNBC 4 News - 28 DT - New York City - NY New York[/B][/COLOR]</title>
+<link>http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/index_1286_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCBS 2 News - 33 DT - New York City - NY New York[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WLNY 10/55 News - 47 DT - New York City - NY New York[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wlny-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Brooklyn Bridge - Cam TV - New York City - NY New York[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/3983.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Manhattan Skyline - Cam TV - New York City - NY New York[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/libertyHD1.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Skyline - Cam TV - New York City - NY New York[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/4544.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Time Square Street - Cam TV - New York City - NY New York[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/hdtimes11.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>TS 47th & Broadway - Cam TV - New York City - NY New York[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>TS South View - Cam TV - New York City - NY New York[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WPTZ NewsChannel 5 - 14 DT - Plattsburgh - NY New York[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-wptz-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WHAM 13 News - 13 DT - Rochester - NY New York[/B][/COLOR]</title>
+<link>http://content.uplynk.com/channel/0e0a2ea5fd874320bd3e91d6bd85eeca.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WROC News 8 - 45 DT - Rochester - NY New York[/B][/COLOR]</title>
+<link>http://wroc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WSYR Live Doppler 9 - 17 DT - Syracuse - NY New York[/B][/COLOR]</title>
+<link>http://wsyr2-apple-live.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WSYR NewsChannel 9 - 17 DT - Syracuse - NY New York[/B][/COLOR]</title>
+<link>http://wsyr-apple-live.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WKTV News Channel 2 - 29 DT - Utica - NY New York[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/wktv-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>News12 Hudson Valley - 12CTV - West Nyack - NY New York[/B][/COLOR]</title>
+<link>rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+
+<item>
+	<title>News12 Long Island - 12CTV - Woodbury - NY New York[/B][/COLOR]</title>
+<link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Traffic & Weather LI - 12CTV - Woodbury - NY New York[/B][/COLOR]</title>
+<link>rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>News12 Westchester - 12CTV - Yonkers - NY New York[/B][/COLOR]</title>
+<link>rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>WKRC 12.1 Events - 12 DT - Cincinnati - OH Ohio[/B][/COLOR]</title>
+<link>http://ms-9.sbgnet.com/liveevents/smil:wkrcevent.smil/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>WHIO 7.2 Weather NOW - 41 DT - Dayton - OH Ohio[/B][/COLOR]</title>
+<link>rtmp://cp101680.live.edgefcs.net/live/WHIO_696_3@49896</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WOCB 39 COACB - 39 DC - Marion - OH Ohio[/B][/COLOR]</title>
+<link>rtmp://origin.tikilive.com/show_tikilive/25634/mainstream</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+<item>
+	<title>WTOL 11 News Now - 11 DT - Toledo - OH Ohio[/B][/COLOR]</title>
+<link>http://wtol-lh.akamaihd.net/i/WTOL_841@74910/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTVG 13 Action News - 13 DT - Toledo - OH Ohio[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wtvg-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WFMJ 21 News Now - 20 DT - Youngstown - OH Ohio[/B][/COLOR]</title>
+<link>http://wfmj-lh.akamaihd.net/i/WFMJ_902@53287/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+
+<item>
+	<title>KOCO 5 News - 7 DT - Oklahoma City - OK Oklahoma[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-koco-dfp-1/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KWTV News 9 - 39 DT - Oklahoma City - OK Oklahoma[/B][/COLOR]</title>
+<link>http://kwtv-lh.akamaihd.net/i/KWTV_666@91154/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KJRH 2 News - 8 DT - Tulsa - OK Oklahoma[/B][/COLOR]</title>
+<link>http://spskjrh-i.akamaihd.net/hls/live/203493/anvato/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KOKI 23 News - 22 DT - Tulsa - OK Oklahoma[/B][/COLOR]</title>
+<link>http://koki3-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KOTV News On 6 - 45 DT - Tulsa - OK Oklahoma[/B][/COLOR]</title>
+<link>http://kotv-lh.akamaihd.net/i/KOTV_662@97915/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>KEZI 9 News - 9 DT - Eugene - OR Oregon[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/heartland-kezi/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KMTR 16.1 Traffic - 17 DT - Eugene - OR Oregon[/B][/COLOR]</title>
+<link>http://cf.cdn.bimvidlive.com/katu3/traffic/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KDRV NewsWatch 12 - 12 DT - Medford - OR Oregon[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/heartland-kdrv/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KDOV theDove 43 - 44 LP - Medford - OR Oregon[/B][/COLOR]</title>
+<link>rtmp://s1.thedove.us/theDoveTV/2theDoveTV.sdp</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KGW News 8 - 8 DT - Portland - OR Oregon[/B][/COLOR]</title>
+<link>http://kgw-lh.akamaihd.net/i/KGW_Shows_1@99580/index_2000_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+
+<item>
+	<title>WFMZ 69.2 AccuWX - 46 DT - Allentown - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/14984935/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WICU 12 News - 12 DT - Erie - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://wicu-lh.akamaihd.net/i/WICU_621@78350/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WYLN 35 - 35 DC - Hazleton - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/13837029/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WPVI 6 Action News - 6 DT - Philadelphia - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/WPVIwatch.m3u8?tc=1&exp=1443292500900&rn=4199.500466690588&ct=c&oid=10b98e7c615f43a98b180d51797e74aa&eid=WPVIwatch&ad=watchwpvilive&ad.kv=station%2Cwpvi&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=a5294f2323eeb32af9e0c7e413bfd4981acd62884aa10251ffe097aa764f005b&ad.cping=1&referer=6abc.com</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KYW  3 News - 26 DT - Philadelphia - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kyw-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WPSG CW Philly 57 - 32 DT - Philadelphia - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wpsg-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCAU 10 News - 34 DT - Philadelphia - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/index_1286_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KDKA 2 News - 25 DT - Pittsburgh - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kdka-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WPXI 11 News - 48 DT - Pittsburgh - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://brightcove03-f.akamaihd.net/WPXI_NEWSCAST_1800@2052</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTAE Action News 4 - 51 DT - Pittsburgh - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-wtae-dfp-1/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Cornerstone - NTV - Wall - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://cdn.media9.truegod.tv/cds/ctvnlive/smil:ctvn.smil/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>QVC Shopping - NTV - West Chester - PA Pennsylvania[/B][/COLOR]</title>
+<link>http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/chunklist_b1928000.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>WYFF News 4 - 36 DT - Greenville - SC Sth Carolina[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-wyff-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WGSC Beach TV - 8 DC - Myrtle Beach - SC Sth Carolina[/B][/COLOR]</title>
+<link>rtmp://media4.tripsmarter.com/LiveTV/MTVHD</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Myrtle Beach Cam - Cam TV - Myrtle Beach - SC Sth Carolina[/B][/COLOR]</title>
+<link>http://video4.earthcam.com/fecnetwork/3635.flv/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+
+<item>
+	<title>WBTW News 13 - 13 DT - Myrtle Beach - SC Sth Carolna[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/mg-wbtw-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>KEVN 7 News - 7 DT - Rapid City - SD South Dakota[/B][/COLOR]</title>
+<link>http://graykevnlive-i.akamaihd.net/hls/live/219390/KEVN/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KNBN NewsCenter 1 - 21 DT - Rapid City - SD South Dakota[/B][/COLOR]</title>
+<link>http://cdn.bimvidlive.com/knbn1/knbn1/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KSFY 13 News - 13 DT - Sioux Falls - SD South Dakota[/B][/COLOR]</title>
+<link>http://grayksfyhls-i.akamaihd.net/hls/live/220260/KSFY/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WVLT Local 8 News - 30 DT - Knoxville - TN Tennesse[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wvlt-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WMC Action News 5 - 5 DT - Memphis - TN Tennesse[/B][/COLOR]</title>
+<link>http://wmctv-lh.akamaihd.net/i/WMCTV_870@31683/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WREG Weather - 28 DT - Memphis - TN Tennesse[/B][/COLOR]</title>
+<link>http://wregtribune-lh.akamaihd.net/i/WREGTribunePrimary_1@192110/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WZTV 17.1 FOX - 15 DT - Nashville - TN Tennesse[/B][/COLOR]</title>
+<link>http://ms-9.sbgnet.com/liveevents/smil:wztvevent.smil/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WKRN 2.2 NashvilleWX - 27 DT - Nashville - TN Tennesse[/B][/COLOR]</title>
+<link>http://mg_wkrn_hls-i.akamaihd.net/hls/live/220736/WKRN/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>KRBC 9 News - 29 DT - Abilene - TX Texas[/B][/COLOR]</title>
+<link>http://krbc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>Youtoo America - NTV - Arlington - TX Texas[/B][/COLOR]</title>
+<link>http://198.179.31.198/live/773.high.stream/773.high.stream/index.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KVUE 24 News - 33 DT - Austin - TX Texas[/B][/COLOR]</title>
+<link>http://kvue-lh.akamaihd.net/i/KVUE_Shows_1@194587/index_2000_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KBTX News 3 - 50 DT - Bryan - TX Texas[/B][/COLOR]</title>
+<link>http://graykbtxlive-i.akamaihd.net/hls/live/206962/KBTX/qa/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KAMU PBS - 12 DT - College Station - TX Texas[/B][/COLOR]</title>
+<link>http://165.95.101.55:1935/live/smil:TXMS150_all.smil/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KAMU PBS HD - 12 DT - College Station - TX Texas[/B][/COLOR]</title>
+<link>http://165.95.101.55:1935/live/smil:TXMS150_all.smil/chunklist_w243408745_b1396000_sleng.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KZTV Action 10 News - 10 DT - Corpus Christi - TX Texas[/B][/COLOR]</title>
+<link>http://kztv-lh.akamaihd.net/i/KZTV_1261@124226/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KRIS 6 News - 13 DT - Corpus Christi - TX Texas[/B][/COLOR]</title>
+<link>http://kris-lh.akamaihd.net/i/KRIS_1259@124225/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WFAA News 8 - 8 DT - Dallas - TX Texas[/B][/COLOR]</title>
+<link>http://wfaa-lh.akamaihd.net/i/WFAA_Shows_1@51667/index_2000_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KTVT 11 News - 19 DT - Dallas - TX Texas[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-ktvt-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KUVN UnivisiÛn 23 - 23 DT - Dallas - TX Texas[/B][/COLOR]</title>
+<link>rtmp://209.133.208.178/app/turbomax-hds-channel</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KXTX Telemundo 39 - 40 DT - Dallas - TX Texas[/B][/COLOR]</title>
+<link>rtmp://198.178.123.170/app/telemundox1chivas_69s-channel</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KXAS 5 News - 41 DT - Dallas - TX Texas[/B][/COLOR]</title>
+<link>http://kxaslive-f.akamaihd.net/i/kxasb1_1@5492/index_1286_av-b.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KDTN Daystar 2 - 43 DT - Dallas - TX Texas[/B][/COLOR]</title>
+<link>http://brightcove03-f.akamaihd.net/daystar_HD_720@112478</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KVIA 7 News - 17 DT - El Paso - TX Texas[/B][/COLOR]</title>
+<link>rtmp://cp126787.live.edgefcs.net/live/1_8lavx5qr_1@70199</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KSCE Life 38 - 39 DT - El Paso - TX Texas[/B][/COLOR]</title>
+<link>http://fss28.streamhoster.com/lv_rod_tvf1/broadcast16/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KHOU 11 News - 11 DT - Houston - TX Texas[/B][/COLOR]</title>
+<link>http://khou-lh.akamaihd.net/i/KHOU_Shows_1@74321/index_2000_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KTRK 13 News - 13 DT - Houston - TX Texas[/B][/COLOR]</title>
+<link>http://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/KTRKwatch.m3u8?tc=1&exp=1437386402515&rn=7242.670440094964&ct=c&oid=1efe3bfc4d1e4b5db5e5085a535b510b&eid=KTRKwatch&ad=watchktrklive&ad.kv=station%2Cktrk&ad.adUnit=midroll&ad.flex=0&ad._v=2&sig=78ed1e2f24b789aeca5a0b0d3f3b87b11006dbcb31779989027c91461dc5a204&ad.cping=1</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KVVV TV15 - 15 LD - Houston - TX Texas[/B][/COLOR]</title>
+<link>rtmp://fml.BC4D.edgecastcdn.net/20BC4D/AbrahamTelecasting</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KRIV 26 Cam - 26 DT - Houston - TX Texas[/B][/COLOR]</title>
+<link>rtmp://cp154699.live.edgefcs.net/live/KRIV_N1@50603</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KRIV 26 Weather - 26 DT - Houston - TX Texas[/B][/COLOR]</title>
+<link>rtmp://cp154699.live.edgefcs.net/live/KRIV_N2@50603</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KPRC Local 2 News - 35 DT - Houston - TX Texas[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/pns-kprc-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KGNS News 8 - 8 DT - Laredo - TX Texas[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-kgns-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KCBD NewsChannel 11 - 11 DT - Lubbock - TX Texas[/B][/COLOR]</title>
+<link>http://kcbd-lh.akamaihd.net/i/KCBD_845@76073/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KAMC 28 News - 27 DT - Lubbock - TX Texas[/B][/COLOR]</title>
+<link>http://kamc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KJTV 34 News - 33 DC - Lubbock - TX Texas[/B][/COLOR]</title>
+<link>http://kjtv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KTRE 9 StormTracker - 9 DT - Lufkin - TX Texas[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/901783/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KSAN News 3 - 16 DT - San Angelo - TX Texas[/B][/COLOR]</title>
+<link>http://ksan-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KSAT 12 News - 12 DT - San Antonio - TX Texas[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/pns-ksat-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KABB 29 Cam - 30 DT - San Antonio - TX Texas[/B][/COLOR]</title>
+<link>rtmp://ms-7.sbgnet.com/liveevents/mp4:kabbevent_medium</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KENS 5 News - 39 DT - San Antonio - TX Texas[/B][/COLOR]</title>
+<link>http://kens-lh.akamaihd.net/i/KENS_Shows_1@30591/index_2000_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KXII News 12 - 12 DT - Texoma - TX Texas[/B][/COLOR]</title>
+<link>http://graykxiilive-i.akamaihd.net/hls/live/206837/KXII/qa/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KWTX News 10 - 10 DT - Waco - TX Texas[/B][/COLOR]</title>
+<link>http://graykwtxlive-i.akamaihd.net/hls/live/206584/KWTX/qa/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KRGV 5 News - 13 DT - Weslaco - TX Texas[/B][/COLOR]</title>
+<link>http://krgv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>KSL 5 News - 38 DT - Salt Lake City - UT Utah[/B][/COLOR]</title>
+<link>http://hls.ksl.com/t/newscast/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KTVX 4 News - 40 DT - Salt Lake City - UT Utah[/B][/COLOR]</title>
+<link>http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KBYU BYU Eleven 11 - 44 DT - Salt Lake City - UT Utah[/B][/COLOR]</title>
+<link>http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/index_2540_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>VTV Channel 6 - 6CTV - Vernal - UT Utah[/B][/COLOR]</title>
+<link>http://hls.ksl.com/t/strata/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>WLFG 68 LFTv - 49 DT - Abingdon - VA Virginia[/B][/COLOR]</title>
+<link>http://johndash.videocdn.scaleengine.net:1935/johndash-iphone/play/livingfaith/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WCAV NewsPlex 19 - 19 DT - Charlottesville - VA Virginia[/B][/COLOR]</title>
+<link>http://graywcavlive-i.akamaihd.net/hls/live/206974/WCAV/qa/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WVIR 29 News - 32 DT - Charlottesville - VA Virginia[/B][/COLOR]</title>
+<link>http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WHSV 3 News - 49 DT - Harrisonburg - VA Virginia[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-whsv-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WYAT TV40 thisTV - 40 LP - Martinsville - VA Virginia[/B][/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/14996905/streams/live/playlist.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WMDV Star 44 - 45 LD - Martinsville - VA Virginia[/B][/COLOR]</title>
+<link>http://stream2.starnewsource.com/live/starmartinsville/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WVEC 13 News Now - 13 DT - Norfolk - VA Virginia[/B][/COLOR]</title>
+<link>http://wvec-lh.akamaihd.net/i/WVEC_Shows_1@17197/index_2000_av-p.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WWBT 12 News - 12 DT - Richmond - VA Virginia[/B][/COLOR]</title>
+<link>http://wwbt-lh.akamaihd.net/i/WWBT_877@97755/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WFXR 21/27 News - 17 DT - Roanoke - VA Virginia[/B][/COLOR]</title>
+<link>http://wfxr-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>CBN TV EspaÒol - NTV - Virginia Beach - VA Virginia[/B][/COLOR]</title>
+<link>http://brightcove03-f.akamaihd.net/iptv2_1_900@50919</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>CBN TV News - NTV - Virginia Beach - VA Virginia[/B][/COLOR]</title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+
+<item>
+	<title>WQOW News 18 - 15 DT - Eau Claire - WI Wisconsin[/B][/COLOR]</title>
+<link>http://wqow-lh.akamaihd.net/i/WQOW_1171@110219/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WEAU 13 News - 38 DT - Eau Claire - WI Wisconsin[/B][/COLOR]</title>
+<link>http://grayweaulive-i.akamaihd.net/hls/live/206836/WEAU/qa/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WKBT News 8 - 8 DT - La Crosse - WI Wisconsin[/B][/COLOR]</title>
+<link>http://wkbtlive-lh.akamaihd.net/i/0l2wpnja8_1@167190/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WXOW News 19 - 48 DT - La Crosse - WI Wisconsin[/B][/COLOR]</title>
+<link>http://wxow-lh.akamaihd.net/i/WXOW_1172@108632/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WMTV 15.2 Weather - 19 DT - Madison - WI Wisconsin[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wmtv-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WHA 21.1 WPT - 20 DT - Madison - WI Wisconsin[/B][/COLOR]</title>
+<link>http://cdn.bimvidlive.com/wha1/wha1_720p/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WKOW 27 News - 26 DT - Madison - WI Wisconsin[/B][/COLOR]</title>
+<link>http://wkow-lh.akamaihd.net/i/WKOW_1170@71666/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WISC News 3 - 50 DT - Madison - WI Wisconsin[/B][/COLOR]</title>
+<link>http://wisc_live-lh.akamaihd.net/i/a0ih1aca3p_1@167193/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTMJ 4.2 TMJ4 Plus - 28 DT - Milwaukee - WI Wisconsin[/B][/COLOR]</title>
+<link>http://wtmj-lh.akamaihd.net/i/WTMJ_1265@124307/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WISN 12 News - 34 DT - Milwaukee - WI Wisconsin[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-wisn-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WDJT 58 News - 46 DT - Milwaukee - WI Wisconsin[/B][/COLOR]</title>
+<link>http://wdjt-lh.akamaihd.net/i/WDJT_1235@130747/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WSAW 7 News - 7 DT - Wausau - WI Wisconsin[/B][/COLOR]</title>
+<link>http://graywsawlive-i.akamaihd.net/hls/live/207152/WSAW/qa/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WAOW Newsline 9 - 9 DT - Wausau - WI Wisconsin[/B][/COLOR]</title>
+<link>http://waow-lh.akamaihd.net/i/WAOW_1169@110228/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WJFW Newswatch 12 - 16 DT - Wausau - WI Wisconsin[/B][/COLOR]</title>
+<link>http://cdn.bimvidlive.com/wjfw1/wjfw1/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>WVNS 59 News - 8 DT - Bluefield - WV West Virginia[/B][/COLOR]</title>
+<link>http://wvns-lh.akamaihd.net/i/WVNS_1019@76768/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WOWK 13 News - 13 DT - Charleston - WV West Virginia[/B][/COLOR]</title>
+<link>http://wowk-lh.akamaihd.net/i/WOWK_1018@76648/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WSAZ News 3 - 23 DT - Charleston - WV West Virginia[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wsazhnt-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WDTV 5 News - 5 DT - Clarksburg - WV West Virginia[/B][/COLOR]</title>
+<link>rtmp://66.118.69.161/livepkgr/liveTV1</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WBOY 12 News - 12 DT - Clarksburg - WV West Virginia[/B][/COLOR]</title>
+<link>http://wboy-lh.akamaihd.net/i/WBOY_1015@62282/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTAP News 15 - 49 DT - Parkersburg - WV West Virginia[/B][/COLOR]</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wtap-dfp/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>WTRF 7 News - 7 DT - Wheeling - WV West Virginia[/B][/COLOR]</title>
+<link>http://wtrf-lh.akamaihd.net/i/WTRF_1020@78349/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+<item>
+	<title>KCWY News 13 - 12 DT - Casper - WY Wyoming[/B][/COLOR]</title>
+<link>http://graykcwylive-i.akamaihd.net/hls/live/217449/KCWY/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+    
+<item>
+	<title>KGWN NewsChannel 5 - 30 DT - Cheyenne - WY Wyoming[/B][/COLOR]</title>
+<link>http://graykgwnlive-i.akamaihd.net/hls/live/217552/KGWN/master.m3u8</link>
+<thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]DEPORTES[/B][/COLOR]</name>
+    <info>DEPORTES</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+
+    <item>
+	<title>TRECE HD </title>
+	<link>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</link>
+    <thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+
+    <item>
+	<title>PROYECTO40 HDTITULO DEL CANAL</title>
+	<link>http://200.76.77.237/LIVE/H01/CANAL140/PROFILE05.m3u8?supertvlat=%2F.ts</link>
+    <thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+	
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]PELICULAS [/B][/COLOR]</name>
+    <info>PELICULAS</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+	
+    <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]SERIES [/B][/COLOR]</name>
+    <info>SERIES</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+	
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]TOTAL PLAY [/B][/COLOR]</name>
+    <info>TOTALPLAY</info>
+    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+	
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]IPTV [/B][/COLOR]</name>
+    <info>IPTV</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+	
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]ESPANA [/B][/COLOR]</name>
+    <info>ESPANA</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+	
+    <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]MEXICO [/B][/COLOR]</name>
+    <info>MEXICO</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+	
+    <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]ENTRETENIMIENTO [/B][/COLOR]</name>
+    <info>ENTRETENIMIENTO</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+
+    <item>
+	<title>A&E HD</title>
+	<link>http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?playkodi=%2F.ts</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+	
+	<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]MUSICA [/B][/COLOR]</name>
+    <info>MUSICA</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+
+    <item>
+	<title>A&E HD</title>
+	<link>http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?playkodi=%2F.ts</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+
+    <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]PAISES [/B][/COLOR]</name>
+    <info>PAISES</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://i66.tinypic.com/10ekh10_th.jpg</fanart>
+
+    <item>
+	<title>A&E HD</title>
+	<link>http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?playkodi=%2F.ts</link>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    </item>
+	
+	</channel>
+
+	</channels>
