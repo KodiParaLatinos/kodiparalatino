@@ -2406,8 +2406,8 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 
 
-	<channel>
-    <name>                      [COLOR lime]--- ENTRETENIMIENTO ---[/COLOR] </name>
+
+   <title>                     [COLOR lime]--- ENTRETENIMIENTO ---[/COLOR] </title>
 <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
     </item>
     
@@ -2574,7 +2574,7 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
     </item>
     
     <item>
-	<title>[COLOR green]--- INFANTILES ---[/COLOR]</title>
+	<title>                     [COLOR green]--- INFANTILES ---[/COLOR]</title>
 <link>http://0.0.6.0:12347</link>
 <thumbnail>tvg-logo="logotv.png</thumbnail>
     </item>
