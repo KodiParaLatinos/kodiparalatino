@@ -2675,9 +2675,624 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
 <thumbnail>tvg-logo="logotv.png</thumbnail>
     </item>
     
+      <item>
+	<title>                    [COLOR green]--- DEPORTES ---[/COLOR]</title>
+<link>http://0.0.6.0:12347</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
     
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn011_delivery@37350/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
     
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn012_delivery@75190/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
     
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn013_delivery@75191/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn014_delivery@75192/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn016_delivery@90477/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn017_delivery@47402/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn018_delivery@76469/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Sky Sports 1</title>
+<link>http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Sky Sports 2</title>
+<link>http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Sky Sports 3</title>
+<link>http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Sky Sports 4</title>
+<link>http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Sky Sports 5</title>
+<link>http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Arena Sport 1</title>
+<link>http://169.45.89.106:1935/app/arhd1lsh58/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Arena Sport 2</title>
+<link>http://169.45.89.106:1935/app/arhd2lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Arena Sport 3</title>
+<link>http://169.45.89.106:1935/app/arhd3lsh58/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Arena Sport 4</title>
+<link>http://169.45.89.106:1935/app/arhd4lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>NTV FUTBOL 1</title>
+<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/124/index.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>NTV FUTBOL 2</title>
+<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/530/index.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>NTV FUTBOL 3</title>
+<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/522/index.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>NTV PLUS Sport</title>
+<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/107/index.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>NTV  Sport</title>
+<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/123/index.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Real Madrid TV</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>CDN SPORT MAX</title>
+<link>http://108.168.206.90:1935/cdn/cdn/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>dvxtv sport arg</title>
+<link>http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w581676071_b800000_slesp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Redbull TV</title>
+<link>http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>ESPN +</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>ESPN</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>ESPN 2</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>ESPN 3</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Fox Sports</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Fox Sports 2</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>PX</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Fox Sports HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>  
+    
+    <item>
+	<title>  [COLOR green]--- PELICULAS ---[/COLOR]</title>
+<link>http://0.0.6.0:12347</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>universal movies</title>
+<link>http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Cinecanal (W)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>TNT</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>TNT</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>The Film Zone (W)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>De Película</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>AMC</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Space</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Space</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Cinecanal (W)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Cinemax (O)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Golden</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Golden Edge</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>AMC</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>I.Sat</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>TCM</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>AZCINEMA</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+
+    <item>
+	<title>[COLOR green]---CUTURALES ---[/COLOR]</title>
+<link>http://0.0.6.0:12347</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>History Channel</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>NatGeo Wild</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>NatGeo</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>LIFETIME</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Discovery Science</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Discovery Civilization</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Discovery Turbo</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>TLC</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>WOBI TV</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>EL FINANCIERO BLOOMERANG</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>DISCOVERY THEATER HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>DISCOVERY WORLD HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Discovery Channel</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Animal Planet</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Home and Health HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+
+    <item>
+	<title>[COLOR green]--- FOX ---[/COLOR]</title>
+<link>http://0.0.6.0:12347</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX 1080</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX1</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX1 1080</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX ACTION HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX ACTION HD 1080</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX MOVIES HD </title>
+<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX MOVIES HD 1080</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX CINEMA</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL421/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX FAMILY</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL475/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX CLASSIC</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL478/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX LIFE</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL271/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+     <item>
+	<title>FOX ACTION </title>
+<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+     <item>
+	<title>FOX MOVIES </title>
+<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL421/PROFILE05.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>FOX CLASSICS</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL424/PROFILE05.m3u8?supertvlat=%2F.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+
+    <item>
+	<title>[COLOR green]--- HBO ---[/COLOR]</title>
+<link>http://0.0.6.0:12347</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>HBO 2</title>
+<link>http://st02.brn03.iptv.czechbone.net:8083/120-tv-pc.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>HBO</title>
+<link>http://31.220.40.118/LiveEdge/HBOLASD/chunklist_w271075884_b1000000.m3u8?token=c8cca07d3672532fbd6bb8d6bf369dfb</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+
+    <item>
+	<title>HBO HD</title>
+<link>http://31.220.41.103/LiveEdge/HBOEastUS/chunklist_w1884548916_b1000000.m3u8?token=be1cff8b4a750ee7c822b8fabbaaa266</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>HBO Plus</title>
+<link>http://31.220.40.123/LiveEdge/HBOPlusLASD/chunklist_w1292009357_b1000000.m3u8?token=a207f55169bc12eabb23b8cd5f776cdc</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+
+    <item>
+	<title>HBO Plus</title>
+<link>http://31.220.40.123/LiveEdge/HBOPlusLASD/media_w1292009357_b1000000_39.ts?token=a207f55169bc12eabb23b8cd5f776cdc</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+
+    <item>
+	<title>HBO Plus</title>
+<link>http://31.220.40.118/LiveEdge/HBO2SD/chunklist_w228243756_b1000000.m3u8?token=3050484cc503a97e209bb57f73447420</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+
+    <item>
+	<title>[COLOR green]--- MUSICALES ---[/COLOR]</title>
+<link>http://0.0.6.0:12347</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>MTV Live HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Telehit</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>VH1</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>MTV</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>MTV HITS</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>1CLASSICS</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Ritmoson Latino</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Bandamax</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>Kiss tv</title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+    
+    <item>
+	<title>VEVO MUSIC </title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item> 
+
     
     
     
