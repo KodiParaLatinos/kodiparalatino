@@ -2400,22 +2400,320 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
 	
 	
 	<channel>
-    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]DEPORTES[/B][/COLOR]</name>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]IPTV[/B][/COLOR]</name>
     <info>DEPORTES</info>
     <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 
-    <item>
-	<title>TRECE HD </title>
-	<link>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</link>
-    <thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
 
-    <item>
-	<title>PROYECTO40 HDTITULO DEL CANAL</title>
-	<link>http://200.76.77.237/LIVE/H01/CANAL140/PROFILE05.m3u8?supertvlat=%2F.ts</link>
-    <thumbnail>tvg-logo="logotv.png</thumbnail>
+	<channel>
+    <name>                      [COLOR lime]--- ENTRETENIMIENTO ---[/COLOR] </name>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
     </item>
+    
+    <item>
+	<title>Sony</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Warner HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Universal HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>FX HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>A&E HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Studio Universal</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>AXN HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>TruTV HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Comedy Central</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>HOLATV</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>FASHION TV</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Fox</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>BBC Entertainment</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>E! Entertainment Television</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Studio Universal</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>SyFy</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>FX</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Investigación Discovery</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>TNT SERIES</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>El Gourmet</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>GARAGE TV</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Glitz</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Fox Life</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Distrito Comedia</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>TBS</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Tlnovelas</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>TVE</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>[COLOR green]--- INFANTILES ---[/COLOR]</title>
+<link>http://0.0.6.0:12347</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Discovery Kids</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>NickToons</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Nick HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Nickelodeon (Nick)</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Nickelodeon (Nick)</title>
+<link>http://q.gs/9830047/todokodi5
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Nick Jr</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Cartoon Network</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Disney XD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Disney Channel</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Disney Jr</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Tooncast</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Boomerang</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>CBeebies</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>TIIN</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?1332%2FParaKodi.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Pakapaka</title>
+<link>http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>TaTeTi</title>
+<link>http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 	
 	<channel>
     <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]PELICULAS [/B][/COLOR]</name>
