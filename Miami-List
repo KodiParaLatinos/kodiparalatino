@@ -2404,12 +2404,12 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
     <info>DEPORTES</info>
     <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
-
-
-	<title>                      [COLOR green]--- ENTRETENIMIENTO ---[/COLOR]</title>
-<link>http://0.0.6.0:12347</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
+    
+   <item>
+     <title>                      [COLOR green]--- ENTRETENIMIENTO ---[/COLOR]</title>
+     <link>http://0.0.6.0:12347</link>
+     <thumbnail>tvg-logo="logotv.png</thumbnail>
+       </item>
     
     <item>
 	<title>Sony</title>
