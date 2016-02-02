@@ -3349,6 +3349,15 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
     <info>SERIES</info>
     <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+    
+    <item>	
+<title>[COLOR lime]*[/COLOR][COLOR skyblue]  [B]Series de TV[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/6pvNVON.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>https://dl.dropboxusercontent.com/u/81390039/deadpool/series/tvnovelas.xml</externallink>
+
+
+    
+    
 	
 	<channel>
     <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]TOTAL PLAY [/B][/COLOR]</name>
@@ -3625,12 +3634,10 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
     <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
     </item>
     
-    
-    
-<item>	
-<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]Series de TV[/B] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/6pvNVON.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>https://dl.dropboxusercontent.com/u/81390039/deadpool/series/tvnovelas.xml</externallink>
+    <item>
+<title>[COLOR lime]*[/COLOR][COLOR red] *** Peliculas y [/COLOR][COLOR white] Series 24-7 *** [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+     </item>
 
 
 	</channel>
