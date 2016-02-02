@@ -3326,11 +3326,17 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
 </item>
 
 
+
+ <item>
+<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]Estrenos[/B] [/COLOR]</title>
+</item>
+    
     <item>
 	<title>Los 33</title>
 <link>https://archive.org/download/Los.33.2015.1080p.Latino.HD/Los.33.2015.1080p.Latino.HD.mkv</link>
 <thumbnail>tvg-logo="logotv.png</thumbnail>
     </item>
+    
     <item>
 	<title>Mision imposible: Nacion secreta</title>
 <link>https://lh3.googleusercontent.com/hNXj1AUtB2kn9HfuCK-LovN1EB5msrlNyiiGDjW1WBA=m22</link>
