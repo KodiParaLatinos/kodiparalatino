@@ -3502,294 +3502,556 @@ https://lh3.googleusercontent.com/tW0c8Um-5OKVjGJMZhJSKqUvpGDG64-dN1SJpPhhxBw=m3
     <item>
 	<title>Obsesión
 https://lh3.googleusercontent.com/KtCZxDRDUhJ_EVdOm1ZpFYP-7KCRKaHCOq8J5lBtRA=m22
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Home Sweet Hell
+
+    <item>
+	<title>Home Sweet Hell
 https://lh3.googleusercontent.com/yuqPC5p7Oi_0cmt_M56H6cMc9IrbICERYSQWAqOhPto=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:AntMan
+
+    <item>
+	<title>AntMan
 https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!125&authkey=!AGNtTEpQX09rPyw&ithint=video%2cavi
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:AntMan [Sub]
+
+    <item>
+	<title>AntMan [Sub]
 https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!126&authkey=!AF_4FghSRqItiIc&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Intensamente (Dual)
+
+    <item>
+	<title>Intensamente (Dual)
 https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH5jc4CG1u-eE&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Cuatro fantásticos (Dual)
+
+    <item>
+	<title>Cuatro fantásticos (Dual)
 https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!145&authkey=!ADOr8gXDx17hwa4&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Misión Imposible: Nación secreta (Dual)
+
+    <item>
+	<title>Nación secreta (Dual)
 https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!144&authkey=!AJ-fcKMBvWIjhlg&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Bikini Model Academy (subs)
+
+    <item>
+	<title>Bikini Model Academy (subs)
 https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!131&authkey=!AJPr5XPDFgqnny4&ithint=video%2cavi
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Road Wars
+
+    <item>
+	<title>Road Wars
 https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!130&authkey=!AIsHzE5u8l6KHDg&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Estreno
+
+    <item>
+	<title>Estreno
 https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!150&authkey=!AFKO0Befeo0_a5g&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Beasts of No Nation Latino Dual
+
+    <item>
+	<title>Beasts of No Nation Latino Dual
 https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!169&authkey=!AO6tNCwsfEQ8Qbw&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Coche policial
+
+    <item>
+	<title>Coche policial
 https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!164&authkey=!AJaSmKadK9jNogw&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Vicio Dual
+
+    <item>
+	<title>Vicio Dual
 https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!129&authkey=!AFB5cXazuuQDIes&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Howl
+
+    <item>
+	<title>Howl
 https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!131&authkey=!APEObOMoKRL0phY&ithint=video%2cavi
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Atrapado en los 90s
+
+    <item>
+	<title>Atrapado en los 90s
 https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!149&authkey=!APL72pt3Xboo76o&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Los Minions
+
+    <item>
+	<title>Los Minions
 https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!130&authkey=!AFu4BYBIctIlM2c&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Dragon Ball Z: La Resurrección de Freezer
+
+    <item>
+	<title>La Resurrección de Freezer
 https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!121&authkey=!APN7EmYyEcLcVEA&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:AREA 51
+
+    <item>
+	<title>AREA 51
 https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!112&authkey=!ALhgRVsmdIjxyH0&ithint=video%2cavi
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:The Contract
+
+    <item>
+	<title>The Contract
 https://onedrive.live.com/download.aspx?resid=67C6DAD95A0F8A91!196&authkey=!AOc_5A-yJXWT5Wk&ithint=video%2cavi
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Vacaciones
+
+    <item>
+	<title>Vacaciones
 https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1009&authkey=!AMC7z1svQs0fGk8&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Exorcismo En El Vaticano
+
+    <item>
+	<title>Exorcismo En El Vaticano
 https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1008&authkey=!APTbXvMQA5MxSzg&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:The Exorcism of Molly Hartley
+
+    <item>
+	<title>The Exorcism of Molly Hartley
 https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!435&authkey=!AAfEmKos2YvjGwQ&ithint=video%2cavi
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Knock Knock
+
+    <item>
+	<title>Knock Knock
 https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!437&authkey=!ALjq5lSi6-ntWNM&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Escupire Sobre Tu Tumba 3 [Sub]
+
+    <item>
+	<title>Escupire Sobre Tu Tumba 3 [Sub]
 https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!996&authkey=!AFcD5lnhom26Uv8&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:La Revancha 1080p (Dual)
+
+    <item>
+	<title>La Revancha 1080p (Dual)
 https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!119&authkey=!AHZKAvDzN7doxHU&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Yo -  él y Raquel Latino(Dual)(1080p)
+
+    <item>
+	<title>Yo -  él y Raquel Latino(Dual)(1080p)
 https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!122&authkey=!ANszxGEEqmrNGU4&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Jugada Salvage (1080p) Dual
+
+    <item>
+	<title>Jugada Salvage (1080p) Dual
 https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!109&authkey=!ABGLvXmemEReiJo&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Disney Nature El reino de los monos
+
+    <item>
+	<title>Disney Nature El reino de los monos
 https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!111&authkey=!APQLSuo7x7UIHZc&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Aire (latino) (1080)
+
+    <item>
+	<title>Aire (latino) (1080)
 https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!113&authkey=!AH5TuBYcuSKVl_c&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:El Secreto De Adaline (latino)
+
+    <item>
+	<title>El Secreto De Adaline (latino)
 https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!112&authkey=!AMp60SpEvCK_z6o&ithint=video%2cavi
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Tracers (Dual)1080p
+
+    <item>
+	<title>Tracers (Dual)1080p
 https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!115&authkey=!ACVUONn8OQlsm60&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Terminator Génesis(Dual)
+
+    <item>
+	<title>Terminator Génesis(Dual)
 https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!114&authkey=!AOVW4iPGIzv6-aU&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:La Horca [dual]
+
+    <item>
+	<title>La Horca [dual]
 https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!118&authkey=!ANs1AbnoxDvz08A&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Ciudades De Papel
+
+    <item>
+	<title>Ciudades De Papel
 https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!431&authkey=!ALWIfn4zeTzUl9o&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Magic Mike XXL [dual]
+
+    <item>
+	<title>Magic Mike XXL [dual]
 https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!516&authkey=!ADXBQuKDqYvTXsY&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Shaun el cordero [lat]
+
+    <item>
+	<title>Shaun el cordero [lat]
 https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!531&authkey=!ANZNU4aBv6dIeI4&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Tomorrowland: El Mundo del Mañana
+
+    <item>
+	<title>Tomorrowland: El Mundo del Mañana
 https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!114&authkey=!AEgXYZxuD3gIeKU&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Pixeles [BrScreener]
+
+    <item>
+	<title>Pixeles [BrScreener]
 https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1002&authkey=!AJYDv-y7Z4VbyN8&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:La Noche Del Demonio 3
+
+    <item>
+	<title>La Noche Del Demonio 3
 https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!226&authkey=!AF8f8HX22xDQGeg&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:El Gran Pequeño
+
+    <item>
+	<title>El Gran Pequeño
 https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!217&authkey=!ABWBQFfi5w4LlTk&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Los Vengadores: La Era de Ultrón [Dual]
+
+    <item>
+	<title> La Era de Ultrón [Dual]
 https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!988&authkey=!AIkgN34Obsw2Dvc&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Una última y nos vamos Opcion 2
+
+    <item>
+	<title>Una última y nos vamos Opcion 2
 https://onedrive.live.com/download.aspx?resid=8F8E52C3E63CF853!1810&authkey=!ADxysPcJZHoaTpI&ithint=file%2cmkv
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Terremoto La Falla De San Andrés [Web DL]
+
+    <item>
+	<title>Terremoto La Falla De San Andrés [Web DL]
 https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!236&authkey=!AMsX3JkTfM8nsWs&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Jurassic World [Brscreener]
+
+    <item>
+	<title>Jurassic World [Brscreener]
 https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!237&authkey=!AH6aw5sOxn8Lf54&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Heroe De Centro Comercial 2
+
+    <item>
+	<title>Heroe De Centro Comercial 2
 https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!120&authkey=!AI69kIiLDce2CrQ&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:La serie Divergente: Insurgente [ Dual ]
+
+    <item>
+	<title> Insurgente [ Dual ]
 https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!233&authkey=!AIsnDN6JCcFF6cg&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Resucitados [ Dual ]
+
+    <item>
+	<title>Resucitados [ Dual ]
 https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!283&authkey=!AHnvu6c3-ihLIjw&ithint=video%2cmp4
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Francotirador
+
+    <item>
+	<title>Francotirador
 http://Discontrol@goo.gl/brzYnv?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:el unico superviviente
-https://Discontrol@goo.gl/Rx4dMG?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:3 metros sobre el cielo
+    <item>
+	<title>el unico superviviente
+    <item>
+	<title>3 metros sobre el cielo
 http://discontrol@goo.gl/u0LGdc?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:jurassic world
-https://discontrol@goo.gl/dMV8qu?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:lionheart
+
+
+    <item>
+	<title>lionheart
 https://discontrol@goo.gl/exlPLu?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:plan de escape
+
+    <item>
+	<title>plan de escape
 https://discontrol@goo.gl/RLeIss?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:triste san valentin
+
+    <item>
+	<title>triste san valentin
 http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:hallowen
+
+    <item>
+	<title>hallowen
 http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Asesino de La Carretera
+
+    <item>
+	<title>Asesino de La Carretera
 http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:un vuelo de locura
+
+    <item>
+	<title>un vuelo de locura
 http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:volver al futuro 1
+
+    <item>
+	<title>volver al futuro 1
 https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:volver al futuro 2
+
+    <item>
+	<title>volver al futuro 2
 https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:volver al futuro 3
+
+    <item>
+	<title>volver al futuro 3
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:batman 3
+
+    <item>
+	<title>batman 3
 https://discontrol@ia601507.us.archive.org/13/items/WV9CY/847W4Z.93Z4C3.mp4?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:mad max 2
+
+    <item>
+	<title>mad max 2
 https://discontrol@ia801504.us.archive.org/4/items/W46.W4X.2/W46.W4X.2.mp4?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:battleship
+
+    <item>
+	<title>battleship
 https://discontrol@lh3.googleusercontent.com/VspTrqHPVG0XCeB_0Ug8SN9jJ2c2pR_b8KvhIWVf5PA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:mundo-acuatico
+
+    <item>
+	<title>mundo-acuatico
 https://discontrol@lh3.googleusercontent.com/NYmz_WCo3MtIS6qHT35IktGx77gfrxe2-gaNANLAbm4=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:forrest-gump
+
+    <item>
+	<title>forrest-gump
 https://lh3.googleusercontent.com/Vt_McCFlG2eM-HGBQfeYXfJ7ikMnxs_PJ4EWxkF_yIA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:escuela-de-rock
+
+    <item>
+	<title>escuela-de-rock
 https://discontrol@lh3.googleusercontent.com/b4qobWghlyc7zNA3KaPQOsmPiX_1yjJHtxskZAjTvFE=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:corazon-valiente
+
+    <item>
+	<title>corazon-valiente
 https://discontrol@lh3.googleusercontent.com/5Tk5OjxKB-FN5LsuGD5kmm-ntMDxgh1LuYCDv98tEuc=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:acero-puro
+
+    <item>
+	<title>acero-puro
 https://discontrol@lh3.googleusercontent.com/M9Ttea9jQUa6l6FDcAypzCqrpJaPU_x2pDKDVtdpbuE=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:gravity
+
+    <item>
+	<title>gravity
 https://discontrol@lh3.googleusercontent.com/mi502LitW1YuLRKwQaxvq5IgS7zslWr_UNItaaDo-Bw=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:troya
-https://discontrol@lh3.googleusercontent.com/Y6g4zVUWKRbNHB-Vh6B0PSPoNETHZPufl9hgFHiD9ok=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:el-rey-leon
+
+ 
+
+    <item>
+	<title>el-rey-leon
 https://discontrol@lh3.googleusercontent.com/727nfK0os2RxoajYq1VQXiH7BPwJOjOh9wi92LkEHwI=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:el-rey-leon-2
+
+    <item>
+	<title>el-rey-leon-2
 https://discontrol@lh3.googleusercontent.com/dle92EGGT2cllRrT33rgpedLIl_MEtzEG6rkqqZE00Q=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:stuart-little
+
+    <item>
+	<title>stuart-little
 https://discontrol@lh3.googleusercontent.com/8jZ3x5dp8G1t_x-z0VQKD3uLtROGmNZy0QRXET2VkPAr=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:super-nacho
+
+    <item>
+	<title>super-nacho
 https://discontrol@lh3.googleusercontent.com/UMchKljEQomXkWtjsssOkFwHUJTsK-gWNFAI4a-fDCY=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:los-mundos-de-coraline
+
+    <item>
+	<title>los-mundos-de-coraline
 https://discontrol@lh3.googleusercontent.com/HwoFixZVVQ4xm305-u8Ekng6l-Zayalrgly9PCTBIEk=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:frozen-el-reino-del-hielo
+
+    <item>
+	<title>frozen-el-reino-del-hielo
 https://discontrol@lh3.googleusercontent.com/6bUBEEQlbjGE5zkGZYIKxb6kgeoxLDDMqzEod-9MFTA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:rompe-ralph
+
+    <item>
+	<title>rompe-ralph
 https://discontrol@lh3.googleusercontent.com/iHc50rhhphGuGqGZLDV4i7buJvb2b0_hUUd9LoeCZuM=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:la-lego-pelicula
+
+    <item>
+	<title>la-lego-pelicula
 https://discontrol@lh3.googleusercontent.com/wNYEs0XvRHC1ATZOkybuk7cO9dlRlhJucu769T1Q31I=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:rio
+
+    <item>
+	<title>rio
 https://discontrol@lh3.googleusercontent.com/PU652PHbeKF-mY0NrqNuy8MCW7GcSBwV3Vr5Fu3rRNM=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:rio-2
+
+    <item>
+	<title>rio-2
 https://discontrol@lh3.googleusercontent.com/dKH6CyRg5Eebqw7ndRcRNcOSPd4cL_pQldDPKp6bVkU=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:hannibal
+
+    <item>
+	<title>hannibal
 https://discontrol@lh3.googleusercontent.com/AnO6LNKfGFRa6EHfAoGA-QpAa5JUWuBvzkLI3iZv4Lo=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:depredador
+
+    <item>
+	<title>depredador
 https://discontrol@lh3.googleusercontent.com/1egibkYui1bmQuUhN0CUFrq40umwv2gg1oWuFeRneaA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:depredador-2
+
+    <item>
+	<title>depredador-2
 https://discontrol@lh3.googleusercontent.com/pMU2td0BpQ1RDzHVYq_858PkxjMn_zWLIx0EAk1hXhc=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:predators
-https://discontrol@lh3.googleusercontent.com/Jh9f_gy2kymdlwyiu0NVGQT2zJrQMOLI3zA66kzTsac=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:alien-vs-predator
-https://discontrol@lh3.googleusercontent.com/SLnEl6XuVHrbaFrUuXt6UYa3gw2vAkAWPu4NwjMVjJA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Aliens vs Predator 2
-https://discontrol@lh3.googleusercontent.com/Mw_m7ynKc-X7p5xdc7kAe9b_Cd85ZRJ7qXW1e5rLY4A=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:zathura-una-aventura-espacial
+
+    <item>
+	<title>predators
+
+
+    <item>
+	<title>zathura-una-aventura-espacial
 https://discontrol@lh3.googleusercontent.com/ZiidYARvPfWy8t7oBEF1aW2Ntmrj9iO9NCRLKE0cqpA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:oz-un-mundo-de-fantasia
+
+    <item>
+	<title>oz-un-mundo-de-fantasia
 https://discontrol@lh3.googleusercontent.com/yhkFsLPVhnQp2mGstgoyh518muVpBoKOJ0iWIDMzCmU=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:dallas-buyers-club
+
+    <item>
+	<title>:dallas-buyers-club
 https://discontrol@lh3.googleusercontent.com/JgX2LpKBufqGVyJeNxdeJRVnJQFyJJIZ5lcBU99HD9U=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:la-vida-de-pi
+
+    <item>
+	<title>la-vida-de-pi
 https://discontrol@lh3.googleusercontent.com/8ydC6vdsmdaIuS4mcz2KOvRh_lq9lX6J5BWXRSzKo44=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:km-666-desvio-al-infierno
+
+    <item>
+	<title>km-666-desvio-al-infierno
 https://discontrol@lh3.googleusercontent.com/scDmvUzwvrzcVBxdoBuBr0KYEoGu9BYw_URb432Dvw=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:camino-sangriento-2-km-666
+
+    <item>
+	<title>camino-sangriento-2-km-666
 https://discontrol@lh3.googleusercontent.com/o4daWtMrA8QVFKvSB6fHKjKQgJ7enN0wBvy3POKeQg=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:camino-sangriento-3-km-666
+
+    <item>
+	<title>camino-sangriento-3-km-666
 https://discontrol@lh3.googleusercontent.com/sQBPjn2HtsR1U5FGxPTa5lOPF3wmldoPKx-DkmHCeQ=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:camino-sangriento-4
+
+    <item>
+	<title>camino-sangriento-4
 https://discontrol@lh3.googleusercontent.com/aeynEmjiiYAkLi7rbNprjo3v32EPj3DiTXbnIo6bbg=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:camino-sangriento-5
+   
+   <item>
+	<title>camino-sangriento-5
 https://discontrol@lh3.googleusercontent.com/9ec_P5m3Lg3_0v4WEju7gP6W_3GSccCAOI6E2SFD=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:camino-sangriento-6
+
+    <item>
+	<title>camino-sangriento-6
 https://discontrol@lh3.googleusercontent.com/CQAFEQM5vJgf6cdXiBQ4I9YaJ8mtJEpHsFvxKM2bXw=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:viernes-13
-https://discontrol@lh3.googleusercontent.com/n1W2OLSlOWnukfcg_ZpN8Bg9ZIZZbUDjYG1DHy7YIQ=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:viernes-13-2
+
+
+    <item>
+	<title>viernes-13-2
 https://discontrol@lh3.googleusercontent.com/nI79chkNQ0mif_4J8SYQJzOSXEs8gRZOZCesfor4hA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:viernes-13-3
+
+    <item>
+	<title>viernes-13-3
 https://discontrol@lh3.googleusercontent.com/Tubv_F9t1lp4iw7Jw6k6WrLxxKblK5Yr0VTrTkR-=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:viernes-13-4
+
+    <item>
+	<title>viernes-13-4
 https://discontrol@lh3.googleusercontent.com/ANNKxKtQ5gaD7QiCVhal2ZfkQaCfGXFThAzlVGZW=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:viernes-13-5
+
+    <item>
+	<title>viernes-13-5
 https://discontrol@lh3.googleusercontent.com/lZCTBB6JrHtP610ue9-caIWGgMBLou7r8z8fsD9v=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:viernes-13-6
+
+    <item>
+	<title>viernes-13-6
 https://discontrol@lh3.googleusercontent.com/XtD9J_WljX_ZEqCjtDZCWJ4RJXfSn_qy3a3TiIkh=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:viernes-13-7
+
+    <item>
+	<title>viernes-13-7
 https://discontrol@lh3.googleusercontent.com/Q31-r4H2ApNv8fKyiPjzL-a_JmjneoFE4lg3rzpjQA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:viernes-13-8
-https://discontrol@lh3.googleusercontent.com/t_b7_KbtEFNumrRcWhUtvda0Lql1trf_aAkFZk3Nfw=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:viernes-13-el-final-jason-se-va-al-infierno
-https://discontrol@lh3.googleusercontent.com/YKU5GxECJyg6QUlKZE04mUyRz_pJPDfFkhn_fUNHzA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:viernes-13-2009
+
+    <item>
+	<title>viernes-13-2009
 https://discontrol@lh3.googleusercontent.com/iV495TwtvTp2R3GXQ0KplCjj0BedveDrLtSxNqJENQ=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:jason-x
+
+    <item>
+	<title>jason-x
 https://discontrol@lh3.googleusercontent.com/EjKIHR_u0VkrNg-GrEehUzV0-741gpBEY9PAu3ZHEw=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:freddy-contra-jason
+
+    <item>
+	<title>freddy-contra-jason
 https://discontrol@lh3.googleusercontent.com/r4OcgpqPpGAnKcAs67_bA8C7LICPXBPp_88ccm_FKQ=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:malefica
+
+    <item>
+	<title>malefica
 https://discontrol@lh3.googleusercontent.com/aZ-jboZuungvmLW7Syja_n5FPFIe1GRGK0WvDQOHEfY=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:muneco-diabolico
+
+    <item>
+	<title>muneco-diabolico
 https://discontrol@lh3.googleusercontent.com/LqpXeTTvqjrGfUKu0e9262XJ3PmAbItbb4JHEgeX-A=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:muneco-diabolico-2
+
+    <item>
+	<title>muneco-diabolico-2
 https://discontrol@lh3.googleusercontent.com/VGfu4sCjQl77mIJpr75AhZpVPrhkomJKelLM3cGx0A=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:muneco-diabolico-3
+
+    <item>
+	<title>muneco-diabolico-3
 https://discontrol@lh3.googleusercontent.com/479azteX4YTHQpfeO1i_ZBTz8IekexRgIsXXWVsr9g=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:la-novia-de-chucky
+
+    <item>
+	<title>la-novia-de-chucky
 https://discontrol@lh3.googleusercontent.com/BJ5c8OiLz2KREplqj50Or0ibv-maLmJ0uLFQvbMiIA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:la-maldicion-de-chucky
+
+    <item>
+	<title>la-maldicion-de-chucky
 https://discontrol@lh3.googleusercontent.com/LKeTkxQ2FHw6peVoPMbWlMplU4D7Vl9kor-OCJGATg=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:matrix
+
+    <item>
+	<title>matrix
 https://discontrol@lh3.googleusercontent.com/429b8D1jCSXUIMZt85sjUyeItRK89iECW3LdKQRLKbs=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:matrix-reloaded
+
+    <item>
+	<title>matrix-reloaded
 https://discontrol@lh3.googleusercontent.com/3fV3VMDfknVHoEvnOl2H7SkQsLH2ATPVAjEiUm6cYQ=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:matrix-revolutions
+
+    <item>
+	<title>matrix-revolutions
 https://discontrol@lh3.googleusercontent.com/4O5GiYT9ZgEfQagbAJKtIgVUhZtvCky1FwGvop7ppA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:rocky
+
+    <item>
+	<title>rocky
 https://discontrol@lh3.googleusercontent.com/2SAMS8HO32Sl0VBBqxHN2VHKCh9HmoADAVzrZLqw0Q=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:rocky-2
+
+    <item>
+	<title>rocky-2
 https://discontrol@lh3.googleusercontent.com/y4LmhtAHSEKJxk-qwDc_S91flz-2pcf_yRoKWkeAKg=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:rocky-3
+
+    <item>
+	<title>rocky-3
 https://discontrol@lh3.googleusercontent.com/EagKcC1wcYbvaK_Vm1NHmp-VFHB2V_70zNYEAZUOCw=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:rocky-4
+
+    <item>
+	<title>rocky-4
 https://discontrol@lh3.googleusercontent.com/BNUBCL6VyiOnZ8G07Lw_NCsKkTF2EUOQUBSFw-CL9A=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:rocky-5
+
+    <item>
+	<title>rocky-5
 https://discontrol@lh3.googleusercontent.com/K4Ne1QEszfSDblEnTyisw5isz0_h5oFStzFHF0h7iA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:rocky-balboa
+
+    <item>
+	<title>rocky-balboa
 https://discontrol@lh3.googleusercontent.com/DN7ifY3bzc08dXeOvj8iACzBqcExdLq98SoY20ob5g=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:jumanji
+
+    <item>
+	<title>jumanji
 https://discontrol@lh3.googleusercontent.com/BkuSz3bo2PBmNfv7nLZ-FOXzHZu6INkmLOKBnPl7bEM=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:godzilla
+
+    <item>
+	<title>godzilla
 https://discontrol@lh3.googleusercontent.com/YoJY9E2N8QaLmUmCMRdJv4vpHzt2qZ3f5B7k5SWRbqE=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:siempre-a-tu-lado-hachiko
+
+    <item>
+	<title>siempre-a-tu-lado-hachiko
 https://discontrol@lh3.googleusercontent.com/_PyFkZ4AaBbJmGrm8vXAhOJkl1UvLH98aHvKqpSjxoE=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:rescatando-al-soldado-ryan
+
+    <item>
+	<title>rescatando-al-soldado-ryan
 https://discontrol@lh3.googleusercontent.com/aIB0xYRuDxQefejfMVsBcXR8plr9Np2_bcikkotMu-w=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:el-pianista
+
+    <item>
+	<title>El Estilista
 https://discontrol@lh3.googleusercontent.com/uUWJEjjufwqffniLLs2q2quvJ0Mj7UDD4spZLaz0iBA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:john-carter
+
+    <item>
+	<title>john-carter
 https://discontrol@lh3.googleusercontent.com/A6F_2ABQYp6xpzo6SyOCtn4U6FPtBFA7Sbk9i_DTFwE=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:la-invencion-de-hugo
+
+    <item>
+	<title>la-invencion-de-hugo
 https://discontrol@lh3.googleusercontent.com/RE9exZWQhLNojZy7nb2JIQEpNP17f-b01nvuDj_wvjU=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:pesadilla-en-elm-street
+
+    <item>
+	<title>pesadilla-en-elm-street
 https://discontrol@lh3.googleusercontent.com/2ll4ONzYQYPCAl6k83zeJJARsZNv-YszHX9-zobDn_w=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:pesadilla-en-elm-street-2-la-venganza-de-freddy
+
+    <item>
+	<title>-la-venganza-de-freddy
 https://discontrol@lh3.googleusercontent.com/ppbw2BtCrwIgMgn3eyg6sBDQ-gQFXYqXEB6M-T1k3go=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:pesadilla-en-elm-street-3-los-guerreros-del-sueno
+
+    <item>
+	<title>pesadilla-en-elm-street-3-Los-guerreros-del-sueno
 https://discontrol@lh3.googleusercontent.com/5Rs4GaOIY9xv-bczLOZX7cwxboTXVvvTld-Sujk-X6E=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:pesadilla-en-elm-street-4-el-amo-del-sueno
+
+<item>
+	<title>pesadilla-en-elm-street-4-el-amo-del-sueno
 https://discontrol@lh3.googleusercontent.com/mbNvQ0Z8rCGERd7ES0yqjQqnuM0UL7Hy_2PvkYQZy9E=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:pesadilla-en-elm-street-5-el-nino-de-los-suenos
+
+<item>
+	<title>pesadilla-en-elm-street-5-el-nino-de-los-suenos
 https://discontrol@lh3.googleusercontent.com/rUBUvnWtc2emvRRO9nbMxc0opNSkbaF0_HJbe8mVcTg=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:pesadilla-en-elm-street-6-pesadilla-final-la-muerte-de-freddy
+
+<item>
+	<title>pesapesadilla-en-elm-street-6-pesadilla-final-la-muerte-de-freddy
 https://discontrol@lh3.googleusercontent.com/LYaXbfw7GzMm3h_lnq8DXAiY235FxHMUUWpxk8xOWjs=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:pesadilla-en-elm-street-7-la-nueva-pesadilla-de-wes-craven
+
+<item>
+	<title>pesadilla-en-elm-street-7-la-nueva-pesadilla-de-wes-craven
 https://discontrol@lh3.googleusercontent.com/R1X5wc2WIxFISOF0PPPACtA4HUUe1iS9BuTW90KnVa8=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:pesadilla-en-elm-street-8-el-origen
+
+<item>
+	<title>pesadilla-en-elm-street-8-el-origen
 https://discontrol@lh3.googleusercontent.com/zFgujqLT_9pEbDH3yd6B2LG1iKq4ul5Jn4w3URL-sAs=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:la-bella-y-la-bestia
+
+<item>
+	<title>la-bella-y-la-bestia
 https://discontrol@lh3.googleusercontent.com/_9w3AiXydr_qCELh6X0hq0ipaB2ric32bG2brMmHkx0=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:king-kong
+
+<item>
+	<title>king-kong
 https://discontol@lh3.googleusercontent.com/HvyfwdVrA8S52DS6geiMByz-oK9rAZzC0kKvFJFJsU8=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:blade
+
+<item>
+	<title>blade
 https://discontrol@lh3.googleusercontent.com/EgXYgxIm79VOiPZKaYdl5ogHHB52NCKPpd9muORJiNM=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:el-luchador
+
+<item>
+	<title>el-luchador
 https://discontrol@lh3.googleusercontent.com/MP4Ik-gvRijUCw7AIuMAVyqaH48GgICR_512zPA17LM=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:et-el-extraterrestre
+
+<item>
+	<title>et-el-extraterrestre
 https://discontrol@lh3.googleusercontent.com/ObOsmUdVlf5mtfhHNMoySzhr6w9GtWd7TJcwm3rLOLA=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:la evidencia
+
+<item>
+	<title>la evidencia
 https://discontrol@lh3.googleusercontent.com/65vf-Ji-6mSzEOK8jXVv55vZSDaA1BEF9UpWGn1XGb4=m22?disco
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:el matador
+
+<item>
+	<title>el matador
 http://discontrol@media-es-am.crackle.com/1/v/d0/drpyk_480p_1mbps.mp4?disco
+
 #EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Nina mala
 http://discontrol@media-es-am.crackle.com/1/f/x0/4enyk_480p_1mbps.mp4?disco
 #EXTINF:-1 channelId="-1" , www.iptv-m3u.com:horas-de-oscuridad
