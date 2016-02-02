@@ -3335,90 +3335,172 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
 <thumbnail>tvg-logo="logotv.png</thumbnail>
     </item>
 
-#EXTM3U    
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Ted 2
+    <item>
+	<title>Ted 2
 https://lh3.googleusercontent.com/3iuPbTxgl4DeuqyRTGzaBY1wk33fzudzU6K6oYpkA0s=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Hitman: Agente 47
+
+    <item>
+	<title>Hitman: Agente 47
 https://lh3.googleusercontent.com/jjtDmmO3Gc4N3fn57XE7lxfmzqIAmRsQA065QXDkW3Y=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Ant-Man
+   
+    <item>
+	<title>Ant-Man
 https://lh3.googleusercontent.com/dKhaBcSq8PtRf20tZGceVSHxqpHwd7e5WliOC-Z8k9Y=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Cuatro fantásticos
+
+    <item>
+	<title>Cuatro fantásticos
 https://lh3.googleusercontent.com/r_lQGT85Xwm4tHmn0-8U_1fj1GzZ6pkM2H5g3CDZB_Y=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:temblores 5
+
+    <item>
+	<title>temblores 5
 https://lh3.googleusercontent.com/1bxhg8RIjBIftRtL0ZKDz38qcln94jAKB7iOo7PrkKU=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:El Hombre de los Puños de Hierro 2
+
+    <item>
+	<title>El Hombre de los Puños de Hierro 2
 https://lh3.googleusercontent.com/RK7kv_x2svBc7XEta4mW2IvbLfqY69x5xBnWiwtSY0I=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:El instituto Atticus
+
+    <item>
+	<title>El instituto Atticus
 https://lh3.googleusercontent.com/5CkLgcat0brSOoy4-nwYJg1H-00LwRDT9zIJwIeAxao=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Operación U.N.C.L.E
+
+    <item>
+	<title>Operación U.N.C.L.E
 https://lh3.googleusercontent.com/uTkhgow9fq0pni2v-PTxcgm9wkxAip7SNat75rv0fLc=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Golpe de estado
+   
+    <item>
+	<title>Golpe de estado
 https://lh3.googleusercontent.com/V9qoIWHKSpDwp_6PTX4_naTikgYA7_UvlGe-8GwTHyg_=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Y de repente tú
+
+    <item>
+	<title>Y de repente tú
 https://lh3.googleusercontent.com/l836qeCIydBWq_k_8c607OKHlNIz-yArAppWPFnSfxQ=m22
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:La espada de la venganza
+
+    <item>
+	<title>La espada de la venganza
 https://lh3.googleusercontent.com/7h3UYBtfuX6k1Y0kQYlvGFyTocckzcIOtm4DixK70bo=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Lugares oscuros
+
+    <item>
+	<title>Lugares oscuros
 https://lh3.googleusercontent.com/SH7T9Evpzdf_lmLFqIkodKG8hVZIfAaerFyP2W3VO-U=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Los Minions
+
+    <item>
+	<title>Los Minions
 https://lh3.googleusercontent.com/9_cNr_2SalPRNHmmzLdw8xVVbcKutION1s1VAJanEOA=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:intensamente
+
+    <item>
+	<title>intensamente
 https://lh3.googleusercontent.com/02BKZzeWuDqdLLyTPx5nhCz1jYTRQGIJ03en0saaJZQ=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Exorcismo en el Vaticano
+
+    <item>
+	<title>Exorcismo en el Vaticano
 https://lh3.googleusercontent.com/3TmcOI7_uFJgdpUtVu6wH_5hp8xU1osDiZRyI-zVcbs=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:La Horca
+
+    <item>
+	<title>La Horca
 https://lh3.googleusercontent.com/satEWb2K52Sm3v-IX_ELkKwX_tQSUw3WAg5ZEIkmqHU=m22
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:El rey Escorpión 4: La búsqueda del poder
+
+    <item>
+	<title>El rey Escorpión 4: La búsqueda del poder
 https://lh3.googleusercontent.com/ZZc_Ipglvp2NNBi51MmQSbVBCJTujCP1E2S2xSkDFO0=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:pixels
+
+    <item>
+	<title>Pixels
 https://lh3.googleusercontent.com/vMM2B0DcwJ2CcCIThv3m2tqS7IO8t-4pq6kvGYmoF-0=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:max
+
+    <item>
+	<title>Max
 https://lh3.googleusercontent.com/61YJ3LAY3Zt6OWvU7QQWdFBRwvjJ2NFDl44Q1an6j_0=m22
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:poltergeist
+
+    <item>
+	<title>Poltergeist
 https://lh3.googleusercontent.com/tnzCgUfLx1EDYyUIzn1nx2Fj288_ws9w9JGQ5iNQpnI=m22
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:la noche del demonio 3
+
+    <item>
+	<title>La noche del demonio 3
 https://lh3.googleusercontent.com/7eupnz87bSSaHXb_Jj2BcZL3ICuTdG6WYPL-d6UrHg=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:terminaiotr genesis
+
+    <item>
+	<title>terminaiotr genesis
 https://lh3.googleusercontent.com/Y1oGCzwsMeTDoXoso1X-jJGAp_T77qRBBFjoRpUR5w=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:san andres
+
+    <item>
+	<title>san andres
 https://lh3.googleusercontent.com/pqTdKWzE182PQvE41ARqAk2zdaICrpXAc9lIIpTkOw=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:los vengadores:la era de ultron
+
+    <item>
+	<title>la era de ultron
 https://lh3.googleusercontent.com/Vf4jaYQZNOpN2i434cZ-UC4BDcqLWCNu0LN26d_plw=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:espias
+
+    <item>
+	<title>espias
 https://lh3.googleusercontent.com/w9w_o270iOxdJTuoeZx_hgiP4rWIfF3QdLZvFsAh2Q=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:mad max
+
+    <item>
+	<title>mad max
 https://lh3.googleusercontent.com/o_jCd6TJvXDAR5bSCijbwrRcghP8-mnRIi0Fw7VUPAU=m22
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:jurassic world
+
+    <item>
+	<title>jurassic world
 https://lh3.googleusercontent.com/xEXCWyVx_iaeFU-9jFTJ9u8WMUnrfQhEcgJ4qmz-aSI=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:rapido y furioso 7
+
+    <item>
+	<title>rapido y furioso 7
 https://lh3.googleusercontent.com/rm5slhL7s9rcPnqeXEhvePu0i5bHebkZIXMhugY9fYk=m22
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:guardianes de os
+
+    <item>
+	<title>guardianes de os
 https://lh3.googleusercontent.com/ZOiRcsJUqIa03P6TXma20gm9YMriG-uKYreA_vJSkcE=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:pisandonos los tacones
+
+    <item>
+	<title>pisandonos los tacones
 https://lh3.googleusercontent.com/oKYj7yO-QCqrqNFI72olg5ow1zLJ-zMwC9xZ8R7EgMY=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:demonic
+
+    <item>
+	<title>demonic
 https://lh3.googleusercontent.com/_GtlHHjHPg9IKsGMBrXTEuieM5VgJk2kgFYFvMh6sVo=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:The Lazarus Effect
+
+    <item>
+	<title>The Lazarus Effect
 https://lh3.googleusercontent.com/dkzpC11CpJcEGVqqPRmqzlitXJTqNlUt7XrwbZEC4Eo=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:divergente
+
+    <item>
+	<title>divergente
 https://lh3.googleusercontent.com/zGytAKZPybT_X2bDxJeuixIO82Q_yka7f0EtDWCplmU=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:superpoli en las vegas
+
+    <item>
+	<title>superpoli en las vegas
 https://lh3.googleusercontent.com/NXj_pwMvmop9MU4uNjteDtMKMJjsKI_a19FVmwcy3iY=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Blackhat - Amenaza en la red
+
+    <item>
+	<title>Blackhat - Amenaza en la red
 https://lh3.googleusercontent.com/kqhvIkF0s3OSdSaf89cS1LLXaQg0l0AgxSUJW94pNKw=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:chappie
+
+    <item>
+	<title>chappie
 https://lh3.googleusercontent.com/tlBA7y-qxAu-e4QhY2dxaMUFjhcLki309SVAebSS9TA=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Una noche para sobrevivir
+
+    <item>
+	<title>Una noche para sobrevivir
 https://lh3.googleusercontent.com/QdxBEhFU2tRoqwYjToVwTQKMmcFOlGx1KFtS0Eot6yA=m22
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:el destino de jupiter
+
+    <item>
+	<title>el destino de jupiter
 https://lh3.googleusercontent.com/I2OBhUIt1pqJPJsgqOn5vvY32btHoGOf-D0PcOsUsVs=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Ex Machina
+
+    <item>
+	<title>Ex Machina
 https://lh3.googleusercontent.com/PpVxhokBwK2HNzKVsW_0bdG78u1j77-Y65t6I47-nQ0=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:focus
+
+    <item>
+	<title>focus
 https://lh3.googleusercontent.com/qjH6stagxP3LkLJQa4Biai0H4FXPauyrqOD39zT8kvM=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Cincuenta sombras de Grey
+
+    <item>
+	<title>Cincuenta sombras de Grey
 https://lh3.googleusercontent.com/tW0c8Um-5OKVjGJMZhJSKqUvpGDG64-dN1SJpPhhxBw=m37
-#EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Obsesión
+
+    <item>
+	<title>Obsesión
 https://lh3.googleusercontent.com/KtCZxDRDUhJ_EVdOm1ZpFYP-7KCRKaHCOq8J5lBtRA=m22
 #EXTINF:-1 channelId="-1" , www.iptv-m3u.com:Home Sweet Hell
 https://lh3.googleusercontent.com/yuqPC5p7Oi_0cmt_M56H6cMc9IrbICERYSQWAqOhPto=m37
