@@ -3634,11 +3634,16 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
     <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
     </item>
     
-    <item>
-<title>[COLOR lime]*[/COLOR][COLOR red] *** Peliculas y [/COLOR][COLOR white] Series 24-7 *** [/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
-     </item>
 
+ 
+ <item>
+<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]Series de TV[/B] [/COLOR]</title>
+<externallink>http://adrian.kodistream.info/adryan/iptv.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR coral]  [B]AloFlix [/B]  [/COLOR] [COLOR skyblue][Peliculas Audio Latino en HD y SD][/COLOR]  </title>
+</item>
 
 	</channel>
 
