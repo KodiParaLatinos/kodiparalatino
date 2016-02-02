@@ -3325,14 +3325,7 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
 <externallink>https://raw.githubusercontent.com/ozmaar/koditv/master/pelis2.m3u</externallink>
 </item>
 
-	<channel>
-    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]PELICULAS [/B][/COLOR]</name>
-    <info>PELICULAS</info>
-    <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
-    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 
-
-    
     <item>
 	<title>Los 33</title>
 <link>https://archive.org/download/Los.33.2015.1080p.Latino.HD/Los.33.2015.1080p.Latino.HD.mkv</link>
