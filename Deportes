@@ -1,0 +1,1445 @@
+#EXTM3U
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TRECE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", [COLOR yellow][I][B]*Canales HD(1080)*[/B][/I][/COLOR]
+http://bit.ly/Lista Editada by:Gersoft @SuperModerador/
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TRECE HD (1080)" tvg-logo="logotv.png" group-title="Latinos",  ESTRELLAS HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FOROTV HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FOROTV HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="CANAL5 HD (1080)" tvg-logo="logotv.png" group-title="Latinos", CANAL5 HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="AZTECA 7" tvg-logo="logotv.png" group-title="Latinos", AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="GALATV HD (1080)" tvg-logo="logotv.png" group-title="Latinos", GALATV HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="ONCE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", ONCE HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE05.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,History HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+ 
+ 
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TRECE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", TRECE HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL113/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="PROYECTO40 HD (1080" tvg-logo="logotv.png" group-title="Latinos", PROYECTO40 HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="CANAL28" tvg-logo="logotv.png" group-title="Latinos", CANAL28
+http://200.76.77.237/LIVE/H01/CANAL143/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="UNO MAS UNO" tvg-logo="logotv.png" group-title="Latinos", UNO MAS UNO
+http://200.76.77.237/LIVE/H01/CANAL145/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TELEFORMULA" tvg-logo="logotv.png" group-title="Latinos", TELEFORMULA
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="MULTIMEDIOS HD (1080)" tvg-logo="logotv.png" group-title="Latinos", MULTIMEDIOS HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="HMX" tvg-logo="logotv.png" group-title="Latinos", HMX
+http://200.76.77.237/LIVE/H01/CANAL169/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FOX" tvg-logo="logotv.png" group-title="Latinos", FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="SONY" tvg-logo="logotv.png" group-title="Latinos", SONY
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="WARNER HD (1080)" tvg-logo="logotv.png" group-title="Latinos", WARNER HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="UNIVERSAL HD (1080)" tvg-logo="logotv.png" group-title="Latinos", UNIVERSAL HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FX HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FX HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="AE" tvg-logo="logotv.png" group-title="Latinos", AE
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="AXN" tvg-logo="logotv.png" group-title="Latinos", AXN
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TRUTV HD (1080)" tvg-logo="logotv.png" group-title="Latinos", TRUTV HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="COMEDY CENTRAL" tvg-logo="logotv.png" group-title="Latinos", COMEDY CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="UNIVISION" tvg-logo="logotv.png" group-title="Latinos", UNIVISION
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="AZTECA CORAZON" tvg-logo="logotv.png" group-title="Latinos", AZTECA CORAZON
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FOX" tvg-logo="logotv.png" group-title="Latinos", FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="BBC" tvg-logo="logotv.png" group-title="Latinos", BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="E" tvg-logo="logotv.png" group-title="Latinos", E
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="UNIVERSAL" tvg-logo="logotv.png" group-title="Latinos", UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="SYFY" tvg-logo="logotv.png" group-title="Latinos", SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FX" tvg-logo="logotv.png" group-title="Latinos", FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="ID" tvg-logo="logotv.png" group-title="Latinos", ID
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TNT SERIES" tvg-logo="logotv.png" group-title="Latinos", TNT SERIES
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="GOURMET" tvg-logo="logotv.png" group-title="Latinos", GOURMET
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="GARAGE TV" tvg-logo="logotv.png" group-title="Latinos", GARAGE TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="GLITZ" tvg-logo="logotv.png" group-title="Latinos", GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FOX LIFE" tvg-logo="logotv.png" group-title="Latinos", FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="DISTRITO COMEDIA" tvg-logo="logotv.png" group-title="Latinos", DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TBS" tvg-logo="logotv.png" group-title="Latinos", TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TLNOVELAS" tvg-logo="logotv.png" group-title="Latinos", TLNOVELAS
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="DISCOVERY KIDS" tvg-logo="logotv.png" group-title="Latinos", DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="BEEBIES" tvg-logo="logotv.png" group-title="Latinos", CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="DISNEY JR" tvg-logo="logotv.png" group-title="Latinos", DISNEY JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="NICK JR" tvg-logo="logotv.png" group-title="Latinos", NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="DISNEY CHANNEL" tvg-logo="logotv.png" group-title="Latinos", DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="NICKTOONS" tvg-logo="logotv.png" group-title="Latinos", NICKTOONS
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="NICK HD (1080)" tvg-logo="logotv.png" group-title="Latinos", NICK HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="NICK" tvg-logo="logotv.png" group-title="Latinos", NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="CARTOON NETWORK" tvg-logo="logotv.png" group-title="Latinos", CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="DISNEY XD" tvg-logo="logotv.png" group-title="Latinos", DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="BOOMERANG" tvg-logo="logotv.png" group-title="Latinos", BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TIIN" tvg-logo="logotv.png" group-title="Latinos", TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TOONCAST" tvg-logo="logotv.png" group-title="Latinos", TOONCAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="DISC THEATER" tvg-logo="logotv.png" group-title="Latinos", DISC THEATER
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TU HISTORY" tvg-logo="logotv.png" group-title="Latinos", TU HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="NATGEO WILD" tvg-logo="logotv.png" group-title="Latinos", NATGEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="DISC WORLD" tvg-logo="logotv.png" group-title="Latinos", DISC WORLD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="DISCOVERY CHANNEL" tvg-logo="logotv.png" group-title="Latinos", DISCOVERY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="ANIMAL PLANET" tvg-logo="logotv.png" group-title="Latinos", ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="H&H" tvg-logo="logotv.png" group-title="Latinos", H AND H
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="NATGEO CHANNEL" tvg-logo="logotv.png" group-title="Latinos", NATGEO CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="LIFETIME" tvg-logo="logotv.png" group-title="Latinos", LIFETIME
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="DISC SCIENCE" tvg-logo="logotv.png" group-title="Latinos", DISC SCIENCE
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="DISC CIVILZATION" tvg-logo="logotv.png" group-title="Latinos", DISC CIVILZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TURBO" tvg-logo="logotv.png" group-title="Latinos", TURBO
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TLC" tvg-logo="logotv.png" group-title="Latinos", TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="WOBI" tvg-logo="logotv.png" group-title="Latinos", WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FOX1 HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FOX1 HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FOX ACTION HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FOX ACTION HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FOX MOVIES HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FOX MOVIES HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FOX CINEMA" tvg-logo="logotv.png" group-title="Latinos", FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FOX CLASSICS" tvg-logo="logotv.png" group-title="Latinos", FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="CINECANAL+ HD (1080)" tvg-logo="logotv.png" group-title="Latinos", CINECANAL+ HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TNT HD (1080)" tvg-logo="logotv.png" group-title="Latinos", TNT HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="GOLDEN HD (1080)" tvg-logo="logotv.png" group-title="Latinos", GOLDEN HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FILM ZONE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", FILM ZONE HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="DEPELICULA HD (1080)" tvg-logo="logotv.png" group-title="Latinos", DEPELICULA HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="AMC HD (1080)" tvg-logo="logotv.png" group-title="Latinos", AMC HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="SPACE" tvg-logo="logotv.png" group-title="Latinos", SPACE
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="CINECANAL" tvg-logo="logotv.png" group-title="Latinos", CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="CINEMAX" tvg-logo="logotv.png" group-title="Latinos", CINEMAX
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TNT" tvg-logo="logotv.png" group-title="Latinos", TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="EDGE" tvg-logo="logotv.png" group-title="Latinos", EDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="AMC" tvg-logo="logotv.png" group-title="Latinos", AMC
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="SPACE" tvg-logo="logotv.png" group-title="Latinos", SPACE
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="STUDIO" tvg-logo="logotv.png" group-title="Latinos", STUDIO
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="iSAT" tvg-logo="logotv.png" group-title="Latinos", iSAT
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TMC" tvg-logo="logotv.png" group-title="Latinos", TMC
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="ESPN HD (1080)" tvg-logo="logotv.png" group-title="Latinos", ESPN HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="ESPN 3" tvg-logo="logotv.png" group-title="Latinos", ESPN 3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FOXSPORTS" tvg-logo="logotv.png" group-title="Latinos", FOXSPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="FOXSPORTS 2" tvg-logo="logotv.png" group-title="Latinos", FOXSPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="PX" tvg-logo="logotv.png" group-title="Latinos", PX
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="ESPN" tvg-logo="logotv.png" group-title="Latinos", ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="ESPN 2" tvg-logo="logotv.png" group-title="Latinos", ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="AYM SPORTS" tvg-logo="logotv.png" group-title="Latinos", AYM SPORTS
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="MILENIO TV" tvg-logo="logotv.png" group-title="Latinos", MILENIO TV
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="BLOOMBERG" tvg-logo="logotv.png" group-title="Latinos", BLOOMBERG
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="MTVLIVE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", MTVLIVE HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TELEHIT HD (1080)" tvg-logo="logotv.png" group-title="Latinos", TELEHIT HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="VHI HD (1080)" tvg-logo="logotv.png" group-title="Latinos", VHI HD (1080)
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="MTV" tvg-logo="logotv.png" group-title="Latinos", MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="MTV HITS" tvg-logo="logotv.png" group-title="Latinos", MTV HITS
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="1CLASSIC" tvg-logo="logotv.png" group-title="Latinos", 1CLASSIC
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="RITMOSON" tvg-logo="logotv.png" group-title="Latinos", RITMOSON
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="BANDAMAX" tvg-logo="logotv.png" group-title="Latinos", BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, Test 1
+http://200.76.77.237/LIVE/H01/CANAL733/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1, Test 2
+http://200.76.77.237/LIVE/H01/CANAL734/PROFILE05.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1,Canal 2 HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Canal 5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL17/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1,Ocho TV
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,Azteca Noticias
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE02.m3u8?=%2F.ts
+ 
+#EXTINF:-1,Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,NICKTOONS
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Nickelodeon (Nick)
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+ 
+#EXTINF:-1,Cinecanal +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Cinecanal
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TNT Series
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Golden HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,The Film Zone HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,De Película HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Space
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Cinemax (O)
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Golden Edge
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Universal HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+ 
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Action HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Cinéma
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+ 
+#EXTINF:-1,ESPN +
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+ 
+#EXTINF:-1,Bandamax
+http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
+#EXTINF:-1, MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1, Telehit HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1, VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1, MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+ 
+#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV",Once TV
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?supertvlat=%2F.ts
+ 
+#EXTINF:-1,Canal 2 HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Canal 5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL17/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1,Ocho TV
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,Azteca Noticias
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE02.m3u8?=%2F.ts
+#EXTINF:-1,TeleFórmula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1,Foro TV HD
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,ESPN 3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Sports
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Sports 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Gala TV
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Multimedios Plus
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Gala TV
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Multimedios Plus
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,A&E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-id="Fox",FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Life
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,FX
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Garage TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Glitz
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Más chic
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Tlnovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,El Gourmet
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Sony
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Warner Channel
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,AXN
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TruTV
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Comedy Central
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Unicable
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Az Corazón
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Az Mundo
+ 
+#EXTINF:-1,BBC Entertainment
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,E! Entertainment Television
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Universal Channel
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1",SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Mundo Fox
+http://wcm777.la/mariocs.php?canal=MundoFoxSD&cm=429&f=mariocs.m3u8
+#EXTINF:-1,I.Sat
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1,Fox 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Action HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Fox Cinéma
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Investigación Discovery
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,NatGeo Wild
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Animal Planet
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,Home and Health
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,History Channel
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,AMERICATEVE MIAMI by:gersoft
+http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8
+#EXTINF:-1,TV MARTI NOTICIAS CUBA by:gersoft
+mms://a165.1211035484.c2110.g.lm.akamaistream.net/D/165/2110/v0001/reflector:35484
+ 
+#EXTINF:-1, tvg-id="1" tvg-name="TRECE HD (1080)" tvg-logo="logotv.png" group-title="Latinos", [COLOR yellow][I][B]*Gersoft @SuperModerador[/B][/I][/COLOR]
+http://bit.ly/Lista Editada by:Gersoft @SuperModerador/
+ 
+﻿#EXTM3U
+ 
+ 
+#EXTINF:-1,[COLOR red]DIGITAL PLUS[/COLOR]tvg-wall="http://img1.meristation.com/files/imagenes/general/god-of-war2-wallpaper-3.jpg",tvg-logo="http://dinerodeencuestas.com/wp-content/uploads/2013/05/encuestas-gratis.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/DigitalPlusm3u.m3u
+ 
+#EXTINF:-1,[COLOR red]TAQUILLA[/COLOR]tvg-logo="http://www.mundoplus.tv/img/f159fc3fc628d97c0698bda26481f027",tvg-wall="http://satcesc.com/p/taquilla.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/TaquillaPlus.m3u
+ 
+#EXTINF:-1,[COLOR red]DEPORTES[/COLOR]tvg-wall="http://apuestasfutbol.org.es/wp-content/uploads/2011/02/Apuestas-de-f%C3%BAtbol-jornada-25-Liga-BBVA.png"tvg-logo="http://www.chicadelatele.com/wp-content/uploads/2009/10/la_liga_logo-300x300.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/deportesNano.m3u
+ 
+#EXTINF:-1,[COLOR red]TDT[/COLOR]tvg-wall="http://4.bp.blogspot.com/-6WwKQi_0RXM/UU8qJj4a2zI/AAAAAAAAjgE/tyj6B97OyPg/s1600/griupo2-horz.jpg",tvg-logo="http://1.bp.blogspot.com/-o2oevhHNKdw/T_69POexuBI/AAAAAAAACPQ/DlLiB4mWOkQ/s1600/antena-pirata-tdt.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/PruebaTDT.m3u
+ 
+#EXTINF:-1,[COLOR red]ZONA INFANTIL[/COLOR]tvg-logo="http://i.ytimg.com/vi/qNu11mBCTPg/maxresdefault.jpg"tvg-wall="http://i.ytimg.com/vi/qNu11mBCTPg/maxresdefault.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/ZonaInfantil.m3u
+ 
+#EXTINF:-1,[COLOR red]MUSICA[/COLOR],tvg-wall="https://angelmaillo.files.wordpress.com/2015/01/penta.jpg",tvg-logo="http://davidov3.blogia.com/upload/20130129090622-webos-escuchar-musica.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/Musica.m3u
+ 
+#EXTINF:-1,[COLOR red]VIDEOS MUSICALES[/COLOR],tvg-wall="http://www.sextonivel.com/images/2009/06/tn_blue_dragon_ikai_no_kyoju_logo3.jpg",tvg-logo="http://ntn24-img.s3.amazonaws.com/styles/600x340/s3/noticias/2014/12/12/youtube_logo-ilus-600.jpg?itok=1QZgmlAK"
+m3u:https://dl.dropboxusercontent.com/u/380436718/VideosMusicales.m3u
+ 
+#EXTINF:-1,[COLOR red]ZONA HIP-HOP[/COLOR],tvg-wall="http://images3.alphacoders.com/215/215209.jpg",tvg-logo="http://1.bp.blogspot.com/-JfzLlDSBDBA/TaBpSqsIGpI/AAAAAAAAAjs/vDzcqioaldg/s1600/221522_1951876241632_1384413494_32248435_6037628_o.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/ZonaHipHop.m3u
+ 
+#EXTINF:-1,[COLOR red]ZONA ROCK[/COLOR],tvg-wall="http://static.betazeta.com/www.niubie.com/up/2013/02/Rock-Band-660x350.jpg",tvg-logo="http://www.tyany.com/wp-content/uploads/rock-and-roll-fondos-01.jpg"  
+m3u:https://dl.dropboxusercontent.com/u/380436718/Rock.m3u
+ 
+#EXTINF:-1,[COLOR red]TUTORIALES XBMC KODI[/COLOR],tvg-wall="http://www.eltecnologicu.com/wp-content/uploads/logo_xbmc.png",tvg-logo="https://raw.githubusercontent.com/xbmc/xbmc/master/tools/darwin/packaging/media/atv2/TopShelf.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/tutoriales.m3u
+ 
+#EXTINF:-1,[COLOR red]TELE A LA CARTA[/COLOR] [COLOR yellow] En Construccion[/COLOR]tvg-wall="http://www.teleypunto.es/wp-content/upLoads/2009/11/television-a-la-carta.jpg",tvg-logo="http://www.icmedianet.org/wp/wp-content/uploads/2012/03/television-a-la-carta.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/TeleAlaCarta.m3u
+ 
+#EXTINF:-1,[COLOR red]SERIES CLASICAS[/COLOR][COLOR yellow] En Construccion[/COLOR],tvg-wall="http://st-listas.20minutos.es/images/2010-12/264560/list_640px.jpg?1296119979"
+m3u:https://dl.dropboxusercontent.com/u/380436718/SeriesClasicas.m3u
+ 
+#EXTINF:-1,[COLOR red]PELICULAS[/COLOR]tvg-wall="http://www.abc.es/Media/201310/15/palomitas-cine--644x362.jpg",tvg-logo="http://blogs.ua.es/tecnoactual/files/2015/02/cine.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/Peliculas.m3u
+ 
+#EXTINF:-1,[COLOR red]DOCUMENTALES[/COLOR]tvg-wall="http://culturacolectiva.com/wp-content/uploads/2014/02/documentales.jpg",tvg-logo="http://blogdenotas.azulambientalistas.org/wp-content/uploads/2013/02/Azul-Ambientalistas-5-interesantes-documentales-sobre-ambiente.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/Documentales.m3u
+ 
+#EXTINF:-1,[COLOR red]ZONA U.S.A[/COLOR]tvg-wall="http://www.tothetick.com/wp-content/uploads/2013/08/USAs-Worst-President.png",tvg-logo="https://www.highsky.com/upload/userfiles/_education/_usa_flag_statue_340.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/ZonaUsa.m3u
+ 
+#EXTINF:-1,[COLOR red]ZONA PARA ADULTOS[/COLOR],tvg-logo="http://cdn2.search.xxx/xxx/images/featured/47488_20141013.png"tvg-wall="http://cdn2.search.xxx/xxx/images/featured/47488_20141013.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/Adultos.m3u
+ 
+#EXTINF:-1,[COLOR red]RADIOS[/COLOR],tvg-logo="http://www.dragondigital.es/wp-content/uploads/2012/11/radios-on-line-1.jpg",tvg-wall="http://playfmradio.com/wp/wp-content/uploads/2014/06/Radios.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/Radios.m3u
+ 
+============================================================================================================================================================================================================================================
+ 
+#EXTINF:-1,SKY SPORTS 1 HD
+rtmp://167.114.117.208/live/sky1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky1.php live=true timeout=20 token=WY846p1E1g15W7s
+#EXTINF:-1,SKY SPORTS 1 HD 1080P
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13542?!/@KyBoFire
+ 
+#EXTINF:-1,SKY SPORTS 2 HD
+rtmp://167.114.117.208/live/sky2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky2.php live=true timeout=20 token=WY846p1E1g15W7s
+#EXTINF:-1,SKY SPORTS 2 HD 1080P
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13543?!/@KyBoFire
+ 
+#EXTINF:-1, SKY SPORTS 3 HD
+rtmp://167.114.117.208/live/sky3v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skydarts.php live=true timeout=20 token=WY846p1E1g15W7s
+#EXTINF:-1, SKY SPORTS 3 HD 1080P
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13544?!/@KyBoFire
+ 
+#EXTINF:-1,SKY SPORTS 4 HD
+rtmp://167.114.117.208/live/sky4v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky4.php live=true timeout=20 token=WY846p1E1g15W7s
+#EXTINF:-1,SKY SPORTS 4 HD 1080P
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13545?!/@KyBoFire
+ 
+#EXTINF:-1,SKY SPORTS 5 HD
+rtmp://167.114.117.208/live/bt2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky5.php live=true timeout=20 token=WY846p1E1g15W7s
+#EXTINF:-1,SKY SPORTS 5 HD 1080P
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13546?!/@KyBoFire
+ 
+#EXTINF:-1,SKY SPORTS F1 HD 1080P
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13547?!/@KyBoFire
+ 
+#EXTINF:-1,BOX NATION HD
+rtmp://167.114.117.208/live/skynationv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/beinsports.php live=true timeout=20 token=WY846p1E1g15W7s
+#EXTINF:-1,BOX NATION SD
+http://109.200.20.26:8981/goga/boxnationnnn/index.m3u8
+ 
+#EXTINF:-1, SS NEWS HD 1080P
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13548?!/@KyBoFire
+ 
+#EXTINF:-1, SS NEWS
+rtmp://167.114.117.208/live/skynewsv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skynews.php live=true timeout=20 token=WY846p1E1g15W7s
+ 
+#EXTINF:0, BT1 HD 1080P
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13549?!/@KyBoFire
+#EXTINF:0, BT1 HD
+rtmp://167.114.117.208/live/bt1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btsports1.php live=true timeout=20 token=WY846p1E1g15W7s
+ 
+#EXTINF:0, BT2 HD
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13550?!/@KyBoFire
+ 
+#EXTINF:-1,SETANTA IRELAND
+rtmp://167.114.117.208/live/sentav swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/20.php live=true timeout=20 token=WY846p1E1g15W7s
+ 
+#EXTINF:0, RACING UK
+rtmp://167.114.117.208/live/racingukv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/eeesports.php live=true timeout=20 token=WY846p1E1g15W7s
+ 
+#EXTINF:0, AT THE RACES SD
+rtmp://31.220.0.195:80/live/ playpath=atracessa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+#EXTINF:0, WILLOW CRICKET HD
+http://109.200.20.26:8981/willowHD/cup1/index.m3u8
+ 
+#EXTINF:0, CHELSEA TV
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13557?!/@KyBoFire
+ 
+#EXTINF:0, MUTV
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13558?!/@KyBoFire
+ 
+#EXTINF:0, ESPN HD
+rtmp://142.4.216.204/live/ch1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/1.php live=true timeout=20 token=WY846p1E1g15W7s
+ 
+#EXTINF:0, BRITISH EUROSPORT 1 HD
+http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13553?!/@KyBoFire
+ 
+#EXTINF:-1, SKY POKER HD
+rtmp://rtmp.playback.cdn1.showcaster.com/orcadigital-live06/_definst_/ playpath=stream1352471543352014903_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9.swf live=1 pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp?SEID=135247&isMainCanvas;=FAL SE
+#EXTINF:-1, Sky poker
+rtmp://rtmp.playback.cdn1.showcaster.com/orcadigital-live06/_definst_/ playpath=stream1352471543352014903_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9.swf live=1 pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp?SEID=135247&isMainCanvas=FAL SE
+ 
+#EXTINF:-1,SportsNet 360  HD
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+ 
+#EXTINF:-1,NBCsn  720P
+rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
+ 
+#EXTINF:-1, TSN 1 ,
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+ 
+#EXTINF:-1, TSN 2 SD (MAY BUFFER)
+http://109.200.20.26:8981/FHDtsn2/sports/index.m3u8
+ 
+#EXTINF:-1, TSN 3 ,
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+ 
+#EXTINF:0, TSN 4 ,
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+ 
+#EXTINF:0, TSN 5 ,
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+ 
+#EXTINF:-1, SPORTS ACCESS RANDOM TSN 1-5 HD
+rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20
+ 
+#EXTINF:-1, FOX SPORTS 1 HQ
+rtmp://207.244.76.209/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20
+ 
+ 
+#EXTINF:-1,[COLORblue]-BEin LINKS COME AND GO-[/COLOR]
+http://stream.ssh101.com
+#EXTINF:-1,[COLORred]--------------------------------------------------------------------------------------------[/COLOR]
+http://stream.ssh101.com
+#EXTINF:0,Bein 1 HD
+http://2co1.vp9.tv/chn/bin01/v.m3u8
+#EXTINF:0,BEIN SPORTS 1 HD
+http://2co1.vp9.tv/chn/bin01/v.m3u8  
+#EXTINF:0,Bein 2 HD
+http://2co1.vp9.tv/chn/bin02/v.m3u8
+#EXTINF:0,BEIN SPORTS 2 HD
+http://2co1.vp9.tv/chn/bin02/v.m3u8      
+#EXTINF:0,BEIN SPORTS 1 HD
+http://2co1.vp9.tv/chn/bin01/v.m3u8
+#EXTINF:0,BEIN SPORTS 2 HD
+http://2co1.vp9.tv/chn/bin02/v.m3u8
+#EXTINF:0,BEIN SPORTS 3 HD
+http://2co1.vp9.tv/chn/bin03/v.m3u8  
+#EXTINF:0,BEIN SPORTS 4 HD
+http://2co1.vp9.tv/chn/bin04/v.m3u8
+#EXTINF:0,BEIN SPORTS 4 HD
+http://2co1.vp9.tv/chn/bin04/v.m3u8
+#EXTINF:-1,[COLORred]--------------------------------------------------------------------------------------------[/COLOR]
+http://stream.ssh101.com
+ 
+ 
+#EXTINF:-1,[COLOR red]MONEYSPORTS STREAMS[/COLOR]
+http://stream.ssh101.com
+#EXTINF:-1,[COLOR yellow]SOME LINKS NEED A COUPLE OF CLICKS[/COLOR]
+http://stream.ssh101.com
+#EXTINF:-1,[COLOR red]ALL CREDIT TO MARK MONEY FOR THESE LINKS [/COLOR]
+http://stream.ssh101.com
+#EXTINF:-1,[COLOR red]IM JUST MAKING IT EASY FOR U TO GET THEM [/COLOR]
+http://stream.ssh101.com
+ 
+ 
+ 
+#EXTINF:-0,Astro SuperSport 1 & 3  [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+http://stream.ssh101.com/hls/rilril.m3u8
+ 
+#EXTINF:-0,Astro SuperSport 2 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+http://stream.ssh101.com/hls/qwerew.m3u8
+ 
+ 
+ 
+#EXTINF:0,Sporttv 1 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+http://213.250.19.50/sporttv1/sporttv1.isml/sporttv1-video=4500000-audio101=128000.m3u8
+ 
+#EXTINF:0,Sporttv 2 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+http://213.250.19.50/sporttv2/sporttv2.isml/sporttv2-video=4500000-audio101=128000.m3u8
+ 
+#EXTINF:0,Sporttv 3 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+http://213.250.19.50/sporttv3/sporttv3.isml/sporttv3-video=4500000-audio101=128000.m3u8
+ 
+ 
+ 
+#EXTINF:0,Arenasport 1
+http://89.212.240.49:11980/live/smil:365_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:0,Arenasport 2
+http://89.212.240.49:11980/live/smil:366_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:0,Arenasport 3
+http://89.212.240.49:11980/live/smil:367_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:0,Arenasport 4
+http://89.212.240.49:11980/live/smil:368_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:0,Arenasport 5
+http://89.212.240.49:11980/live/smil:369_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+ 
+#EXTINF:-1 ,Sky sport 1 sd
+rtmp://31.220.0.195:80/live/ playpath=s1c token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+ 
+#EXTINF:-1,Sky sport 1 BACK UP
+rtmp://80.82.78.39:443/liverepeater playpath=40 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=40&width=600&height=450 token=#atd%#$ZH
+ 
+ 
+#EXTINF:-1,Sky sport 2 sd
+rtmp://31.220.0.195:80/live/ playpath=sx2 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+#EXTINF:-1,Sky sport 2 BACK UP
+rtmp://185.82.215.53:2999/str34m/ playpath=vinho13  swfUrl=http://nicevideo.us/flowplayer-3.2.16.swf  pageUrl=http://nicevideo.us/ho3.php?channel=vinho13
+ 
+ 
+#EXTINF:-1,Sky sport 3 sd
+rtmp://31.220.0.195:80/live/ playpath=s3c token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13  pageUrl=http://reytv.co/
+ 
+#EXTINF:-1,Sky sport 3 BACK UP
+http://85.25.246.141:8081/Sports/SkySport3/playlist.m3u8
+ 
+ 
+ 
+#EXTINF:-1,Sky sports 4 sd
+rtmp://31.220.0.195:80/live/ playpath=ssx4 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+#EXTINF:-1,Sky sports 4 BACK UP
+http://192.99.24.176:8080/skysp4/s0ssKy44Sp04/index.m3u8
+ 
+ 
+ 
+#EXTINF:-1,Sky sport 5 sd
+rtmp://31.220.0.195:80/live/ playpath=ss5x token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+ 
+#EXTINF:-1,Sky sport 5 BACK UP
+http://192.99.24.176:8080/skysp5/sksPsp5/index.m3u8
+ 
+ 
+#EXTINF:-1,Sky sport f1 sd
+rtmp://31.220.0.195:80/live/ playpath=skyf1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+ 
+#EXTINF:-1,Sky sport f1 BACK UP
+http://192.99.24.176:8080/skKysp11S/SKkyp1/index.m3u8
+ 
+ 
+#EXTINF:-1,Sky Sport News sd
+rtmp://31.220.0.195:80/live/ playpath=snc token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13   pageUrl=http://reytv.co/
+ 
+ 
+#EXTINF:0,EUROSPORT sd
+rtmp://31.220.0.195:80/live/ playpath=eurozddd token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+#EXTINF:0,EUROSPORT2
+rtmp://80.82.64.140:443/liverepeater/ playpath=21 token=#atd%#$ZH swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 timeout=13 pageUrl=http://popeoftheplayers.eu/
+ 
+#EXTINF:-1,BTSPORTS 1
+rtmp://80.82.78.26:443/liverepeater playpath=13  swfUrl=http://popeoftheplayers.eu/atdedead.swf  pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=620&height=490 token=#atd%#$ZH
+ 
+#EXTINF:-1,BTSPORTS 1 BACK UP
+http://hospital.privatizehealthinsurance.net:1935/sports/bt1/playlist.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1,BTSPORTS 2
+http://hospital.privatizehealthinsurance.net:1935/sports/bt2/playlist.m3u8
+#EXTINF:-1,BTSPORTS 2 BACK UP
+rtmp://31.220.0.195:80/live/ playpath=btx22 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+#EXTINF:-1,boxnation
+http://hospital.privatizehealthinsurance.net:1935/sports/boxnation/playlist.m3u8
+ 
+#EXTINF:-1,Setanta
+http://80.77.52.6:7781/udp/230.0.4.1:12345
+ 
+#EXTINF:-1,Setanta Ireland
+http://37.157.246.170:8080/88setanta/uk/index.m3u8
+ 
+ 
+#EXTINF:0,Premier sport
+rtmp://31.220.0.195:80/live/ playpath=premiersport token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+#EXTINF:0,ESPN UK
+rtmp://31.220.0.195:80/live/ playpath=espnxuk token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+#EXTINF:-1,At the races
+rtmp://31.220.0.195:80/live/ playpath=atracessa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+#EXTINF:-1,Racing UK
+rtmp://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ playpath=ruk swfUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.swf live=1 pageUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.php?type=live&stream=ruk1&token=ccf6c54e62bc5bd667661d5af5d61e8664c75b11
+ 
+#EXTINF:1,MUTV
+rtmp://178.18.31.54:443/liverepeater playpath=1184126  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=184126&width=620&height=490 token=#atd%#$ZH
+ 
+#EXTINF:1,MLB HD
+rtmp://31.220.0.195:80/live/ playpath=mlbxx token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+ 
+#EXTINF:1,NBCSN
+http://37.157.246.170:8080/88NBC/SPorts/index.m3u8
+ 
+ 
+#EXTINF:1,WWE NETWORK
+rtmp://80.82.78.29:443/liverepeater playpath=32  swfUrl=http://popeoftheplayers.eu/atdedead.swf  pageUrl=http://popeoftheplayers.eu/player3.php?id=32&width=620&height=490 token=#atd%#$ZH
+ 
+ 
+#EXTINF:-1,LINKS FOR BEIN SPORTS AND SKY THAT COME AND GO
+https://
+ 
+#EXTINF:-1,BEIN SPORTS 1
+rtmp://94.102.63.54/iguide playpath=7ggyzll6lv6pbya swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 2
+rtmp://94.102.63.54/iguide playpath=l8kp0lx73f3homn swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 3
+rtmp://94.102.63.54/iguide playpath=dw6ygzh2v4zagne swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 4
+rtmp://94.102.63.54/iguide playpath=hlcl1vpqwin3st1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 5
+rtmp://94.102.63.54/iguide playpath=qj54a3u3wbn4ny5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 6
+rtmp://94.102.63.54/iguide playpath=edb17tz5wsmy6yu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 7
+rtmp://94.102.63.54/iguide playpath=gwvse33vtiqd61s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 8
+rtmp://94.102.63.54/iguide playpath=5tl2mxse77mhxys swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 9
+rtmp://94.102.63.54/iguide playpath=55qzsqh12p30btb swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 10
+rtmp://94.102.63.54/iguide playpath=xdutpjopnqi5y6t swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 11
+rtmp://94.102.63.54/iguide playpath=ewa9r9hxonkp9qa swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 12
+rtmp://94.102.63.54/iguide playpath=gn66gk886dtvnzt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 13
+rtmp://94.102.63.54/iguide playpath=lwt3qptpp7uhrw4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,BEIN SPORTS 14
+rtmp://94.102.63.54/iguide playpath=xuquxtkesjstifh swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD
+ 
+ 
+#EXTINF:-1,Sky sports 1
+http://198.27.94.105/hls/skysports1_1.m3u8
+ 
+#EXTINF:-1,Sky sports 2
+http://198.27.94.105/hls/skysports2_1.m3u8
+ 
+#EXTINF:-1,Sky sports 3
+http://198.27.94.105/hls/skysports3_1.m3u8
+ 
+#EXTINF:-1,Sky sports 4
+http://198.27.94.105/hls/skysports4_1.m3u8
+ 
+#EXTINF:-1,Sky sports 5
+http://198.27.94.105/hls/skysports5_1.m3u8
+ 
+#EXTINF:-1,Bt sports 1
+http://198.27.94.105/hls/bt1_1.m3u8
+ 
+#EXTINF:-1,Bt sports 2
+http://198.27.94.105/hls/bt2_1.m3u8
+ 
+ 
+#EXTINF:-1,Fox sports 1
+ 
+http://198.27.94.105/hls/fox1_1.m3u8
+ 
+#EXTINF:-1,Fox sports 2
+ 
+http://198.27.94.105/hls/fox2_1.m3u8
+ 
+ 
+#EXTINF:-1,sportsnet 1
+http://is.gd/N44G11
+#EXTINF:-1,sportsnet 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1,sportsnet world
+rtmp://31.220.0.195:80/live/ playpath=world token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+#EXTINF:-1,sportsnet one
+rtmp://109.123.70.38:80/live/ playpath=sportsnetw token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+ 
+#EXTINF:-1,sportsnet ontario
+rtmp://109.123.70.38:80/live/ playpath=sno token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+ 
+ 
+ 
+ 
+#EXTINF:0,TSN 1 720 HD
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:0,TSN 2 720 HD
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:0,TSN 3 720 HD
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:0,TSN 4 720 HD
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+#EXTINF:0,TSN 5 720 HD
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+ 
+ 
+#EXTINF:-1,Rai Sport 1
+mmsh://212.162.68.163:80/raisport+
+#EXTINF:-1,Rai Sport 2
+mmsh://212.162.68.163:80/raisport2
+ 
+#EXTINF:-1,NBC GOLF
+http://142.4.216.60:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504&xs=_we_bHcxa3VmaW0xa21pdDFofDE0MjAyMDU1MDR8NzIuMjcuMjE0LjMzfDU0YTYxMTIwYWY1YTh8ZTRmZmI3YTRmZmQwZmE2YmMxODA4YzVjYWE1ZGEzOTc4NzE3YjQwNg
+ 
+ 
+ 
+#EXTINF:-1,Nfl channel
+http://4.31.30.145:9142
+ 
+#EXTINF:-1,Fox sport 1
+rtmp://31.220.0.195:80/live/ playpath=foxsport1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+#EXTINF:-1,Fox sport 2
+rtmp://31.220.0.195:80/live/ playpath=fox22x token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
+ 
+ 
+#EXTINF:-1,]Espn
+rtmp://213.152.181.12:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=24g3z5b4d4t4w3x2x4h5n274s214y2s2b424w2u2v2t24394&adx=&stream=54y2n5i57494y264d4k544b4v2a494n244v4n4y2w2i304c4x4l5t254w2q274w203p2t274x2z34303y3q2x4y5b4e4f3v3c4t4i2k4j4v5k474n33574a414p4h4z33456t2y3s2p2l51313s274d4z284236324q264m554o5v2r2m5a4u274t254a484g54484z2o2y2t2343434t2y3s2p224&sooor=OQ==&str=is&ok=&cat=1&link=1&idom=ifirstrow.eu
+ 
+#EXTINF:-1,Nba
+rtmp://213.152.180.159:1935/stream/ playpath=0f5bZcQBIw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=1474b4j5b5l5p393v416n274s214y2s2b424w2u2v2t24394&adx=&stream=6474b4j554f4t2u2n5a4t2k5644443n234m5z264u3a4t3o4v456t254w2q274w203p2t274x2z34303y3p2o5a4j5c574o3o4r4i2k4j4v5k474n33574a414p4h4z33456t2y3s2p2l51313s274d4z284236324q264m554o5v2r2m5a4u274t254a484g54484z2o2y2t2343434t2y3s2p224&sooor=Ng==&str=is&ok=&cat=2&link=1&idom=ifirstrow.eu
+ 
+#EXTINF:,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?moneysports
+#EXTINF:,ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?moneysports
+#EXTINF:,ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?moneysports
+#EXTINF:,ESPN3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?moneysports
+#EXTINF:,FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?moneysports
+#EXTINF:,FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?moneysports
+ 
+#EXTINF:-1,Sport1
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
+ 
+ 
+ 
+#EXTINF:-1,TRT SPOR
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,TRT SPOR
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+ 
+ 
+ 
+#EXTINF:0,Moldova Sport HD
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ 
+ 
+ 
+#EXTINF:-1,Sport 5
+http://81.201.52.159:8023
+ 
+ 
+ 
+#EXTINF:-1,SPORT TIME 7 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF:-1,SPORT TIME 6 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:-1,SPORT TIME 5 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1,SPORT TIME 4 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1,SPORT TIME 3 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1,SPORT TIME 2 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1,SPORT TIME 1 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+ 
+#EXTINF:-1,Extreme Sports  
+http://83.139.104.99/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+ 
+ 
+#EXTINF:-1,Rossiya 2 Sports
+http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
+ 
+#EXTINF:-1,FANATIK SPOR
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+ 
+#EXTINF:-1,RUS - Football
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+ 
+#EXTINF:-1,TV Pocos - Sports
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+ 
+#EXTINF:-1Sevilla FC
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+ 
+ 
+#EXTINF:0,NOVA SPORT
+http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/PAZ.m3u8
+ 
+ 
+ 
+#EXTINF: -1,[COLOR red]**[/COLOR]KAZSPORT
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+ 
+#EXTINF:-1,AD Sports 1 (UAE)
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
+#EXTINF:-1,AD Sports 2 (UAE)
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8  
+#EXTINF:0,dubai racing 2
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8
+ 
+#EXTINF: -1,NTV + Sport
+http://91.211.51.155:5555/udp/224.20.20.40:1234
+#EXTINF: -1,NTV + Football
+http://91.211.51.155:5555/udp/224.20.20.41:1234
+#EXTINF: -1,NTV + Tennis
+http://91.211.51.155:5555/udp/224.20.20.48:1234
+#EXTINF: -1,NTV + Basketball
+http://91.211.51.155:5555/udp/224.20.20.49:1234
+#EXTINF: -1,NTV + Football 2
+http://91.211.51.155:5555/udp/224.20.20.50:1234
+#EXTINF: -1,Our Football
+http://91.211.51.155:5555/udp/224.20.20.51:1234
+ 
+#EXTINF:-1,Football
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+ 
+ 
+ 
+#EXTINF:-1,SPORT TV1
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ AnisotropicTV
+#EXTINF:-1,SPORT TV2
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ AnisotropicTV
+#EXTINF:-1,SPORT TV3
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ AnisotropicTV
+ 
+#EXTINF:-1,C More Sport
+http://85.8.26.243:8001/1:0:1:12E:3:46:E080000:0:0:0:
+ 
+#EXTINF:-1,star sports 1
+http://192.99.24.176:8080/st0rSsport1/StttTtsp011/index.m3u8
+ 
+#EXTINF:-1,star sports 2
+http://192.99.24.176:8080/starrsppp2/sttT0202t0ssp2/index.m3u8
+ 
+#EXTINF:-1,STAR SPORT 3
+http://167.114.41.220:8080/starrr3/star33/index.m3u8
+ 
+#EXTINF:-1,star sports 4
+http://192.99.24.176:8080/Cricket/stsp4LOW/index.m3u8
+ 
+#EXTINF:-1, Super Sport 1
+rtmp://93.174.93.50:443/liveedge/l3o playpath=ss1hdqnq swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK
+#EXTINF:-1, Super Sport 2
+rtmp://93.174.93.50:443/liveedge/l3o playpath=ss2hdj0T swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK
+#EXTINF:-1, Super Sport 3
+rtmp://93.174.93.50:443/liveedge/l3o playpath=ss3hdnSP swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK
+#EXTINF:-1, Super Sport 4
+rtmp://93.174.93.50:443/liveedge/l3o playpath=ss4hdYfE swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK
+ 
+ 
+ 
+#EXTINF:-1,Digi Sport 1
+http://91.211.51.155:5555/udp/224.20.20.241:1234
+#EXTINF:-1,Digi Sport 2
+http://91.211.51.155:5555/udp/224.20.20.240:1234
+#EXTINF:-1,Digi Sport 3
+http://91.211.51.155:5555/udp/224.20.20.239:1234
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1,[COLOR red]LIVE CRICKET[/COLOR]
+https://www.facebook.com/groups/Iptv.m3u.Sharing/
+ 
+#EXTINF:-1,WILLOW HD
+ 
+#EXTINF:-1,STAR SPORTS 1
+http://192.99.24.176:8080/st0rSsport1/StttTtsp011/index.m3u8
+ 
+#EXTINF:-1,STAR SPORTS 2
+http://192.99.24.176:8080/starrsppp2/sttT0202t0ssp2/index.m3u8
+ 
+#EXTINF:-1,STAR SPORT 3
+http://167.114.41.220:8080/starrr3/star33/index.m3u8
+ 
+#EXTINF:-1,STAR SPORTS 4
+http://192.99.24.176:8080/Cricket/stsp4LOW/index.m3u8
+ 
+#EXTINF:-1,sky sport world cup
+rtmp://185.82.215.53:2999/str34m/ playpath=vinho13  swfUrl=http://nicevideo.us/flowplayer-3.2.16.swf  pageUrl=http://nicevideo.us/ho3.php?channel=vinho13
+ 
+ 
+ 
+#EXTINF:-1,BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p?s=
+ 
+#EXTINF:-1,TalkSPORT
+http://radio.talksport.com/uk?aisGetOriginalStream=true.mp3
+ 
+#EXTINF:-1,[COLOR red]ACESTREAM LINKS[/COLOR][COLOR yellow]**********************************************************[/COLOR]
+https://
+ 
+ 
+ 
+#EXTINF:-1,OTE Sport 1HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://1bf854b67e052abe65415624e7c1a7bb892d4b22&mode=1&name=acestream+OTE Sport 1HD
+ 
+ 
+#EXTINF:-1,OTE Sport 2HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://291da73ba7690f33954b767378e3f56076043a79&mode=1&name=acestream+OTE Sport 2HD
+#EXTINF:-1,OTE Sport 3HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://48c6a54d9309dc2cd1bdafe96bc490982648780b&mode=1&name=acestream+OTE Sport 3HD
+#EXTINF:-1,OTE Sport 4HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://9c19b0ef4dd5f4af5e4be2c54f02a84b8878331c&mode=1&name=acestream+OTE Sport 4HD
+#EXTINF:-1,OTE Sport 5HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://53db4eabf9b77f3cd0e0ab5d9cb1d6c9419e0d10&mode=1&name=acestream+OTE Sport 5HD
+#EXTINF:-1,OTE Sport 6HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://9e7ff255784280cf59b1bec7c5166f3ac1ad0321&mode=1&name=acestream+OTE Sport 6HD
+#EXTINF:-1,Polsat Sport
+plugin://plugin.video.p2p-streams/?url=acestream://6de5e5758ac955412e8149412d2d3b0db4f2e83a&mode=1&name=acestream+POLSAT SPORT
+ 
+#EXTINF:-1,Arena Sport 1
+plugin://plugin.video.p2p-streams/?url=acestream://ed3c99ff1e6d3a35b4df19560722fcffea850378&mode=1&name=acestream+ARENA 1
+#EXTINF:-1,Arena Sport 2
+plugin://plugin.video.p2p-streams/?url=acestream://42be01275c32742099e2d5915484614d5fdde33a&mode=1&name=acestream+ARENA 2
+#EXTINF:-1,Arena Sport 3
+plugin://plugin.video.p2p-streams/?url=acestream://e2176c590d3d36b81586748746389615485325c1&mode=1&name=acestream+ARENA 3
+#EXTINF:-1,Arena Sport 4
+plugin://plugin.video.p2p-streams/?url=acestream://1db78c31b71b5ee26236b2d881a9bd9a02aabbf3&mode=1&name=acestream+ARENA 4
+#EXTINF:-1,BT Sport 1
+plugin://plugin.video.p2p-streams/?url=acestream://94cf00ad0fbae701127270ac08a8cd1a23883448&mode=1&name=acestream+BT SPORTS 1
+ 
+#EXTINF:-1,BT Sport 2
+plugin://plugin.video.p2p-streams/?url=acestream://a7c44134c28dd2183d341f52044326c2c061f1d6&mode=1&name=acestream+BT SPORTS 2
+ 
+#EXTINF:-1,BoxNation
+plugin://plugin.video.p2p-streams/?url=acestream://ea376ca535922f820d78cb0957b72095d19ee86a&mode=1&name=acestream+boxnation
+ 
+#EXTINF:-1,Sky Sports 1
+plugin://plugin.video.p2p-streams/?url=acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955&mode=1&name=acestream+SKY SPORTS 1
+#EXTINF:-1,Sky Sports 2
+plugin://plugin.video.p2p-streams/?url=acestream://c36cfe788f185f7e7238b021e738951628336cfe&mode=1&name=acestream+SKY SPORTS 2
+ 
+#EXTINF:-1,Sky Sports 3
+plugin://plugin.video.p2p-streams/?url=acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887&mode=1&name=acestream+SKY SPORTS 3
+ 
+#EXTINF:-1,Sky Sports 4
+plugin://plugin.video.p2p-streams/?url=acestream://203e4da82989736f8c324d588acc5d622ff6bfd3&mode=1&name=acestream+SKY SPORTS 4
+ 
+#EXTINF:-1,Sky Sports 5
+plugin://plugin.video.p2p-streams/?url=acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b&mode=1&name=acestream+SKY SPORTS 5
+ 
+#EXTINF:-1,Sky Sports F1
+plugin://plugin.video.p2p-streams/?url=acestream://2dff503259045e4d119e6e972a3db8521c47198a&mode=1&name=acestream+SKY SPORTS f1
+ 
+#EXTINF:-1,PREMIER SPORTS
+plugin://plugin.video.p2p-streams/?url=acestream://9d21d20f6423387ec87463d7ac9b3c9196e7d4ed&mode=1&name=acestream+moneysports
+ 
+#EXTINF:-1,Setanta Sports + HD
+plugin://plugin.video.p2p-streams/?urlacestream://088fb3bfdc2ecd527c2ccdbdc06a4a1d0edb92db&mode=1&name=acestream+moneysports
+ 
+#EXTINF:-1,Sky Sport 1HD Italia
+plugin://plugin.video.p2p-streams/?urlacestream://35effe2fb65eb170d0275ceb38c99b8cc9d1cca7&mode=1&name=acestream+moneysports
+ 
+#EXTINF:-1,Setanta Sports
+plugin://plugin.video.p2p-streams/?url=acestream://d5d6cc87a90d08fde0b3d072a7e703de13c15878&mode=1&name=acestream+moneysports
+ 
+#EXTINF:-1,CMore Live
+plugin://plugin.video.p2p-streams/?url=acestream://20b57889e46740135bdc62ac9f4f27789a221d8d&mode=1&name=acestream+moneysports
+ 
+ 
+#EXTINF:-1,Sport1
+plugin://plugin.video.p2p-streams/?url=acestream://39236bbd5a5c713953ac27de1692d56e4323e6a9&mode=1&name=acestream+moneysports
+ 
+ 
+#EXTINF:-1,Fox Sports 2 NDL
+plugin://plugin.video.p2p-streams/?url=acestream://9f69c544d2b91e1beee94972bc943ce9fe1a40f0a&mode=1&name=acestream+fox sports 2 ndl
+ 
+#EXTINF:-1,Sport Klub 1
+plugin://plugin.video.p2p-streams/?url=acestream://5502873157562d1eb6c9344ed3eecc20f54a8743&mode=1&name=acestream+sport klub1
+ 
+#EXTINF:-1,Sport Klub 2
+plugin://plugin.video.p2p-streams/?url=acestream://bdeb795fcb5836e31d7c3944aa286048d1cc608b&mode=1&name=acestream+SK2
+ 
+#EXTINF:-1,Sport Klub 3
+plugin://plugin.video.p2p-streams/?url=acestream://344b3f00db6423245f73876bf687dbade8029838&mode=1&name=acestream+SK3
+ 
+#EXTINF:-1,Viasat Sport
+plugin://plugin.video.p2p-streams/?url=acestream://0fe3ba8cc63bed1d0f4175be69478dc92d8960b7&mode=1&name=acestream+VIASAT SPORTS
+ 
+#EXTINF:-1,Viasat Sport Baltic
+plugin://plugin.video.p2p-streams/?url=acestream://5d7c874c2b58e1584dbd75c5bee1c51cfb021a3d&mode=1&name=acestream+VIASAT SPORTS BALTIC
+#EXTINF:-1,Viasat Golf
+plugin://plugin.video.p2p-streams/?url=acestream://aed5b1139b4ce07fca67d0b0ba8a3a0b84db53e5&mode=1&name=acestream+VIASAT SPORTS GOLF
+#EXTINF:-1,Viasat Sport HD
+plugin://plugin.video.p2p-streams/?url=acestream://1f4d407e1895e164665ee83a47bed39bd5bd7add&mode=1&name=acestream+VIASAT SPORTS HD
+ 
+#EXTINF:-1,Viasat Sport Sverige
+plugin://plugin.video.p2p-streams/?url=acestream://bf46d9e9de30041ee2609a0df6b67bc79ba8f67e&mode=1&name=acestream+VIASAT SPORTS SVERIGE
+ 
+#EXTINF:-1,Viasat TV3 Sport 1 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://c51b77e4020afdb4d327a9f6495abb10db22a82e&mode=1&name=acestream+VIASAT TV3 1
+ 
+#EXTINF:-1,Viasat TV3 Sport 2 DN [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://53cdbdf779dea70e8e452b87b7d57f06e50c0f3c&mode=1&name=acestream+VIASAT TV3 2
+ 
+#EXTINF:-1,Nova Sport BG
+plugin://plugin.video.p2p-streams/?url=acestream://cfcda8b9579f72f7e9fadffddb1f9b0d9714d20d&mode=1&name=acestream+nova sport
+ 
+#EXTINF:-1,Sport 1 Hu
+plugin://plugin.video.p2p-streams/?url=acestream://728f78697941169b00268c022ac770cc2989f563&mode=1&name=acestream+sport1
+ 
+#EXTINF:-1,Sport 2 Hu
+plugin://plugin.video.p2p-streams/?url=acestream://398c39c8b825c914fc86f225b43b60009eca9a44&mode=1&name=acestream+sport2
+ 
+#EXTINF:-1,Sport 5
+plugin://plugin.video.p2p-streams/?url=acestream://d069e6454f1b293e4b22fb0d9e42ad077f728d9c&mode=1&name=acestream+sport 5
+ 
+#EXTINF:-1,Sportmania Es
+plugin://plugin.video.p2p-streams/?url=acestream://642a383e03713b3e281ae6c5ea7fe3d03a1543c6&mode=1&name=acestream+sportsmania
+ 
+#EXTINF:-1,NBA TV
+plugin://plugin.video.p2p-streams/?url=acestream://cc8a9dfb31323ba2c2c3e337994a53be813b1686&mode=1&name=acestream+NBATV
+ 
+#EXTINF:-1,[COLORred]more acestreams[/COLOR]
+plugin://
+#EXTM3U
+#EXTINF:-1,FightBox HD
+plugin://plugin.video.p2p-streams/?url=acestream://2e6d8c01f32f69bd677bcb292aaf795e823b763d
+#EXTINF:-1,Fox Sports 2 NDL
+plugin://plugin.video.p2p-streams/?url=acestream://9f69c544d2b91e1beee94972bc943ce9fe1a40f0a
+#EXTINF:-1,Motors TV
+plugin://plugin.video.p2p-streams/?url=acestream://4670b5bc5f1f84b76aa15d5c266149025225cd88
+#EXTINF:-1,NBA HD
+plugin://plugin.video.p2p-streams/?url=acestream://4bd75bd4f1bea41c693f1dcab520a6b2ba1bba76
+#EXTINF:-1,NBA TV
+plugin://plugin.video.p2p-streams/?url=acestream://cc8a9dfb31323ba2c2c3e337994a53be813b1686
+#EXTINF:-1,Premier Sports
+plugin://plugin.video.p2p-streams/?url=acestream://9d21d20f6423387ec87463d7ac9b3c9196e7d4ed
+#EXTINF:-1,Setanta Sports Eurasia HD
+plugin://plugin.video.p2p-streams/?url=acestream://ab760f0de5d6199cc56a44e972207ac0687de1b3
+#EXTINF:-1,Sky Sports 1
+plugin://plugin.video.p2p-streams/?url=acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955
+#EXTINF:-1,Sky Sports 3
+acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887
+#EXTINF:-1,Sky Sports 4
+plugin://plugin.video.p2p-streams/?url=acestream://203e4da82989736f8c324d588acc5d622ff6bfd3
+#EXTINF:-1,Sky Sports 5
+plugin://plugin.video.p2p-streams/?url=acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b
+#EXTINF:-1,Sky Sports F1
+acestream://2dff503259045e4d119e6e972a3db8521c47198a
+#EXTINF:-1,Sport 5
+plugin://plugin.video.p2p-streams/?url=acestream://d069e6454f1b293e4b22fb0d9e42ad077f728d9c
+#EXTINF:-1,Viasat Golf
+plugin://plugin.video.p2p-streams/?url=acestream://aed5b1139b4ce07fca67d0b0ba8a3a0b84db53e5
+#EXTINF:-1,Viasat Hockey
+plugin://plugin.video.p2p-streams/?url=acestream://2caed15face7931c01b5be1ee8b876576539b2c3
+#EXTINF:-1,Viasat Motor
+plugin://plugin.video.p2p-streams/?url=acestream://0f62219bbbbf28edfbbee6e8dc166c94dca062a0
+#EXTINF:-1,Viasat Sport
+plugin://plugin.video.p2p-streams/?url=acestream://c6f9fc28545a6c2adbe7d6c1896fe253d859fe69
+#EXTINF:-1,Viasat Sport Baltic
+plugin://plugin.video.p2p-streams/?url=acestream://5d7c874c2b58e1584dbd75c5bee1c51cfb021a3d
+#EXTINF:-1,Viasat Sport HD
+plugin://plugin.video.p2p-streams/?url=acestream://3eda0d9417cfa6ab0e5e29ac6623de997874931e
+#EXTINF:-1,Viasat TV3 Sport 1
+plugin://plugin.video.p2p-streams/?url=acestream://c51b77e4020afdb4d327a9f6495abb10db22a82e
+#EXTINF:-1,Viasat TV3 Sport 2 DN
+plugin://plugin.video.p2p-streams/?url=acestream://53cdbdf779dea70e8e452b87b7d57f06e50c0f3c
+#EXTINF:-1,XSport
+plugin://plugin.video.p2p-streams/?url=acestream://7814d8c1bc2118ff698e8ab2e6f0f4c7c55bb860
+#EXTINF:-1,Viasat 3+
+plugin://plugin.video.p2p-streams/?url=acestream://bd11474f17542051188bad0093145b821cf354cc
+#EXTINF:-1,Viasat Explore
+plugin://plugin.video.p2p-streams/?url=acestream://9d74ad12c064d6ec6447dd6b1c1f5677992cd9c0
+#EXTINF:-1,Viasat Explore CEE
+plugin://plugin.video.p2p-streams/?url=acestream://48316a00da4024847756f78c75b005fcbc86d2a1
+#EXTINF:-1,Viasat Golf
+plugin://plugin.video.p2p-streams/?url=acestream://aed5b1139b4ce07fca67d0b0ba8a3a0b84db53e5
+#EXTINF:-1,Viasat Hockey
+plugin://plugin.video.p2p-streams/?url=acestream://2caed15face7931c01b5be1ee8b876576539b2c3
+#EXTINF:-1,Viasat Sport Sverige
+plugin://plugin.video.p2p-streams/?url=acestream://eed86f460d91461729bb63f4e9d7562ee29db770
+#EXTINF:-1,BBC One
+plugin://plugin.video.p2p-streams/?url=acestream://f79898b51eff51bc9fd89e3e573dfcfd56264657
+#EXTINF:-1,BBC Two
+plugin://plugin.video.p2p-streams/?url=acestream://3fba7d69d74d2a154ae31dc73ca13727cf48a3d6
+#EXTINF:-1,Boomerang
+plugin://plugin.video.p2p-streams/?url=acestream://1d4cf20598da89a02dd69124299fdd3d1765e368
+#EXTINF:-1,Outdoor Channel HD
+plugin://plugin.video.p2p-streams/?url=acestream://09691d0a363dce3c1878c66a63026a45891587ea
+#EXTINF:-1,ESPN (Sports)
+plugin://plugin.video.p2p-streams/?url=acestream://95c43951ff1aab57b59110c7b4b4494a4c3f80e5
+#EXTINF:-1,A-One
+plugin://plugin.video.p2p-streams/?url=acestream://8187aa42353d2937477d24098353a8734c79e1eb
+#EXTINF:-1,A-One UA
+plugin://plugin.video.p2p-streams/?url=acestream://68fabb54bbe5fc23779f16089d0fea7bb9dba9d1
+#EXTINF:-1,ACBN International
+plugin://plugin.video.p2p-streams/?url=acestream://cd694ce78fef28a90443ceb897db89f6398990cf
+#EXTINF:-1,Al Jazeera English
+plugin://plugin.video.p2p-streams/?url=acestream://5dc4a358d4accfb5e1f83e6589fbcddb0e69aad2
+#EXTINF:-1,Amazing Life
+plugin://plugin.video.p2p-streams/?url=acestream://3fa7b674b47d7b59f4786f3e35187f2a12b8e7e3
+#EXTINF:-1,BBC World News
+plugin://plugin.video.p2p-streams/?url=acestream://2715bc8c3cd88f8c656ef6f6cf32adb26b5e3121
+#EXTINF:-1,BT Sport 1 HD
+plugin://plugin.video.p2p-streams/?url=acestream://76cf0fa323dd200541292e2cf006c247851c33e0
+#EXTINF:-1,Business
+plugin://plugin.video.p2p-streams/?url=acestream://3260b17ed88ab7bfdc840e8447361412a3ec84d7
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.p2p-streams/?url=acestream://73683ab022698adfeaa4b558bd76f54fd7619dc3
+#EXTINF:-1,CBS Drama
+plugin://plugin.video.p2p-streams/?url=acestream://c9b4392bc64a441a387c9afdb845a9d35079a9e4
+#EXTINF:-1,CBS Reality
+plugin://plugin.video.p2p-streams/?url=acestream://69c0de25dcb321397acdbaf6dc9859800c6dd14d
+#EXTINF:-1,Sentanta HD
+plugin://plugin.video.p2p-streams/?url=acestream://2771f53db6ea129c5231391e94922a2aadd2c416
+#EXTINF:-1,Sky Sports 2
+plugin://plugin.video.p2p-streams/?url=acestream://0d86799194607c062dd0225800323f91dd0cc5a6
+#EXTINF:-1,TRACE urban HD
+plugin://plugin.video.p2p-streams/?url=acestream://6a85c1ef4903d8133fa8393e70f1c8b63e099b5e
+#EXTINF:-1,Travel Channel
+plugin://plugin.video.p2p-streams/?url=acestream://d79db4577ded3bbdeeedacd4d00bbdc4b27c9c3e
+#EXTINF:-1,Travel Channel HD
+plugin://plugin.video.p2p-streams/?url=acestream://b4cdffdb5c6f84a9d3f84e037cd91748caaa5637
+#EXTINF:-1,Travel+ adventure
+plugin://plugin.video.p2p-streams/?url=acestream://8c463fc562759066bf0f00b485076a57bf316e4c
+#EXTINF:-1,Travel+ adventure HD
+plugin://plugin.video.p2p-streams/?url=acestream://fd0ed24b3b301d2b349a0b726f9d8b49a1ae6841
+#EXTINF:-1,TV1000 Comedy
+plugin://plugin.video.p2p-streams/?url=acestream://3ee1bffa0b9c7781629ada12a5b095e1350edd7d
+#EXTINF:-1,TV1000 Comedy HD
+plugin://plugin.video.p2p-streams/?url=acestream://41a3d102347024e115049a1ff4c523fb220f6d50
+#EXTINF:-1,TV1000 Megahit HD
+plugin://plugin.video.p2p-streams/?url=acestream://715f700456ffa1f14d512470162a4ea5932947ba
+#EXTINF:-1,TV1000 Premium HD
+plugin://plugin.video.p2p-streams/?url=acestream://46107f399db394a9e171c8ea48eada9db28ec743
+#EXTINF:-1,Zee TV
+plugin://plugin.video.p2p-streams/?url=acestream://8b599c7172bb9530eb56ae387817f11098cde5a3
+#EXTINF:-1,Zoom
+plugin://plugin.video.p2p-streams/?url=acestream://71eff02dcbb981307f7033e76e43d1a1d8547e8f
+#EXTINF:-1,Eurosports 2 HD
+plugin://plugin.video.p2p-streams/?url=acestream://053223fa39e6c9731847c8e66b5e81e88e406fdc
+rtmp:// #EXTINF:0,[COLORblue]mxtv live hd :) [/COLOR] rtmp:// #EXTINF:0,[COLORblue] ENJOY ;)[/COLOR] rtmp:// #EXTM3U #EXTM3U #EXTINF:-1,SKY SPORTS 1 HD rtmp://167.114.117.208/live/sky1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky1.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1,SKY SPORTS 1 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13542?!/@KyBoFire #EXTINF:-1,SKY SPORTS 2 HD rtmp://167.114.117.208/live/sky2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky2.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1,SKY SPORTS 2 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13543?!/@KyBoFire #EXTINF:-1, SKY SPORTS 3 HD rtmp://167.114.117.208/live/sky3v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skydarts.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1, SKY SPORTS 3 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13544?!/@KyBoFire #EXTINF:-1,SKY SPORTS 4 HD rtmp://167.114.117.208/live/sky4v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky4.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1,SKY SPORTS 4 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13545?!/@KyBoFire #EXTINF:-1,SKY SPORTS 5 HD rtmp://167.114.117.208/live/bt2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky5.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1,SKY SPORTS 5 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13546?!/@KyBoFire #EXTINF:-1,SKY SPORTS F1 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13547?!/@KyBoFire #EXTINF:-1,BOX NATION HD rtmp://167.114.117.208/live/skynationv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/beinsports.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1,BOX NATION SD http://109.200.20.26:8981/goga/boxnationnnn/index.m3u8 #EXTINF:-1, SS NEWS HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13548?!/@KyBoFire #EXTINF:-1, SS NEWS rtmp://167.114.117.208/live/skynewsv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skynews.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:0, BT1 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13549?!/@KyBoFire #EXTINF:0, BT1 HD rtmp://167.114.117.208/live/bt1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btsports1.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:0, BT2 HD http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13550?!/@KyBoFire #EXTINF:-1,SETANTA IRELAND rtmp://167.114.117.208/live/sentav swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/20.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:0, RACING UK rtmp://167.114.117.208/live/racingukv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/eeesports.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:0, AT THE RACES SD rtmp://31.220.0.195:80/live/ playpath=atracessa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:0, WILLOW CRICKET HD http://109.200.20.26:8981/willowHD/cup1/index.m3u8 #EXTINF:0, CHELSEA TV http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13557?!/@KyBoFire #EXTINF:0, MUTV http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13558?!/@KyBoFire #EXTINF:0, ESPN HD rtmp://142.4.216.204/live/ch1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/1.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:0, BRITISH EUROSPORT 1 HD http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13553?!/@KyBoFire #EXTINF:-1, SKY POKER HD rtmp://rtmp.playback.cdn1.showcaster.com/orcadigital-live06/_definst_/ playpath=stream1352471543352014903_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9.swf live=1 pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp?SEID=135247&isMainCanvas;=FAL SE #EXTINF:-1, Sky poker rtmp://rtmp.playback.cdn1.showcaster.com/orcadigital-live06/_definst_/ playpath=stream1352471543352014903_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9.swf live=1 pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp?SEID=135247&isMainCanvas=FAL SE #EXTINF:-1,SportsNet 360 HD http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8 #EXTINF:-1,NBCsn 720P rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20 #EXTINF:-1, TSN 1 , http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8 #EXTINF:-1, TSN 2 SD (MAY BUFFER) http://109.200.20.26:8981/FHDtsn2/sports/index.m3u8 #EXTINF:-1, TSN 3 , http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8 #EXTINF:0, TSN 4 , http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8 #EXTINF:0, TSN 5 , http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8 #EXTINF:-1, SPORTS ACCESS RANDOM TSN 1-5 HD rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20 #EXTINF:-1, FOX SPORTS 1 HQ rtmp://207.244.76.209/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20 #EXTINF:-1,[COLORblue]-BEin LINKS COME AND GO-[/COLOR] http://stream.ssh101.com #EXTINF:-1,[COLORred]--------------------------------------------------------------------------------------------[/COLOR] http://stream.ssh101.com #EXTINF:0,Bein 1 HD http://2co1.vp9.tv/chn/bin01/v.m3u8 #EXTINF:0,BEIN SPORTS 1 HD http://2co1.vp9.tv/chn/bin01/v.m3u8 #EXTINF:0,Bein 2 HD http://2co1.vp9.tv/chn/bin02/v.m3u8 #EXTINF:0,BEIN SPORTS 2 HD http://2co1.vp9.tv/chn/bin02/v.m3u8 #EXTINF:0,BEIN SPORTS 1 HD http://2co1.vp9.tv/chn/bin01/v.m3u8 #EXTINF:0,BEIN SPORTS 2 HD http://2co1.vp9.tv/chn/bin02/v.m3u8 #EXTINF:0,BEIN SPORTS 3 HD http://2co1.vp9.tv/chn/bin03/v.m3u8 #EXTINF:0,BEIN SPORTS 4 HD http://2co1.vp9.tv/chn/bin04/v.m3u8 #EXTINF:0,BEIN SPORTS 4 HD http://2co1.vp9.tv/chn/bin04/v.m3u8 #EXTINF:-1,[COLORred]--------------------------------------------------------------------------------------------[/COLOR] http://stream.ssh101.com #EXTINF:-1,[COLOR red]MONEYSPORTS STREAMS[/COLOR] http://stream.ssh101.com #EXTINF:-1,[COLOR yellow]SOME LINKS NEED A COUPLE OF CLICKS[/COLOR] http://stream.ssh101.com #EXTINF:-1,[COLOR red]ALL CREDIT TO MARK MONEY FOR THESE LINKS [/COLOR] http://stream.ssh101.com #EXTINF:-1,[COLOR red]IM JUST MAKING IT EASY FOR U TO GET THEM [/COLOR] http://stream.ssh101.com #EXTINF:-0,Astro SuperSport 1 & 3 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] http://stream.ssh101.com/hls/rilril.m3u8 #EXTINF:-0,Astro SuperSport 2 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] http://stream.ssh101.com/hls/qwerew.m3u8 #EXTINF:0,Sporttv 1 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] http://213.250.19.50/sporttv1/sporttv1.isml/sporttv1-video=4500000-audio101=128000.m3u8 #EXTINF:0,Sporttv 2 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] http://213.250.19.50/sporttv2/sporttv2.isml/sporttv2-video=4500000-audio101=128000.m3u8 #EXTINF:0,Sporttv 3 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] http://213.250.19.50/sporttv3/sporttv3.isml/sporttv3-video=4500000-audio101=128000.m3u8 #EXTINF:0,Arenasport 1 http://89.212.240.49:11980/live/smil:365_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0 #EXTINF:0,Arenasport 2 http://89.212.240.49:11980/live/smil:366_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0 #EXTINF:0,Arenasport 3 http://89.212.240.49:11980/live/smil:367_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0 #EXTINF:0,Arenasport 4 http://89.212.240.49:11980/live/smil:368_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0 #EXTINF:0,Arenasport 5 http://89.212.240.49:11980/live/smil:369_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0 #EXTINF:-1 ,Sky sport 1 sd rtmp://31.220.0.195:80/live/ playpath=s1c token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sport 1 BACK UP rtmp://80.82.78.39:443/liverepeater playpath=40 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=40&width=600&height=450 token=#atd%#$ZH #EXTINF:-1,Sky sport 2 sd rtmp://31.220.0.195:80/live/ playpath=sx2 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sport 2 BACK UP rtmp://185.82.215.53:2999/str34m/ playpath=vinho13 swfUrl=http://nicevideo.us/flowplayer-3.2.16.swf pageUrl=http://nicevideo.us/ho3.php?channel=vinho13 #EXTINF:-1,Sky sport 3 sd rtmp://31.220.0.195:80/live/ playpath=s3c token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sport 3 BACK UP http://85.25.246.141:8081/Sports/SkySport3/playlist.m3u8 #EXTINF:-1,Sky sports 4 sd rtmp://31.220.0.195:80/live/ playpath=ssx4 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sports 4 BACK UP http://192.99.24.176:8080/skysp4/s0ssKy44Sp04/index.m3u8 #EXTINF:-1,Sky sport 5 sd rtmp://31.220.0.195:80/live/ playpath=ss5x token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sport 5 BACK UP http://192.99.24.176:8080/skysp5/sksPsp5/index.m3u8 #EXTINF:-1,Sky sport f1 sd rtmp://31.220.0.195:80/live/ playpath=skyf1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sport f1 BACK UP http://192.99.24.176:8080/skKysp11S/SKkyp1/index.m3u8 #EXTINF:-1,Sky Sport News sd rtmp://31.220.0.195:80/live/ playpath=snc token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:0,EUROSPORT sd rtmp://31.220.0.195:80/live/ playpath=eurozddd token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:0,EUROSPORT2 rtmp://80.82.64.140:443/liverepeater/ playpath=21 token=#atd%#$ZH swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 timeout=13 pageUrl=http://popeoftheplayers.eu/ #EXTINF:-1,BTSPORTS 1 rtmp://80.82.78.26:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=620&height=490 token=#atd%#$ZH #EXTINF:-1,BTSPORTS 1 BACK UP http://hospital.privatizehealthinsurance.net:1935/sports/bt1/playlist.m3u8 #EXTINF:-1,BTSPORTS 2 http://hospital.privatizehealthinsurance.net:1935/sports/bt2/playlist.m3u8 #EXTINF:-1,BTSPORTS 2 BACK UP rtmp://31.220.0.195:80/live/ playpath=btx22 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,boxnation http://hospital.privatizehealthinsurance.net:1935/sports/boxnation/playlist.m3u8 #EXTINF:-1,Setanta http://80.77.52.6:7781/udp/230.0.4.1:12345 #EXTINF:-1,Setanta Ireland http://37.157.246.170:8080/88setanta/uk/index.m3u8 #EXTINF:0,Premier sport rtmp://31.220.0.195:80/live/ playpath=premiersport token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:0,ESPN UK rtmp://31.220.0.195:80/live/ playpath=espnxuk token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,At the races rtmp://31.220.0.195:80/live/ playpath=atracessa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Racing UK rtmp://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ playpath=ruk swfUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.swf live=1 pageUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.php?type=live&stream=ruk1&token=ccf6c54e62bc5bd667661d5af5d61e8664c75b11 #EXTINF:1,MUTV rtmp://178.18.31.54:443/liverepeater playpath=1184126 swfUrl=http://bernardotv.club/fuckingcopy.swf pageUrl=http://biggestplayer.me/streamcr.php?id=184126&width=620&height=490 token=#atd%#$ZH #EXTINF:1,MLB HD rtmp://31.220.0.195:80/live/ playpath=mlbxx token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:1,NBCSN http://37.157.246.170:8080/88NBC/SPorts/index.m3u8 #EXTINF:1,WWE NETWORK rtmp://80.82.78.29:443/liverepeater playpath=32 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=32&width=620&height=490 token=#atd%#$ZH #EXTINF:-1,LINKS FOR BEIN SPORTS AND SKY THAT COME AND GO https:// #EXTINF:-1,BEIN SPORTS 1 rtmp://94.102.63.54/iguide playpath=7ggyzll6lv6pbya swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 2 rtmp://94.102.63.54/iguide playpath=l8kp0lx73f3homn swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 3 rtmp://94.102.63.54/iguide playpath=dw6ygzh2v4zagne swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 4 rtmp://94.102.63.54/iguide playpath=hlcl1vpqwin3st1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 5 rtmp://94.102.63.54/iguide playpath=qj54a3u3wbn4ny5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 6 rtmp://94.102.63.54/iguide playpath=edb17tz5wsmy6yu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 7 rtmp://94.102.63.54/iguide playpath=gwvse33vtiqd61s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 8 rtmp://94.102.63.54/iguide playpath=5tl2mxse77mhxys swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 9 rtmp://94.102.63.54/iguide playpath=55qzsqh12p30btb swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 10 rtmp://94.102.63.54/iguide playpath=xdutpjopnqi5y6t swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 11 rtmp://94.102.63.54/iguide playpath=ewa9r9hxonkp9qa swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 12 rtmp://94.102.63.54/iguide playpath=gn66gk886dtvnzt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 13 rtmp://94.102.63.54/iguide playpath=lwt3qptpp7uhrw4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 14 rtmp://94.102.63.54/iguide playpath=xuquxtkesjstifh swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,Sky sports 1 http://198.27.94.105/hls/skysports1_1.m3u8 #EXTINF:-1,Sky sports 2 http://198.27.94.105/hls/skysports2_1.m3u8 #EXTINF:-1,Sky sports 3 http://198.27.94.105/hls/skysports3_1.m3u8 #EXTINF:-1,Sky sports 4 http://198.27.94.105/hls/skysports4_1.m3u8 #EXTINF:-1,Sky sports 5 http://198.27.94.105/hls/skysports5_1.m3u8 #EXTINF:-1,Bt sports 1 http://198.27.94.105/hls/bt1_1.m3u8 #EXTINF:-1,Bt sports 2 http://198.27.94.105/hls/bt2_1.m3u8 #EXTINF:-1,Fox sports 1 http://198.27.94.105/hls/fox1_1.m3u8 #EXTINF:-1,Fox sports 2 http://198.27.94.105/hls/fox2_1.m3u8 #EXTINF:-1,sportsnet 1 http://is.gd/N44G11 #EXTINF:-1,sportsnet 360 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8 #EXTINF:-1,sportsnet world rtmp://31.220.0.195:80/live/ playpath=world token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,sportsnet one rtmp://109.123.70.38:80/live/ playpath=sportsnetw token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,sportsnet ontario rtmp://109.123.70.38:80/live/ playpath=sno token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:0,TSN 1 720 HD http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8 #EXTINF:0,TSN 2 720 HD http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8 #EXTINF:0,TSN 3 720 HD http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8 #EXTINF:0,TSN 4 720 HD http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8 #EXTINF:0,TSN 5 720 HD http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8 #EXTINF:-1,Rai Sport 1 mmsh://212.162.68.163:80/raisport+ #EXTINF:-1,Rai Sport 2 mmsh://212.162.68.163:80/raisport2 #EXTINF:-1,NBC GOLF http://142.4.216.60:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504&xs=_we_bHcxa3VmaW0xa21pdDFofDE0MjAyMDU1MDR8NzIuMjcuMjE0LjMzfDU0YTYxMTIwYWY1YTh8ZTRmZmI3YTRmZmQwZmE2YmMxODA4YzVjYWE1ZGEzOTc4NzE3YjQwNg #EXTINF:-1,Nfl channel http://4.31.30.145:9142 #EXTINF:-1,Fox sport 1 rtmp://31.220.0.195:80/live/ playpath=foxsport1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Fox sport 2 rtmp://31.220.0.195:80/live/ playpath=fox22x token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,]Espn rtmp://213.152.181.12:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=24g3z5b4d4t4w3x2x4h5n274s214y2s2b424w2u2v2t24394&adx=&stream=54y2n5i57494y264d4k544b4v2a494n244v4n4y2w2i304c4x4l5t254w2q274w203p2t274x2z34303y3q2x4y5b4e4f3v3c4t4i2k4j4v5k474n33574a414p4h4z33456t2y3s2p2l51313s274d4z284236324q264m554o5v2r2m5a4u274t254a484g54484z2o2y2t2343434t2y3s2p224&sooor=OQ==&str=is&ok=&cat=1&link=1&idom=ifirstrow.eu #EXTINF:-1,Nba rtmp://213.152.180.159:1935/stream/ playpath=0f5bZcQBIw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=1474b4j5b5l5p393v416n274s214y2s2b424w2u2v2t24394&adx=&stream=6474b4j554f4t2u2n5a4t2k5644443n234m5z264u3a4t3o4v456t254w2q274w203p2t274x2z34303y3p2o5a4j5c574o3o4r4i2k4j4v5k474n33574a414p4h4z33456t2y3s2p2l51313s274d4z284236324q264m554o5v2r2m5a4u274t254a484g54484z2o2y2t2343434t2y3s2p224&sooor=Ng==&str=is&ok=&cat=2&link=1&idom=ifirstrow.eu #EXTINF:,ESPN http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?moneysports #EXTINF:,ESPN HD http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?moneysports #EXTINF:,ESPN2 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?moneysports #EXTINF:,ESPN3 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?moneysports #EXTINF:,FOX SPORTS http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?moneysports #EXTINF:,FOX SPORTS 2 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?moneysports #EXTINF:-1,Sport1 http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1 #EXTINF:-1,TRT SPOR http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8?sd=10&rebase=on #EXTINF:-1,TRT SPOR http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8 #EXTINF:0,Moldova Sport HD http://87.248.160.8/edge/smil:boet/playlist.m3u8 #EXTINF:-1,Sport 5 http://81.201.52.159:8023 #EXTINF:-1,SPORT TIME 7 HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200 #EXTINF:-1,SPORT TIME 6 HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800 #EXTINF:-1,SPORT TIME 5 HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200 #EXTINF:-1,SPORT TIME 4 HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200 #EXTINF:-1,SPORT TIME 3 HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200 #EXTINF:-1,SPORT TIME 2 HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200 #EXTINF:-1,SPORT TIME 1 HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200 #EXTINF:-1,Extreme Sports http://83.139.104.99/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8 #EXTINF:-1,Rossiya 2 Sports http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8 #EXTINF:-1,FANATIK SPOR rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720 #EXTINF:-1,RUS - Football http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8 #EXTINF:-1,TV Pocos - Sports rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp #EXTINF:-1Sevilla FC rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc #EXTINF:0,NOVA SPORT http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/PAZ.m3u8 #EXTINF: -1,[COLOR red]**[/COLOR]KAZSPORT http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8 #EXTINF:-1,AD Sports 1 (UAE) http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8 #EXTINF:-1,AD Sports 2 (UAE) http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8 #EXTINF:0,dubai racing 2 http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8 #EXTINF: -1,NTV + Sport http://91.211.51.155:5555/udp/224.20.20.40:1234 #EXTINF: -1,NTV + Football http://91.211.51.155:5555/udp/224.20.20.41:1234 #EXTINF: -1,NTV + Tennis http://91.211.51.155:5555/udp/224.20.20.48:1234 #EXTINF: -1,NTV + Basketball http://91.211.51.155:5555/udp/224.20.20.49:1234 #EXTINF: -1,NTV + Football 2 http://91.211.51.155:5555/udp/224.20.20.50:1234 #EXTINF: -1,Our Football http://91.211.51.155:5555/udp/224.20.20.51:1234 #EXTINF:-1,Football http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8 #EXTINF:-1,SPORT TV1 rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ AnisotropicTV #EXTINF:-1,SPORT TV2 rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ AnisotropicTV #EXTINF:-1,SPORT TV3 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ AnisotropicTV #EXTINF:-1,C More Sport http://85.8.26.243:8001/1:0:1:12E:3:46:E080000:0:0:0: #EXTINF:-1,star sports 1 http://192.99.24.176:8080/st0rSsport1/StttTtsp011/index.m3u8 #EXTINF:-1,star sports 2 http://192.99.24.176:8080/starrsppp2/sttT0202t0ssp2/index.m3u8 #EXTINF:-1,STAR SPORT 3 http://167.114.41.220:8080/starrr3/star33/index.m3u8 #EXTINF:-1,star sports 4 http://192.99.24.176:8080/Cricket/stsp4LOW/index.m3u8 #EXTINF:-1, Super Sport 1 rtmp://93.174.93.50:443/liveedge/l3o playpath=ss1hdqnq swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK #EXTINF:-1, Super Sport 2 rtmp://93.174.93.50:443/liveedge/l3o playpath=ss2hdj0T swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK #EXTINF:-1, Super Sport 3 rtmp://93.174.93.50:443/liveedge/l3o playpath=ss3hdnSP swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK #EXTINF:-1, Super Sport 4 rtmp://93.174.93.50:443/liveedge/l3o playpath=ss4hdYfE swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK #EXTINF:-1,Digi Sport 1 http://91.211.51.155:5555/udp/224.20.20.241:1234 #EXTINF:-1,Digi Sport 2 http://91.211.51.155:5555/udp/224.20.20.240:1234 #EXTINF:-1,Digi Sport 3 http://91.211.51.155:5555/udp/224.20.20.239:1234 #EXTINF:-1,[COLOR red]LIVE CRICKET[/COLOR] https://www.facebook.com/groups/Iptv.m3u.Sharing/ #EXTINF:-1,WILLOW HD #EXTINF:-1,STAR SPORTS 1 http://192.99.24.176:8080/st0rSsport1/StttTtsp011/index.m3u8 #EXTINF:-1,STAR SPORTS 2 http://192.99.24.176:8080/starrsppp2/sttT0202t0ssp2/index.m3u8 #EXTINF:-1,STAR SPORT 3 http://167.114.41.220:8080/starrr3/star33/index.m3u8 #EXTINF:-1,STAR SPORTS 4 http://192.99.24.176:8080/Cricket/stsp4LOW/index.m3u8 #EXTINF:-1,sky sport world cup rtmp://185.82.215.53:2999/str34m/ playpath=vinho13 swfUrl=http://nicevideo.us/flowplayer-3.2.16.swf pageUrl=http://nicevideo.us/ho3.php?channel=vinho13 #EXTINF:-1,BBC Radio 5 Live http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p?s= #EXTINF:-1,TalkSPORT http://radio.talksport.com/uk?aisGetOriginalStream=true.mp3 #EXTINF:-1,[COLOR red]ACESTREAM LINKS[/COLOR][COLOR yellow]**********************************************************[/COLOR] https:// #EXTINF:-1,OTE Sport 1HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] plugin://plugin.video.p2p-streams/?url=acestream://1bf854b67e052abe65415624e7c1a7bb892d4b22&mode=1&name=acestream+OTE Sport 1HD #EXTINF:-1,OTE Sport 2HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] plugin://plugin.video.p2p-streams/?url=acestream://291da73ba7690f33954b767378e3f56076043a79&mode=1&name=acestream+OTE Sport 2HD #EXTINF:-1,OTE Sport 3HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] plugin://plugin.video.p2p-streams/?url=acestream://48c6a54d9309dc2cd1bdafe96bc490982648780b&mode=1&name=acestream+OTE Sport 3HD #EXTINF:-1,OTE Sport 4HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] plugin://plugin.video.p2p-streams/?url=acestream://9c19b0ef4dd5f4af5e4be2c54f02a84b8878331c&mode=1&name=acestream+OTE Sport 4HD #EXTINF:-1,OTE Sport 5HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] plugin://plugin.video.p2p-streams/?url=acestream://53db4eabf9b77f3cd0e0ab5d9cb1d6c9419e0d10&mode=1&name=acestream+OTE Sport 5HD #EXTINF:-1,OTE Sport 6HD [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] plugin://plugin.video.p2p-streams/?url=acestream://9e7ff255784280cf59b1bec7c5166f3ac1ad0321&mode=1&name=acestream+OTE Sport 6HD #EXTINF:-1,Polsat Sport plugin://plugin.video.p2p-streams/?url=acestream://6de5e5758ac955412e8149412d2d3b0db4f2e83a&mode=1&name=acestream+POLSAT SPORT #EXTINF:-1,Arena Sport 1 plugin://plugin.video.p2p-streams/?url=acestream://ed3c99ff1e6d3a35b4df19560722fcffea850378&mode=1&name=acestream+ARENA 1 #EXTINF:-1,Arena Sport 2 plugin://plugin.video.p2p-streams/?url=acestream://42be01275c32742099e2d5915484614d5fdde33a&mode=1&name=acestream+ARENA 2 #EXTINF:-1,Arena Sport 3 plugin://plugin.video.p2p-streams/?url=acestream://e2176c590d3d36b81586748746389615485325c1&mode=1&name=acestream+ARENA 3 #EXTINF:-1,Arena Sport 4 plugin://plugin.video.p2p-streams/?url=acestream://1db78c31b71b5ee26236b2d881a9bd9a02aabbf3&mode=1&name=acestream+ARENA 4 #EXTINF:-1,BT Sport 1 plugin://plugin.video.p2p-streams/?url=acestream://94cf00ad0fbae701127270ac08a8cd1a23883448&mode=1&name=acestream+BT SPORTS 1 #EXTINF:-1,BT Sport 2 plugin://plugin.video.p2p-streams/?url=acestream://a7c44134c28dd2183d341f52044326c2c061f1d6&mode=1&name=acestream+BT SPORTS 2 #EXTINF:-1,BoxNation plugin://plugin.video.p2p-streams/?url=acestream://ea376ca535922f820d78cb0957b72095d19ee86a&mode=1&name=acestream+boxnation #EXTINF:-1,Sky Sports 1 plugin://plugin.video.p2p-streams/?url=acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955&mode=1&name=acestream+SKY SPORTS 1 #EXTINF:-1,Sky Sports 2 plugin://plugin.video.p2p-streams/?url=acestream://c36cfe788f185f7e7238b021e738951628336cfe&mode=1&name=acestream+SKY SPORTS 2 #EXTINF:-1,Sky Sports 3 plugin://plugin.video.p2p-streams/?url=acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887&mode=1&name=acestream+SKY SPORTS 3 #EXTINF:-1,Sky Sports 4 plugin://plugin.video.p2p-streams/?url=acestream://203e4da82989736f8c324d588acc5d622ff6bfd3&mode=1&name=acestream+SKY SPORTS 4 #EXTINF:-1,Sky Sports 5 plugin://plugin.video.p2p-streams/?url=acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b&mode=1&name=acestream+SKY SPORTS 5 #EXTINF:-1,Sky Sports F1 plugin://plugin.video.p2p-streams/?url=acestream://2dff503259045e4d119e6e972a3db8521c47198a&mode=1&name=acestream+SKY SPORTS f1 #EXTINF:-1,PREMIER SPORTS plugin://plugin.video.p2p-streams/?url=acestream://9d21d20f6423387ec87463d7ac9b3c9196e7d4ed&mode=1&name=acestream+moneysports #EXTINF:-1,Setanta Sports + HD plugin://plugin.video.p2p-streams/?urlacestream://088fb3bfdc2ecd527c2ccdbdc06a4a1d0edb92db&mode=1&name=acestream+moneysports #EXTINF:-1,Sky Sport 1HD Italia plugin://plugin.video.p2p-streams/?urlacestream://35effe2fb65eb170d0275ceb38c99b8cc9d1cca7&mode=1&name=acestream+moneysports #EXTINF:-1,Setanta Sports plugin://plugin.video.p2p-streams/?url=acestream://d5d6cc87a90d08fde0b3d072a7e703de13c15878&mode=1&name=acestream+moneysports #EXTINF:-1,CMore Live plugin://plugin.video.p2p-streams/?url=acestream://20b57889e46740135bdc62ac9f4f27789a221d8d&mode=1&name=acestream+moneysports #EXTINF:-1,Sport1 plugin://plugin.video.p2p-streams/?url=acestream://39236bbd5a5c713953ac27de1692d56e4323e6a9&mode=1&name=acestream+moneysports #EXTINF:-1,Fox Sports 2 NDL plugin://plugin.video.p2p-streams/?url=acestream://9f69c544d2b91e1beee94972bc943ce9fe1a40f0a&mode=1&name=acestream+fox sports 2 ndl #EXTINF:-1,Sport Klub 1 plugin://plugin.video.p2p-streams/?url=acestream://5502873157562d1eb6c9344ed3eecc20f54a8743&mode=1&name=acestream+sport klub1 #EXTINF:-1,Sport Klub 2 plugin://plugin.video.p2p-streams/?url=acestream://bdeb795fcb5836e31d7c3944aa286048d1cc608b&mode=1&name=acestream+SK2 #EXTINF:-1,Sport Klub 3 plugin://plugin.video.p2p-streams/?url=acestream://344b3f00db6423245f73876bf687dbade8029838&mode=1&name=acestream+SK3 #EXTINF:-1,Viasat Sport plugin://plugin.video.p2p-streams/?url=acestream://0fe3ba8cc63bed1d0f4175be69478dc92d8960b7&mode=1&name=acestream+VIASAT SPORTS #EXTINF:-1,Viasat Sport Baltic plugin://plugin.video.p2p-streams/?url=acestream://5d7c874c2b58e1584dbd75c5bee1c51cfb021a3d&mode=1&name=acestream+VIASAT SPORTS BALTIC #EXTINF:-1,Viasat Golf plugin://plugin.video.p2p-streams/?url=acestream://aed5b1139b4ce07fca67d0b0ba8a3a0b84db53e5&mode=1&name=acestream+VIASAT SPORTS GOLF #EXTINF:-1,Viasat Sport HD plugin://plugin.video.p2p-streams/?url=acestream://1f4d407e1895e164665ee83a47bed39bd5bd7add&mode=1&name=acestream+VIASAT SPORTS HD #EXTINF:-1,Viasat Sport Sverige plugin://plugin.video.p2p-streams/?url=acestream://bf46d9e9de30041ee2609a0df6b67bc79ba8f67e&mode=1&name=acestream+VIASAT SPORTS SVERIGE #EXTINF:-1,Viasat TV3 Sport 1 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] plugin://plugin.video.p2p-streams/?url=acestream://c51b77e4020afdb4d327a9f6495abb10db22a82e&mode=1&name=acestream+VIASAT TV3 1 #EXTINF:-1,Viasat TV3 Sport 2 DN [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] plugin://plugin.video.p2p-streams/?url=acestream://53cdbdf779dea70e8e452b87b7d57f06e50c0f3c&mode=1&name=acestream+VIASAT TV3 2 #EXTINF:-1,Nova Sport BG plugin://plugin.video.p2p-streams/?url=acestream://cfcda8b9579f72f7e9fadffddb1f9b0d9714d20d&mode=1&name=acestream+nova sport #EXTINF:-1,Sport 1 Hu plugin://plugin.video.p2p-streams/?url=acestream://728f78697941169b00268c022ac770cc2989f563&mode=1&name=acestream+sport1 #EXTINF:-1,Sport 2 Hu plugin://plugin.video.p2p-streams/?url=acestream://398c39c8b825c914fc86f225b43b60009eca9a44&mode=1&name=acestream+sport2 #EXTINF:-1,Sport 5 plugin://plugin.video.p2p-streams/?url=acestream://d069e6454f1b293e4b22fb0d9e42ad077f728d9c&mode=1&name=acestream+sport 5 #EXTINF:-1,Sportmania Es plugin://plugin.video.p2p-streams/?url=acestream://642a383e03713b3e281ae6c5ea7fe3d03a1543c6&mode=1&name=acestream+sportsmania #EXTINF:-1,NBA TV plugin://plugin.video.p2p-streams/?url=acestream://cc8a9dfb31323ba2c2c3e337994a53be813b1686&mode=1&name=acestream+NBATV #EXTINF:-1,[COLORred]more acestreams[/COLOR] plugin:// #EXTM3U #EXTINF:-1,FightBox HD plugin://plugin.video.p2p-streams/?url=acestream://2e6d8c01f32f69bd677bcb292aaf795e823b763d #EXTINF:-1,Fox Sports 2 NDL plugin://plugin.video.p2p-streams/?url=acestream://9f69c544d2b91e1beee94972bc943ce9fe1a40f0a #EXTINF:-1,Motors TV plugin://plugin.video.p2p-streams/?url=acestream://4670b5bc5f1f84b76aa15d5c266149025225cd88 #EXTINF:-1,NBA HD plugin://plugin.video.p2p-streams/?url=acestream://4bd75bd4f1bea41c693f1dcab520a6b2ba1bba76 #EXTINF:-1,NBA TV plugin://plugin.video.p2p-streams/?url=acestream://cc8a9dfb31323ba2c2c3e337994a53be813b1686 #EXTINF:-1,Premier Sports plugin://plugin.video.p2p-streams/?url=acestream://9d21d20f6423387ec87463d7ac9b3c9196e7d4ed #EXTINF:-1,Setanta Sports Eurasia HD plugin://plugin.video.p2p-streams/?url=acestream://ab760f0de5d6199cc56a44e972207ac0687de1b3 #EXTINF:-1,Sky Sports 1 plugin://plugin.video.p2p-streams/?url=acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955 #EXTINF:-1,Sky Sports 3 acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887 #EXTINF:-1,Sky Sports 4 plugin://plugin.video.p2p-streams/?url=acestream://203e4da82989736f8c324d588acc5d622ff6bfd3 #EXTINF:-1,Sky Sports 5 plugin://plugin.video.p2p-streams/?url=acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b #EXTINF:-1,Sky Sports F1 acestream://2dff503259045e4d119e6e972a3db8521c47198a #EXTINF:-1,Sport 5 plugin://plugin.video.p2p-streams/?url=acestream://d069e6454f1b293e4b22fb0d9e42ad077f728d9c #EXTINF:-1,Viasat Golf plugin://plugin.video.p2p-streams/?url=acestream://aed5b1139b4ce07fca67d0b0ba8a3a0b84db53e5 #EXTINF:-1,Viasat Hockey plugin://plugin.video.p2p-streams/?url=acestream://2caed15face7931c01b5be1ee8b876576539b2c3 #EXTINF:-1,Viasat Motor plugin://plugin.video.p2p-streams/?url=acestream://0f62219bbbbf28edfbbee6e8dc166c94dca062a0 #EXTINF:-1,Viasat Sport plugin://plugin.video.p2p-streams/?url=acestream://c6f9fc28545a6c2adbe7d6c1896fe253d859fe69 #EXTINF:-1,Viasat Sport Baltic plugin://plugin.video.p2p-streams/?url=acestream://5d7c874c2b58e1584dbd75c5bee1c51cfb021a3d #EXTINF:-1,Viasat Sport HD plugin://plugin.video.p2p-streams/?url=acestream://3eda0d9417cfa6ab0e5e29ac6623de997874931e #EXTINF:-1,Viasat TV3 Sport 1 plugin://plugin.video.p2p-streams/?url=acestream://c51b77e4020afdb4d327a9f6495abb10db22a82e #EXTINF:-1,Viasat TV3 Sport 2 DN plugin://plugin.video.p2p-streams/?url=acestream://53cdbdf779dea70e8e452b87b7d57f06e50c0f3c #EXTINF:-1,XSport plugin://plugin.video.p2p-streams/?url=acestream://7814d8c1bc2118ff698e8ab2e6f0f4c7c55bb860 #EXTINF:-1,Viasat 3+ plugin://plugin.video.p2p-streams/?url=acestream://bd11474f17542051188bad0093145b821cf354cc #EXTINF:-1,Viasat Explore plugin://plugin.video.p2p-streams/?url=acestream://9d74ad12c064d6ec6447dd6b1c1f5677992cd9c0 #EXTINF:-1,Viasat Explore CEE plugin://plugin.video.p2p-streams/?url=acestream://48316a00da4024847756f78c75b005fcbc86d2a1 #EXTINF:-1,Viasat Golf plugin://plugin.video.p2p-streams/?url=acestream://aed5b1139b4ce07fca67d0b0ba8a3a0b84db53e5 #EXTINF:-1,Viasat Hockey plugin://plugin.video.p2p-streams/?url=acestream://2caed15face7931c01b5be1ee8b876576539b2c3 #EXTINF:-1,Viasat Sport Sverige plugin://plugin.video.p2p-streams/?url=acestream://eed86f460d91461729bb63f4e9d7562ee29db770 #EXTINF:-1,BBC One plugin://plugin.video.p2p-streams/?url=acestream://f79898b51eff51bc9fd89e3e573dfcfd56264657 #EXTINF:-1,BBC Two plugin://plugin.video.p2p-streams/?url=acestream://3fba7d69d74d2a154ae31dc73ca13727cf48a3d6 #EXTINF:-1,Boomerang plugin://plugin.video.p2p-streams/?url=acestream://1d4cf20598da89a02dd69124299fdd3d1765e368 #EXTINF:-1,Outdoor Channel HD plugin://plugin.video.p2p-streams/?url=acestream://09691d0a363dce3c1878c66a63026a45891587ea #EXTINF:-1,ESPN (Sports) plugin://plugin.video.p2p-streams/?url=acestream://95c43951ff1aab57b59110c7b4b4494a4c3f80e5 #EXTINF:-1,A-One plugin://plugin.video.p2p-streams/?url=acestream://8187aa42353d2937477d24098353a8734c79e1eb #EXTINF:-1,A-One UA plugin://plugin.video.p2p-streams/?url=acestream://68fabb54bbe5fc23779f16089d0fea7bb9dba9d1 #EXTINF:-1,ACBN International plugin://plugin.video.p2p-streams/?url=acestream://cd694ce78fef28a90443ceb897db89f6398990cf #EXTINF:-1,Al Jazeera English plugin://plugin.video.p2p-streams/?url=acestream://5dc4a358d4accfb5e1f83e6589fbcddb0e69aad2 #EXTINF:-1,Amazing Life plugin://plugin.video.p2p-streams/?url=acestream://3fa7b674b47d7b59f4786f3e35187f2a12b8e7e3 #EXTINF:-1,BBC World News plugin://plugin.video.p2p-streams/?url=acestream://2715bc8c3cd88f8c656ef6f6cf32adb26b5e3121 #EXTINF:-1,BT Sport 1 HD plugin://plugin.video.p2p-streams/?url=acestream://76cf0fa323dd200541292e2cf006c247851c33e0 #EXTINF:-1,Business plugin://plugin.video.p2p-streams/?url=acestream://3260b17ed88ab7bfdc840e8447361412a3ec84d7 #EXTINF:-1,Cartoon Network plugin://plugin.video.p2p-streams/?url=acestream://73683ab022698adfeaa4b558bd76f54fd7619dc3 #EXTINF:-1,CBS Drama plugin://plugin.video.p2p-streams/?url=acestream://c9b4392bc64a441a387c9afdb845a9d35079a9e4 #EXTINF:-1,CBS Reality plugin://plugin.video.p2p-streams/?url=acestream://69c0de25dcb321397acdbaf6dc9859800c6dd14d #EXTINF:-1,Sentanta HD plugin://plugin.video.p2p-streams/?url=acestream://2771f53db6ea129c5231391e94922a2aadd2c416 #EXTINF:-1,Sky Sports 2 plugin://plugin.video.p2p-streams/?url=acestream://0d86799194607c062dd0225800323f91dd0cc5a6 #EXTINF:-1,TRACE urban HD plugin://plugin.video.p2p-streams/?url=acestream://6a85c1ef4903d8133fa8393e70f1c8b63e099b5e #EXTINF:-1,Travel Channel plugin://plugin.video.p2p-streams/?url=acestream://d79db4577ded3bbdeeedacd4d00bbdc4b27c9c3e #EXTINF:-1,Travel Channel HD plugin://plugin.video.p2p-streams/?url=acestream://b4cdffdb5c6f84a9d3f84e037cd91748caaa5637 #EXTINF:-1,Travel+ adventure plugin://plugin.video.p2p-streams/?url=acestream://8c463fc562759066bf0f00b485076a57bf316e4c #EXTINF:-1,Travel+ adventure HD plugin://plugin.video.p2p-streams/?url=acestream://fd0ed24b3b301d2b349a0b726f9d8b49a1ae6841 #EXTINF:-1,TV1000 Comedy plugin://plugin.video.p2p-streams/?url=acestream://3ee1bffa0b9c7781629ada12a5b095e1350edd7d #EXTINF:-1,TV1000 Comedy HD plugin://plugin.video.p2p-streams/?url=acestream://41a3d102347024e115049a1ff4c523fb220f6d50 #EXTINF:-1,TV1000 Megahit HD plugin://plugin.video.p2p-streams/?url=acestream://715f700456ffa1f14d512470162a4ea5932947ba #EXTINF:-1,TV1000 Premium HD plugin://plugin.video.p2p-streams/?url=acestream://46107f399db394a9e171c8ea48eada9db28ec743 #EXTINF:-1,Zee TV plugin://plugin.video.p2p-streams/?url=acestream://8b599c7172bb9530eb56ae387817f11098cde5a3 #EXTINF:-1,Zoom plugin://plugin.video.p2p-streams/?url=acestream://71eff02dcbb981307f7033e76e43d1a1d8547e8f #EXTINF:-1,Eurosports 2 HD plugin://plugin.video.p2p-streams/?url=acestream://053223fa39e6c9731847c8e66b5e81e88e406fdc
+ 
+ 
+#EXTM3U #EXTINF:0, #EXTINF:0, #EXTINF:0,[COLORblue]streams updated automatically now just power off on[/COLOR] rtmp:// #EXTINF:0,[COLORblue]mxtv live hd :) [/COLOR] rtmp:// #EXTINF:0,[COLORblue] ENJOY ;)[/COLOR] rtmp:// #EXTM3U #EXTM3U #EXTINF:-1,SKY SPORTS 1 HD rtmp://167.114.117.208/live/sky1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky1.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1,SKY SPORTS 1 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13542?!/@KyBoFire #EXTINF:-1,SKY SPORTS 2 HD rtmp://167.114.117.208/live/sky2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky2.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1,SKY SPORTS 2 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13543?!/@KyBoFire #EXTINF:-1, SKY SPORTS 3 HD rtmp://167.114.117.208/live/sky3v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skydarts.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1, SKY SPORTS 3 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13544?!/@KyBoFire #EXTINF:-1,SKY SPORTS 4 HD rtmp://167.114.117.208/live/sky4v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky4.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1,SKY SPORTS 4 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13545?!/@KyBoFire #EXTINF:-1,SKY SPORTS 5 HD rtmp://167.114.117.208/live/bt2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky5.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1,SKY SPORTS 5 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13546?!/@KyBoFire #EXTINF:-1,SKY SPORTS F1 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13547?!/@KyBoFire #EXTINF:-1,BOX NATION HD rtmp://167.114.117.208/live/skynationv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/beinsports.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:-1,BOX NATION SD http://109.200.20.26:8981/goga/boxnationnnn/index.m3u8 #EXTINF:-1, SS NEWS HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13548?!/@KyBoFire #EXTINF:-1, SS NEWS rtmp://167.114.117.208/live/skynewsv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skynews.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:0, BT1 HD 1080P http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13549?!/@KyBoFire #EXTINF:0, BT1 HD rtmp://167.114.117.208/live/bt1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btsports1.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:0, BT2 HD http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13550?!/@KyBoFire #EXTINF:-1,SETANTA IRELAND rtmp://167.114.117.208/live/sentav swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/20.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:0, RACING UK rtmp://167.114.117.208/live/racingukv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/eeesports.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:0, AT THE RACES SD rtmp://31.220.0.195:80/live/ playpath=atracessa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:0, WILLOW CRICKET HD http://109.200.20.26:8981/willowHD/cup1/index.m3u8 #EXTINF:0, CHELSEA TV http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13557?!/@KyBoFire #EXTINF:0, MUTV http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13558?!/@KyBoFire #EXTINF:0, ESPN HD rtmp://142.4.216.204/live/ch1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/1.php live=true timeout=20 token=WY846p1E1g15W7s #EXTINF:0, BRITISH EUROSPORT 1 HD http://86.106.137.188:88/ruyaserver/stream/plays_b1.php?stream_id=13553?!/@KyBoFire #EXTINF:-1, SKY POKER HD rtmp://rtmp.playback.cdn1.showcaster.com/orcadigital-live06/_definst_/ playpath=stream1352471543352014903_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9.swf live=1 pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp?SEID=135247&isMainCanvas;=FAL SE #EXTINF:-1, Sky poker rtmp://rtmp.playback.cdn1.showcaster.com/orcadigital-live06/_definst_/ playpath=stream1352471543352014903_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9.swf live=1 pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp?SEID=135247&isMainCanvas=FAL SE #EXTINF:-1,SportsNet 360 HD http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8 #EXTINF:-1,NBCsn 720P rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20 #EXTINF:-1, TSN 1 , http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8 #EXTINF:-1, TSN 2 SD (MAY BUFFER) http://109.200.20.26:8981/FHDtsn2/sports/index.m3u8 #EXTINF:-1, TSN 3 , http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8 #EXTINF:0, TSN 4 , http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8 #EXTINF:0, TSN 5 , http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8 #EXTINF:-1, SPORTS ACCESS RANDOM TSN 1-5 HD rtmp://w13.vmnode.pw:1935/live playpath=tsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/tsnmix.php live=true timeout=20 #EXTINF:-1, FOX SPORTS 1 HQ rtmp://207.244.76.209/live playpath=fs1 swfUrl=http://sportsaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/fs1.php live=true timeout=20 #EXTINF:-1,[COLORblue]-BEin LINKS COME AND GO-[/COLOR] http://stream.ssh101.com #EXTINF:-1,[COLORred]--------------------------------------------------------------------------------------------[/COLOR] http://stream.ssh101.com #EXTINF:0,Bein 1 HD http://2co1.vp9.tv/chn/bin01/v.m3u8 #EXTINF:0,BEIN SPORTS 1 HD http://2co1.vp9.tv/chn/bin01/v.m3u8 #EXTINF:0,Bein 2 HD http://2co1.vp9.tv/chn/bin02/v.m3u8 #EXTINF:0,BEIN SPORTS 2 HD http://2co1.vp9.tv/chn/bin02/v.m3u8 #EXTINF:0,BEIN SPORTS 1 HD http://2co1.vp9.tv/chn/bin01/v.m3u8 #EXTINF:0,BEIN SPORTS 2 HD http://2co1.vp9.tv/chn/bin02/v.m3u8 #EXTINF:0,BEIN SPORTS 3 HD http://2co1.vp9.tv/chn/bin03/v.m3u8 #EXTINF:0,BEIN SPORTS 4 HD http://2co1.vp9.tv/chn/bin04/v.m3u8 #EXTINF:0,BEIN SPORTS 4 HD http://2co1.vp9.tv/chn/bin04/v.m3u8 #EXTINF:-1,[COLORred]--------------------------------------------------------------------------------------------[/COLOR] http://stream.ssh101.com #EXTINF:-1,[COLOR red]MONEYSPORTS STREAMS[/COLOR] http://stream.ssh101.com #EXTINF:-1,[COLOR yellow]SOME LINKS NEED A COUPLE OF CLICKS[/COLOR] http://stream.ssh101.com #EXTINF:-1,[COLOR red]ALL CREDIT TO MARK MONEY FOR THESE LINKS [/COLOR] http://stream.ssh101.com #EXTINF:-1,[COLOR red]IM JUST MAKING IT EASY FOR U TO GET THEM [/COLOR] http://stream.ssh101.com #EXTINF:-0,Astro SuperSport 1 & 3 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] http://stream.ssh101.com/hls/rilril.m3u8 #EXTINF:-0,Astro SuperSport 2 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] http://stream.ssh101.com/hls/qwerew.m3u8 #EXTINF:0,Sporttv 1 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] http://213.250.19.50/sporttv1/sporttv1.isml/sporttv1-video=4500000-audio101=128000.m3u8 #EXTINF:0,Sporttv 2 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] http://213.250.19.50/sporttv2/sporttv2.isml/sporttv2-video=4500000-audio101=128000.m3u8 #EXTINF:0,Sporttv 3 [COLOR yellow]SHOWS LIVE FOOTBALL[/COLOR] http://213.250.19.50/sporttv3/sporttv3.isml/sporttv3-video=4500000-audio101=128000.m3u8 #EXTINF:0,Arenasport 1 http://89.212.240.49:11980/live/smil:365_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0 #EXTINF:0,Arenasport 2 http://89.212.240.49:11980/live/smil:366_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0 #EXTINF:0,Arenasport 3 http://89.212.240.49:11980/live/smil:367_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0 #EXTINF:0,Arenasport 4 http://89.212.240.49:11980/live/smil:368_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0 #EXTINF:0,Arenasport 5 http://89.212.240.49:11980/live/smil:369_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0 #EXTINF:-1 ,Sky sport 1 sd rtmp://31.220.0.195:80/live/ playpath=s1c token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sport 1 BACK UP rtmp://80.82.78.39:443/liverepeater playpath=40 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=40&width=600&height=450 token=#atd%#$ZH #EXTINF:-1,Sky sport 2 sd rtmp://31.220.0.195:80/live/ playpath=sx2 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sport 2 BACK UP rtmp://185.82.215.53:2999/str34m/ playpath=vinho13 swfUrl=http://nicevideo.us/flowplayer-3.2.16.swf pageUrl=http://nicevideo.us/ho3.php?channel=vinho13 #EXTINF:-1,Sky sport 3 sd rtmp://31.220.0.195:80/live/ playpath=s3c token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sport 3 BACK UP http://85.25.246.141:8081/Sports/SkySport3/playlist.m3u8 #EXTINF:-1,Sky sports 4 sd rtmp://31.220.0.195:80/live/ playpath=ssx4 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sports 4 BACK UP http://192.99.24.176:8080/skysp4/s0ssKy44Sp04/index.m3u8 #EXTINF:-1,Sky sport 5 sd rtmp://31.220.0.195:80/live/ playpath=ss5x token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sport 5 BACK UP http://192.99.24.176:8080/skysp5/sksPsp5/index.m3u8 #EXTINF:-1,Sky sport f1 sd rtmp://31.220.0.195:80/live/ playpath=skyf1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Sky sport f1 BACK UP http://192.99.24.176:8080/skKysp11S/SKkyp1/index.m3u8 #EXTINF:-1,Sky Sport News sd rtmp://31.220.0.195:80/live/ playpath=snc token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:0,EUROSPORT sd rtmp://31.220.0.195:80/live/ playpath=eurozddd token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:0,EUROSPORT2 rtmp://80.82.64.140:443/liverepeater/ playpath=21 token=#atd%#$ZH swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 timeout=13 pageUrl=http://popeoftheplayers.eu/ #EXTINF:-1,BTSPORTS 1 rtmp://80.82.78.26:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=620&height=490 token=#atd%#$ZH #EXTINF:-1,BTSPORTS 1 BACK UP http://hospital.privatizehealthinsurance.net:1935/sports/bt1/playlist.m3u8 #EXTINF:-1,BTSPORTS 2 http://hospital.privatizehealthinsurance.net:1935/sports/bt2/playlist.m3u8 #EXTINF:-1,BTSPORTS 2 BACK UP rtmp://31.220.0.195:80/live/ playpath=btx22 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,boxnation http://hospital.privatizehealthinsurance.net:1935/sports/boxnation/playlist.m3u8 #EXTINF:-1,Setanta http://80.77.52.6:7781/udp/230.0.4.1:12345 #EXTINF:-1,Setanta Ireland http://37.157.246.170:8080/88setanta/uk/index.m3u8 #EXTINF:0,Premier sport rtmp://31.220.0.195:80/live/ playpath=premiersport token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:0,ESPN UK rtmp://31.220.0.195:80/live/ playpath=espnxuk token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,At the races rtmp://31.220.0.195:80/live/ playpath=atracessa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:-1,Racing UK rtmp://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ playpath=ruk swfUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.swf live=1 pageUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.php?type=live&stream=ruk1&token=ccf6c54e62bc5bd667661d5af5d61e8664c75b11 #EXTINF:1,MUTV rtmp://178.18.31.54:443/liverepeater playpath=1184126 swfUrl=http://bernardotv.club/fuckingcopy.swf pageUrl=http://biggestplayer.me/streamcr.php?id=184126&width=620&height=490 token=#atd%#$ZH #EXTINF:1,MLB HD rtmp://31.220.0.195:80/live/ playpath=mlbxx token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/ #EXTINF:1,NBCSN http://37.157.246.170:8080/88NBC/SPorts/index.m3u8 #EXTINF:1,WWE NETWORK rtmp://80.82.78.29:443/liverepeater playpath=32 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=32&width=620&height=490 token=#atd%#$ZH #EXTINF:-1,LINKS FOR BEIN SPORTS AND SKY THAT COME AND GO https:// #EXTINF:-1,BEIN SPORTS 1 rtmp://94.102.63.54/iguide playpath=7ggyzll6lv6pbya swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 2 rtmp://94.102.63.54/iguide playpath=l8kp0lx73f3homn swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 3 rtmp://94.102.63.54/iguide playpath=dw6ygzh2v4zagne swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 4 rtmp://94.102.63.54/iguide playpath=hlcl1vpqwin3st1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 5 rtmp://94.102.63.54/iguide playpath=qj54a3u3wbn4ny5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 6 rtmp://94.102.63.54/iguide playpath=edb17tz5wsmy6yu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 7 rtmp://94.102.63.54/iguide playpath=gwvse33vtiqd61s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 8 rtmp://94.102.63.54/iguide playpath=5tl2mxse77mhxys swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 9 rtmp://94.102.63.54/iguide playpath=55qzsqh12p30btb swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 10 rtmp://94.102.63.54/iguide playpath=xdutpjopnqi5y6t swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 11 rtmp://94.102.63.54/iguide playpath=ewa9r9hxonkp9qa swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/amine1313dz. token=#ed%h0#w18623jsda6523lDGD #EXTINF:-1,BEIN SPORTS 12 rtmp://94.102.63.54/iguide playpath=gn66gk886dtvnzt swfUrl=http://www.iguide.to/player/secure_play
