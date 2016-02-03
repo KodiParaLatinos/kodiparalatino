@@ -4708,7 +4708,7 @@ swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 	
 <item>
-<title>[COLOR red]*[/COLOR][COLOR deepskyblue]  España [/COLOR]</title>
+<title>[COLOR blue]*[/COLOR][COLOR red]  España [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/esp.xml</externallink>
 </item>
@@ -4725,7 +4725,7 @@ swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.
   
   
    <item>
-<title>[COLOR red]*[/COLOR][COLOR deepskyblue]  Mexico[/COLOR] </title>
+<title>[COLOR blue]*[/COLOR][COLOR red]  Mexico[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/mx.xml</externallink>
 </item>
@@ -4738,12 +4738,13 @@ swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.
     <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 
+    
     <item>
-	<title>A&E HD</title>
-	<link>http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?playkodi=%2F.ts</link>
-    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
-    </item>
-	
+<title>[COLOR blue]*[/COLOR][COLOR red]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/ent.xml</externallink>
+</item>
+
 
 
 
@@ -4753,12 +4754,11 @@ swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.
     <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 
-    <item>
-	<title>A&E HD</title>
-	<link>http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?playkodi=%2F.ts</link>
-    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
-    </item>
-
+   <item>
+<title>[COLOR blue]*[/COLOR][COLOR red]  Musica[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/musi.xml</externallink>
+</item>
    
    
    
@@ -4770,7 +4770,16 @@ swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.
     
     
   
-  
+  <item>
+<title>[COLOR blue]*[/COLOR][COLOR red]  Paises[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/paises.xml</externallink>
+</item>
+<item>
+<title>[COLOR blue]*[/COLOR][COLOR red]  Internacionales[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/inter.xml</externallink>
+</item>
 
 
     
