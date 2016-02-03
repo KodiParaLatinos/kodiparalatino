@@ -116,7 +116,7 @@ http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?supertvlat=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?supertvlat=%2F.ts
 
 
-#EXTINF:0,[COLOR lime][B]--------- IPTV Total Play Media Resolucion ---------------[/B][/COLOR]
+#EXTINF:0,[COLOR lime][B]------------------- IPTV Total Play Media Resolucion -----------------[/B][/COLOR]
 http://?
 
 #EXTINF:-1,TRUTV-Espanol
@@ -521,7 +521,7 @@ http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 
 
 
-#EXTINF:0,[COLOR lime][B]--------- Total Play Baja Resolucion ---------------[/B][/COLOR]
+#EXTINF:0,[COLOR lime][B]----------------- Total Play Baja Resolucion ---------------[/B][/COLOR]
 http://?
 
 #EXTINF:-1,TRUTV-Espanol
