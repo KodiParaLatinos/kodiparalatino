@@ -3325,6 +3325,10 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
 <externallink>https://raw.githubusercontent.com/ozmaar/koditv/master/pelis2.m3u</externallink>
 </item>
 
+  <item>
+<name>Peliculas</name>
+<externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/PELICULAS</externallink>
+</item>
 
     <item>
 	<title>Los 33</title>
