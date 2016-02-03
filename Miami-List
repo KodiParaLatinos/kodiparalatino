@@ -4461,37 +4461,16 @@ https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH
     
   
     
-    <item>
-<title>Sporting</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=sportycanal?id=23808$doregex[pk] conn=S:OK 
-swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=17</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embedezcast.com/embedplayer/sportycanal/1/555/430</page>
-<referer>http://www.embedezcast.com</referer>
-</regex>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/69/Mais_TVI_logo.png/revision/latest/scale-to-width-down/200?cb=20130328095626</thumbnail>
-<fanart>http://televisao3d.net/wp-content/uploads/2015/07/tv-ultrahd-sony.jpg</fanart>
-</item>
+
 
 
     <item>
 	<title>                    [COLOR green]--- DEPORTES ---[/COLOR]</title>
-<link>http://0.0.6.0:12347</link>
+<link>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/Deportes</link>
 <thumbnail>tvg-logo="logotv.png</thumbnail>
     </item>
     
-      <item>
-      	<title>                    [COLOR green]--- DEPORTES ---[/COLOR]</title>
-    <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canalplus_es_deportes_2_hd.png</thumbnail>
-	</item>
-	<item>
+ 
     
     
     <item>
