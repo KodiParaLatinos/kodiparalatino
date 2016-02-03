@@ -1,22 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime]***America Latina***[/COLOR]
+#EXTINF:-1,[COLOR lime]------------America Latina-----------[/COLOR]
 
 
 
  
  
-#EXTINF:-1, [COLOR violet]** UPDATED 20 jan ** [/COLOR]
+#EXTINF:-1, [COLOR violet]******* UPDATED 02/03/16 ******** [/COLOR]
 
  
-#EXTINF:-1,Canal 2 Canal DE LAS ESTRELLAS
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
  
-#EXTINF:-1,Canal 2 Canal DE LAS ESTRELLAS HD
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
- 
-#EXTINF:-1, [COLOR blue]TELEANTILLAS [/COLOR]
+#EXTINF:-1, [COLOR yellow]TELEANTILLAS [/COLOR]
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
  
 #EXTINF:-1,[COLOR yellow]--- ARGENTINA ---[/COLOR]
