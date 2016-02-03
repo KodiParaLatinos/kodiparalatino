@@ -1,21 +1,14 @@
 #EXTM3U
- 
-#EXTM3U
- 
- 
-------------------------------------------------------------------
-#EXTINF:-1,[COLOR red]***America Latina***[/COLOR]
-npm
-------------------------------------------------------------------
- 
- 
- 
- 
- 
+
+
+#EXTINF:-1,[COLOR lime]***America Latina***[/COLOR]
+
+
+
  
  
 #EXTINF:-1, [COLOR violet]** UPDATED 20 jan ** [/COLOR]
-npm
+
  
 #EXTINF:-1,Canal 2 Canal DE LAS ESTRELLAS
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
