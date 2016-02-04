@@ -4512,7 +4512,7 @@ https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH
 
    
     <channel>
-    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]ENTRETENIMIENTO [/B][/COLOR]</name>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]CABLE TV [/B][/COLOR]</name>
     <info>ENTRETENIMIENTO</info>
     <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
@@ -4521,7 +4521,7 @@ https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH
     <item>
 <title>[COLOR blue]*[/COLOR][COLOR red]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]  </title>
 <link>http://ignorame</link><thumbnail>1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>oi66.tinypic.com/10ekh10.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/ent.xml</externallink>
+<externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/CableTv</externallink>
 </item>
 
 
