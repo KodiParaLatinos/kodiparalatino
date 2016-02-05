@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tv generator-info-url="http://www.webgrabplus.com" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V1.56.12 -- Jan van Straaten">
+
+
+<channel id="Lista PLAY-KODI ES Atres Series">
+
+<display-name lang="en">ES Atres Series</display-name>
+
+<icon src="http://static.timefor.tv/imgs/epg/logos/1x1_blank_big.gif"/>
+
+<url>http://www.en.timefor.tv</url>
+
+</channel>
+
+
+<channel id="Lista PLAY-KODI FR beIN Sports 1">
+
+<display-name lang="en">FR beIN Sports 1</display-name>
+
+<icon src="http://static.timefor.tv/imgs/epg/logos/1x1_blank_big.gif"/>
+
+<url>http://www.en.timefor.tv</url>
+
+</channel>
+
+
+<channel id="Lista PLAY-KODI FR beIN Sports 2">
+
+<display-name lang="en">FR beIN Sports 2</display-name>
+
+<icon src="http://static.timefor.tv/imgs/epg/logos/1x1_blank_big.gif"/>
+
+<url>http://www.en.timefor.tv</url>
+
+</channel>
+
+
+<channel id="Lista PLAY-KODI FR beIN Sports 3">
+
+<display-name lang="en">FR beIN Sports 3</display-name>
+
+<icon src="http://static.timefor.tv/imgs/epg/logos/1x1_blank_big.gif"/>
+
+<url>http://www.en.timefor.tv</url>
+
+</channel>
+
+
+<channel id="WNJU (TELEMUNDO 47)">
+
+<display-name lang="en">WNJU (TELEMUNDO 47)</display-name>
+
+<url>http://www.locatetv.com</url>
+
+</channel>
