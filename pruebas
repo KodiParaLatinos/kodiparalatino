@@ -1,265 +1,1015 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-    <channel>
-    
-    <name>Canales España</name>
-    <thumbnail>none</thumbnail>
-    <items>
-
-    
-    <item>
-    <title>Actualizado 01/12/2013 12:10</title>
-    <link>none</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Canal+ 1</title>
-    <link>rtmp://streaming.freelivetv.tv/live playpath=plus-lacajatv-es-dd52a07bcfc244cef993d314b73334f5 swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1 live=1 pageUrl=http://freelivetv.tv/</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Canal + 2</title>
-    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=plus2d83de59e10227072a9c034ce10029c39 swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=plus2</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Canal + accion</title>
-    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=accioncfcd208495d565ef66e7dff9f98764da swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=accion</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Canal + comedia</title>
-    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=pluscomedia42d6c7d61481d1c21bd1635f59edae05 swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=pluscomedia</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Canal + cine</title>
-    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=3rlt1uu9s5swpp8 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>TNT</title>
-    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=f7177163c833dff4b38fc8d2872f1ec6 swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Fox Crime</title>
-    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=foxcrimend23841cbc5fe43089368c1dc9dbbf4b0 swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>AXN series</title>
-    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=e113z9rqjvxr4ka swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Calle 13 series</title>
-    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=calle13-verlatelegratis-comcfcd208495d565ef66e7dff9f98764da swfUrl=http://flashstreaming.mobi/embed/reproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=calle13-verlatelegratis-com</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>FOX</title>
-    <link>rtmp://streaming.freelivetv.tv:1935/live playpath=14bfa6bb14875e45bba028a21ed38046 swfUrl=http://freelivetv.tv/embed/reproductor.php?o=1 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=fox-lacajatv-es Conn=S:OK --live</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Syfy series</title>
-    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=8kyeq4x7dzxdg0b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Venezuela Globovision</title>
-    <link>http://edge.wms28.lorini.net/globovisiontv/globovisiontv/hasbahca.m3u8</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>National Geographic</title>
-    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=durxqupub2pshej swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>National Geographic Wild</title>
-    <link>rtmp://streaming.freelivetv.tv:1935/live playpath=812b4ba287f5ee0bc9d43bbf5bbe87fb swfUrl=http://freelivetv.tv/embed/reproductor.php?o=1 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=wild Conn=S:OK</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Canal Historia</title>
-    <link>rtmp://ny.premiumcdnlive.com/edge playpath=86gm7qabie30dsv swfUrl=http://player.ilive.to/secure_player_embed_z.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=590 height=400 channel=53789 autoplay=true token=I8772LDKksadhGHGagf#</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>TV Canaria</title>
-    <link>rtmp://streamrtvcnet.mad.idec.net/rtvcnet playpath=rtvcnet.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/enDirecto.aspx?canal=sat</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Euronews ESP</title>
-    <link>rtmp://fr-par-3.stream-relay.hexaglobe.net/rtpeuronewslive/es_video350_rtp.sdp</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>BBC news</title>
-    <link>mms://rmv8.bbc.net.uk/news/olmedia/n5ctrl/tvseq/od/bbc2/bb/wm/video/daily_pol_bb.wmv</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Aljazeera</title>
-    <link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_eng_med swfUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf live=1 pageUrl=http://fancystreems.com/aljazeera.html --live</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>FOX news</title>
-    <link>rtmp://ny.premiumcdnlive.com/edge/ohn58e97er36vjr pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-     <item>
-    <title>CNN</title>
-    <link>rtmp://ny.premiumcdnlive.com/edge/pevmm1onhjyufpg pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Canal + liga</title>
-    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=8kyeq4x7dzxdg0b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Canal + futbol</title>
-    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=plusfutbol866ed6474ae197052573169977a3e66f swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Canal + liga campeones</title>
-    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=i42a82irjwitu7j swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    
-   <item>
-    <title>Fox sports</title>
-    <link>http://m24.megafun.vn/live.vs?c=vstv042</link>
-    <thumbnail>none</thumbnail>
-    </item> 
-    
-    <item>
-    <title>Canal + deportes</title>
-    <link>rtmp-raw=rtmp://ams.premiumcdnlive.com/iguide playpath=41mpv2b0gssazjw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Eurosport</title>
-    <link>rtmp://213.163.64.76/shqstream/ playpath=eesp1111?keys=KVf2boZ9MUGOiDwu0_9-bA keyt=1382220004 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf live=1 pageUrl=http://hqstream.tv/player.php?streampage=eesp1111</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Gol Tv</title>
-    <link>rtmp://50.22.223.51/live playpath=golnuevo?id=56976 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/golnuevo/1/650/400 Conn=S:OK</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Gol Tv</title>
-    <link>rtmp://46.23.67.66/live playpath=golnuevo?id=56976 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/golnuevo/1/650/400 Conn=S:OK --live</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-   <item>
-    <title>BEIN sport</title>
-    <link>rtmpe://live.univisionbrazil.com/stream playpath=z00021.live swfUrl=http://freelivetv.tv/embed/noreproductor.php live=1 pageUrl=http://freelivetv.tv/embed/embedmobil.php?n=z00021</link>
-    <thumbnail>none</thumbnail>
-    </item> 
-    
-    <item>
-    <title>ESPORT 3</title>
-    <link>rtmp://tv-geoespanya-flashlivefs.fplive.net:1935/tv-geoespanya-flashlive-live?ovpfv=1.1/stream_ES_ES3_FLV</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>NBA TV</title>
-    <link>rtmp://46.246.29.141:1935/stream/ playpath=K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=schuster92 pageUrl=http://04stream.com/trackok.php?c=4351</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Music Box</title>
-    <link>rtmp://musicbox.cdnvideo.ru/musicbox-live/musicbox.sdp.flv pageUrl=http://russiangoogletv.com pageUrl=http://russiangoogletv.com/javascript/JWPlayer_licensed59/player.swf live=1</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Unlove Channel</title>
-    <link>rtmp://149.11.34.6/live playpath=unlovechannel.stream pageUrl=http://livetvstreaming.ucoz.com live=1</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Musica:Heart TV</title>
-    <link>rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Musica:Deluxe Music</title>
-    <link>rtmp://edge1.stream-server.org/lstv//deluxemusic.stream swfUrl=http://stream.live-stream.tv/stml/player.swf</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>Musica:Capital TV</title>
-    <link>rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital</link>
-    <thumbnail>none</thumbnail>
-    </item>
-    
-    <item>
-    <title>First Musical</title>
-    <link>rtmp://109.239.142.62/live/livestream3</link>
-    <thumbnail>none</thumbnail>
-    </item>
-  
- <item>
-    <title>Deadpool</title>
-    <thumbnail>https://image.tmdb.org/t/p/w500/k1QUCjNAkfRpWfm1dVJGUmVHzGv.jpg</thumbnail>
-     <fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
-     <genre>Comedia, Aventura, Acción, Ciencia ficción</genre>
-     <link>  </link>
-     <link>  </link>
-     <link>  </link>
-     <link>  </link>
-     <link>  </link>
-     <link>  </link>
-     <info>Spin-off de la película X-Men Orígenes: Lobezno, protagonizado por el personaje de Deadpool. Tras estar paralizado durante varios años, fue retomado en 2014 tras filtrarse una pequeña prueba de audiencias y obtener gran recibimiento en internet.
- Dirección : Tim Miller
- Guión : Rhett Reese, Paul Wernick
- Año : 2016
-</info>
- </item>
-
-  
-    </items>
-    </channel>
+#EXTM3U
+#EXTINF:-1,PL Tvn Turbo
+http://abroadtv.ddns.net:8000/live/A...1404/1452.m3u8
+#EXTINF:-1,PL TVN 24
+http://abroadtv.ddns.net:8000/live/A...1404/1445.m3u8
+#EXTINF:-1,PL TVS
+http://abroadtv.ddns.net:8000/live/A...1404/1442.m3u8
+#EXTINF:-1,PL TVP 2
+http://abroadtv.ddns.net:8000/live/A...1404/1438.m3u8
+#EXTINF:-1,PL TVP 1
+http://abroadtv.ddns.net:8000/live/A...1404/1441.m3u8
+#EXTINF:-1,ES La 1
+http://abroadtv.ddns.net:8000/live/A...1404/1437.m3u8
+#EXTINF:-1,PL Polsat Cafe
+http://abroadtv.ddns.net:8000/live/A...1404/1439.m3u8
+#EXTINF:-1,PL Polsat Play
+http://abroadtv.ddns.net:8000/live/A...1404/1444.m3u8
+#EXTINF:-1,PL Polsat
+http://abroadtv.ddns.net:8000/live/A...1404/1443.m3u8
+#EXTINF:-1,UK TLC
+http://abroadtv.ddns.net:8000/live/A...1404/1419.m3u8
+#EXTINF:-1,UK Sky News
+http://abroadtv.ddns.net:8000/live/A...1404/1423.m3u8
+#EXTINF:-1,UK MTV Base
+http://abroadtv.ddns.net:8000/live/A...1404/1427.m3u8
+#EXTINF:-1,UK At Races
+http://abroadtv.ddns.net:8000/live/A...1404/1428.m3u8
+#EXTINF:-1,UK Alibi
+http://abroadtv.ddns.net:8000/live/A...1404/1424.m3u8
+#EXTINF:-1,UK 4Seven
+http://abroadtv.ddns.net:8000/live/A...1404/1425.m3u8
+#EXTINF:-1,UK Syfy
+http://abroadtv.ddns.net:8000/live/A...1404/1413.m3u8
+#EXTINF:-1,UK Real Lives
+http://abroadtv.ddns.net:8000/live/A...1404/1411.m3u8
+#EXTINF:-1,UK Quest
+http://abroadtv.ddns.net:8000/live/A...1404/1412.m3u8
+#EXTINF:-1,UK Nick Jr Too
+http://abroadtv.ddns.net:8000/live/A...1404/1410.m3u8
+#EXTINF:-1,UK Nick Jr +1
+http://abroadtv.ddns.net:8000/live/A...1404/1408.m3u8
+#EXTINF:-1,UK E! Entertainment
+http://abroadtv.ddns.net:8000/live/A...1404/1277.m3u8
+#EXTINF:-1,UK Fox News
+http://abroadtv.ddns.net:8000/live/A...1404/1409.m3u8
+#EXTINF:-1,Pro sport 3
+http://abroadtv.ddns.net:8000/live/A...1404/1312.m3u8
+#EXTINF:-1,Pro Sport 1
+http://abroadtv.ddns.net:8000/live/A...1404/1311.m3u8
+#EXTINF:-1,US HBO Comedy
+http://abroadtv.ddns.net:8000/live/A...1404/1395.m3u8
+#EXTINF:-1,US Star Edge
+http://abroadtv.ddns.net:8000/live/A...1404/1378.m3u8
+#EXTINF:-1,US NHL
+http://abroadtv.ddns.net:8000/live/A...1404/1394.m3u8
+#EXTINF:-1,US USA Networkk
+http://abroadtv.ddns.net:8000/live/A...1404/1362.m3u8
+#EXTINF:-1,US Spikee
+http://abroadtv.ddns.net:8000/live/A...1404/1364.m3u8
+#EXTINF:-1,US PBS Vermont
+http://abroadtv.ddns.net:8000/live/A...1404/1350.m3u8
+#EXTINF:-1,US Ktla
+http://abroadtv.ddns.net:8000/live/A...1404/1365.m3u8
+#EXTINF:-1,US Global Tv (Montreal)
+http://abroadtv.ddns.net:8000/live/A...1404/1360.m3u8
+#EXTINF:-1,US CW
+http://abroadtv.ddns.net:8000/live/A...1404/1361.m3u8
+#EXTINF:-1,US CTV
+http://abroadtv.ddns.net:8000/live/A...1404/1363.m3u8
+#EXTINF:-1,Vh1 Europa
+http://abroadtv.ddns.net:8000/live/A...1404/1217.m3u8
+#EXTINF:-1,OSN Movies Premiere
+http://abroadtv.ddns.net:8000/live/A...1404/1299.m3u8
+#EXTINF:-1,UK More 4
+http://abroadtv.ddns.net:8000/live/A...1404/1247.m3u8
+#EXTINF:-1,US ABC
+http://abroadtv.ddns.net:8000/live/A...1404/1328.m3u8
+#EXTINF:-1,Osn Movie Action
+http://abroadtv.ddns.net:8000/live/A...1404/1310.m3u8
+#EXTINF:-1,Osn First
+http://abroadtv.ddns.net:8000/live/A...1404/1313.m3u8
+#EXTINF:-1,NL BVN
+http://abroadtv.ddns.net:8000/live/A...1404/1327.m3u8
+#EXTINF:-1,C-Span
+http://abroadtv.ddns.net:8000/live/A...1404/1323.m3u8
+#EXTINF:-1,US Bravo
+http://abroadtv.ddns.net:8000/live/A...1404/1326.m3u8
+#EXTINF:-1,US Fox47
+http://abroadtv.ddns.net:8000/live/A...1404/1318.m3u8
+#EXTINF:-1,US Spike
+http://abroadtv.ddns.net:8000/live/A...1404/1325.m3u8
+#EXTINF:-1,Osn Movies
+http://abroadtv.ddns.net:8000/live/A...1404/1316.m3u8
+#EXTINF:-1,Nl Disney Channel
+http://abroadtv.ddns.net:8000/live/A...1404/1301.m3u8
+#EXTINF:-1,Discovery Channel
+http://abroadtv.ddns.net:8000/live/A...1404/1315.m3u8
+#EXTINF:-1,US WIS
+http://abroadtv.ddns.net:8000/live/A...1404/1314.m3u8
+#EXTINF:-1,Osn Movies Action 2
+http://abroadtv.ddns.net:8000/live/A...1404/1309.m3u8
+#EXTINF:-1,Osn Movies Kids
+http://abroadtv.ddns.net:8000/live/A...1404/1308.m3u8
+#EXTINF:-1,Osn Movies Festival
+http://abroadtv.ddns.net:8000/live/A...1404/1303.m3u8
+#EXTINF:-1,PT SIC Noticias
+http://abroadtv.ddns.net:8000/live/A...1404/1292.m3u8
+#EXTINF:-1,PT SIC
+http://abroadtv.ddns.net:8000/live/A...1404/1289.m3u8
+#EXTINF:-1,PT Cine Mundo
+http://abroadtv.ddns.net:8000/live/A...1404/1290.m3u8
+#EXTINF:-1,PT Fox Movies
+http://abroadtv.ddns.net:8000/live/A...1404/1291.m3u8
+#EXTINF:-1,Tv5monde
+http://abroadtv.ddns.net:8000/live/A...1404/1285.m3u8
+#EXTINF:-1,MA Arryadia
+http://abroadtv.ddns.net:8000/live/A...1404/1286.m3u8
+#EXTINF:-1,PT SIC Radical
+http://abroadtv.ddns.net:8000/live/A...1404/1288.m3u8
+#EXTINF:-1,MA 2M
+http://abroadtv.ddns.net:8000/live/A...1404/1287.m3u8
+#EXTINF:-1,UK ITV BE
+http://abroadtv.ddns.net:8000/live/A...1404/1275.m3u8
+#EXTINF:-1,SportKlub 1
+http://abroadtv.ddns.net:8000/live/A...1404/1282.m3u8
+#EXTINF:-1,SportClub 2
+http://abroadtv.ddns.net:8000/live/A...1404/1283.m3u8
+#EXTINF:-1,Sky Movies Showcase
+http://abroadtv.ddns.net:8000/live/A...1404/1278.m3u8
+#EXTINF:-1,UK Sky Movies Crime & Thriller
+http://abroadtv.ddns.net:8000/live/A...1404/1279.m3u8
+#EXTINF:-1,US Space
+http://abroadtv.ddns.net:8000/live/A...1404/1281.m3u8
+#EXTINF:-1,US Fox 5
+http://abroadtv.ddns.net:8000/live/A...1404/1280.m3u8
+#EXTINF:-1,Star World
+http://abroadtv.ddns.net:8000/live/A...1404/1268.m3u8
+#EXTINF:-1,Colors India
+http://abroadtv.ddns.net:8000/live/A...1404/1265.m3u8
+#EXTINF:-1,Zee Cinema
+http://abroadtv.ddns.net:8000/live/A...1404/1264.m3u8
+#EXTINF:-1,Zee Tv Canada
+http://abroadtv.ddns.net:8000/live/A...1404/1263.m3u8
+#EXTINF:-1,Star Cinema
+http://abroadtv.ddns.net:8000/live/A...1404/1266.m3u8
+#EXTINF:-1,MA TVM 2
+http://abroadtv.ddns.net:8000/live/A...1404/1243.m3u8
+#EXTINF:-1,MA SMASH TV
+http://abroadtv.ddns.net:8000/live/A...1404/1245.m3u8
+#EXTINF:-1,Ma ONETV
+http://abroadtv.ddns.net:8000/live/A...1404/1246.m3u8
+#EXTINF:-1,MA NETTV
+http://abroadtv.ddns.net:8000/live/A...1404/1244.m3u8
+#EXTINF:-1,MA TVM 1
+http://abroadtv.ddns.net:8000/live/A...1404/1242.m3u8
+#EXTINF:-1,NL Comedy Central
+http://abroadtv.ddns.net:8000/live/A...1404/1241.m3u8
+#EXTINF:-1,US HSN
+http://abroadtv.ddns.net:8000/live/A...1404/1230.m3u8
+#EXTINF:-1,US Fox Sport 1
+http://abroadtv.ddns.net:8000/live/A...1404/1233.m3u8
+#EXTINF:-1,HLN
+http://abroadtv.ddns.net:8000/live/A...1404/1232.m3u8
+#EXTINF:-1,US ESPN 1
+http://abroadtv.ddns.net:8000/live/A...1404/1235.m3u8
+#EXTINF:-1,US AMC
+http://abroadtv.ddns.net:8000/live/A...1404/1231.m3u8
+#EXTINF:-1,US Fox Sport 2
+http://abroadtv.ddns.net:8000/live/A...1404/1240.m3u8
+#EXTINF:-1,RTL TeleKids
+http://abroadtv.ddns.net:8000/live/A...1404/1237.m3u8
+#EXTINF:-1,RTV 7
+http://abroadtv.ddns.net:8000/live/A...1404/1236.m3u8
+#EXTINF:-1,US HBO Zone
+http://abroadtv.ddns.net:8000/live/A...1404/1227.m3u8
+#EXTINF:-1,US HBO Signature
+http://abroadtv.ddns.net:8000/live/A...1404/1226.m3u8
+#EXTINF:-1,US TBS HD
+http://abroadtv.ddns.net:8000/live/A...1404/1225.m3u8
+#EXTINF:-1,US NBC
+http://abroadtv.ddns.net:8000/live/A...1404/1220.m3u8
+#EXTINF:-1,US NBA
+http://abroadtv.ddns.net:8000/live/A...1404/1222.m3u8
+#EXTINF:-1,US CBS
+http://abroadtv.ddns.net:8000/live/A...1404/1221.m3u8
+#EXTINF:-1,US HBO East
+http://abroadtv.ddns.net:8000/live/A...1404/1223.m3u8
+#EXTINF:-1,PT Discovery
+http://abroadtv.ddns.net:8000/live/A...1404/1216.m3u8
+#EXTINF:-1,Film 1 Sundance (NL)
+http://abroadtv.ddns.net:8000/live/A...1404/1214.m3u8
+#EXTINF:-1,Film 1 Comedy & Kids (NL)
+http://abroadtv.ddns.net:8000/live/A...1404/1215.m3u8
+#EXTINF:-1,Sport Italia
+http://abroadtv.ddns.net:8000/live/A...1404/1211.m3u8
+#EXTINF:-1,PT TVCine 4
+http://abroadtv.ddns.net:8000/live/A...1404/1212.m3u8
+#EXTINF:-1,Premium Calcio 4
+http://abroadtv.ddns.net:8000/live/A...1404/1209.m3u8
+#EXTINF:-1,Premium Calcio 1
+http://abroadtv.ddns.net:8000/live/A...1404/1207.m3u8
+#EXTINF:-1,IT Discovery World
+http://abroadtv.ddns.net:8000/live/A...1404/1194.m3u8
+#EXTINF:-1,IT Sky Cinema Passion
+http://abroadtv.ddns.net:8000/live/A...1404/1195.m3u8
+#EXTINF:-1,TR E2
+http://abroadtv.ddns.net:8000/live/A...1404/1193.m3u8
+#EXTINF:-1,PT Tv Globo
+http://abroadtv.ddns.net:8000/live/A...1404/1204.m3u8
+#EXTINF:-1,CTH Stadium 1
+http://abroadtv.ddns.net:8000/live/A...1404/1203.m3u8
+#EXTINF:-1,XXX Pink Erotic
+http://abroadtv.ddns.net:8000/live/A...1404/1198.m3u8
+#EXTINF:-1,IT Fox Sport
+http://abroadtv.ddns.net:8000/live/A...1404/1205.m3u8
+#EXTINF:-1,IT Disney XD
+http://abroadtv.ddns.net:8000/live/A...1404/1206.m3u8
+#EXTINF:-1,IT Real Time
+http://abroadtv.ddns.net:8000/live/A...1404/1199.m3u8
+#EXTINF:-1,CTH Stadium 4
+http://abroadtv.ddns.net:8000/live/A...1404/1200.m3u8
+#EXTINF:-1,CTH Stadium 3
+http://abroadtv.ddns.net:8000/live/A...1404/1201.m3u8
+#EXTINF:-1,ES Cuatro
+http://abroadtv.ddns.net:8000/live/A...1404/1202.m3u8
+#EXTINF:-1,Canal + Liga
+http://abroadtv.ddns.net:8000/live/A...1404/1197.m3u8
+#EXTINF:-1,Gamberro Rosso (IT)
+http://abroadtv.ddns.net:8000/live/A...1404/1186.m3u8
+#EXTINF:-1,Fox Life (IT)
+http://abroadtv.ddns.net:8000/live/A...1404/1187.m3u8
+#EXTINF:-1,Discovery World (IT)
+http://abroadtv.ddns.net:8000/live/A...1404/1188.m3u8
+#EXTINF:-1,Sky Sport MotoGP (IT)
+http://abroadtv.ddns.net:8000/live/A...1404/1192.m3u8
+#EXTINF:-1,EXYU Pink Hits
+http://abroadtv.ddns.net:8000/live/A...1404/1185.m3u8
+#EXTINF:-1,Premium Calcio (IT)
+http://abroadtv.ddns.net:8000/live/A...1404/1190.m3u8
+#EXTINF:-1,Pink Music 2 (EXYU)
+http://abroadtv.ddns.net:8000/live/A...1404/1184.m3u8
+#EXTINF:-1,XXX Venus
+http://abroadtv.ddns.net:8000/live/A...1404/1182.m3u8
+#EXTINF:-1,Discovery Channel (ES)
+http://abroadtv.ddns.net:8000/live/A...1404/1180.m3u8
+#EXTINF:-1,CTH Stadium 2
+http://abroadtv.ddns.net:8000/live/A...1404/1181.m3u8
+#EXTINF:-1,Vijf (BE)
+http://abroadtv.ddns.net:8000/live/A...1404/1179.m3u8
+#EXTINF:-1,Sport 1 Extra 2 (NL)
+http://abroadtv.ddns.net:8000/live/A...1404/1178.m3u8
+#EXTINF:-1,NL Npo 3
+http://abroadtv.ddns.net:8000/live/A...1404/1176.m3u8
+#EXTINF:-1,Discovery (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1173.m3u8
+#EXTINF:-1,PT TVi
+http://abroadtv.ddns.net:8000/live/A...1404/1172.m3u8
+#EXTINF:-1,Kitchen (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1166.m3u8
+#EXTINF:-1,Fox Life (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1159.m3u8
+#EXTINF:-1,Disney Junior (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1167.m3u8
+#EXTINF:-1,MOV HD (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1171.m3u8
+#EXTINF:-1,TvCine 4 (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1161.m3u8
+#EXTINF:-1,PT Globo Premium
+http://abroadtv.ddns.net:8000/live/A...1404/1170.m3u8
+#EXTINF:-1,Toros Tv (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1160.m3u8
+#EXTINF:-1,IT Sky Cinema Family
+http://abroadtv.ddns.net:8000/live/A...1404/1169.m3u8
+#EXTINF:-1,PT Tvi Ficcao
+http://abroadtv.ddns.net:8000/live/A...1404/1168.m3u8
+#EXTINF:-1,ES Neox
+http://abroadtv.ddns.net:8000/live/A...1404/1164.m3u8
+#EXTINF:-1,Sic Mulher (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1165.m3u8
+#EXTINF:-1,PT Fox life
+http://abroadtv.ddns.net:8000/live/A...1404/1162.m3u8
+#EXTINF:-1,IT DMax
+http://abroadtv.ddns.net:8000/live/A...1404/1163.m3u8
+#EXTINF:-1,Rtl (EXYU)
+http://abroadtv.ddns.net:8000/live/A...1404/1149.m3u8
+#EXTINF:-1,Ma Chaine Sports (FR)
+http://abroadtv.ddns.net:8000/live/A...1404/1158.m3u8
+#EXTINF:-1,Canal + Sport (FR)
+http://abroadtv.ddns.net:8000/live/A...1404/1157.m3u8
+#EXTINF:-1,Canal + Cinema (FR)
+http://abroadtv.ddns.net:8000/live/A...1404/1156.m3u8
+#EXTINF:-1,Caca & Pesca (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1150.m3u8
+#EXTINF:-1,Afro Music (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1155.m3u8
+#EXTINF:-1,Tv Series (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1154.m3u8
+#EXTINF:-1,PT Sic Kids
+http://abroadtv.ddns.net:8000/live/A...1404/1153.m3u8
+#EXTINF:-1,IT Premium CALCIO 1
+http://abroadtv.ddns.net:8000/live/A...1404/1152.m3u8
+#EXTINF:-1,RTP Acores (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1151.m3u8
+#EXTINF:-1,Pink Movies Western (EXYU)
+http://abroadtv.ddns.net:8000/live/A...1404/1146.m3u8
+#EXTINF:-1,DE 13th Street
+http://abroadtv.ddns.net:8000/live/A...1404/1147.m3u8
+#EXTINF:-1,DE History
+http://abroadtv.ddns.net:8000/live/A...1404/1145.m3u8
+#EXTINF:-1,Hayat Folk
+http://abroadtv.ddns.net:8000/live/A...1404/1141.m3u8
+#EXTINF:-1,Eins Plus (DE)
+http://abroadtv.ddns.net:8000/live/A...1404/1143.m3u8
+#EXTINF:-1,Eins Festival (DE)
+http://abroadtv.ddns.net:8000/live/A...1404/1144.m3u8
+#EXTINF:-1,ZDF (DE)
+http://abroadtv.ddns.net:8000/live/A...1404/1142.m3u8
+#EXTINF:-1,Nat Geo (FR)
+http://abroadtv.ddns.net:8000/live/A...1404/1136.m3u8
+#EXTINF:-1,Fox News
+http://abroadtv.ddns.net:8000/live/A...1404/1140.m3u8
+#EXTINF:-1,D17 (FR)
+http://abroadtv.ddns.net:8000/live/A...1404/1139.m3u8
+#EXTINF:-1,RTS Un (FR)
+http://abroadtv.ddns.net:8000/live/A...1404/1138.m3u8
+#EXTINF:-1,Rts Deux (FR)
+http://abroadtv.ddns.net:8000/live/A...1404/1137.m3u8
+#EXTINF:-1,FR Canal +
+http://abroadtv.ddns.net:8000/live/A...1404/1128.m3u8
+#EXTINF:-1,Syfy (DE)
+http://abroadtv.ddns.net:8000/live/A...1404/1123.m3u8
+#EXTINF:-1,FR Canal + Cinema
+http://abroadtv.ddns.net:8000/live/A...1404/1124.m3u8
+#EXTINF:-1,FR Canal + Series
+http://abroadtv.ddns.net:8000/live/A...1404/1127.m3u8
+#EXTINF:-1,FR Canal J
+http://abroadtv.ddns.net:8000/live/A...1404/1135.m3u8
+#EXTINF:-1,FR Mangas
+http://abroadtv.ddns.net:8000/live/A...1404/1134.m3u8
+#EXTINF:-1,Gulli (FR)
+http://abroadtv.ddns.net:8000/live/A...1404/1129.m3u8
+#EXTINF:-1,Cine+Frisson
+http://abroadtv.ddns.net:8000/live/A...1404/1131.m3u8
+#EXTINF:-1,Cine+ Famiz (FR)
+http://abroadtv.ddns.net:8000/live/A...1404/1132.m3u8
+#EXTINF:-1,FR SerieClub HD
+http://abroadtv.ddns.net:8000/live/A...1404/1133.m3u8
+#EXTINF:-1,Cine Premier
+http://abroadtv.ddns.net:8000/live/A...1404/1130.m3u8
+#EXTINF:-1,Mtv Classic
+http://abroadtv.ddns.net:8000/live/A...1404/1120.m3u8
+#EXTINF:-1,Mtv (GR)
+http://abroadtv.ddns.net:8000/live/A...1404/1121.m3u8
+#EXTINF:-1,Discovery Max (ES)
+http://abroadtv.ddns.net:8000/live/A...1404/1116.m3u8
+#EXTINF:-1,Sky Fanzone (DE)
+http://abroadtv.ddns.net:8000/live/A...1404/1118.m3u8
+#EXTINF:-1,AMC (Peliciulas)
+http://abroadtv.ddns.net:8000/live/A...1404/1112.m3u8
+#EXTINF:-1,Cantinazo (LA)
+http://abroadtv.ddns.net:8000/live/A...1404/1115.m3u8
+#EXTINF:-1,History (ES)
+http://abroadtv.ddns.net:8000/live/A...1404/1114.m3u8
+#EXTINF:-1,Sky 3D (DE)
+http://abroadtv.ddns.net:8000/live/A...1404/1110.m3u8
+#EXTINF:-1,Pink Folk 2
+http://abroadtv.ddns.net:8000/live/A...1404/1111.m3u8
+#EXTINF:-1,OBN+ (EXYU)
+http://abroadtv.ddns.net:8000/live/A...1404/1109.m3u8
+#EXTINF:-1,Music India (IN)
+http://abroadtv.ddns.net:8000/live/A.../1404/683.m3u8
+#EXTINF:-1,Sony tv (IN)
+http://abroadtv.ddns.net:8000/live/A.../1404/682.m3u8
+#EXTINF:-1,NL Npo 1
+http://abroadtv.ddns.net:8000/live/A...tv/1404/1.m3u8
+#EXTINF:-1,NL Npo 2
+http://abroadtv.ddns.net:8000/live/A...tv/1404/2.m3u8
+#EXTINF:-1,NL Rtl 4
+http://abroadtv.ddns.net:8000/live/A...tv/1404/4.m3u8
+#EXTINF:-1,Rtl 5
+http://abroadtv.ddns.net:8000/live/A...tv/1404/5.m3u8
+#EXTINF:-1,Sbs 6
+http://abroadtv.ddns.net:8000/live/A...tv/1404/6.m3u8
+#EXTINF:-1,Rtl 7
+http://abroadtv.ddns.net:8000/live/A...tv/1404/7.m3u8
+#EXTINF:-1,Rtl 8
+http://abroadtv.ddns.net:8000/live/A...tv/1404/8.m3u8
+#EXTINF:-1,Veronica
+http://abroadtv.ddns.net:8000/live/A...tv/1404/9.m3u8
+#EXTINF:-1,Net 5
+http://abroadtv.ddns.net:8000/live/A...v/1404/10.m3u8
+#EXTINF:-1,Fox Life
+http://abroadtv.ddns.net:8000/live/A...v/1404/11.m3u8
+#EXTINF:-1,At5 (NL)
+http://abroadtv.ddns.net:8000/live/A.../1404/500.m3u8
+#EXTINF:-1,Rtv Noord-Holland (NL)
+http://abroadtv.ddns.net:8000/live/A.../1404/626.m3u8
+#EXTINF:-1,HBO HD
+http://abroadtv.ddns.net:8000/live/A...v/1404/17.m3u8
+#EXTINF:-1,HBO 2
+http://abroadtv.ddns.net:8000/live/A...v/1404/18.m3u8
+#EXTINF:-1,HBO 3
+http://abroadtv.ddns.net:8000/live/A...v/1404/19.m3u8
+#EXTINF:-1,Film 1 Premiere (NL)
+http://abroadtv.ddns.net:8000/live/A.../1404/673.m3u8
+#EXTINF:-1,Film 1 Action (NL)
+http://abroadtv.ddns.net:8000/live/A.../1404/690.m3u8
+#EXTINF:-1,Meiden Van Holland (NL)
+http://abroadtv.ddns.net:8000/live/A.../1404/499.m3u8
+#EXTINF:-1,AR Bein Sport 10
+http://abroadtv.ddns.net:8000/live/A.../1404/505.m3u8
+#EXTINF:-1,Sport 1 Voetbal
+http://abroadtv.ddns.net:8000/live/A...v/1404/20.m3u8
+#EXTINF:-1,Sport 1 Select
+http://abroadtv.ddns.net:8000/live/A...v/1404/21.m3u8
+#EXTINF:-1,Sport 1 Golf
+http://abroadtv.ddns.net:8000/live/A...v/1404/22.m3u8
+#EXTINF:-1,Fox Sport 1
+http://abroadtv.ddns.net:8000/live/A...v/1404/23.m3u8
+#EXTINF:-1,Fox Sport 2
+http://abroadtv.ddns.net:8000/live/A...v/1404/24.m3u8
+#EXTINF:-1,Fox Sport 3
+http://abroadtv.ddns.net:8000/live/A...v/1404/25.m3u8
+#EXTINF:-1,Fox Sport 4
+http://abroadtv.ddns.net:8000/live/A...v/1404/26.m3u8
+#EXTINF:-1,Mtv Rocks
+http://abroadtv.ddns.net:8000/live/A...v/1404/34.m3u8
+#EXTINF:-1,Vevo 1
+http://abroadtv.ddns.net:8000/live/A...v/1404/35.m3u8
+#EXTINF:-1,Vevo 2
+http://abroadtv.ddns.net:8000/live/A...v/1404/36.m3u8
+#EXTINF:-1,Vevo 3
+http://abroadtv.ddns.net:8000/live/A...v/1404/37.m3u8
+#EXTINF:-1,UK BBC 1
+http://abroadtv.ddns.net:8000/live/A.../1404/231.m3u8
+#EXTINF:-1,UK BBC 2
+http://abroadtv.ddns.net:8000/live/A.../1404/232.m3u8
+#EXTINF:-1,UK BBC 3
+http://abroadtv.ddns.net:8000/live/A.../1404/233.m3u8
+#EXTINF:-1,UK BBC 4
+http://abroadtv.ddns.net:8000/live/A.../1404/234.m3u8
+#EXTINF:-1,UK Sky 1 HD
+http://abroadtv.ddns.net:8000/live/A...v/1404/45.m3u8
+#EXTINF:-1,UK Sky 2 HD
+http://abroadtv.ddns.net:8000/live/A...v/1404/46.m3u8
+#EXTINF:-1,UK Sky Atlantic
+http://abroadtv.ddns.net:8000/live/A...v/1404/47.m3u8
+#EXTINF:-1,UK Sky Living
+http://abroadtv.ddns.net:8000/live/A...v/1404/48.m3u8
+#EXTINF:-1,UK ITV
+http://abroadtv.ddns.net:8000/live/A...v/1404/50.m3u8
+#EXTINF:-1,UK ITV 2
+http://abroadtv.ddns.net:8000/live/A...v/1404/51.m3u8
+#EXTINF:-1,ITV3
+http://abroadtv.ddns.net:8000/live/A...v/1404/52.m3u8
+#EXTINF:-1,UK Itv4
+http://abroadtv.ddns.net:8000/live/A...v/1404/53.m3u8
+#EXTINF:-1,UK Channel 4
+http://abroadtv.ddns.net:8000/live/A...v/1404/54.m3u8
+#EXTINF:-1,UK E4
+http://abroadtv.ddns.net:8000/live/A...v/1404/55.m3u8
+#EXTINF:-1,5 Star
+http://abroadtv.ddns.net:8000/live/A...v/1404/81.m3u8
+#EXTINF:-1,UK Fox
+http://abroadtv.ddns.net:8000/live/A...v/1404/58.m3u8
+#EXTINF:-1,Clubland (UK)
+http://abroadtv.ddns.net:8000/live/A...v/1404/84.m3u8
+#EXTINF:-1,UK Cartoon Network
+http://abroadtv.ddns.net:8000/live/A...v/1404/83.m3u8
+#EXTINF:-1,Disney Junior (UK)
+http://abroadtv.ddns.net:8000/live/A...v/1404/85.m3u8
+#EXTINF:-1,Baby TV (UK)
+http://abroadtv.ddns.net:8000/live/A...v/1404/98.m3u8
+#EXTINF:-1,Syfy
+http://abroadtv.ddns.net:8000/live/A...v/1404/16.m3u8
+#EXTINF:-1,Film 1 Spotlight (NL)
+http://abroadtv.ddns.net:8000/live/A.../1404/686.m3u8
+#EXTINF:-1,DE Disney CineMagic
+http://abroadtv.ddns.net:8000/live/A...1404/1056.m3u8
+#EXTINF:-1,DE SYFY
+http://abroadtv.ddns.net:8000/live/A...1404/1057.m3u8
+#EXTINF:-1,UK Channel 5
+http://abroadtv.ddns.net:8000/live/A...1404/1048.m3u8
+#EXTINF:-1,DE Nat Geo
+http://abroadtv.ddns.net:8000/live/A...1404/1055.m3u8
+#EXTINF:-1,N24 (DE)
+http://abroadtv.ddns.net:8000/live/A...1404/1058.m3u8
+#EXTINF:-1,BR (DE)
+http://abroadtv.ddns.net:8000/live/A...1404/1059.m3u8
+#EXTINF:-1,DE Sixx
+http://abroadtv.ddns.net:8000/live/A...1404/1051.m3u8
+#EXTINF:-1,Nba (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1104.m3u8
+#EXTINF:-1,Sporttv 3 (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1108.m3u8
+#EXTINF:-1,Sporttv 2
+http://abroadtv.ddns.net:8000/live/A...1404/1107.m3u8
+#EXTINF:-1,Sporttv 1 (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1106.m3u8
+#EXTINF:-1,Porto Conal (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1102.m3u8
+#EXTINF:-1,Mtv (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1105.m3u8
+#EXTINF:-1,CineMundo (PT)
+http://abroadtv.ddns.net:8000/live/A...1404/1103.m3u8
+#EXTINF:-1,Sport 1 Racing (NL)
+http://abroadtv.ddns.net:8000/live/A...1404/1101.m3u8
+#EXTINF:-1,XXX Pink Erotic 2
+http://abroadtv.ddns.net:8000/live/A...1404/1098.m3u8
+#EXTINF:-1,Hustler XXX
+http://abroadtv.ddns.net:8000/live/A...1404/1100.m3u8
+#EXTINF:-1,XXX Brazzers
+http://abroadtv.ddns.net:8000/live/A...1404/1099.m3u8
+#EXTINF:-1,XXX Pink Erotic 3
+http://abroadtv.ddns.net:8000/live/A...1404/1097.m3u8
+#EXTINF:-1,Sol Musica (ES)
+http://abroadtv.ddns.net:8000/live/A...1404/1094.m3u8
+#EXTINF:-1,ES MTV
+http://abroadtv.ddns.net:8000/live/A...1404/1090.m3u8
+#EXTINF:-1,Mtv Hits
+http://abroadtv.ddns.net:8000/live/A...1404/1091.m3u8
+#EXTINF:-1,ES Cosmo
+http://abroadtv.ddns.net:8000/live/A...1404/1085.m3u8
+#EXTINF:-1,ES Clan Tve
+http://abroadtv.ddns.net:8000/live/A...1404/1086.m3u8
+#EXTINF:-1,ES Antenna 3
+http://abroadtv.ddns.net:8000/live/A...1404/1047.m3u8
+#EXTINF:-1,UK Mtv Dance
+http://abroadtv.ddns.net:8000/live/A...1404/1080.m3u8
+#EXTINF:-1,ES Canal + Estrenos
+http://abroadtv.ddns.net:8000/live/A...1404/1078.m3u8
+#EXTINF:-1,Mtv (EXYU)
+http://abroadtv.ddns.net:8000/live/A...1404/1077.m3u8
+#EXTINF:-1,IT Discovery Travel & Living
+http://abroadtv.ddns.net:8000/live/A...1404/1038.m3u8
+#EXTINF:-1,IT Boing
+http://abroadtv.ddns.net:8000/live/A...1404/1035.m3u8
+#EXTINF:-1,PT TVCine 3
+http://abroadtv.ddns.net:8000/live/A.../1404/707.m3u8
+#EXTINF:-1,PT TVCine 2
+http://abroadtv.ddns.net:8000/live/A.../1404/706.m3u8
+#EXTINF:-1,Pink Western
+http://abroadtv.ddns.net:8000/live/A.../1404/691.m3u8
+#EXTINF:-1,Zee Tv
+http://abroadtv.ddns.net:8000/live/A.../1404/680.m3u8
+#EXTINF:-1,IT Sky Atlantic
+http://abroadtv.ddns.net:8000/live/A.../1404/701.m3u8
+#EXTINF:-1,IT Sky Cinema Max
+http://abroadtv.ddns.net:8000/live/A.../1404/700.m3u8
+#EXTINF:-1,Odisea (ES)
+http://abroadtv.ddns.net:8000/live/A.../1404/687.m3u8
+#EXTINF:-1,PT TVCine 1
+http://abroadtv.ddns.net:8000/live/A.../1404/695.m3u8
+#EXTINF:-1,IT Fox Comedy
+http://abroadtv.ddns.net:8000/live/A.../1404/694.m3u8
+#EXTINF:-1,IT Premium Story
+http://abroadtv.ddns.net:8000/live/A.../1404/702.m3u8
+#EXTINF:-1,IT Fox Sport 1
+http://abroadtv.ddns.net:8000/live/A.../1404/698.m3u8
+#EXTINF:-1,PT TV Series
+http://abroadtv.ddns.net:8000/live/A.../1404/699.m3u8
+#EXTINF:-1,TPA
+http://abroadtv.ddns.net:8000/live/A.../1404/697.m3u8
+#EXTINF:-1,France 24 (FR)
+http://abroadtv.ddns.net:8000/live/A.../1404/677.m3u8
+#EXTINF:-1,AB1 (FR)
+http://abroadtv.ddns.net:8000/live/A.../1404/676.m3u8
+#EXTINF:-1,Sky Sport 24 (IT)
+http://abroadtv.ddns.net:8000/live/A.../1404/672.m3u8
+#EXTINF:-1,Premium Cinema Emotion (IT)
+http://abroadtv.ddns.net:8000/live/A.../1404/665.m3u8
+#EXTINF:-1,Premium Cinema Comedy (IT)
+http://abroadtv.ddns.net:8000/live/A.../1404/666.m3u8
+#EXTINF:-1,IT Premium Action
+http://abroadtv.ddns.net:8000/live/A.../1404/667.m3u8
+#EXTINF:-1,Planeta + CI (FR)
+http://abroadtv.ddns.net:8000/live/A.../1404/669.m3u8
+#EXTINF:-1,Boing (FR)
+http://abroadtv.ddns.net:8000/live/A.../1404/670.m3u8
+#EXTINF:-1,Syfy (FR)
+http://abroadtv.ddns.net:8000/live/A.../1404/658.m3u8
+#EXTINF:-1,M6 (FR)
+http://abroadtv.ddns.net:8000/live/A.../1404/657.m3u8
+#EXTINF:-1,W9 (FR)
+http://abroadtv.ddns.net:8000/live/A.../1404/651.m3u8
+#EXTINF:-1,TF1 (FR)
+http://abroadtv.ddns.net:8000/live/A.../1404/656.m3u8
+#EXTINF:-1,Rtl 9 (FR)
+http://abroadtv.ddns.net:8000/live/A.../1404/654.m3u8
+#EXTINF:-1,Rai Storia (IT)
+http://abroadtv.ddns.net:8000/live/A.../1404/647.m3u8
+#EXTINF:-1,SW Viasat Action
+http://abroadtv.ddns.net:8000/live/A.../1404/655.m3u8
+#EXTINF:-1,IT Fox Life
+http://abroadtv.ddns.net:8000/live/A.../1404/648.m3u8
+#EXTINF:-1,France 3
+http://abroadtv.ddns.net:8000/live/A.../1404/650.m3u8
+#EXTINF:-1,ES Bein Sport HD
+http://abroadtv.ddns.net:8000/live/A.../1404/645.m3u8
+#EXTINF:-1,DE Planet
+http://abroadtv.ddns.net:8000/live/A.../1404/644.m3u8
+#EXTINF:-1,IT Premium Sport
+http://abroadtv.ddns.net:8000/live/A.../1404/649.m3u8
+#EXTINF:-1,D8
+http://abroadtv.ddns.net:8000/live/A.../1404/652.m3u8
+#EXTINF:-1,PT Abola TV
+http://abroadtv.ddns.net:8000/live/A.../1404/643.m3u8
+#EXTINF:-1,Sky TG24 (IT)
+http://abroadtv.ddns.net:8000/live/A.../1404/641.m3u8
+#EXTINF:-1,Rete 4 (IT)
+http://abroadtv.ddns.net:8000/live/A.../1404/642.m3u8
+#EXTINF:-1,Premium Stories (IT)
+http://abroadtv.ddns.net:8000/live/A.../1404/639.m3u8
+#EXTINF:-1,Nat Geo (IT)
+http://abroadtv.ddns.net:8000/live/A.../1404/638.m3u8
+#EXTINF:-1,Canal + Deportes (ES)
+http://abroadtv.ddns.net:8000/live/A.../1404/636.m3u8
+#EXTINF:-1,AXN White (ES)
+http://abroadtv.ddns.net:8000/live/A.../1404/634.m3u8
+#EXTINF:-1,Axn (ES)
+http://abroadtv.ddns.net:8000/live/A.../1404/633.m3u8
+#EXTINF:-1,PT Tvi 24
+http://abroadtv.ddns.net:8000/live/A.../1404/624.m3u8
+#EXTINF:-1,IT Sky Calcio
+http://abroadtv.ddns.net:8000/live/A.../1404/621.m3u8
+#EXTINF:-1,IT Sky Cinema 1
+http://abroadtv.ddns.net:8000/live/A.../1404/619.m3u8
+#EXTINF:-1,IT Sky Uno
+http://abroadtv.ddns.net:8000/live/A.../1404/631.m3u8
+#EXTINF:-1,SW Viasat Comedy
+http://abroadtv.ddns.net:8000/live/A.../1404/630.m3u8
+#EXTINF:-1,SW Viasat Hits
+http://abroadtv.ddns.net:8000/live/A.../1404/629.m3u8
+#EXTINF:-1,SW Viasat Premiere
+http://abroadtv.ddns.net:8000/live/A.../1404/628.m3u8
+#EXTINF:-1,Npo Zapp (NL)
+http://abroadtv.ddns.net:8000/live/A.../1404/627.m3u8
+#EXTINF:-1,IT Fox
+http://abroadtv.ddns.net:8000/live/A.../1404/620.m3u8
+#EXTINF:-1,Pink Zabava (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/613.m3u8
+#EXTINF:-1,Pink Soap (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/614.m3u8
+#EXTINF:-1,Pink Movies Sci-Fi
+http://abroadtv.ddns.net:8000/live/A.../1404/615.m3u8
+#EXTINF:-1,Pink 3
+http://abroadtv.ddns.net:8000/live/A.../1404/616.m3u8
+#EXTINF:-1,ES Tele Cinco
+http://abroadtv.ddns.net:8000/live/A.../1404/611.m3u8
+#EXTINF:-1,DE Sky Emotion
+http://abroadtv.ddns.net:8000/live/A.../1404/609.m3u8
+#EXTINF:-1,DE Discovery Channel
+http://abroadtv.ddns.net:8000/live/A.../1404/610.m3u8
+#EXTINF:-1,DE Sky Action
+http://abroadtv.ddns.net:8000/live/A.../1404/607.m3u8
+#EXTINF:-1,DE Kabel Eins HD
+http://abroadtv.ddns.net:8000/live/A.../1404/606.m3u8
+#EXTINF:-1,Decasa (ES)
+http://abroadtv.ddns.net:8000/live/A.../1404/605.m3u8
+#EXTINF:-1,Canal + Sport
+http://abroadtv.ddns.net:8000/live/A.../1404/603.m3u8
+#EXTINF:-1,DE Vox
+http://abroadtv.ddns.net:8000/live/A.../1404/592.m3u8
+#EXTINF:-1,Sky Select 3 (DE)
+http://abroadtv.ddns.net:8000/live/A.../1404/597.m3u8
+#EXTINF:-1,Sky Select 2 (DE)
+http://abroadtv.ddns.net:8000/live/A.../1404/596.m3u8
+#EXTINF:-1,ES Canal + Serie Xtra
+http://abroadtv.ddns.net:8000/live/A.../1404/595.m3u8
+#EXTINF:-1,DE Sky Comedy
+http://abroadtv.ddns.net:8000/live/A.../1404/599.m3u8
+#EXTINF:-1,Sky Cinema 1 (DE)
+http://abroadtv.ddns.net:8000/live/A.../1404/600.m3u8
+#EXTINF:-1,DE RTL
+http://abroadtv.ddns.net:8000/live/A.../1404/594.m3u8
+#EXTINF:-1,DE Fox
+http://abroadtv.ddns.net:8000/live/A.../1404/593.m3u8
+#EXTINF:-1,HBO (LA)
+http://abroadtv.ddns.net:8000/live/A.../1404/591.m3u8
+#EXTINF:-1,DE Super Rtl
+http://abroadtv.ddns.net:8000/live/A.../1404/586.m3u8
+#EXTINF:-1,IT Premium Action 24
+http://abroadtv.ddns.net:8000/live/A.../1404/569.m3u8
+#EXTINF:-1,DE Sat 1
+http://abroadtv.ddns.net:8000/live/A.../1404/579.m3u8
+#EXTINF:-1,IT MediaSet Extra
+http://abroadtv.ddns.net:8000/live/A.../1404/571.m3u8
+#EXTINF:-1,Italia 2 (IT)
+http://abroadtv.ddns.net:8000/live/A.../1404/570.m3u8
+#EXTINF:-1,Orf Zwei (DE)
+http://abroadtv.ddns.net:8000/live/A.../1404/585.m3u8
+#EXTINF:-1,De Orf Eins
+http://abroadtv.ddns.net:8000/live/A.../1404/584.m3u8
+#EXTINF:-1,DE Kika
+http://abroadtv.ddns.net:8000/live/A.../1404/583.m3u8
+#EXTINF:-1,Italia 1 (IT)
+http://abroadtv.ddns.net:8000/live/A.../1404/572.m3u8
+#EXTINF:-1,IT Energy Prem
+http://abroadtv.ddns.net:8000/live/A.../1404/574.m3u8
+#EXTINF:-1,DE MTV
+http://abroadtv.ddns.net:8000/live/A.../1404/581.m3u8
+#EXTINF:-1,IT Rai 4
+http://abroadtv.ddns.net:8000/live/A.../1404/575.m3u8
+#EXTINF:-1,IT Canale 5
+http://abroadtv.ddns.net:8000/live/A.../1404/576.m3u8
+#EXTINF:-1,DE Pro 7 Maxx
+http://abroadtv.ddns.net:8000/live/A.../1404/580.m3u8
+#EXTINF:-1,Hot XXX
+http://abroadtv.ddns.net:8000/live/A.../1404/578.m3u8
+#EXTINF:-1,ES Discovery Channel
+http://abroadtv.ddns.net:8000/live/A.../1404/558.m3u8
+#EXTINF:-1,Disney XD (ES)
+http://abroadtv.ddns.net:8000/live/A.../1404/557.m3u8
+#EXTINF:-1,ES Divinity
+http://abroadtv.ddns.net:8000/live/A.../1404/562.m3u8
+#EXTINF:-1,ES Canal +
+http://abroadtv.ddns.net:8000/live/A.../1404/559.m3u8
+#EXTINF:-1,ES Calle 13
+http://abroadtv.ddns.net:8000/live/A.../1404/560.m3u8
+#EXTINF:-1,Sky Sport News
+http://abroadtv.ddns.net:8000/live/A.../1404/498.m3u8
+#EXTINF:-1,UK Sky Movies Disney
+http://abroadtv.ddns.net:8000/live/A.../1404/507.m3u8
+#EXTINF:-1,ES Fox Life
+http://abroadtv.ddns.net:8000/live/A.../1404/541.m3u8
+#EXTINF:-1,NL Fox Sport 2
+http://abroadtv.ddns.net:8000/live/A.../1404/540.m3u8
+#EXTINF:-1,Tv8 (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/530.m3u8
+#EXTINF:-1,Kanal Turk (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/531.m3u8
+#EXTINF:-1,NL Fox Sport 4
+http://abroadtv.ddns.net:8000/live/A.../1404/542.m3u8
+#EXTINF:-1,Star Tv (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/529.m3u8
+#EXTINF:-1,Show Tv (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/526.m3u8
+#EXTINF:-1,Salon 3
+http://abroadtv.ddns.net:8000/live/A.../1404/521.m3u8
+#EXTINF:-1,Salon 2
+http://abroadtv.ddns.net:8000/live/A.../1404/520.m3u8
+#EXTINF:-1,Salon 1 (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/519.m3u8
+#EXTINF:-1,RTS Sat (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/479.m3u8
+#EXTINF:-1,Pink World
+http://abroadtv.ddns.net:8000/live/A.../1404/477.m3u8
+#EXTINF:-1,Pink M
+http://abroadtv.ddns.net:8000/live/A.../1404/478.m3u8
+#EXTINF:-1,Nat Geo (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/535.m3u8
+#EXTINF:-1,ES Historia
+http://abroadtv.ddns.net:8000/live/A.../1404/554.m3u8
+#EXTINF:-1,UK Setanta
+http://abroadtv.ddns.net:8000/live/A.../1404/514.m3u8
+#EXTINF:-1,MovieSmart Turk (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/523.m3u8
+#EXTINF:-1,MovieSmart Platin HD(TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/522.m3u8
+#EXTINF:-1,Minika Go (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/538.m3u8
+#EXTINF:-1,Ligtv 1 (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/532.m3u8
+#EXTINF:-1,Canal + Series(ES)
+http://abroadtv.ddns.net:8000/live/A.../1404/544.m3u8
+#EXTINF:-1,Kral Tv (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/527.m3u8
+#EXTINF:-1,Kanal D (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/525.m3u8
+#EXTINF:-1,Hollywood (ES)
+http://abroadtv.ddns.net:8000/live/A.../1404/545.m3u8
+#EXTINF:-1,History Channel (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/539.m3u8
+#EXTINF:-1,History Channel (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/476.m3u8
+#EXTINF:-1,Fox Sport 2 (US)
+http://abroadtv.ddns.net:8000/live/A.../1404/480.m3u8
+#EXTINF:-1,Fox (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/528.m3u8
+#EXTINF:-1,ES Fox
+http://abroadtv.ddns.net:8000/live/A.../1404/547.m3u8
+#EXTINF:-1,UK Comedy Central
+http://abroadtv.ddns.net:8000/live/A.../1404/510.m3u8
+#EXTINF:-1,UK Disney Channel
+http://abroadtv.ddns.net:8000/live/A.../1404/516.m3u8
+#EXTINF:-1,Discovery Channel (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/534.m3u8
+#EXTINF:-1,NL Fox Sport 3
+http://abroadtv.ddns.net:8000/live/A.../1404/548.m3u8
+#EXTINF:-1,ES Canal+ Accion
+http://abroadtv.ddns.net:8000/live/A.../1404/553.m3u8
+#EXTINF:-1,ES Canal + Dcine
+http://abroadtv.ddns.net:8000/live/A.../1404/551.m3u8
+#EXTINF:-1,ES Canal + Comedia
+http://abroadtv.ddns.net:8000/live/A.../1404/552.m3u8
+#EXTINF:-1,Bt Sport 2
+http://abroadtv.ddns.net:8000/live/A.../1404/497.m3u8
+#EXTINF:-1,BT Sport 1
+http://abroadtv.ddns.net:8000/live/A.../1404/496.m3u8
+#EXTINF:-1,AR Bein Sports 4
+http://abroadtv.ddns.net:8000/live/A.../1404/515.m3u8
+#EXTINF:-1,Bein Sports 5
+http://abroadtv.ddns.net:8000/live/A.../1404/468.m3u8
+#EXTINF:-1,AR Bein Sport 8
+http://abroadtv.ddns.net:8000/live/A.../1404/485.m3u8
+#EXTINF:-1,AR Bein Sport 3
+http://abroadtv.ddns.net:8000/live/A.../1404/482.m3u8
+#EXTINF:-1,AR BeiN Sport 7
+http://abroadtv.ddns.net:8000/live/A.../1404/484.m3u8
+#EXTINF:-1,Atv HD (TR)
+http://abroadtv.ddns.net:8000/live/A.../1404/524.m3u8
+#EXTINF:-1,NL Fox Sport 1
+http://abroadtv.ddns.net:8000/live/A.../1404/549.m3u8
+#EXTINF:-1,EXYU Arena Sport 1 HD
+http://abroadtv.ddns.net:8000/live/A.../1404/503.m3u8
+#EXTINF:-1,5 Usa (UK)
+http://abroadtv.ddns.net:8000/live/A.../1404/508.m3u8
+#EXTINF:-1,UK Nat Geo
+http://abroadtv.ddns.net:8000/live/A...v/1404/61.m3u8
+#EXTINF:-1,DIscovery Channel (UK)
+http://abroadtv.ddns.net:8000/live/A...v/1404/60.m3u8
+#EXTINF:-1,Discovery ID (UK)
+http://abroadtv.ddns.net:8000/live/A...v/1404/62.m3u8
+#EXTINF:-1,UK Discovery Home & Health
+http://abroadtv.ddns.net:8000/live/A...v/1404/59.m3u8
+#EXTINF:-1,(UK) Animal Planet
+http://abroadtv.ddns.net:8000/live/A...v/1404/63.m3u8
+#EXTINF:-1,UK History (UK)
+http://abroadtv.ddns.net:8000/live/A...v/1404/64.m3u8
+#EXTINF:-1,UK History 2
+http://abroadtv.ddns.net:8000/live/A...v/1404/65.m3u8
+#EXTINF:-1,E! Entertainment
+http://abroadtv.ddns.net:8000/live/A...v/1404/91.m3u8
+#EXTINF:-1,TLC (UK)
+http://abroadtv.ddns.net:8000/live/A...v/1404/66.m3u8
+#EXTINF:-1,Travel Channel
+http://abroadtv.ddns.net:8000/live/A...v/1404/67.m3u8
+#EXTINF:-1,Star Jalsha (UK)
+http://abroadtv.ddns.net:8000/live/A.../1404/208.m3u8
+#EXTINF:-1,UK Sky Movies Premiere HD
+http://abroadtv.ddns.net:8000/live/A...v/1404/68.m3u8
+#EXTINF:-1,UK Sky Movies Modern Greats
+http://abroadtv.ddns.net:8000/live/A...v/1404/69.m3u8
+#EXTINF:-1,UK Sky Movies Action
+http://abroadtv.ddns.net:8000/live/A...v/1404/70.m3u8
+#EXTINF:-1,UK Sky Movies Comedy
+http://abroadtv.ddns.net:8000/live/A...v/1404/71.m3u8
+#EXTINF:-1,Sky Movies Family
+http://abroadtv.ddns.net:8000/live/A...v/1404/87.m3u8
+#EXTINF:-1,Sky Movies Syfy
+http://abroadtv.ddns.net:8000/live/A...v/1404/72.m3u8
+#EXTINF:-1,UK Sky Sport 1
+http://abroadtv.ddns.net:8000/live/A...v/1404/74.m3u8
+#EXTINF:-1,UK Sky Sport 2
+http://abroadtv.ddns.net:8000/live/A...v/1404/75.m3u8
+#EXTINF:-1,UK Sky Sport 3
+http://abroadtv.ddns.net:8000/live/A...v/1404/76.m3u8
+#EXTINF:-1,UK Sky Sport 4
+http://abroadtv.ddns.net:8000/live/A...v/1404/77.m3u8
+#EXTINF:-1,UK Sky Sport 5
+http://abroadtv.ddns.net:8000/live/A...v/1404/78.m3u8
+#EXTINF:-1,UK Sky Sport F1
+http://abroadtv.ddns.net:8000/live/A...v/1404/79.m3u8
+#EXTINF:-1,Box Nation
+http://abroadtv.ddns.net:8000/live/A...v/1404/82.m3u8
+#EXTINF:-1,ES Barca TV
+http://abroadtv.ddns.net:8000/live/A.../1404/172.m3u8
+#EXTINF:-1,IT Sky Giallo
+http://abroadtv.ddns.net:8000/live/A.../1404/101.m3u8
+#EXTINF:-1,IT Iris Mediaset
+http://abroadtv.ddns.net:8000/live/A.../1404/214.m3u8
+#EXTINF:-1,DE Sky Bundasliga
+http://abroadtv.ddns.net:8000/live/A...v/1404/90.m3u8
+#EXTINF:-1,DE Sky Sport 1
+http://abroadtv.ddns.net:8000/live/A...v/1404/94.m3u8
+#EXTINF:-1,DE Sky Sport 2
+http://abroadtv.ddns.net:8000/live/A...v/1404/95.m3u8
+#EXTINF:-1,Canal + Liga (SP)
+http://abroadtv.ddns.net:8000/live/A...v/1404/93.m3u8
+#EXTINF:-1,Canal + Futball
+http://abroadtv.ddns.net:8000/live/A...v/1404/97.m3u8
+#EXTINF:-1,Cnn News
+http://abroadtv.ddns.net:8000/live/A...v/1404/38.m3u8
+#EXTINF:-1,Bein Sport 1
+http://abroadtv.ddns.net:8000/live/A...v/1404/40.m3u8
+#EXTINF:-1,BBC News
+http://abroadtv.ddns.net:8000/live/A...v/1404/39.m3u8
+#EXTINF:-1,Playboy TV
+http://abroadtv.ddns.net:8000/live/A...v/1404/41.m3u8
+#EXTINF:-1,XXX Chinese
+http://abroadtv.ddns.net:8000/live/A...v/1404/88.m3u8
+#EXTINF:-1,Pink Music (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/218.m3u8
+#EXTINF:-1,Primafilla 6 XXX
+http://abroadtv.ddns.net:8000/live/A...v/1404/89.m3u8
+#EXTINF:-1,PrimaFila XXX
+http://abroadtv.ddns.net:8000/live/A...v/1404/43.m3u8
+#EXTINF:-1,Babestation Extra
+http://abroadtv.ddns.net:8000/live/A...v/1404/42.m3u8
+#EXTINF:-1,Pink Movies Crime & Mystery
+http://abroadtv.ddns.net:8000/live/A.../1404/224.m3u8
+#EXTINF:-1,OSN Movie Box Office 3
+http://abroadtv.ddns.net:8000/live/A.../1404/219.m3u8
+#EXTINF:-1,Prva Plus (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/223.m3u8
+#EXTINF:-1,Pink Horror (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/222.m3u8
+#EXTINF:-1,Osn Movie Box Office 1
+http://abroadtv.ddns.net:8000/live/A.../1404/221.m3u8
+#EXTINF:-1,Osn Movie Box Office 2
+http://abroadtv.ddns.net:8000/live/A.../1404/220.m3u8
+#EXTINF:-1,Hayat Plus (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/210.m3u8
+#EXTINF:-1,Fox Life (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/226.m3u8
+#EXTINF:-1,Fox Crime (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/230.m3u8
+#EXTINF:-1,CMC (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/225.m3u8
+#EXTINF:-1,Pink Folk
+http://abroadtv.ddns.net:8000/live/A.../1404/227.m3u8
+#EXTINF:-1,ES Energy
+http://abroadtv.ddns.net:8000/live/A.../1404/229.m3u8
+#EXTINF:-1,HRT 1 (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/228.m3u8
+#EXTINF:-1,DE Sky Atlantic
+http://abroadtv.ddns.net:8000/live/A.../1404/195.m3u8
+#EXTINF:-1,DE RTL 2
+http://abroadtv.ddns.net:8000/live/A.../1404/194.m3u8
+#EXTINF:-1,DE Pro Sieben
+http://abroadtv.ddns.net:8000/live/A.../1404/197.m3u8
+#EXTINF:-1,Tele Aruba
+http://abroadtv.ddns.net:8000/live/A...v/1404/96.m3u8
+#EXTINF:-1,BN BIH (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/147.m3u8
+#EXTINF:-1,BHT1 (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/151.m3u8
+#EXTINF:-1,FTV (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/152.m3u8
+#EXTINF:-1,Hayat BIH (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/148.m3u8
+#EXTINF:-1,Tv1 (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/163.m3u8
+#EXTINF:-1,Doma TV (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/149.m3u8
+#EXTINF:-1,Face TV (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/174.m3u8
+#EXTINF:-1,PRVA (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/161.m3u8
+#EXTINF:-1,Fox (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/160.m3u8
+#EXTINF:-1,Happy TV (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/156.m3u8
+#EXTINF:-1,Grand TV (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/155.m3u8
+#EXTINF:-1,MiniMax (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/173.m3u8
+#EXTINF:-1,Nova TV (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/157.m3u8
+#EXTINF:-1,Hayatovci (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/154.m3u8
+#EXTINF:-1,Discovery (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/177.m3u8
+#EXTINF:-1,Nat Geo (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/170.m3u8
+#EXTINF:-1,E! Entertainment (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/153.m3u8
+#EXTINF:-1,24 Kitchen (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/162.m3u8
+#EXTINF:-1,BN Music (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/175.m3u8
+#EXTINF:-1,Fox Movies (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/178.m3u8
+#EXTINF:-1,HBO Adria (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/159.m3u8
+#EXTINF:-1,HBO Comedy (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/164.m3u8
+#EXTINF:-1,Pink BiH (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/165.m3u8
+#EXTINF:-1,Pink 1 (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/176.m3u8
+#EXTINF:-1,Pink 2 (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/166.m3u8
+#EXTINF:-1,Pink Premium (BIH)
+http://abroadtv.ddns.net:8000/live/A.../1404/167.m3u8
+#EXTINF:-1,Pink Plus (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/179.m3u8
+#EXTINF:-1,Pink World (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/180.m3u8
+#EXTINF:-1,Pink Action
+http://abroadtv.ddns.net:8000/live/A.../1404/169.m3u8
+#EXTINF:-1,Pink Comedy (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/171.m3u8
+#EXTINF:-1,Pink Movies Romance
+http://abroadtv.ddns.net:8000/live/A.../1404/182.m3u8
+#EXTINF:-1,Pink Film
+http://abroadtv.ddns.net:8000/live/A.../1404/168.m3u8
+#EXTINF:-1,Pink XXX
+http://abroadtv.ddns.net:8000/live/A.../1404/263.m3u8
+#EXTINF:-1,CineMAx 2 (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/261.m3u8
+#EXTINF:-1,CineMax (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/260.m3u8
+#EXTINF:-1,CI(EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/262.m3u8
+#EXTINF:-1,Rtl Living (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/247.m3u8
+#EXTINF:-1,Pink Kids (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/246.m3u8
+#EXTINF:-1,Al Jazeera (EXYU)
+http://abroadtv.ddns.net:8000/live/A.../1404/245.m3u8
+#EXTINF:-1,ES Canal + Cocina
+http://abroadtv.ddns.net:8000/live/A.../1404/242.m3u8
+#EXTINF:-1,ES AXN
+http://abroadtv.ddns.net:8000/live/A.../1404/239.m3u8
