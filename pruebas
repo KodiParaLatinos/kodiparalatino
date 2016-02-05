@@ -1,1072 +1,248 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-    <channels>
-    
     <channel>
-
-	
-    <name>Deportes</name>
-    <thumbnail>http://4.bp.blogspot.com/-fpQB6O9ekmw/T5gVhjprkwI/AAAAAAAAJdo/jqCoKEEI_Xc/s1600/Zidane-Real-Madrid.jpg</thumbnail>
-    <fanart>http://www.telecinco.es/deportes/Real_Madrid-Isco-gol-cabeza-Betis_MDSIMA20130818_0341_7.jpg</fanart>
+    
+    <name>Canales España</name>
+    <thumbnail>none</thumbnail>
     <items>
 
+    
     <item>
-    <title>Actualizado 28/09/2013 7:45pm</title>
-    <link>--live</link>
-    <thumbnail></thumbnail>
-    </item>
-
-    <item>
-    <title>CANAL + Futbol</title>
-    <link>rtmp://109.123.114.218/stream playpath=Futbolpontucanalnet3?id=103271 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/Futbolpontucanalnet3/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://files.cafeteriasvistanevada.es/200000631-e78a0e8839/LOGO-CANAL--F%C3%9ATBOL-HD.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>CANAL + Futbol (sin emisión)</title>
-    <link>rtmp://198.105.217.36/stream playpath=playboy23?id=101989 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/playboy23/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://files.cafeteriasvistanevada.es/200000631-e78a0e8839/LOGO-CANAL--F%C3%9ATBOL-HD.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>CANAL + Deportes</title>
-    <link>rtmp://206.190.128.108/stream playpath=plusdeportelacajatvnet2?id=99990 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/plusdeportelacajatvnet2/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://1.bp.blogspot.com/-UE0kbnyNOO0/UV294M7sl_I/AAAAAAAAQZA/xwiEh6TGQvY/s1600/canal+++deportes.jpg</thumbnail>
-    </item>    
-
-    <item>
-    <title>CANAL + Deportes (opción 2)</title>
-    <link>rtmp://5.63.151.44/stream playpath=deporte56h?id=101868 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/deporte56h/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://1.bp.blogspot.com/-UE0kbnyNOO0/UV294M7sl_I/AAAAAAAAQZA/xwiEh6TGQvY/s1600/canal+++deportes.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>CANAL + Deportes 2</title>
-    <link>rtmp://5.63.151.44/stream playpath=deporte22?id=104360 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/deporte22/1/670/400 conn=S:OK --live</link>
-    <thumbnail>http://lh6.ggpht.com/-I1qdkhd-xrU/UC3PVIFMlwI/AAAAAAAAAmE/Nzdce8iUZvs/image_thumb%25255B3%25255D.png?imgmax=800</thumbnail>
-    </item>
-
-    <item>
-    <title>CANAL + Liga Campeones</title>
-    <link>rtmp://185.2.138.108/live playpath=canalplcpe?id=7984 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/canalplcpe/1/650/400 Conn=S:OK --live</link>
-    <thumbnail>http://www.vivafutbol.es/images/stories/Fotos_Noticias/00_99/canal_plus_liga_campeones.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>CANAL + Liga Campeones (opción 2)</title>
-    <link>rtmp://184.22.182.178/vl/_definst_ playpath=cagarrutalc swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=cagarrutalc&vw=645&vh=395&domain=www.tvonlinegratis.mobi</link>
-    <thumbnail>http://www.vivafutbol.es/images/stories/Fotos_Noticias/00_99/canal_plus_liga_campeones.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>CANAL + Liga Campeones (opción 3)</title>
-    <link>rtmp://109.123.116.76/live playpath=canalplcpe?id=7984 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/canalplcpe/1/650/400 Conn=S:OK --live</link>
-    <thumbnail>http://www.vivafutbol.es/images/stories/Fotos_Noticias/00_99/canal_plus_liga_campeones.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>CANAL + Liga</title>
-    <link>rtmpe://live.pontucanal.net/stream playpath=liga.live swfUrl=http://www.pontucanal.net/player/player.swf live=1 pageUrl=http://www.pontucanal.net/embed.php?n=liga&vw=650&vh=400</link>
-    <thumbnail>http://4.bp.blogspot.com/-eLNL3tImrsk/UXQy9FIX7iI/AAAAAAAAQqc/kaPotVff6zw/s1600/canal+++liga.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>CANAL + Liga (opción 2)</title>
-    <link>rtmp://173.192.209.69/live playpath=kkjjkk?id=55146 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/kkjjkk/1/651/400 conn=S:OK --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-eLNL3tImrsk/UXQy9FIX7iI/AAAAAAAAQqc/kaPotVff6zw/s1600/canal+++liga.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>CANAL + Liga (opción 3)</title>
-    <link>rtmp://ustreameu1livefs.fplive.net:1935/ustreameu1live-live/ playpath=stream_live_1_1_15959233 swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:550.swf?rmalang=es_ES live=1 pageUrl=http://canhome1a.blogspot.com/2013/08/opcion-2.html</link>
-    <thumbnail>http://4.bp.blogspot.com/-eLNL3tImrsk/UXQy9FIX7iI/AAAAAAAAQqc/kaPotVff6zw/s1600/canal+++liga.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>CANAL + Liga (opción 4)</title>
-    <link>rtmp://ny.iguide.to/iguide playpath=eskfzyvz22gvld2 swfUrl=http://www.iguide.to/player/player_embed_iguide.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php token=#ed%h0#w18623jsda6523lDGDve</link>
-    <thumbnail>http://4.bp.blogspot.com/-eLNL3tImrsk/UXQy9FIX7iI/AAAAAAAAQqc/kaPotVff6zw/s1600/canal+++liga.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>GOLT</title>
-    <link>rtmp://184.173.181.44/live playpath=goltvverdirectotv?id=54068 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/goltvverdirectotv/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-4sjT-GoK5p8/UUzBZ1A4WvI/AAAAAAAAQIc/iewMtEFTaUI/s1600/Gol+TV.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>GOLT (opción 2)</title>
-    <link>rtmp://go.fasts.tv/fasts playpath=vipracing1op swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=1 pageUrl=http://www.fasts.tv conn=S:OK timeout=10 token=#ed%h0#w18723jdsahjkDHF --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-4sjT-GoK5p8/UUzBZ1A4WvI/AAAAAAAAQIc/iewMtEFTaUI/s1600/Gol+TV.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Teledeporte</title>
-    <link>rtmp://208.43.175.45/stream playpath=teledeportelive?id=99872 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/teledeportelive/1/650/400 conn=S:OK -live</link>
-    <thumbnail>http://www.omicrono.com/wp-content/uploads/2012/06/teledeporte.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>EUROSPORT Español</title>
-    <link>http://212.20.37.46:1234/udp/233.7.70.132:5000</link>
-    <thumbnail>http://3.bp.blogspot.com/-Stmhoq_kVt8/UVBuEyDqcdI/AAAAAAAAQOM/n5oej5g2Vjk/s1600/eurosport.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>EUROSPORT 2</title>
-    <link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
-    <thumbnail>http://3.bp.blogspot.com/-qXxZVWplsQw/US3hrNjZxiI/AAAAAAAAE6Q/uExw0Bu0PvQ/s1600/eurosport+2+logo.gif</thumbnail>
-    </item>
-
-    <item>
-    <title>EUROSPORT British HD</title>
-    <link>http://esioslive2-i.akamaihd.net/hls/live/200728/AL_ESP1_UK_ENG/playlist_2500.m3u8</link>
-    <thumbnail>http://2.bp.blogspot.com/-TOvWNwoQ050/UVG6nd60HiI/AAAAAAAAQQU/eXoNjU0dk04/s1600/eurosport+uk.jpg</thumbnail>
+    <title>Actualizado 01/12/2013 12:10</title>
+    <link>none</link>
+    <thumbnail>none</thumbnail>
     </item>
     
     <item>
-    <title>EUROSPORT British HD 2</title>
-    <link>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_2500.m3u8</link>
-    <thumbnail>http://www.lyngsat-logo.com/hires/bb/british_eurosport_2.png</thumbnail>
+    <title>Canal+ 1</title>
+    <link>rtmp://streaming.freelivetv.tv/live playpath=plus-lacajatv-es-dd52a07bcfc244cef993d314b73334f5 swfUrl=http://freelivetv.tv/embed/noreproductor.php?o=1 live=1 pageUrl=http://freelivetv.tv/</link>
+    <thumbnail>none</thumbnail>
     </item>
-
+    
     <item>
-    <title>Sportmania</title>
-    <link>rtmp://109.123.123.68/live playpath=sportmanialacajatvnet swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=1 pageUrl=http://www.janjua.tv/embed.php?v=sportmanialacajatvnet&vw=650&vh=400&ty peplayer=0&domain=lacajatv.net</link>
-    <thumbnail>http://channels.entertainhub.com/wp-content/uploads/2013/02/SPORTMANIA-DIRECTO.jpeg</thumbnail>
+    <title>Canal + 2</title>
+    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=plus2d83de59e10227072a9c034ce10029c39 swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=plus2</link>
+    <thumbnail>none</thumbnail>
     </item>
-
+    
     <item>
-    <title>Real Madrid TV</title>
-    <link>http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8</link>
-    <thumbnail>http://2.bp.blogspot.com/-yoh7-fRWtwg/UVBsm73E2YI/AAAAAAAAQOE/luBrznIECas/s1600/real+madrid.jpg</thumbnail>
+    <title>Canal + accion</title>
+    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=accioncfcd208495d565ef66e7dff9f98764da swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=accion</link>
+    <thumbnail>none</thumbnail>
     </item>
-
+    
     <item>
-    <title>Real Madrid TV (opción 2)</title>
-    <link>rtmp://ny.iguide.to/edge playpath=3fwiwmjplf5cv6m swfUrl=http://player.ilive.to/player_ilive_embed.swf live=1 pageUrl=http://www.ilive.to  conn=S:OK timeout=10 token=UYDk93k#09sdafjJDHJKAD873 --live</link>
-    <thumbnail>http://2.bp.blogspot.com/-yoh7-fRWtwg/UVBsm73E2YI/AAAAAAAAQOE/luBrznIECas/s1600/real+madrid.jpg</thumbnail>
+    <title>Canal + comedia</title>
+    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=pluscomedia42d6c7d61481d1c21bd1635f59edae05 swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=pluscomedia</link>
+    <thumbnail>none</thumbnail>
     </item>
-
+    
     <item>
-    <title>Sevilla FC TV</title>
-    <link>rtmp://flash0.80137-live0.dna.qbrick.com:80/80137-live0 playpath=sevillafc swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://tvrojadirecta.com/tv/deportes/sevillafc.html</link>
-    <thumbnail>http://oi47.tinypic.com/2943uwp.jpg</thumbnail>
+    <title>Canal + cine</title>
+    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=3rlt1uu9s5swpp8 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
+    <thumbnail>none</thumbnail>
     </item>
-
+    
     <item>
-    <title>ESPN Deportes</title>
-    <link>rtmp://95.211.148.203/live playpath=espasndf?id=180037 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/espasndf/1/600/450 conn=S:OK --live</link>
-    <thumbnail>http://espnmediazone.com/us/files/2011/04/MZ25542_ESPN_Deportes-630x426.jpg</thumbnail>
+    <title>TNT</title>
+    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=f7177163c833dff4b38fc8d2872f1ec6 swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/</link>
+    <thumbnail>none</thumbnail>
     </item>
-
+    
     <item>
-    <title>ESPN Inglés</title>
-    <link>rtmp://213.163.64.207:80/liverepeater playpath=espn swfUrl=http://cdna.aljazeerasport.asia/player.swf live=1 pageUrl=http://www.aljazeerasport.asia/live.php?id=espn&width=630&height=400</link>
-    <thumbnail>http://www.throughrosetintedglasses.com/wp-content/uploads/2012/05/ESPN-LOGO.jpg</thumbnail>
+    <title>Fox Crime</title>
+    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=foxcrimend23841cbc5fe43089368c1dc9dbbf4b0 swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/</link>
+    <thumbnail>none</thumbnail>
     </item>
-
+    
     <item>
-    <title>ESPN 2 Inglés</title>
-    <link>rtmpe://live.univisionbrazil.com/modelo playpath=espn2.live swfUrl=http://www.desistreams.tv/player/player.swf live=1 pageUrl=http://desistreams.tv/embed/usa_espn2.php</link>
-    <thumbnail>http://www.throughrosetintedglasses.com/wp-content/uploads/2012/05/ESPN-LOGO.jpg</thumbnail>
+    <title>AXN series</title>
+    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=e113z9rqjvxr4ka swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Calle 13 series</title>
+    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=calle13-verlatelegratis-comcfcd208495d565ef66e7dff9f98764da swfUrl=http://flashstreaming.mobi/embed/reproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/embed/embed.php?channel=calle13-verlatelegratis-com</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>FOX</title>
+    <link>rtmp://streaming.freelivetv.tv:1935/live playpath=14bfa6bb14875e45bba028a21ed38046 swfUrl=http://freelivetv.tv/embed/reproductor.php?o=1 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=fox-lacajatv-es Conn=S:OK --live</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Syfy series</title>
+    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=8kyeq4x7dzxdg0b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Venezuela Globovision</title>
+    <link>http://edge.wms28.lorini.net/globovisiontv/globovisiontv/hasbahca.m3u8</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>National Geographic</title>
+    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=durxqupub2pshej swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>National Geographic Wild</title>
+    <link>rtmp://streaming.freelivetv.tv:1935/live playpath=812b4ba287f5ee0bc9d43bbf5bbe87fb swfUrl=http://freelivetv.tv/embed/reproductor.php?o=1 live=1 pageUrl=http://freelivetv.tv/embed/embed.php?channel=wild Conn=S:OK</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Canal Historia</title>
+    <link>rtmp://ny.premiumcdnlive.com/edge playpath=86gm7qabie30dsv swfUrl=http://player.ilive.to/secure_player_embed_z.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=590 height=400 channel=53789 autoplay=true token=I8772LDKksadhGHGagf#</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>TV Canaria</title>
+    <link>rtmp://streamrtvcnet.mad.idec.net/rtvcnet playpath=rtvcnet.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/enDirecto.aspx?canal=sat</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Euronews ESP</title>
+    <link>rtmp://fr-par-3.stream-relay.hexaglobe.net/rtpeuronewslive/es_video350_rtp.sdp</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>BBC news</title>
+    <link>mms://rmv8.bbc.net.uk/news/olmedia/n5ctrl/tvseq/od/bbc2/bb/wm/video/daily_pol_bb.wmv</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Aljazeera</title>
+    <link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_eng_med swfUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf live=1 pageUrl=http://fancystreems.com/aljazeera.html --live</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>FOX news</title>
+    <link>rtmp://ny.premiumcdnlive.com/edge/ohn58e97er36vjr pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+     <item>
+    <title>CNN</title>
+    <link>rtmp://ny.premiumcdnlive.com/edge/pevmm1onhjyufpg pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf#</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Canal + liga</title>
+    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=8kyeq4x7dzxdg0b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Canal + futbol</title>
+    <link>rtmp://live.flashstreaming.mobi:1935/live playpath=plusfutbol866ed6474ae197052573169977a3e66f swfUrl=http://flashstreaming.mobi/embed/noreproductor.php?o=1 live=1 pageUrl=http://flashstreaming.mobi/</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Canal + liga campeones</title>
+    <link>rtmp://ams.premiumcdnlive.com/iguide playpath=i42a82irjwitu7j swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    
+   <item>
+    <title>Fox sports</title>
+    <link>http://m24.megafun.vn/live.vs?c=vstv042</link>
+    <thumbnail>none</thumbnail>
+    </item> 
+    
+    <item>
+    <title>Canal + deportes</title>
+    <link>rtmp-raw=rtmp://ams.premiumcdnlive.com/iguide playpath=41mpv2b0gssazjw swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Eurosport</title>
+    <link>rtmp://213.163.64.76/shqstream/ playpath=eesp1111?keys=KVf2boZ9MUGOiDwu0_9-bA keyt=1382220004 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf live=1 pageUrl=http://hqstream.tv/player.php?streampage=eesp1111</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Gol Tv</title>
+    <link>rtmp://50.22.223.51/live playpath=golnuevo?id=56976 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/golnuevo/1/650/400 Conn=S:OK</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>Gol Tv</title>
+    <link>rtmp://46.23.67.66/live playpath=golnuevo?id=56976 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/golnuevo/1/650/400 Conn=S:OK --live</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+   <item>
+    <title>BEIN sport</title>
+    <link>rtmpe://live.univisionbrazil.com/stream playpath=z00021.live swfUrl=http://freelivetv.tv/embed/noreproductor.php live=1 pageUrl=http://freelivetv.tv/embed/embedmobil.php?n=z00021</link>
+    <thumbnail>none</thumbnail>
+    </item> 
+    
+    <item>
+    <title>ESPORT 3</title>
+    <link>rtmp://tv-geoespanya-flashlivefs.fplive.net:1935/tv-geoespanya-flashlive-live?ovpfv=1.1/stream_ES_ES3_FLV</link>
+    <thumbnail>none</thumbnail>
     </item>
     
     <item>
     <title>NBA TV</title>
-    <link>rtmp://31.7.58.146:1935/stream/ playpath=K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=s4x2u5e4p5c4e4z234a4v214w274u2r294d4s2t2p213</link>
-    <thumbnail>http://3.bp.blogspot.com/-zD7ZWVc5MRg/UXD59zmWs1I/AAAAAAAAQfY/hUNs9T0JMF8/s1600/nba.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>NBA TV HD</title>
-    <link>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</link>
-    <thumbnail>http://3.bp.blogspot.com/-zD7ZWVc5MRg/UXD59zmWs1I/AAAAAAAAQfY/hUNs9T0JMF8/s1600/nba.jpg</thumbnail>
-    </item>
-    
-    <item>
-    <title>Sky SPORTS F1 HD</title>
-    <link>rtmp://46.246.124.16:443/liverepeater playpath=13877 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/nomore.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=13877&width=620&height=490</link>
-    <thumbnail>https://si0.twimg.com/profile_images/3556404557/91f2d95a50363b8c64ed19514c5f5fc0.jpeg</thumbnail>
-    </item>
-    
-    <item>
-    <title>Fox Deportes</title>
-    <link>rtmp://109.123.126.106/live playpath=as3qasdfasf?id=53504 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/as3qasdfasf/1/600/400 conn=S:OK --live</link>
-    <thumbnail>http://www.adamrjacobson.com/wp-content/uploads/2010/06/FOX_DEPORTES_DARK-BLUE-e1283301380766.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>TyC Sports</title>
-    <link>rtmpe://50.7.28.210/app playpath=16070 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6a55324e7a63304e7a597a4d513d3d/94c70b9c5711</link>
-    <thumbnail>http://basta.metro951.com/files/2009/06/tyc.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Bein Sport Español</title>
-    <link>rtmp://204.45.157.98/flash/16633 live=1 pageUrl=http://sawlive.tv/</link>
-    <thumbnail>http://4.bp.blogspot.com/-mnscyrmjJ50/UdLSCdIzZvI/AAAAAAAARJ8/cAtOx8mgNMA/s320/bein+sport.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Bein Sport Español (buena calidad)</title>
-    <link>rtmp://ustream.fc.llnwd.net:1935/ustream playpath=ustream_llnw_live_1_163986565 swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:544.swf live=1 pageUrl=http://www.ustream.tv/embed/16026401?autoplay=1</link>
-    <thumbnail>http://4.bp.blogspot.com/-mnscyrmjJ50/UdLSCdIzZvI/AAAAAAAARJ8/cAtOx8mgNMA/s320/bein+sport.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Idman TV</title>
-    <link>rtmp://lswb-de-08.servers.octoshape.net:1935/live/ playpath=aztvsport swfUrl=http://widih.modifikasi.com/player.swf live=1 pageUrl=http://widih.modifikasi.com/watch-tv/2023/idman-tv live tv streaming --live</link>
-    <thumbnail>http://tvonlineapp.com/wp-content/uploads/2013/06/%C4%B0dman-Tv-T%C3%BCm-Uydu-Al%C4%B1c%C4%B1lar%C4%B1-%C4%B0%C3%A7in-Biss-Key-%C5%9Eifreleri-Azeri-Kanal%C4%B1.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>NTV</title>
-    <link>mms://85.111.3.55/ntv</link>
-    <thumbnail>http://www.gpotcenter.org/resimler/NTV_logo.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>NFL HD</title>
-    <link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</link>
-    <thumbnail>http://www.mediabistro.com/tvnewser/files/2011/08/NFL_Network_logo_0.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>NHL HD</title>
-    <link>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</link>
-    <thumbnail>http://3.bp.blogspot.com/-OGNTapEc_c4/UdLOq7Up2tI/AAAAAAAARJs/Irk95bshVCA/s320/nhl+tv.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>SPORT TV (buena calidad)</title>
-    <link>http://213.254.202.17/flv/5238bc7369d36/testat123?0.7401963318698108</link>
-    <thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/12/Sport-TV1.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>SPORT TV 1</title>
-    <link>rtmp://95.211.148.203/live playpath=boi89?id=179019 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/boi89/1/880/460 Conn=S:OK --live </link>
-    <thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/12/Sport-TV1.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>SPORT TV 2</title>
-    <link>rtmp://109.163.238.180/liveedge/ playpath=sporttv2 swfUrl=http://files.mica.st/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gens2.php?ch=sporttv2 --live</link>
-    <thumbnail>http://payload.cargocollective.com/1/1/42932/927157/prt_1311014505.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>SPORT TV 3</title>
-    <link>rtmpe://31.7.56.250:443/liveedge1/ playpath=uu3704 swfUrl=http://hidecast.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://hidecast.com/gen.php?ch=uu3704&width=640&height=450 --live</link>
-    <thumbnail>http://tvonlineapp.com/wp-content/uploads/2013/07/sport-tv3.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>SPORT TV 4 (sin emisión)</title>
-    <link>rtmpe://31.7.56.250:443/liveedge1/ playpath=uu4365 swfUrl=http://hidecast.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://hidecast.com/gen.php?ch=uu4365&width=640&height=450 --live</link>
-    <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport_tv4_pt.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>SPORT TV 1 Brasil</title>
-    <link>rtmp://94.102.56.186/freelivestreamHD playpath=sportv24h swfUrl=http://www.freelivestream.tv/swfs/player.swf live=1 pageUrl=http://www.freelivestream.tv/embedPlayer.php?file=sportv24h&width=480&height=360 --live</link>
-    <thumbnail>http://www.broadcastfacilities.tv/userfiles/image/sportv.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>SPORT TV 2 Brasil</title>
-    <link>rtmp://fanta.micast.tv/liveedge/ playpath=ch007mrq swfUrl=http://files.mica.st/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gen.php?ch=ch007mrq</link>
-    <thumbnail>http://tv-online.in/wp-content/uploads/2012/11/SPORT-TV-2.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>SPORT TV 3 Brasil</title>
-    <link>rtmp://sumol.micast.tv/liveedge/ playpath=ch008GOm swfUrl=http://files.mica.st/player.swf live=1 pageUrl=http://micast.tv/</link>
-    <thumbnail>http://s2.glbimg.com/X4IN-L8NdIIjZI7-3mawMWHbDF-X7cNm6ZuGz9U7d_VIoz-HdGixxa_8qOZvMp3w/s.glbimg.com/es/ge/f/original/2012/06/14/sportv_3.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>PFC (sin emisión)</title>
-    <link>rtmp://80.82.70.210/liveedge/ playpath=pfc-x9kd2x3bfzw swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://privatecdn.tv/show.php?id=pfc-x9kd2x3bfzw&width=468&height=360</link>
-    <thumbnail>http://www.prensario.tv/IMAGENES/PFC_logo.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>PFC internacional</title>
-    <link>rtmpe://46.19.140.190:443/liveedge/ playpath=ch07-x2up4iXo33 swfUrl=http://www.megacast.io/player59.swf live=1 pageUrl=http://livecast.cc/gen.php?ch=ch07-x2up4iXo33&width=468&height=361 --live</link>
-    <thumbnail>http://www.prensario.tv/IMAGENES/PFC_logo.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Red Bull Tv</title>
-    <link>rtmp://cp93704.live.edgefcs.net:443/live/ playpath=redbull2@21839 swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://www.flashwebtown.com live=1</link>
-    <thumbnail>http://www.appstonic.com/wp-content/uploads/2013/01/RedBulltv_carrusel.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Brasil ESPN</title>
-    <link>rtmp://31.204.153.71/live/ playpath=master05 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN Brasil.html --live</link>
-    <thumbnail>http://www.logotypes101.com/logos/47/554A495621BB9F3C0F02D6C2087A0168/ESPN_Brasil.png</thumbnail>
-    </item>
-    
-    <item>
-    <title>Brasil Esporte Interactivo</title>
-    <link>rtmp://31.204.153.70/live/ playpath=brlive_0029 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Esporte Interativo.html --live</link>
-    <thumbnail>http://cdn1.oitopassos.com//wp-content/uploads/2011/05/Assistir-Esporte-Interativo-Ao-Vivo.jpg</thumbnail>
-    </item>
-    
-    <item>
-    <title>Brasil Fox Sports (sin emisión)</title>
-    <link>http://31.204.153.72:1935/live/fsb/hasbahca.m3u8</link>
-    <thumbnail>http://www.movistar.cl/television-digital/archivos/imagenes/fichas/4fe96f_imagen_ficha2_foxsporthd.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Fight Box</title>
-    <link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
-    <thumbnail>http://1.bp.blogspot.com/-s1c5EFiWR4I/UVHXgtqwklI/AAAAAAAAQRU/TCSATRO_kjc/s1600/fight+box.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Canal + Golf</title>
-    <link>rtmp://206.190.140.36/live/Golfpontucanalnet playpath=Golfpontucanalnet swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=1 pageUrl=http://www.janjua.tv/embed.php</link>
-    <thumbnail>http://1.bp.blogspot.com/-Fop9W7KvFGg/UfvJ7tk81XI/AAAAAAAARUM/booJHIgmfQg/s1600/golf.jpg</thumbnail>
-    </item>
-
-    </items>
-    </channel>
-
-
-
-
-
-
-    <channel>
-	
-    <name>Nacionales</name>
-    <thumbnail>http://www.planafabrega.com/img/tdt-logo.gif</thumbnail>
-    <fanart>http://socialmediaucm.files.wordpress.com/2011/04/teledigital476_0.jpg</fanart>
-    <items>
-
-    <item>
-    <title>Actualizado 25/09/2013 8:15pm</title>
-    <link>--live</link>
-    <thumbnail></thumbnail>
-    </item>
-
-    <item>
-    <title>TVE1</title>
-    <link>rtmp://46.165.196.36/stream playpath=tv13lacajatvnet2?id=104921 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/tv13lacajatvnet2/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://2.bp.blogspot.com/-UoQOyDNcTYg/UU3m1DwY6FI/AAAAAAAAQJ8/7w04bqGbevc/s1600/LA+1.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>TVE1 (opción 2)</title>
-    <link>rtmp://146.185.25.228/live playpath=latve1hd?id=7990 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/latve1hd/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://2.bp.blogspot.com/-UoQOyDNcTYg/UU3m1DwY6FI/AAAAAAAAQJ8/7w04bqGbevc/s1600/LA+1.jpg</thumbnail>
-    </item>
-
-     <item>
-    <title>TVE2</title>
-    <link>rtmp://208.101.9.155/stream playpath=tv2lacajatvnet1?id=100451 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/tv2lacajatvnet1/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-Vf0DF-1WgK4/UU3m1TfHwTI/AAAAAAAAQJ4/nPBjT72J2zQ/s1600/LA+2.jpg</thumbnail>
-    </item>
-    
-    <item>
-    <title>Antena 3</title>
-    <link>rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-antena3_1 swfUrl=http://www.antena3.com/AkamaiPlugin/AkamaiAdvancedStreamingPlugin.swf live=1 pageUrl=http://www.antena3.com/static/swf/A3PlayerPilotoAkamai20052013.swf?xml=http://www.antena3.com/static/directos/antena3.xml&autoplay=true&controlButtons=volume,fullScr&%20wmode=transparent --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-sQhXrQR2Q14/UU3m0jYKaYI/AAAAAAAAQJo/9120o348Rh4/s1600/A3.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Antena 3 (opción 2)</title>
-    <link>rtmp://184.173.181.44/live playpath=ant3jija?id=51389 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/ant3jija/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-sQhXrQR2Q14/UU3m0jYKaYI/AAAAAAAAQJo/9120o348Rh4/s1600/A3.jpg</thumbnail>
-    </item>
-    
-    <item>
-    <title>Cuatro</title>
-    <link>rtmp://109.123.123.68/live playpath=cuatrolacajatv swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=1 pageUrl=http://www.janjua.tv/embed.php?v=cuatrolacajatv&vw=650&vh=400&typeplayer=0&domain=www.pontucanal.net --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-rPCFSYHSHw4/UU3m0h2HOrI/AAAAAAAAQJk/2VUXK0JnGQY/s1600/CUATRO.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Cuatro (YYcast)</title>
-    <link>rtmp://94.242.230.205/live playpath=cuatrodirecto?id=4818 swfUrl=http://yycast.com/static/scripts/eplayer.swf live=1 pageUrl=http://yycast.com/embedded/cuatrodirecto/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-rPCFSYHSHw4/UU3m0h2HOrI/AAAAAAAAQJk/2VUXK0JnGQY/s1600/CUATRO.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Telecinco</title>
-    <link>rtmp://185.2.138.108/live playpath=Telecincopontucanalnet?id=7830 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/Telecincopontucanalnet/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-Okg0PWEwaLQ/Ua4cvC7CULI/AAAAAAAARCk/rUDvSYPNgSw/s1600/t5.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Telecinco (opcion 2)</title>
-    <link>rtmp://46.23.67.114/live playpath=terlecink?id=7955 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/terlecink/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-Okg0PWEwaLQ/Ua4cvC7CULI/AAAAAAAARCk/rUDvSYPNgSw/s1600/t5.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>La Sexta (mejor sonido)</title>
-    <link>rtmp://46.23.67.114/live playpath=lasextadir?id=8129 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/lasextadir/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-KCKSzMZF9ok/UVBwdF-ujdI/AAAAAAAAQOY/YF7D_Wt9enY/s1600/la+sexta.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>La Sexta (opción 2)</title>
-    <link>rtmp://206.190.140.36/live playpath=lasextaaaaaaa1 swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=1 pageUrl=http://www.janjua.tv/embed.php?v=lasextaaaaaaa1&vw=650&vh=400&typeplayer=0 conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-KCKSzMZF9ok/UVBwdF-ujdI/AAAAAAAAQOY/YF7D_Wt9enY/s1600/la+sexta.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Canal Sur Andalucia</title>
-    <link>http://195.10.10.213/rtva/andaluciatelevisionh264.flv</link>
-    <thumbnail>http://www.formulatv.com/fotos/a/76000/76431/6oehs6c1ftgkvzm3974da9758d709af_mosca-canalsur-andalucia_p.png</thumbnail>
-    </item>
-
-    <item>
-    <title>La Línea TV (emisión de prueba)</title>
-    <link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chbiwey/2012/09/21/ab397a53-c504-4fdb-adff-da2e03d854a4 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf</link>
-    <thumbnail>http://www.lalineafm.es/tv.png</thumbnail>
-    </item>
-    
-    <item>
-    <title>La Sexta 3 (sin emisión)</title>
-    <link>rtmp://198.144.153.139:443/kuyo playpath=sexta3?id=33372e31342e31302e33 swfUrl=http://yukons.net/ykplay.swf live=1 pageUrl=http://yukons.net/embed/373336353738373436313333/4e3feba67f57632098b04c994adfe3f2/650/400 conn=S:OK --live</link>
-    <thumbnail>http://1.bp.blogspot.com/-KrKjuci6xxo/UU3m19e_84I/AAAAAAAAQKU/OrEZcTqej50/s1600/SEXTA+3.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Xplora</title>
-    <link>rtmp://95.211.90.151/live playpath=Xplopontucanalnet?id=178520 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/Xplopontucanalnet/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-Xpzm3pOv_cY/UVG9Dj2zfNI/AAAAAAAAQQk/U0I0uOdXuTs/s1600/xplora.jpg</thumbnail>
-    </item>
-
-    
-    <item>
-    <title>Discovery Max</title>
-    <link>rtmp://46.23.67.114/live playpath=DisMaxpontucanalnet1?id=7714 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/DisMaxpontucanalnet1/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-AEYZ-a6xc-Q/UV2vk7V1onI/AAAAAAAAQXA/o188LCCmQQ8/s1600/discovery+max.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Paramount Channel (sin emisión)</title>
-    <link>rtmp://173.192.170.108/live playpath=185957?313337393632343135385f6633623431376461613634633236303764326534336165306461383161346339 swfUrl=http://static.castalba.tv/player5.swf live=1 pageUrl=http://castalba.tv/embed.php?cid=14043&wh=660&ht=410&r=www.tvline.es --live</link>
-    <thumbnail>http://blog.mysofa.es/wp-content/uploads/2012/03/paramount_channel.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Neox</title>
-    <link>rtmp://srv23.streamcasttv.org/live/neoxpontucanalnet122749/ playpath=neoxpontucanalnet122749 swfUrl=http://www.streamcasttv.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamcasttv.org/embed.php?file=neoxpontucanalnet122749&width=650&height=400 conn=S:OK --live</link>
-    <thumbnail>http://2.bp.blogspot.com/-FoLTJa5mu5U/TjIZZ4katWI/AAAAAAAAB0c/KRJRuN_8nMM/s500/Neox+ident+2011.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Neox (opción 2)</title>
-    <link>rtmp://185.2.138.108/live playpath=neoxhf?id=8117 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/neoxhf/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://2.bp.blogspot.com/-FoLTJa5mu5U/TjIZZ4katWI/AAAAAAAAB0c/KRJRuN_8nMM/s500/Neox+ident+2011.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Divinity</title>
-    <link>rtmp://5.63.149.252/live playpath=lacuatrotvrojadirecta?id=5971 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/lacuatrotvrojadirecta/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://segresoft.es/wp-content/uploads/2013/01/divinity.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Energy</title>
-    <link>rtmp://85.17.73.7/live playpath=energy6l?id=178676 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/energy6l/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-881TU1BrA7M/UU3m0k-KvVI/AAAAAAAAQJs/KDskZ2zpSyo/s1600/ENERGY.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Siete</title>
-    <link>rtmp://5.63.149.252/live playpath=lasiete7?id=6266 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/lasiete7/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://images.wikia.com/logopedia/images/2/28/La_Siete_logo.png</thumbnail>
-    </item>
-
-    <item>
-    <title>FDF</title>
-    <link>rtmp://94.102.56.186/zecastEd playpath=Fdfpontucanalnet swfUrl=http://zecast.tv/swfs/player.swf live=1 pageUrl=http://zecast.tv/embed.php?file=Fdfpontucanalnet&width=650&height=400</link>
-    <thumbnail>http://canaltdt.es/wp-content/uploads/2011/08/fdf.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Nueve</title>
-    <link>rtmp://5.63.149.252/live playpath=lanuevetvroja?id=5969 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/lanuevetvroja/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://www.lyngsat-logo.com/hires/nn/nueve_tv_es.png</thumbnail>
-    </item>
-
-    <item>
-    <title>Nitro (sin sonido)</title>
-    <link>rtmp://206.190.140.36/live playpath=nitropontucanalnet swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=1 pageUrl=http://www.janjua.tv/embed.php?v=nitropontucanalnet&vw=650&vh=400&typeplayer=0&domain=www.pontucanal.net --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-LJKeTAbgBZs/Ua4eLSX_AjI/AAAAAAAARCw/Dv_n0kgsU7w/s1600/nitro.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Nova</title>
-    <link>rtmp://46.165.210.32/live playpath=Novapontucnalnet?id=178466 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/Novapontucnalnet/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://logotiposvectoriales.com/imagenes/antena_nova-400x390.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Clan</title>
-    <link>rtmp://199.115.114.221/live playpath=clan12?id=180426 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/clan12/1/670/400 Conn=S:OK --live</link>
-    <thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/94/Logo_clan.png</thumbnail>
-    </item>
-    
-    <item>
-    <title>Intereconomia</title>
-    <link>rtmp://media.intereconomia.com/live playpath=intereconomiatv1 swfUrl=http://www.jaxe.net/player/player-old.swf live=1 pageUrl=http://cinestrenostv.biz/canales/Deportes/intereconomia/opcion1.php --live</link>
-    <thumbnail>http://www.inmomatica.com/diario/wp-content/uploads/2010/02/logo-intereconomia.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>13tv</title>
-    <link>rtmp://93.174.93.58/zecastEd playpath=13tv swfUrl=http://zecast.tv/swfs/player.swf live=1 pageUrl=http://zecast.tv/embed.php?file=13tv&width=650&height=400</link>
-    <thumbnail>http://www.13tv.es/images/media/press_kit/Logo_13_tv_72ppp.jpg</thumbnail>
-    </item>
-
-
-    </items>
-    </channel>
-
-
-
-
-
-    <channel>
-	
-    <name>Digital +</name>
-    <thumbnail>http://www.lovarplus.com/joomla/images/stories/logo_digital%20plus_25.jpg</thumbnail>
-    <fanart>http://s2.hipertextual.com/wp-content/blogs.dir/11/files/2009/11/iplus_09.jpg</fanart>
-    <items>
-
-    <item>
-    <title>Actualizado 26/09/2013 11:15pm (añadido AXN gracias a aarronlee)</title>
-    <link>--live</link>
-    <thumbnail></thumbnail>
-    </item>
-
-    <item>
-    <title>Canal+ 1</title>
-    <link>rtmp://50.7.28.98/live playpath=canalhd56 swfUrl=http://udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.castamp.com/embed.php?c=canalhd56&tk=gnRHH6Aa&vwidth=650&vheig ht=400 conn=S:OK</link>
-    <thumbnail>http://3.bp.blogspot.com/-WyjBJDY8JTA/UXEBBiSVbzI/AAAAAAAAQgA/GDzL9aMd8jA/s1600/canal+++1.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Canal+ 1 (opción 2)</title>
-    <link>rtmp://5.63.151.44/stream playpath=plus1lacajatvnet1?id=99868 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/plus1lacajatvnet1/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-WyjBJDY8JTA/UXEBBiSVbzI/AAAAAAAAQgA/GDzL9aMd8jA/s1600/canal+++1.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Canal+ 2</title>
-    <link>rtmp://159.253.131.103/live playpath=dosverlacajatvnet swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=1 pageUrl=http://www.janjua.tv/embed.php?v=dosverlacajatvnet&vw=650&vh=400&typeplayer=0&domain=www.pontucanal.net --live</link>
-    <thumbnail>http://1.bp.blogspot.com/-bq-oKhlzd1w/UbxeGMGcwKI/AAAAAAAARGY/FoJhwRO2Clk/s1600/canal+++2.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Canal + Acción</title>
-    <link>rtmp://149.255.34.122/stream playpath=accionhd6?id=105274 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/accionhd6/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-ll0k6j0K2YU/UUQ7Vpa-EvI/AAAAAAAAQEg/gRizcsohQhc/s1600/CanalAccion.png</thumbnail>
-    </item>
-
-    <item>
-    <title>Canal + Xtra</title>
-    <link>rtmp://5.63.145.188/live playpath=xtrapontucanalnet?id=7903 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/xtrapontucanalnet/1/650/400 conn=S:OK</link>
-    <thumbnail>http://www.deculture.es/wp-content/uploads/2012/12/canal-xtra.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Canal + DCine</title>
-    <link>rtmp://83.149.124.200/live playpath=canalplusdcinelacajatvnet?id=177185 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/canalplusdcinelacajatvnet/1/650/380 conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-JRtDa2agj7w/UU9RmxeH2qI/AAAAAAAAQLs/esZ3twY7RqA/s1600/Canal+++DCine.jpg</thumbnail>
-    </item>
-    
-    <item>
-    <title>Canal + Comedia</title>
-    <link>rtmp://174.37.252.206/live playpath=coemdiassssssss?id=178743 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/coemdiassssssss/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-I8ewgrZXMKY/UU9PGoVmWSI/AAAAAAAAQLc/dozb6BzB-S0/s1600/canal+comedia.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Disney CineMagic</title>
-    <link>rtmp://206.190.129.12/live playpath=cinemag?id=180934 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/cinemag/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-77x6mSAQpI4/UdLcBqsRrpI/AAAAAAAARLE/VzY-wDQPj1c/s320/disney+channel.jpg</thumbnail>
-    </item>
-    
-    <item>
-    <title>Hollywood (sin emisión)</title>
-    <link>rtmp://198.144.153.138:443/kuyo playpath=hollywood?id=33372e31342e32392e3337 swfUrl=http://yukons.net/ykplay.swf live=1 pageUrl=http://yukons.net/embed/363836463643364337393737364636463634/f8913f4163b93642383cefcd2d6fceaf/650/400 --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-kCc4S7BtYeE/UU9QbPZEwOI/AAAAAAAAQLk/HcxpAz75SG0/s1600/canal+hollywood.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Buzz</title>
-    <link>rtmp://srv10.streamcasttv.org/live/Buzzpontucanalnet/ playpath=Buzzpontucanalnet swfUrl=http://www.streamcasttv.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamcasttv.org/embed.php?file=Buzzpontucanalnet&width=635&height=385 --live</link>
-    <thumbnail>http://stremingtotaltv.com/wp-content/uploads/2013/01/buzz.jpg</thumbnail>
-    </item>  
-
-    <item>
-    <title>Xtrm</title>
-    <link>rtmp://185.2.138.108/live playpath=xtrem3?id=5027 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/xtrem3/1/655/385 conn=S:OK --live</link>
-    <thumbnail>http://4.bp.blogspot.com/-K8eYiW45oWQ/UXD-yD1FyqI/AAAAAAAAQfw/4V6CSG_piUE/s1600/xtrm.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Calle 13</title>
-    <link>rtmp://srv10.streamcasttv.org/live/Calle12pontucanalnet2/ playpath=Calle12pontucanalnet2 swfUrl=http://www.streamcasttv.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.streamcasttv.org/embed.php?file=Calle12pontucanalnet2&width=650&height=400 --live</link>
-    <thumbnail>http://www.noticiasdot.com/publicaciones/galerias/calle13/images/calle13-portada.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>FOX</title>
-    <link>rtmp://109.123.116.26/live playpath=foxhdfh?id=54700 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/foxhdfh/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://1.bp.blogspot.com/-yZxfj8c8Ugc/UVBz58rkvEI/AAAAAAAAQOk/kqR6qRFAbtA/s1600/fox.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>AXN</title>
-    <link>rtmp://46.23.64.108/live playpath=axnhdfg?id=54701 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/axnhdfg/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-rx7DTZpi0xk/UU9Of3xV80I/AAAAAAAAQLU/UmBvTAn1JM8/s1600/axn.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>AXN (opción 2)</title>
-    <link>rtmp://109.123.114.28/live playpath=axnhdfg?id=54701 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/axnhdfg/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-rx7DTZpi0xk/UU9Of3xV80I/AAAAAAAAQLU/UmBvTAn1JM8/s1600/axn.jpg</thumbnail>
-    </item>
-
-
-    <item>
-    <title>Paramount Comedy</title>
-    <link>rtmp://198.105.217.36/stream playpath=pcomedyassssssssss?id=104338 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/pcomedyassssssssss/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://1.bp.blogspot.com/-hSsvPa60pAY/UU7H1PR_6SI/AAAAAAAAQKk/Tbk_gCKaFZU/s1600/paramount+comedy.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>TNT</title>
-    <link>rtmp://live.iguide.to/edge playpath=lhz1koxd78ok7it swfUrl=http://player.ilive.to/player_ilive_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=650&height=450&channel=45829 &autoplay=true token=UYDk93k#09sdafjJDHJKAD873</link>
-    <thumbnail>http://2.bp.blogspot.com/-81VoO7pxnYQ/UW_MZUb1DKI/AAAAAAAAQeg/7g8Uvb6EkeU/s1600/tnt.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Syfy</title>
-    <link>rtmp://50.23.113.212/stream playpath=sysfff?id=105163 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/sysfff/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://1.bp.blogspot.com/-k1TZMHNzPi4/UU7LCtmI7vI/AAAAAAAAQK4/RXWEyFQhU-c/s1600/syfy.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Cosmopolitan (sin emisión)</title>
-    <link>rtmp://199.19.95.85:443/kuyo playpath=cosmo2?id=33372e31342e332e3933 swfUrl=http://yukons.net/ykplay.swf live=1 pageUrl=http://yukons.net/embed/363336463733364436463332/59f295fe90eeaeb4f51e8e442902a4dd/635/385 --live</link>
-    <thumbnail>http://www.youtube.com/yt/advertise/medias/images/yt-advertise-beauty-cosmo-latin.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Fox Crime</title>
-    <link>rtmp://178.217.184.206/liveedge/ playpath=foxcrimenuae swfUrl=http://files.mica.st/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gen.php?ch=foxcrimenuae</link>
-    <thumbnail>http://4.bp.blogspot.com/-Q_ooXue-rSw/UV24uwzN97I/AAAAAAAAQYo/FFHjatqhjUg/s1600/fox+crime.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Cartoon Network</title>
-    <link>rtmp://50.7.28.146/flash playpath=16739 swfUrl=http://udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://sawlive.tv/embed/watch/MjRiNGMyOGJhZmQ5Ojk2NjE3Mjc0NmY2ZjZlMzIzMDo3ZjkxNjgzMjg1NTlhNmQ1N2/E3MTlmOGY4ODliY2Q3ZjNhOGFjMWVmOmJiZmRlZjYwMzliNDc5ZTM3NmVjZWE4YzgzYjg4MjBj --live</link>
-    <thumbnail>http://2.bp.blogspot.com/-F7YzNoak-yk/UdLdEs3_gzI/AAAAAAAARLU/SxlVYm79fEU/s320/cartoon+network.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Odisea (se necesita actualización libtrmp.dll para ver el canal)</title>
-    <link>rtmp://94.242.230.206/live playpath=odiseatv?id=3350 swfUrl=http://yycast.com/static/scripts/eplayer.swf live=1 pageUrl=http://yycast.com/embedded/odiseatv/1/650/400 Conn=S:OK --live</link>
-    <thumbnail>http://1.bp.blogspot.com/-72Cwm33Y5Rw/Ua4iNlNA4lI/AAAAAAAARDc/ZLrAhlevBKk/s1600/odisea.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>National Geographic</title>
-    <link>rtmp://146.185.25.228/live playpath=nati678h?id=7685 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/nati678h/1/650/400 Conn=S:OK --live</link>
-    <thumbnail>http://media.frogx3.com/2012/01/Logo-National-Geographic.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>National Geographic Wild</title>
-    <link>rtmp://206.190.138.68/live playpath=natgeowildlacajatv?id=179876 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/natgeowildlacajatv/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://www.logopub.net/data/thumbnails/15/National_Geographic_Wild___Nat_Geo_Wild.gif</thumbnail>
-    </item>
-
-    <item>
-    <title>Viajar</title>
-    <link>rtmp://184.173.181.3/live playpath=Viajar?id=173853 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/Viajar/1/635/385 conn=S:OK --live</link>
-    <thumbnail>http://www.frecuenciadigital.es/images/stories/imagenesportada/viajar_logo.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Canal + Toros</title>         
-    <link>rtmp://198.105.209.124/stream playpath=toroslacajatvnet2?id=101029 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/ conn=S:OK --live</link>
-    <thumbnail>http://3.bp.blogspot.com/-kPFDUtykzAc/UZfxYCrj7MI/AAAAAAAAQ5k/dJwYR9b_STc/s1600/canal+toros.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Caza y Pesca</title>
-    <link>rtmp://206.190.140.36/live playpath=CazayPesca01 swfUrl=http://www.janjua.tv/player/player-licensed55.swf live=1 pageUrl=http://www.janjua.tv/embed.php?v=CazayPesca01&vw=635&vh=385&typeplayer=0&domain=www.pontucanal.net --live</link>
-    <thumbnail>http://www.cazadoresenaccion.com/images/editor/Caza%20y%20Pesca%20Logotipo.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Discovery Channel</title>
-    <link>rtmp://185.2.138.108/live playpath=verdirectotvdiscovery?id=7761 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/verdirectotvdiscovery/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://2.bp.blogspot.com/-pwFznKcD8LU/UV2z8iQhaoI/AAAAAAAAQX4/BVnan7tOrro/s1600/discovery.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Historia</title>
-    <link>rtmp://174.37.252.220/stream playpath=historias?id=103960 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/historias/1/670/400 conn=S:OK --live</link>
-    <thumbnail>http://www.gmkfreelogos.com/logos/H/img/Historia_Canal.gif</thumbnail>
-    </item>
-
-    <item>
-    <title>Canal Cocina (sin emisión)</title>
-    <link>rtmp://198.144.153.139:443/kuyo playpath=cocinalacajtatvnet?id=3139302e3234362e3132392e3735 swfUrl=http://yukons.net/ykplay.swf live=1 pageUrl=http://yukons.net/embed/363336463633363936453631364336313633363136413734363137343736364536353734/d8ea80b3f99cacafc63e1add7e996948/650/400</link>
-    <thumbnail>http://2.bp.blogspot.com/-GMyOJZxeHs8/UfqFy4YaHQI/AAAAAAAARS0/XGQUKdgJI8s/s1600/cocina.jpg</thumbnail>
-    </item>
-
-    <item>
-    <title>Bloomberg</title>
-    <link>rtmp://cp116697.live.edgefcs.net:80/live/x0dDdlNTrs64I5H-29bfEFu4qeIira5r_640_360_500@73162 playpath=x0dDdlNTrs64I5H-29bfEFu4qeIira5r_640_360_500@73162 swfUrl=http://cdn.gotraffic.net/projector/latest/BloombergPlayer.swf live=1 pageUrl=http://www.bloomberg.com/tv/europe/</link>
-    <thumbnail>http://4.bp.blogspot.com/_og5NiX1ZbME/SYs5BXo55xI/AAAAAAAABKk/j6VWVF-pw-Y/BLOOMBERG-LOGO.jpg</thumbnail>
-    </item>
-
-    </items>
-    </channel>
-
-
-    <channel>
-    <name>Real Balompédica Linense</name>
-    <thumbnail>http://www.lagoleada.net/wp-content/uploads/2011/10/logotipo-juan-sierra-300x256.jpg</thumbnail>
-    <fanart>http://www.lagoleada.net/wp-content/uploads/2011/05/balona-algeciras-el-paseillo.jpg</fanart>  
-   
-    	<subchannel>
-    	<name>Radios</name>
-    	<thumbnail>http://television.png</thumbnail>
-    	<fanart>http://fanart.jpg</fanart>
-
-    	<subitems>
-    
-    	<subitem>
-    	<title>La Línea FM</title>
-    	<link>http://199.217.118.10:9688/;stream.mp3
-</link>
-    	<thumbnail>http://www.lalineafm.es/logo_radio.png</thumbnail>
-    	</subitem>
-    
-    	<subitem>
-    	<title>RadioGED</title>
-    	<link>http://uhs-level3.ustream.tv/sjc-uhs51/sjc-uhs12/streams/httpflv/ustreamVideo/14156303/streams/live_1_1378323140_63993534.flv
-
-
-</link>
-    	<thumbnail>http://www.radioged.es/wp-content/uploads/2013/08/logo2.png</thumbnail>
-    	</subitem>
-
-
-        <subitem>
-        <title>Mia FM 89.9</title>
-        <link>http://46.105.127.172:9500/;stream.nsv
-</link>
-        <thumbnail>http://www.miafm.es/images/MIA%20FM%20LOGO%20tranparente.png</thumbnail>
-        </subitem>
-        
-        </subitems>	
-        </subchannel>
-
-    	<subchannel>
-    	<name>Resumenes Partidos Temporada 2013/2014</name>
-    	<thumbnail>http://television.png</thumbnail>
-    	<fanart>http://fanart.jpg</fanart>
-
-    	<subitems>
-    
-    	<subitem>
-    	<title>Jornada 1: R. Balompédica Linense 1-0 Arroyo CP</title>
-    	<link>http://youtu.be/cO6acnVk_wo
-</link>
-    	<thumbnail></thumbnail>
-    	</subitem>
-    
-    	<subitem>
-    	<title>Jornada 2: UD Melilla 1-2 R. Balompédica Linense</title>
-    	<link>http://youtu.be/9c7PWKn9Bew</link>
-    	<thumbnail></thumbnail>
-    	</subitem>
-
-        <subitem>
-        <title>Copa del Rey: San Fernando 1-0 R. Balompédica Linense</title>
-        <link>http://youtu.be/xhuOuVGpbmo
-</link>
-        <thumbnail></thumbnail>
-        </subitem>
-
-    	<subitem>
-    	<title>Jornada 3: R. Balompédica Linense 0-1 UD Almería B</title>
-    	<link>http://youtu.be/n-hZJA04TEo</link>
-    	<thumbnail></thumbnail>
-    	</subitem>
-
-    	<subitem>
-    	<title>Jornada 4: Córdoba CF B 1-2 R. Balompédica Linense</title>
-    	<link>http://youtu.be/BVpUSrIegz0</link>
-    	<thumbnail></thumbnail>
-    	</subitem>
-
-    	<subitem>
-    	<title>Jornada 5: CD Guadalajara 1-2 R. Balompédica Linense</title>
-    	<link>http://youtu.be/UsxFzcIa4FA</link>
-    	<thumbnail></thumbnail>
-    	</subitem>
-        
-        </subitems>	
-        </subchannel>
-    </channel>
-
-
-    <channel>
-
-	
-    <name>Prueba Vídeos Streaming</name>
-    <thumbnail>http://www.lagoleada.net/wp-content/uploads/2011/10/logotipo-juan-sierra-300x256.jpg</thumbnail>
-    <fanart>http://www.lagoleada.net/wp-content/uploads/2011/05/balona-algeciras-el-paseillo.jpg</fanart>  
-
-    <items>
-
-
-    <item>
-    <title>Goles Cristiano Ronaldo de tacón</title>
-    <link>http://www.youtube.com/watch?v=j6byZm7aMsE</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Pase impresionante de Isco ante el Getafe</title>
-    <link>http://as-f.akamaihd.net/media/945142952001/201309/945142952001_268532,4816,3697,001_175557.mp4.csmil/bitrate=0?videoId=2685192811001&lineUpId=&pubId=945142952001&playerId=956243533001&affiliateId=&v=3.1.0&fp=WIN%2011,8,800,168&r=MQYTD&g=OXZLOKRNMSIS</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 1</title>
-    <link>http://s153.nowvideo.sx/dl/4bddfc89b6579ba5ad96f4e16e90e2f7/5244a5eb/ffae1262ab7728f06b3b3cbd87ee7cc7b7.flv</link>
-    <thumbnail></thumbnail>
-    </item>
-
-    <item>
-    <title>Taquilla 2</title>
-    <link>http://s151.nowvideo.sx/dl/45c1defda54a2d7116e95eabdb02b37a/5244abad/ffae1262ab7728f06b3b3cbd87ee7cc7b7.flv</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 3</title>
-    <link>http://s122.nowvideo.sx/dl/1cfeeee1766969ed64e6db1c5cc085e4/5244abed/ffea926b659c0a6ed68f5ac0e5ff196169.flv</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 4</title>
-    <link>http://s122.nowvideo.sx/dl/008c2a2968b0e765f59c76b488e092c0/5244ac8f/ffc05da6d8d9fe017a1853d12861461878.flv</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 5</title>
-    <link>http://s43.nowvideo.sx/dl/b135990f75f8e3cbb8721fbbee7851b9/5244ac52/ff24f4e2575700423fb95ec1f762d7a149.flv</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 7</title>
-    <link>http://s183.nowvideo.sx/dl/d24b493e11b131a882fde09ffb876ccf/5244acfd/ffce1fa7cd11f404e2bf88bea2765acda0.flv</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 8</title>
-    <link>http://s183.nowvideo.sx/dl/f8a7693464c5d5d05eaebabcf157831a/5244ad1f/ff05dab686899b47bcfd3c990bb5fe9c99.flv</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 9</title>
-    <link>http://www.youtube.com/playlist?list=PLC16026613941C8B6</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 10</title>
-    <link>http://www.youtube.com/playlist?list=PLC16026613941C8B6&page=2</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 11</title>
-    <link>http://www.youtube.com/playlist?list=PLC16026613941C8B6&page=3</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 12</title>
-    <link>http://www.youtube.com/playlist?list=PL056CD44DC957FBD8</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 13</title>
-    <link>http://www.youtube.com/playlist?list=PLBFB5BC4D625653D2</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 14</title>
-    <link>http://www.youtube.com/playlist?list=PLYd4rR7selS0vmZ2B-f6HlT_GaxanAU6R</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 15</title>
-    <link>http://www.youtube.com/playlist?list=PLBA55ED2AB1A1EAE6</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-    <item>
-    <title>Taquilla 16</title>
-    <link>http://www.youtube.com/playlist?list=PLFF2C64B3139C6A7B</link>
-    <thumbnail></thumbnail>
-    </item>
-
-    <item>
-    <title>Video</title>
-    <link>http://d4438.allmyvideos.net:182/d/ygmkr67wyq5dh6lnw3gzx4unokctof5yhziwb2qqqg6eyybyymokikzk/video.mp4</link>
-    <thumbnail></thumbnail>
-    </item>
-
-
-
-
-    </items>
-    </channel>
-
-
-    <channel>
-    <name>Música</name>
-    <thumbnail>http://www.bilinguismoytecnologia.com/wp-content/uploads/free_music_online.jpg</thumbnail>
-    <fanart>http://www.uniacc.cl/wp-content/uploads/2012/10/SITIO-MUSICA.jpg</fanart>
-    <items>
-
-    <title>Actualizado 18/09/2013 9:30pm (añadido kiss TV)</title>
-    <link>--live</link>
-    <thumbnail></thumbnail>
-    </item>
-    
-    <item>
-    <title>Mtv</title>
-    <link>rtmp://174.36.169.182/live playpath=mtv789f?id=178678 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/mtv789f/1/650/400 conn=S:OK --live</link>
-    <thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
-    </item>  
-
-    <item>
-    <title>Sol Música(sin emisión)</title>
-    <link>rtmp://198.144.153.143:443/kuyo playpath=solpontucanalnet?id=3139302e3234362e3132392e3735 swfUrl=http://yukons.net/ykplay.swf live=1 pageUrl=http://yukons.net/embed/3733364636433730364636453734373536333631364536313643364536353734/36359ce8f772c1b87bc5aa781cc669f9/635/385</link>
-    <thumbnail>http://4.bp.blogspot.com/_BbxLNRs6sKI/R1BKAdhwX6I/AAAAAAAAAXM/Xdr9YzQPB-s/s400/solmusica.jpg</thumbnail>
-    </item>  
-
-    <item>
-    <title>Kiss TV</title>
-    <link>rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/live</link>
-    <thumbnail>http://lacajatv.es/cajanueva/logos/logokisstv.jpg</thumbnail>
-    </item>  
- 
-    <item>
-    <title>40 principales</title>
-    <link>rtmp://198.144.153.138:443/kuyo playpath=hollywood?id=33372e31342e322e3434 swfUrl=http://yukons.net/ykplay.swf live=1 pageUrl=http://yukons.net/embed/363836463643364337393737364636463634/00022f0bc7d24c0a1f19d1d804e5b7e6/650/400</link>
-    <thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/102012/40_principales.png</thumbnail>
-    </item>  
-
-    <item>
-    <title>DANCE TV</title>
-    <link>mms://onstreaming01.de.gtk.hu/dancetv</link>
-    <thumbnail>http://www.onlinetvplanet.com/wp-content/uploads/2010/01/dancetv.png</thumbnail>
-    </item> 
-
-    <item>
-    <title>VH1 Music</title>
-    <link>http://94.242.221.141/hls/a-lo/stream44.m3u8</link>
-    <thumbnail>http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2013/02/oldlogo.jpg</thumbnail>
-    </item> 
-
-    <item>
-    <title>VH1 Music</title>
-    <link>http://94.242.221.141/hls/a-lo/stream44.m3u8</link>
-    <thumbnail>http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2013/02/oldlogo.jpg</thumbnail>
-    </item> 
- 
-    </items>
-    </channel>
-    
-    <channel>
-	
-    <name>+18</name>
-    <thumbnail>http://media-cache-ak0.pinimg.com/originals/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg</thumbnail>
-    <fanart>http://www.marcasur.com/es/fotos/destacado_portada/2638.jpg</fanart>
-    <items>
-
-    
-    <item>
-    <title>Canal + Darling 18 TV</title>
-    <link>rtmp://live190.la3.origin.filmon.com:1935/live/ playpath=245.low.stream</link>
+    <link>rtmp://46.246.29.141:1935/stream/ playpath=K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=schuster92 pageUrl=http://04stream.com/trackok.php?c=4351</link>
     <thumbnail>none</thumbnail>
     </item>
     
     <item>
-    <title>Canal + Adult 18</title>
-    <link>rtmp://194.116.150.47/live/visitx.stream1</link>
+    <title>Music Box</title>
+    <link>rtmp://musicbox.cdnvideo.ru/musicbox-live/musicbox.sdp.flv pageUrl=http://russiangoogletv.com pageUrl=http://russiangoogletv.com/javascript/JWPlayer_licensed59/player.swf live=1</link>
     <thumbnail>none</thumbnail>
     </item>
     
     <item>
-    <title>Eurotic 18</title>
-    <link>rtmp://5.10.77.106/livepkgr playpath=etv-livestream_1</link>
+    <title>Unlove Channel</title>
+    <link>rtmp://149.11.34.6/live playpath=unlovechannel.stream pageUrl=http://livetvstreaming.ucoz.com live=1</link>
     <thumbnail>none</thumbnail>
     </item>
-   
+    
     <item>
-    <title>Canal + Storm Babes 18</title>
-    <link>rtmp://www.stormbabes.tv:1935/stormApp/storm</link>
+    <title>Musica:Heart TV</title>
+    <link>rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart</link>
     <thumbnail>none</thumbnail>
     </item>
-
+    
     <item>
-    <title>Playboy</title>
-    <link>rtmp://208.43.33.101/live playpath=playbpontucanalnet3?id=175982 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/playbpontucanalnet3/1/635/385 conn=S:OK --live</link>
+    <title>Musica:Deluxe Music</title>
+    <link>rtmp://edge1.stream-server.org/lstv//deluxemusic.stream swfUrl=http://stream.live-stream.tv/stml/player.swf</link>
     <thumbnail>none</thumbnail>
-    </item>    
-
+    </item>
+    
+    <item>
+    <title>Musica:Capital TV</title>
+    <link>rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital</link>
+    <thumbnail>none</thumbnail>
+    </item>
+    
+    <item>
+    <title>First Musical</title>
+    <link>rtmp://109.239.142.62/live/livestream3</link>
+    <thumbnail>none</thumbnail>
+    </item>
+  
+  
+  
     </items>
     </channel>
-
-
-    </channels>
