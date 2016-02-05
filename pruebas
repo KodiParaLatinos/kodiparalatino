@@ -242,22 +242,24 @@
     <thumbnail>none</thumbnail>
     </item>
   
-  <item>
-   <title>Deadpool </title>
-   <fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
-   <thumbnail>https://image.tmdb.org/t/p/w500/k1QUCjNAkfRpWfm1dVJGUmVHzGv.jpg</thumbnail>
-<genre>
-[COLOR yellow]Comedia, Aventura, Acción, Ciencia ficción
-[COLOR blue]Año : [/COLOR][COLOR yellow]2016[/COLOR][COLOR blue] Duracion : [/COLOR][COLOR yellow]0 min[/COLOR]
-[COLOR blue]Votos : [/COLOR][COLOR yellow]126[/COLOR] [COLOR blue]IMDB : [/COLOR][COLOR yellow]6.1[/COLOR]</genre>
-<info>[COLOR cyan]Spin-off de la película X-Men Orígenes: Lobezno, protagonizado por el personaje de Deadpool. Tras estar paralizado durante varios años, fue retomado en 2014 tras filtrarse una pequeña prueba de audiencias y obtener gran recibimiento en internet.[/COLOR]
-[COLOR blue]Dirección : [/COLOR][COLOR yellow]Tim Miller[/COLOR] [COLOR blue]Guionistas : [/COLOR][COLOR yellow]Rhett Reese, Paul Wernick[/COLOR] 
-[COLOR blue]Casting : [/COLOR][COLOR yellow]Ryan Reynolds, Gina Carano, Morena Baccarin, Taylor Hickson[/COLOR]</info>
-         <link>  </link>
-         <link>  </link>
-         <link>  </link>
-         <link>  </link>
-</item>
+ <item>
+    <title>Deadpool</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/k1QUCjNAkfRpWfm1dVJGUmVHzGv.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
+     <genre>Comedia, Aventura, Acción, Ciencia ficción</genre>
+     <link>  </link>
+     <link>  </link>
+     <link>  </link>
+     <link>  </link>
+     <link>  </link>
+     <link>  </link>
+     <info>Spin-off de la película X-Men Orígenes: Lobezno, protagonizado por el personaje de Deadpool. Tras estar paralizado durante varios años, fue retomado en 2014 tras filtrarse una pequeña prueba de audiencias y obtener gran recibimiento en internet.
+ Dirección : Tim Miller
+ Guión : Rhett Reese, Paul Wernick
+ Año : 2016
+</info>
+ </item>
+
   
     </items>
     </channel>
