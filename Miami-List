@@ -2406,7 +2406,9 @@ http://play-prod1.live.anvato.net/server/play/hearst-kcci-dfp/master.m3u8</link>
 
 <item>
 <title>[COLOR blue]*[/COLOR][COLOR red]  IPTV [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<link>http://ignorame</link>
+<thumbnail>oi66.tinypic.com/10ekh10.jpg</thumbnail>
+<fanart>oi66.tinypic.com/10ekh10.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/IPTV</externallink>
 </item>
 
