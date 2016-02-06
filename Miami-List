@@ -3677,7 +3677,7 @@ https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH
     </item>
     
 	<channel>
-    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]LISTAS AMIGAS [/B][/COLOR]</name>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]Alo Flix [/B][/COLOR]</name>
     <info>ESPANA</info>
     <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
@@ -3692,7 +3692,17 @@ https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH
 <info></info>
 </item>
 
-
+<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]INFANTIL [/B][/COLOR]</name>
+    <info>ESPANA</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+    
+<item>
+<title>[COLOR blue] [COLOR deepskyblue]--------- Infantil--------[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://s19.postimg.org/hxbc2mpb7/aladdin.jpg</thumbnail><fanart></fanart>
+<externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/infantil</externallink>
+</item>
     
 
 
