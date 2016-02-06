@@ -1,27 +1,9 @@
-#EXTM3U
-#EXTINF:0,sky 1
-http://109.236.92.136:1935/live/sky1.../playlist.m3u8
-#EXTINF:0,sky 2
-http://109.236.92.136:1935/live/sky2.../playlist.m3u8
-#EXTINF:0,sky atlantic
-http://109.236.92.136:1935/live/skya.../playlist.m3u8
-#EXTINF:0,sky movies action
-http://109.236.92.136:1935/live/mcri.../playlist.m3u8
-#EXTINF:0,sky movies premiere
-http://109.236.92.136:1935/live/mpre.../playlist.m3u8
-#EXTINF:0,sky movies drama
-http://109.236.92.136:1935/live/mdra.../playlist.m3u8
-#EXTINF:0,sky movies premiere
-http://109.236.92.136:1935/live/mpre.../playlist.m3u8
-#EXTINF:0,sky movies comedy
-http://109.236.92.136:1935/live/mcom.../playlist.m3u8
-#EXTINF:0,sky movies family
-http://109.236.92.136:1935/live/mfam.../playlist.m3u8
-#EXTINF:0,sky movies scifi
-http://109.236.92.136:1935/live/msci.../playlist.m3u8
-#EXTINF:0,Sky Living
-http://109.236.92.136:1935/live/skyl...am/master.m3u8
-#EXTINF:0,Sky arts 1
-http://109.236.92.136:1935/live/skya.../playlist.m3u8
-#EXTINF:0,Sky arts 2
-http://109.236.92.136:1935/live/skya.../playlist.m3u8
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<page>http://portal.rapidiptv.com:8080/get.php?username=oxEnXqQd&amp;password=ZkTOFeHlnm&amp;type=m3u&amp;output=mpegts</page>
+              <buffer>20971520</buffer>
+</regex>
+
+</item>
+<!--<page>http://ipbestv.net16.net/testal.m3u</page>--
+<link>[makelist2.param2].m3u8#sthash.3kjRFQnw.dpuf&amp;hash=9d1ebe2397722563409b55904212337e&amp;time=0&amp;external_device= Buffer=300000 live=1 timeout=30</link>
