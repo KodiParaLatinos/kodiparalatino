@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:0, BT Sport Europe
-http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8
-#EXTINF:0, BT Sport 1
-http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 2
-http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u 
+#EXTINF:-1,Canal+ Liga
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/43.ts
+#EXTINF:-1,Canal+ Futbol
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/42.ts
+#EXTINF:-1,Canal+ Deportes
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/44.ts
