@@ -1,5 +1,15 @@
 
-	
+  <item>
+	<title>Canal+ Liga</title>
+<link>http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/43.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Canal+ Futbol</title>
+<link>http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/42.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
 	
 	  <item>
 	<title>EUROSPORT</title>
