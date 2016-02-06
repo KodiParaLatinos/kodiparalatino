@@ -1,0 +1,110 @@
+#EXTM3U
+#EXTINF:-1,[COLOR red]IPTV[/COLOR]
+#EXTINF:0,A&E
+http://109.236.92.136:1935/live/ae9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNzo0MTozNSBQTSZoYXNoX3ZhbHVlPW0zLzhzdG84TUIwYjJuSkdFRmlISmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,ABC (down)
+rtmp://lv7.ustvnow.com:1935/dvrtest?key=AMYOTTEA571A234E6EF9C163550505A5F6FF78D70FC/mp4:367A6WHTMUSTVNOW2
+#EXTINF:0,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:0,AXS TV
+http://109.236.92.136:1935/live/axs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzoxMTozNSBQTSZoYXNoX3ZhbHVlPVN2TE84UFo0U0lSai9FYkN0NEs1aHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,BET
+http://62.210.206.122:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=82972208
+#EXTINF:0,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?
+#EXTINF:0,CBS (down)
+rtmp://lv7.ustvnow.com:1935/dvrtest?key=AMYOTTEA571A234E6EF9C163550505A5F6FF78D70FC/mp4:0629BWHP0USTVNOW2 Timeout=20
+#EXTINF:0,CBSNews
+http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/index_4000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,CNBC
+rtmp://a.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/stocks/ live=1 timeout=10
+#EXTINF:0,NBC
+http://109.236.92.136:1935/live/nbc9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzozMTozNSBQTSZoYXNoX3ZhbHVlPXZmS1VZaVNHcjZSSVF6NllMck9nZmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,CNN International
+http://edge1.everyon.tv/etv1sb/phd16/chunklist_w41036801.m3u8
+#EXTINF:0,CW
+http://109.236.92.136:1935/live/cw9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzoyMTozNiBQTSZoYXNoX3ZhbHVlPWNJTkRmbnV4TndrOHd4NjQ0UlJ2Snc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,MY9 (Down)
+rtmp://lv7.ustvnow.com:1935/dvrtest?key=AMYOTTEA571A234E6EF9C163550505A5F6FF78D70FC/mp4:7261CWHVLUSTVNOW2
+#EXTINF:0,OWN
+http://62.210.206.122:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
+#EXTINF:0,PBS (Down)
+rtmp://lv7.ustvnow.com:1935/dvrtest?key=AMYOTTEA571A234E6EF9C163550505A5F6FF78D70FC/mp4:ADB07WPSUUSTVNOW2
+#EXTINF:0,WPIX
+http://109.236.92.136:1935/live/cw77/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzoyMTozNiBQTSZoYXNoX3ZhbHVlPWNJTkRmbnV4TndrOHd4NjQ0UlJ2Snc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,E!
+http://62.210.206.122:1935/edge/_definst_/b3xqbwnyiyz49lx/playlist.m3u8?wowzasessionid=997673525
+#EXTINF:0,History Canada (Quiet)
+http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V?manifest=m3u&feed=History%20Live%20Stream%20Feed
+#EXTINF:0,CBC News
+rtmp://c.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://newschat.tv/player.swf live=1 live=true pageUrl=http://www.livenewschat.eu/canada timeout=10
+#EXTINF:0,CTV News
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:0,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+#EXTINF:0,Global Toronto
+http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV%20Live%20Stream%20Feed
+#EXTINF:0,AMC (Down)
+rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_N3BjdG1yZTB6ZndzYzI0fDE0NTQ0ODEyMDd8MTA0LjE1OC4xNTkuNzJ8NTZiMGY2Nzc2OTRlZnw2YWNlYjU1ZGM5NTNhMzlmMTllNzUxYzRmNjE5MjkzMDZiOTMzZWQ1 app=edge/?xs=_we_N3BjdG1yZTB6ZndzYzI0fDE0NTQ0ODEyMDd8MTA0LjE1OC4xNTkuNzJ8NTZiMGY2Nzc2OTRlZnw2YWNlYjU1ZGM5NTNhMzlmMTllNzUxYzRmNjE5MjkzMDZiOTMzZWQ1 playpath=7pctmre0zfwsc24 timeout=20
+#EXTINF:0,BRAVO (Loud)
+http://109.236.92.136:1935/live/bravo77/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozMTozNSBQTSZoYXNoX3ZhbHVlPTM2ZTZSOEdhYlE3R2tCNy9DQ2FnQVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,Cartoon Network
+rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNDo0NSBQTSZoYXNoX3ZhbHVlPS9Za1dsSTR1MklaSnRoVE5ObGNyakE9PSZ2YWxpZG1pbnV0ZXM9NQ==/cn pageUrl=http://zerocast.tv/embed.php?a=6&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
+#EXTINF:0,Destination America
+http://109.236.92.136:1935/live/destination.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozMTozNSBQTSZoYXNoX3ZhbHVlPTM2ZTZSOEdhYlE3R2tCNy9DQ2FnQVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,Discovery Investigation
+http://62.210.206.122:1935/edge/_definst_/bmbahkumnsqcydw/playlist.m3u8?wowzasessionid=260910486
+#EXTINF:0,FOX
+rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MTo1NyBQTSZoYXNoX3ZhbHVlPWtBVkR4dTRPRHFoc283c0NhMVR4Wmc9PSZ2YWxpZG1pbnV0ZXM9NQ==/9pxGCtP3aEnJYgoBFFH8 pageUrl=http://zerocast.tv/embed.php?a=305&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
+#EXTINF:0,FX
+rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzoyNzozNiBQTSZoYXNoX3ZhbHVlPTBiQ1JWZWNKS1l6OTI3U2hxWlhmcFE9PSZ2YWxpZG1pbnV0ZXM9NQ==/fx pageUrl=http://zerocast.tv/embed.php?a=10&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
+#EXTINF:0,Hallmark
+http://62.210.206.122:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+#EXTINF:0,HBO
+rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
+#EXTINF:0,NASA TV
+rtmp://185.63.255.60:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
+#EXTINF:0,ISS
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Lifetime (LOUD!!)
+http://109.236.92.136:1935/live/lifetime9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo1MTozNSBQTSZoYXNoX3ZhbHVlPW1uQWhwTVZlMjd2aSt0WGxhZnhuNkE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,MTV
+rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo1MTozNiBQTSZoYXNoX3ZhbHVlPU1lcUNKZURWQ1lCNUNlL25ISUtHcmc9PSZ2YWxpZG1pbnV0ZXM9NQ==/mtv pageUrl=http://zerocast.tv/embed.php?a=12&id=&width=640&height=480&autostart=true&strech=exactfit live=1
+#EXTINF:0,NAT GEO
+http://109.236.92.136:1935/live/natgeo9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo1MTozNSBQTSZoYXNoX3ZhbHVlPW1uQWhwTVZlMjd2aSt0WGxhZnhuNkE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,NAT GEO UK
+http://109.236.92.136:1935/live/natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgODoyMTozNSBQTSZoYXNoX3ZhbHVlPTZ1dC9rdTdXTG5MRDVzcFYrdGM5R3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,Showtime
+rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgODoyMDowNCBQTSZoYXNoX3ZhbHVlPWNkaDBQZS9xN1lEaUJmc2FLZDN2T1E9PSZ2YWxpZG1pbnV0ZXM9NQ==/showtime pageUrl=http://zerocast.tv/embed.php?a=1903&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
+#EXTINF:0,Spike
+http://109.236.92.136:1935/live/spike9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzozMTozNSBQTSZoYXNoX3ZhbHVlPXZmS1VZaVNHcjZSSVF6NllMck9nZmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,Syfy
+http://62.210.206.122:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1225911018
+#EXTINF:0,STARZ (Down)
+rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_NGp4YnM4NWg2cmFrY255fDE0NTQ0ODQ0MzR8MTA0LjE1OC4xNTkuNzJ8NTZiMTAzMTIzMmYwNnwyMDVmMGZhMDcxMjkzNGM0Mjc2MGJlNTdiNzcwYjJkNDNmMjI2NDQz app=edge/?xs=_we_NGp4YnM4NWg2cmFrY255fDE0NTQ0ODQ0MzR8MTA0LjE1OC4xNTkuNzJ8NTZiMTAzMTIzMmYwNnwyMDVmMGZhMDcxMjkzNGM0Mjc2MGJlNTdiNzcwYjJkNDNmMjI2NDQz playpath=4jxbs85h6rakcny swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to/view/73259 token=m7f204f38122452afd7fba98e304a27d
+#EXTINF:0,TLC
+http://62.210.206.122:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929
+#EXTINF:0,TNT
+http://109.236.92.136:1935/live/tnthd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNzozMTozNSBQTSZoYXNoX3ZhbHVlPTZpSHc0V3FYT0hqa3RDcWhSMTMxeVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,TRU TV
+http://62.210.206.122:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
+#EXTINF:0,TVLand
+http://62.210.206.122:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
+#EXTINF:0,USA Network
+rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgOToxNjozMCBQTSZoYXNoX3ZhbHVlPUxkZHg2NzBCRDBpeVhxUlRBVm9BZHc9PSZ2YWxpZG1pbnV0ZXM9NQ==/usa pageUrl=http://zerocast.tv/embed.php?a=19&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
+#EXTINF:0,VH1
+http://109.236.92.136:1935/live/vh1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNzozMTozNSBQTSZoYXNoX3ZhbHVlPTZpSHc0V3FYT0hqa3RDcWhSMTMxeVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,WGN
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+#EXTINF:0,Animal Planet UK
+http://109.236.92.136:1935/live/ap.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgODoyMTozNSBQTSZoYXNoX3ZhbHVlPTZ1dC9rdTdXTG5MRDVzcFYrdGM5R3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,Sportsnet 1
+rtmp://31.220.2.149:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
+#EXTINF:0,Sportsnet World
+rtmp://185.63.255.18:80/live playpath=sprtnetworld swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprtnetworld&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
+#EXTINF:0,Fox Sports 1
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
+#EXTINF:0,ESPN
+http://62.210.206.122:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:0,ESPN 2
+http://62.210.206.122:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
