@@ -11,6 +11,11 @@
 <thumbnail>tvg-logo="logotv.png</thumbnail>
     </item>
 	
+	<title>Canal+ Deportes</title>
+<link>http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/44.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
 	  <item>
 	<title>EUROSPORT</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/esarn011_delivery@37350/master.m3u8</link>
