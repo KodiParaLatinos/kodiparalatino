@@ -1,110 +1,258 @@
 #EXTM3U
 #EXTINF:-1,[COLOR yellow]by http://iptv-list-2015.blogspot.com[/COLOR]
-#EXTINF:0,A&E
-http://109.236.92.136:1935/live/ae9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNzo0MTozNSBQTSZoYXNoX3ZhbHVlPW0zLzhzdG84TUIwYjJuSkdFRmlISmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,ABC (down)
-rtmp://lv7.ustvnow.com:1935/dvrtest?key=AMYOTTEA571A234E6EF9C163550505A5F6FF78D70FC/mp4:367A6WHTMUSTVNOW2
-#EXTINF:0,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:0,AXS TV
-http://109.236.92.136:1935/live/axs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzoxMTozNSBQTSZoYXNoX3ZhbHVlPVN2TE84UFo0U0lSai9FYkN0NEs1aHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,BET
-http://62.210.206.122:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=82972208
-#EXTINF:0,Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?
-#EXTINF:0,CBS (down)
-rtmp://lv7.ustvnow.com:1935/dvrtest?key=AMYOTTEA571A234E6EF9C163550505A5F6FF78D70FC/mp4:0629BWHP0USTVNOW2 Timeout=20
-#EXTINF:0,CBSNews
-http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/index_4000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,CNBC
-rtmp://a.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/stocks/ live=1 timeout=10
-#EXTINF:0,NBC
-http://109.236.92.136:1935/live/nbc9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzozMTozNSBQTSZoYXNoX3ZhbHVlPXZmS1VZaVNHcjZSSVF6NllMck9nZmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,CNN International
-http://edge1.everyon.tv/etv1sb/phd16/chunklist_w41036801.m3u8
-#EXTINF:0,CW
-http://109.236.92.136:1935/live/cw9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzoyMTozNiBQTSZoYXNoX3ZhbHVlPWNJTkRmbnV4TndrOHd4NjQ0UlJ2Snc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,MY9 (Down)
-rtmp://lv7.ustvnow.com:1935/dvrtest?key=AMYOTTEA571A234E6EF9C163550505A5F6FF78D70FC/mp4:7261CWHVLUSTVNOW2
-#EXTINF:0,OWN
-http://62.210.206.122:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
-#EXTINF:0,PBS (Down)
-rtmp://lv7.ustvnow.com:1935/dvrtest?key=AMYOTTEA571A234E6EF9C163550505A5F6FF78D70FC/mp4:ADB07WPSUUSTVNOW2
-#EXTINF:0,WPIX
-http://109.236.92.136:1935/live/cw77/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzoyMTozNiBQTSZoYXNoX3ZhbHVlPWNJTkRmbnV4TndrOHd4NjQ0UlJ2Snc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,E!
-http://62.210.206.122:1935/edge/_definst_/b3xqbwnyiyz49lx/playlist.m3u8?wowzasessionid=997673525
-#EXTINF:0,History Canada (Quiet)
-http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V?manifest=m3u&feed=History%20Live%20Stream%20Feed
-#EXTINF:0,CBC News
-rtmp://c.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://newschat.tv/player.swf live=1 live=true pageUrl=http://www.livenewschat.eu/canada timeout=10
-#EXTINF:0,CTV News
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:0,The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
-#EXTINF:0,Global Toronto
-http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV%20Live%20Stream%20Feed
-#EXTINF:0,AMC (Down)
-rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_N3BjdG1yZTB6ZndzYzI0fDE0NTQ0ODEyMDd8MTA0LjE1OC4xNTkuNzJ8NTZiMGY2Nzc2OTRlZnw2YWNlYjU1ZGM5NTNhMzlmMTllNzUxYzRmNjE5MjkzMDZiOTMzZWQ1 app=edge/?xs=_we_N3BjdG1yZTB6ZndzYzI0fDE0NTQ0ODEyMDd8MTA0LjE1OC4xNTkuNzJ8NTZiMGY2Nzc2OTRlZnw2YWNlYjU1ZGM5NTNhMzlmMTllNzUxYzRmNjE5MjkzMDZiOTMzZWQ1 playpath=7pctmre0zfwsc24 timeout=20
-#EXTINF:0,BRAVO (Loud)
-http://109.236.92.136:1935/live/bravo77/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozMTozNSBQTSZoYXNoX3ZhbHVlPTM2ZTZSOEdhYlE3R2tCNy9DQ2FnQVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:0,Rai 1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/107.m3u8
+#EXTINF:0,Rai 2 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/106.m3u8
+#EXTINF:0,Rai 3 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/105.m3u8
+#EXTINF:0,Rete 4 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/104.m3u8
+#EXTINF:0,Canale 5 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/103.m3u8
+#EXTINF:0,Italia 1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/102.m3u8
+#EXTINF:0,La 7
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/569.m3u8
+#EXTINF:0,RSI LA 1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/501.m3u8
+#EXTINF:0,RSI LA 2 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/500.m3u8
+#EXTINF:0,Mtv HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/162.m3u8
+#EXTINF:0,Antenna Sicilia
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/546.m3u8
+#EXTINF:0,NAPOLI CANALE 21
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/544.m3u8
+#EXTINF:0, Sky Cinema
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/101.m3u8
+#EXTINF:0,Sky Cinema 1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/100.m3u8
+#EXTINF:0,Sky Cinema +1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/140.m3u8
+#EXTINF:0,Sky Cinema +24 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/99.m3u8
+#EXTINF:0,SKY CINEMA HITS HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/98.m3u8
+#EXTINF:0,SKY CINEMA PASSION HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/97.m3u8
+#EXTINF:0,SKY CINEMA FAMILY HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/96.m3u8
+#EXTINF:0,Sky Cinema Family +1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/161.m3u8
+#EXTINF:0,Sky Cinema Comedy HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/95.m3u8
+#EXTINF:0,SKY CINEMA MAX HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/94.m3u8
+#EXTINF:0,Sky Cinema Max +1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/141.m3u8
+#EXTINF:0,Sky Cinema Cult HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/93.m3u8
+#EXTINF:0,SKY CINEMA CLASSIC HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/92.m3u8
+#EXTINF:0, Intrattenimento
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/91.m3u8
+#EXTINF:0,3D
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/90.m3u8
+#EXTINF:0,Cielo
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/89.m3u8
+#EXTINF:0,Sky Uno HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/88.m3u8
+#EXTINF:0,Sky Atlantic HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/87.m3u8
+#EXTINF:0,CI Crime+Inv HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/86.m3u8
+#EXTINF:0,Fox HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/85.m3u8
+#EXTINF:0,Axn HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/83.m3u8
+#EXTINF:0,AXN Sci-FI
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/130.m3u8
+#EXTINF:0,SKY LEI
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/489.m3u8
+#EXTINF:0,Dmax HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/401.m3u8
+#EXTINF:0,Real Time HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/139.m3u8
+#EXTINF:0,Fox Crime Hd
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/82.m3u8
+#EXTINF:0,Fox Life HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/84.m3u8
+#EXTINF:0,Fox Comedy hd
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/81.m3u8
+#EXTINF:0,Fox Animation HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/80.m3u8
+#EXTINF:0,GIALLO
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/1003.m3u8
+#EXTINF:0, Mediaset Premium
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/78.m3u8
+#EXTINF:0,Mediaset Extra 1 GF
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/1062.m3u8
+#EXTINF:0,Mediaset Extra 2 GF
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/1063.m3u8
+#EXTINF:0,Premium Cinema HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/77.m3u8
+#EXTINF:0,Premium Cinema 2 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/907.m3u8
+#EXTINF:0,Premium Cinema +24 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/76.m3u8
+#EXTINF:0,Premium Cinema 2 +24
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/999.m3u8
+#EXTINF:0,Premium Action HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/998.m3u8
+#EXTINF:0,Premium Action +24
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/73.m3u8
+#EXTINF:0,Premium Crime HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/997.m3u8
+#EXTINF:0,Premium Crime +24
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/72.m3u8
+#EXTINF:0,Premium Cinema Commedy
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/75.m3u8
+#EXTINF:0,Premium Emotion
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/71.m3u8
+#EXTINF:0,Premium Energy
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/70.m3u8
+#EXTINF:0,Premium Joy
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/69.m3u8
+#EXTINF:0,Premium Stories
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/68.m3u8
+#EXTINF:0,Studio Universal
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/74.m3u8
+#EXTINF:0,Iris
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/157.m3u8
+#EXTINF:0, Documentari
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/67.m3u8
+#EXTINF:0,National Geografic HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/66.m3u8
+#EXTINF:0,Discovery HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/126.m3u8
+#EXTINF:0,Discovery SC HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/65.m3u8
+#EXTINF:0,NatGeo Wild HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/135.m3u8
+#EXTINF:0,National Geo People HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/137.m3u8
+#EXTINF:0,History Channell HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/132.m3u8
+#EXTINF:0,Discovery Travel HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/138.m3u8
+#EXTINF:0,Gambero Rosso HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/142.m3u8
+#EXTINF:0,Explora HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/165.m3u8
+#EXTINF:0,Sky Arte HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/129.m3u8
+#EXTINF:0,Animal Planet
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/169.m3u8
+#EXTINF:0,Discovery World
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/64.m3u8
+#EXTINF:0,BBC knwolegend Premium
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/63.m3u8
+#EXTINF:0, Cartoni
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/62.m3u8
+#EXTINF:0,Disney Channell HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/61.m3u8
+#EXTINF:0,Disney XD HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/172.m3u8
+#EXTINF:0,DEA KIDS
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/551.m3u8
+#EXTINF:0,Nickelodeon
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/173.m3u8
 #EXTINF:0,Cartoon Network
-rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNDo0NSBQTSZoYXNoX3ZhbHVlPS9Za1dsSTR1MklaSnRoVE5ObGNyakE9PSZ2YWxpZG1pbnV0ZXM9NQ==/cn pageUrl=http://zerocast.tv/embed.php?a=6&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
-#EXTINF:0,Destination America
-http://109.236.92.136:1935/live/destination.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozMTozNSBQTSZoYXNoX3ZhbHVlPTM2ZTZSOEdhYlE3R2tCNy9DQ2FnQVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,Discovery Investigation
-http://62.210.206.122:1935/edge/_definst_/bmbahkumnsqcydw/playlist.m3u8?wowzasessionid=260910486
-#EXTINF:0,FOX
-rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MTo1NyBQTSZoYXNoX3ZhbHVlPWtBVkR4dTRPRHFoc283c0NhMVR4Wmc9PSZ2YWxpZG1pbnV0ZXM9NQ==/9pxGCtP3aEnJYgoBFFH8 pageUrl=http://zerocast.tv/embed.php?a=305&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
-#EXTINF:0,FX
-rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzoyNzozNiBQTSZoYXNoX3ZhbHVlPTBiQ1JWZWNKS1l6OTI3U2hxWlhmcFE9PSZ2YWxpZG1pbnV0ZXM9NQ==/fx pageUrl=http://zerocast.tv/embed.php?a=10&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
-#EXTINF:0,Hallmark
-http://62.210.206.122:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
-#EXTINF:0,HBO
-rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
-#EXTINF:0,NASA TV
-rtmp://185.63.255.60:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
-#EXTINF:0,ISS
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Lifetime (LOUD!!)
-http://109.236.92.136:1935/live/lifetime9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo1MTozNSBQTSZoYXNoX3ZhbHVlPW1uQWhwTVZlMjd2aSt0WGxhZnhuNkE9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,MTV
-rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo1MTozNiBQTSZoYXNoX3ZhbHVlPU1lcUNKZURWQ1lCNUNlL25ISUtHcmc9PSZ2YWxpZG1pbnV0ZXM9NQ==/mtv pageUrl=http://zerocast.tv/embed.php?a=12&id=&width=640&height=480&autostart=true&strech=exactfit live=1
-#EXTINF:0,NAT GEO
-http://109.236.92.136:1935/live/natgeo9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo1MTozNSBQTSZoYXNoX3ZhbHVlPW1uQWhwTVZlMjd2aSt0WGxhZnhuNkE9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,NAT GEO UK
-http://109.236.92.136:1935/live/natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgODoyMTozNSBQTSZoYXNoX3ZhbHVlPTZ1dC9rdTdXTG5MRDVzcFYrdGM5R3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,Showtime
-rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgODoyMDowNCBQTSZoYXNoX3ZhbHVlPWNkaDBQZS9xN1lEaUJmc2FLZDN2T1E9PSZ2YWxpZG1pbnV0ZXM9NQ==/showtime pageUrl=http://zerocast.tv/embed.php?a=1903&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
-#EXTINF:0,Spike
-http://109.236.92.136:1935/live/spike9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgNzozMTozNSBQTSZoYXNoX3ZhbHVlPXZmS1VZaVNHcjZSSVF6NllMck9nZmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,Syfy
-http://62.210.206.122:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1225911018
-#EXTINF:0,STARZ (Down)
-rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_NGp4YnM4NWg2cmFrY255fDE0NTQ0ODQ0MzR8MTA0LjE1OC4xNTkuNzJ8NTZiMTAzMTIzMmYwNnwyMDVmMGZhMDcxMjkzNGM0Mjc2MGJlNTdiNzcwYjJkNDNmMjI2NDQz app=edge/?xs=_we_NGp4YnM4NWg2cmFrY255fDE0NTQ0ODQ0MzR8MTA0LjE1OC4xNTkuNzJ8NTZiMTAzMTIzMmYwNnwyMDVmMGZhMDcxMjkzNGM0Mjc2MGJlNTdiNzcwYjJkNDNmMjI2NDQz playpath=4jxbs85h6rakcny swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to/view/73259 token=m7f204f38122452afd7fba98e304a27d
-#EXTINF:0,TLC
-http://62.210.206.122:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929
-#EXTINF:0,TNT
-http://109.236.92.136:1935/live/tnthd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNzozMTozNSBQTSZoYXNoX3ZhbHVlPTZpSHc0V3FYT0hqa3RDcWhSMTMxeVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,TRU TV
-http://62.210.206.122:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
-#EXTINF:0,TVLand
-http://62.210.206.122:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
-#EXTINF:0,USA Network
-rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgOToxNjozMCBQTSZoYXNoX3ZhbHVlPUxkZHg2NzBCRDBpeVhxUlRBVm9BZHc9PSZ2YWxpZG1pbnV0ZXM9NQ==/usa pageUrl=http://zerocast.tv/embed.php?a=19&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
-#EXTINF:0,VH1
-http://109.236.92.136:1935/live/vh1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNzozMTozNSBQTSZoYXNoX3ZhbHVlPTZpSHc0V3FYT0hqa3RDcWhSMTMxeVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,WGN
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-#EXTINF:0,Animal Planet UK
-http://109.236.92.136:1935/live/ap.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMTYgODoyMTozNSBQTSZoYXNoX3ZhbHVlPTZ1dC9rdTdXTG5MRDVzcFYrdGM5R3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,Sportsnet 1
-rtmp://31.220.2.149:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
-#EXTINF:0,Sportsnet World
-rtmp://185.63.255.18:80/live playpath=sprtnetworld swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprtnetworld&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
-#EXTINF:0,Fox Sports 1
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
-#EXTINF:0,ESPN
-http://62.210.206.122:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,ESPN 2
-http://62.210.206.122:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/60.m3u8
+#EXTINF:0,Dea Junior
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/989.m3u8
+#EXTINF:0,Manga
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/278.m3u8
+#EXTINF:0,Rai Gulp
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/434.m3u8
+#EXTINF:0,Rai yoyo
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/433.m3u8
+#EXTINF:0, Sky Sport
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/55.m3u8
+#EXTINF:0,Sky Sport 24 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/54.m3u8
+#EXTINF:0,Sky Sport 1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/53.m3u8
+#EXTINF:0,Sky Sport 2 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/52.m3u8
+#EXTINF:0,Sky Sport 3 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/51.m3u8
+#EXTINF:0,Fox Sport HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/50.m3u8
+#EXTINF:0,Sky Sport Plus HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/49.m3u8
+#EXTINF:0,Sky Formula 1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/47.m3u8
+#EXTINF:0,Moto GP
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/128.m3u8
+#EXTINF:0,Sportitalia
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/1013.m3u8
+#EXTINF:0,Super Tennis HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/422.m3u8
+#EXTINF:0,Eurosport 1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/167.m3u8
+#EXTINF:0,Eurosport 2 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/168.m3u8
+#EXTINF:0,Inter Channell
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/323.m3u8
+#EXTINF:0,Milan Channell
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/497.m3u8
+#EXTINF:0,Juventus channell
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/407.m3u8
+#EXTINF:0,ROMA CHANEL
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/528.m3u8
+#EXTINF:0,Lazio Channell
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/545.m3u8
+#EXTINF:0,Caccia&pesca
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/174.m3u8
+#EXTINF:0,Pesca&caccia
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/133.m3u8
+#EXTINF:0,Poker Italia
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/164.m3u8
+#EXTINF:0, CALCIO
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/170.m3u8
+#EXTINF:0,Sky Supercalcio Hd
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/46.m3u8
+#EXTINF:0,Sky Calcio 1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/45.m3u8
+#EXTINF:0,Sky Calcio 2 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/44.m3u8
+#EXTINF:0,Sky Calcio 3 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/43.m3u8
+#EXTINF:0,Sky Calcio 4 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/42.m3u8
+#EXTINF:0,Sky Calcio 5 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/41.m3u8
+#EXTINF:0,Sky Calcio 6 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/40.m3u8
+#EXTINF:0,Sky Calcio 7 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/39.m3u8
+#EXTINF:0,Sky Calcio 8 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/38.m3u8
+#EXTINF:0,Sky Tg 24 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/56.m3u8
+#EXTINF:0, CALCIO PREMIUM
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/171.m3u8
+#EXTINF:0,Premium Sport HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/902.m3u8
+#EXTINF:0,Premium Calcio SD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/37.m3u8
+#EXTINF:0,Premium Calcio HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/136.m3u8
+#EXTINF:0,Premium Calcio 1 HD
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/36.m3u8
+#EXTINF:0,Premium Calcio 2
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/35.m3u8
+#EXTINF:0,Premium Calcio 3
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/34.m3u8
+#EXTINF:0,Premium Calcio 4
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/33.m3u8
+#EXTINF:0, RADIO
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/1052.m3u8
+#EXTINF:0,Radio 105 TV
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/1048.m3u8
+#EXTINF:0,RTL 102.5
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/987.m3u8
+#EXTINF:0,Virgin Radio TV
+http://hdrtv-team.dyndns.tv:8000/live/favaloro/favaloro/1050.m3u
