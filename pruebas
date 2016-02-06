@@ -1,23 +1,72 @@
 #EXTM3U
-
-#EXTM3U
-#EXTINF:-1, Sky Sport5
-http://bit.do/iptvsportt-Sky1
-#EXTINF:-1, Sky Sport4
-http://bit.do/iptvsportt-Sky2
-#EXTINF:-1, Sky Sport3
-http://bit.do/iptvsportt-Sky3
-#EXTINF:-1, Sky Sport2
-http://bit.do/iptvsportt-Sky4
-#EXTINF:-1, Sky Sport1
-http://bit.do/iptvsportt-Sky5
-#EXTINF:-1, BT Sport1
-http://bit.do/iptvsportt-BT1
-#EXTINF:-1, BT Sport2
-http://bit.do/iptvsportt-BT2
-#EXTINF:-1, Setenta Sport
-http://bit.do/iptvsportt-ST
-#EXTINF:-1, Eurosport
-http://bit.do/iptvsportt-EU
-#EXTINF:-1,Canal+ Deportes
-http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/44.ts
+#EXTINF:0,CIELO
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:0,Rai Sport 1
+mmsh://212.162.68.163:80/raisport+
+#EXTINF:0,La 7
+http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8
+#EXTINF:-1,[COLOR yellow]by http://iptv-m3u-playlist-url.blogspot.com/[/COLOR]
+#EXTINF:0, TV1
+http://10.3.3.18:5000/live/tv1/playlist.m3u8
+#EXTINF:0, TV2
+http://10.3.3.18:5000/live/tv2/playlist.m3u8
+#EXTINF:0, TV3
+http://10.3.3.18:5000/live/tv3/playlist.m3u8
+#EXTINF:0, NTV7
+http://10.3.3.18:5000/live/ntv7/playlist.m3u8
+#EXTINF:0, 8TV
+http://10.3.3.18:5000/live/8tv/playlist.m3u8
+#EXTINF:0, TV9
+http://10.3.3.18:5000/live/tv9/playlist.m3u8
+#EXTINF:0, ALHIJRAH
+http://192.168.222.182:5000/live/114_tvalhijrah_pf1/playlist.m3u8
+#EXTINF:0, ASTRO RIA
+http://192.168.222.182:5000/live/104_ria_pf1/playlist.m3u8
+#EXTINF:0, ASTRO PRIMA
+http://192.168.222.182:5000/live/105_prima_pf1/playlist.m3u8
+#EXTINF:0, ASTRO WARNA
+http://192.168.222.182:5000/live/132_warna_pf1/playlist.m3u8
+#EXTINF:0, ASTRO AWANI
+http://192.168.222.182:5000/live/501_awani_pf1/playlist.m3u8
+#EXTINF:0, ASTRO WAHLAITOI
+http://192.168.222.182:5000/live/311_wahlaitoi_pf1/playlist.m3u8
+#EXTINF:0, CNN
+http://192.168.222.182:5000/live/511_cnn_pf1/playlist.m3u8
+#EXTINF:0, BBC WORLD
+http://192.168.222.182:5000/live/512_bbcworld_pf1/playlist.m3u8
+#EXTINF:0, ALJAZEERA
+http://192.168.222.182:5000/live/513_aljazeera_pf1/playlist.m3u8
+#EXTINF:0, CNBC
+http://192.168.222.182:5000/live/518_cnbc_pf1/playlist.m3u8
+#EXTINF:0, SKYNEWS
+http://192.168.222.182:5000/live/532_skynew_pf1/playlist.m3u8
+#EXTINF:0, DISCOVERY HD
+http://192.168.222.182:5000/live/571_discoveryhd_pf1/playlist.m3u8
+#EXTINF:0, NATIONAL GEO
+http://192.168.222.182:5000/live/573_natgeohd_pf1/playlist.m3u8
+#EXTINF:0, FOX HD
+http://192.168.222.182:5000/live/433_foxhd_pf1/playlist.m3u8
+#EXTINF:0, ASTRO ARENA
+http://192.168.222.182:5000/live/801_arena_pf1/playlist.m3u8
+#EXTINF:0, Super Sport HD
+http://192.168.222.182:5000/live/831_assphd_pf1/playlist.m3u8
+#EXTINF:0, Super Sport 2 HD
+http://192.168.222.182:5000/live/811_assp2_pf1/playlist.m3u8
+#EXTINF:0, Super Sport 3 HD
+http://192.168.222.182:5000/live/816_assp3_pf1/playlist.m3u8
+#EXTINF:0, Fox Sport HD
+http://192.168.222.182:5000/live/832_foxsphd_pf1/playlist.m3u8
+#EXTINF:0, Fox Sport 2
+http://192.168.222.182:5000/live/813_foxsp2_pf1/playlist.m3u8
+#EXTINF:0, Euro Sport
+http://192.168.222.182:5000/live/814_eurosport_pf1/playlist.m3u8
+#EXTINF:0, History HD
+http://192.168.222.182:5000/live/575_histhd_pf1/playlist.m3u8
+#EXTINF:0, Bloomberg
+http://192.168.222.182:5000/live/519_bloomberg_pf1/playlist.m3u8
+#EXTINF:0, RCTI
+http://10.3.3.18:5000/live/rcti/playlist.m3u8
+#EXTINF:0, SCTV
+http://10.3.3.18:5000/live/sctv/playlist.m3u8
+#EXTINF:0, Trans TV
+http://10.3.3.18:5000/live/transtv/playlist.m3u8
