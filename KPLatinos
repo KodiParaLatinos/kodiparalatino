@@ -14,6 +14,12 @@
 <externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/IPTV</externallink>
 </item>
   
+    <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR lime][B]DEPORTES[/B][/COLOR]</name>
+    <info>IPTV</info>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+  
   <item>
     <title>[COLOR lime]*[/COLOR][COLOR blue]  Deportes[/COLOR] [COLOR red] [/COLOR]</title>
 115	<link>http://ignorame</link><thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
@@ -243,3 +249,6 @@
     </item>
 
  
+</channel>
+
+	</channels>
