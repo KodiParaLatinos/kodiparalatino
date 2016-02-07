@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 
  <item>
     <title>[COLOR blue]*[/COLOR][COLOR red]  Deportes[/COLOR] [COLOR red] [/COLOR]</title>
@@ -234,9 +234,12 @@
 
 #EXTINF:0, [COLOR lime][B]<<<<< IPTV >>>>>[/B][/COLOR]
 
+#EXTINF:0,Miami Music TV
+http://74.208.152.93/music/stream3/stream.m3u8
 
 #EXTINF:0,TETEMUNDO 
 http://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/chunklist.m3u8
+
 #EXTINF:0,UNIVISION
 http://streamup.global.ssl.fastly.net/app/univision2chivas_69s-stream/chunklist.m3u8
 
@@ -248,8 +251,7 @@ http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.
 
 #EXTINF:0,Miami TV
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0,Miami Music TV
-http://74.208.152.93/music/stream3/stream.m3u8
+
 
 #EXTINF:0,WGN
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
