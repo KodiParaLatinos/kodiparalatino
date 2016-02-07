@@ -1,6 +1,9 @@
-#EXTM3U
 
-#EXTINF:0, [COLOR lime][B]<<<<< DEPORTES >>>>>[/B][/COLOR]
+ <item>
+    <title>[COLOR blue]*[/COLOR][COLOR red]  Deportes[/COLOR] [COLOR red] [/COLOR]</title>
+	<link>http://ignorame</link><thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+	<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
+    </item>
 
  <item>
 	<title>Canal+ Liga</title>
@@ -219,10 +222,12 @@
 
   <item>
     <title>[COLOR blue]*[/COLOR][COLOR red]  Deportes[/COLOR] [COLOR red] [/COLOR]</title>
-115	<link>http://ignorame</link><thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
-116	<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
+    <link>http://ignorame</link><thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+    <externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
     </item>
-	
+
+#EXTM3U
+
 #EXTINF:0, [COLOR lime][B]<<<<< IPTV >>>>>[/B][/COLOR]
 
 
