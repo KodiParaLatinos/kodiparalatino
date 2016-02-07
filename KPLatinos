@@ -25,13 +25,7 @@
 	<link>http://ignorame</link><thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>	<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
     </item>
 	
-	
-<item>
-    <title>[COLOR lime]*[/COLOR][COLOR blue]  Deportes[/COLOR] [COLOR red] [/COLOR]</title>
-	<link>http://ignorame</link><thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
-	<externallink>	[COLOR skyblue]UFC Next [/COLOR] /Sportsdevil http://www.filmon.com/tv/channel/export?channel_id=713 http://www.filmon.com http://iptv.latino-webtv.com/logos/ufc.jpg
-</externallink>
-    </item>
+
 
 	
 
@@ -257,7 +251,8 @@
 <thumbnail>tvg-logo="logotv.png</thumbnail>
     </item>
 
- 
+     </items>
+
 </channel>
 
 	</channels>
