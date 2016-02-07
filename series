@@ -351,7 +351,17 @@
 
 
 
-
+<items>
+<items_info>
+<!--  this is opitonal  -->
+<title>deadpool</title>
+<genre>Tv Live</genre>
+<description>deadpool addon</description>
+<thumbnail>http://imgur.com/clTOZ24</thumbnail>
+<fanart>http://imgur.com/rip8XbT</fanart>
+<date>28.09.2015</date>
+<credits>deadpool</credits>
+</items_info>
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Amor Bravio [/COLOR]
@@ -365,7 +375,6 @@ https://dl.dropboxusercontent.com/u/81390039/deadpool/list.xml
 https://dl.dropboxusercontent.com/u/81390039/deadpool/telenovelas/amorbravio.xml
 </externallink>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Corazon Enamorado [webnovela] [/COLOR]
@@ -379,7 +388,6 @@ https://dl.dropboxusercontent.com/u/81390039/deadpool/list.xml
 https://dl.dropboxusercontent.com/u/81390039/deadpool/telenovelas/corazone.xml
 </externallink>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Fuego en la sangre [/COLOR]
@@ -393,7 +401,6 @@ https://dl.dropboxusercontent.com/u/81390039/deadpool/list.xml
 https://dl.dropboxusercontent.com/u/81390039/deadpool/telenovelas/fuegosangre.xml
 </externallink>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] La Que No Podia Amar [/COLOR]
@@ -407,7 +414,6 @@ https://dl.dropboxusercontent.com/u/81390039/deadpool/list.xml
 https://dl.dropboxusercontent.com/u/81390039/deadpool/telenovelas/lqnpa.xml
 </externallink>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Destilando Amor [/COLOR]
@@ -421,7 +427,6 @@ https://dl.dropboxusercontent.com/u/81390039/deadpool/list.xml
 https://dl.dropboxusercontent.com/u/81390039/deadpool/telenovelas/destilando.xml
 </externallink>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Mi Destino Eres Tu [/COLOR]
@@ -444,7 +449,6 @@ https://www.youtube.com/channel/ashleylalocas/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Que Bonito Amor [/COLOR]
@@ -467,7 +471,6 @@ https://www.youtube.com/channel/ashleylalocas/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Mariana De La Noche [/COLOR]
@@ -490,7 +493,6 @@ https://www.youtube.com/channel/ashleylalocas/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Santa Diabla [/COLOR]
@@ -516,7 +518,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Marido En Alquiler [/COLOR]
@@ -542,7 +543,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] La Impostora [/COLOR]
@@ -568,7 +568,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Reyna De Corazones [/COLOR]
@@ -594,7 +593,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Dama Y Obrero [/COLOR]
@@ -620,7 +618,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Mas Sabe El Diablo [/COLOR]
@@ -646,7 +643,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] La Patrona [/COLOR]
@@ -672,7 +668,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Pasion Prohibida [/COLOR]
@@ -698,7 +693,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] En Otra Piel [/COLOR]
@@ -724,7 +718,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] El Capo [/COLOR]
@@ -751,7 +744,6 @@ https://www.youtube.com/channel/UCxhnV5bHYHOhjhUhe_as1NA/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Señora Acero 2 [/COLOR]
@@ -769,7 +761,6 @@ http://tve-static-telemundo.nbcuni.com/prod/image/961/847/SA2_TVE_RETINA_2560x14
 https://dl.dropboxusercontent.com/u/81390039/deadpool/series/senora/acero.m3u
 </externallink>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] El Señor De Los Cielos [/COLOR]
@@ -795,7 +786,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] El Señor De Los Cielos 2[/COLOR]
@@ -821,7 +811,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] El Señor De Los Cielos 3 [/COLOR]
@@ -839,7 +828,6 @@ https://i.ytimg.com/vi/C7MqS9n-2Xk/maxresdefault.jpg
 https://dl.dropboxusercontent.com/u/81390039/deadpool/series/esdlc/esdlc3.m3u
 </externallink>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Tierra De Reyes [/COLOR]
@@ -865,7 +853,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Dueños Del Paraiso [/COLOR]
@@ -891,7 +878,6 @@ https://www.youtube.com/channel/telemundotv/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] La Viuda de la Mafia [/COLOR]
@@ -917,7 +903,6 @@ https://www.youtube.com/channel/capitulosromanticos/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] La Pola [/COLOR]
@@ -943,7 +928,6 @@ https://www.youtube.com/channel/capitulosromanticos/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
 [COLOR lime] •[/COLOR][COLOR red] Doña Bella [/COLOR]
@@ -969,11 +953,13 @@ https://www.youtube.com/channel/capitulosromanticos/playlists
 <cookieJar/>
 </regex>
 </item>
-
 <item>
 <title>
-[COLOR lime] •[/COLOR][COLOR red] La Hija del Mariachi [/COLOR]</title>
-<thumbnail>http://www.miblogdecineytv.com/imagenes/novelas/LaHijaMariachi/LaHijaMariachi0.jpg</thumbnail>
+[COLOR lime] •[/COLOR][COLOR red] La Hija del Mariachi [/COLOR]
+</title>
+<thumbnail>
+http://www.miblogdecineytv.com/imagenes/novelas/LaHijaMariachi/LaHijaMariachi0.jpg
+</thumbnail>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -992,18 +978,7 @@ https://www.youtube.com/channel/capitulosromanticos/playlists
 <cookieJar/>
 </regex>
 </item>
-
-
-
-
-
-
-
-
-
 </items>
-
-
 
 
 
