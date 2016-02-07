@@ -1,4 +1,27 @@
 #EXTM3U
+
+#EXTINF:0,TETEMUNDO 
+http://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/chunklist.m3u8
+#EXTINF:0,UNIVISION
+http://streamup.global.ssl.fastly.net/app/univision2chivas_69s-stream/chunklist.m3u8
+
+#EXTINF:0,HBO
+rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
+
+#EXTINF:0,True TV
+http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
+
+#EXTINF:0,Miami TV
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,Miami Music TV
+http://74.208.152.93/music/stream3/stream.m3u8
+
+#EXTINF:0,WGN
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+
+#EXTINF:0,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
 #EXTINF:-1,[COLOR red]IPTV[/COLOR]
 #EXTINF:0,A&E
 http://109.236.92.136:1935/live/ae9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNzo0MTozNSBQTSZoYXNoX3ZhbHVlPW0zLzhzdG84TUIwYjJuSkdFRmlISmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
