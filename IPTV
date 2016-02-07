@@ -4,13 +4,13 @@
 http://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/chunklist.m3u8
 
 #EXTINF:0,TETEMUNDO Opcion1
-https://lh4.ggpht.com/dwyTO17Wr9Way32UxeEMxOg_cqJ-GlVlz6pBJA_Dft_YvOcu0YTGuRtOYbTYJMSF3Q=w300
+https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
 
 #EXTINF:0,UNIVISION
 http://streamup.global.ssl.fastly.net/app/univision2chivas_69s-stream/chunklist.m3u8
 
 #EXTINF:0,UNIVISION Opcion 1
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/2000px-Logo_Univision_2013.svg.png
+https://video05-lax.streamup.com/app/univision2chivas_69s-stream/playlist.m3u8
 
 #EXTINF:0,HBO
 rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
@@ -30,16 +30,15 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
 #EXTINF:0, History Channel
-http://static1.squarespace.com/static/53666f63e4b08700007f0e54/536c07dae4b0627babc2c083/536c07dde4b0834a919c10c5/1399588830010/History+Channel-Logo-.jpg
-
+rtmp://31.220.0.196/privatestream/historia93 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 #EXTINF:0,NatGeo Wild<
-https://lh6.googleusercontent.com/-2nW3xLH_Z3o/TYptjQFizdI/AAAAAAAAMn0/BMf303DA8ys/s1600/National_Geographic_Logo29.png
+http://latino-webtv.ml/mariocs.php?ch=355&cl=03
 
 #EXTINF:0,NatGeo
-http://famouslogos.net/images/national-geographic-logo.jpg
+http://latino-webtv.ml/mariocs.php?ch=377&cl=03
 
 #EXTINF:0,Discovery Turbo
-https://pbs.twimg.com/profile_images/641745128407830528/7kZCHucA.png
+http://latino-webtv.ml/mariocs.php?ch=383&cl=03
 
 #EXTINF:0,A&E
 http://109.236.92.136:1935/live/ae9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNzo0MTozNSBQTSZoYXNoX3ZhbHVlPW0zLzhzdG84TUIwYjJuSkdFRmlISmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
