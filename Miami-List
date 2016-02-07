@@ -3543,22 +3543,11 @@ https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH
     
     
    <item>
-<name>Peliculas</name>
+<name>SERIES</name>
 <externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/series</externallink>
 </item 
     
- <item>	
-<title>[COLOR lime]*[/COLOR][COLOR skyblue]  [B]Series de TV[/B] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/6pvNVON.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>https://dl.dropboxusercontent.com/u/81390039/deadpool/series/tvnovelas.xml</externallink>
-   
-<item>
-<title>[COLOR lime][B]SERIES[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.genesis/?action=tvNavigator</jsonrpc>
-<thumbnail>http://s3.amazonaws.com/fotor.cdn/share.url/0eb29c445e3b471aba63bbaedb773e00.jpeg</thumbnail>
-<fanart>http://s3.amazonaws.com/fotor.cdn/share.url/7d9ea9e27dfa4f5086f0534df3a9b0b0.jpeg</fanart>
-</item>
+
     
     
 	
