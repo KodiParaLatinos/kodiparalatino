@@ -1,5 +1,45 @@
 
- 
+
+#EXTINF:0,Canal+ Liga
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/43.ts
+
+#EXTINF:0,Canal+ Futbol
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/42.ts
+
+#EXTINF:0,Canal+ Deportes
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/44.ts
+
+#EXTINF:0,EUROSPORT
+http://ooyalahd2-f.akamaihd.net/i/esarn011_delivery@37350/master.m3u8
+
+#EXTINF:0,EUROSPORT 1
+http://ooyalahd2-f.akamaihd.net/i/esarn012_delivery@75190/master.m3u8
+
+#EXTINF:0,EUROSPORT 2
+http://ooyalahd2-f.akamaihd.net/i/esarn013_delivery@75191/master.m3u8
+
+#EXTINF:0,EUROSPORT 3
+http://ooyalahd2-f.akamaihd.net/i/esarn014_delivery@75192/master.m3u8
+#EXTINF:0,ESPN
+http://62.210.206.122:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:0,ESPN 2
+http://62.210.206.122:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+#EXTINF:0,Fox Sports 1
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
+
+#EXTINF:0,[COLOR blue]Sk sport 1[/COLOR]
+http://80.243.189.26:9999/sportshd/sky1/index.m3u8
+#EXTINF:0,[COLOR blue]Sk sport 2[/COLOR]
+http://80.243.189.26:9999/sportshd/sky2/index.m3u8
+#EXTINF:0,[COLOR blue]Sk sport 3[/COLOR]
+http://80.243.189.26:9999/sportshd/sky3/index.m3u8
+#EXTINF:0,[COLOR blue]Sk sport 4[/COLOR]
+http://80.243.189.26:9999/sportshd/sky4/index.m3u8
+#EXTINF:0,[COLOR blue]Sk sport 5[/COLOR]
+http://80.243.189.26:9999/sportshd/sky5/index.m3u8
+
+#EXTINF:0,[COLOR FF11b500]Sky formula 1[/COLOR]
+http://80.243.189.26:9999/sportshd/skf1/index.m3u8
  
   
 
@@ -17,7 +57,7 @@
  
   <item>
 	<title>Canal+ Liga</title>
-<link>http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/43.ts</link>
+<link></link>
 <thumbnail>tvg-logo="logotv.png</thumbnail>
     </item>
     
