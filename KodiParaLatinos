@@ -1,19 +1,746 @@
 #EXTM3U
 
-#EXTINF:0,TETEMUNDO 
-http://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/chunklist.m3u8
+#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<[/COLOR][COLOR RED]KODIPARALATINOS[/COLOR][COLOR LIME]>>>>>>>>>>>>>>[/COLOR]
 
-#EXTINF:0,TETEMUNDO Opcion1
+
+#EXTINF:0,TETEMUNDO
 https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
 
 #EXTINF:0,UNIVISION
-http://streamup.global.ssl.fastly.net/app/univision2chivas_69s-stream/chunklist.m3u8
-
-#EXTINF:0,UNIVISION Opcion 1
 https://video05-lax.streamup.com/app/univision2chivas_69s-stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
+http://45.55.81.38:1583/fox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="sony.png",Sony HD
+http://104.236.94.5:1382/sony/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="warner hd.png",Warner HD
+http://104.236.94.5:1382/warner/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="universal hd.png",Universal HD
+http://104.236.94.5:1382/universal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Latino-FX-HD.png",FX HD
+http://104.236.232.245:1382/fx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="a&e.png",A&E 
+http://104.236.98.15:1382/ae/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="axn.png",AXN HD
+http://104.236.232.245:1382/axn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="trutv.png",TruTV HD
+http://104.236.98.15:1382/trutv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Comedy Central HD (2).png",Comedy Central
+http://104.131.39.88:1583/comedycentral/playlist.m3u8
+
+#EXTINF:0 tvg-logo="unicable.png",Unicable
+http://45.55.81.38:1583/Unicable/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="!e.png",E! 
+http://162.243.133.156:1583/entertainment/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
+http://104.236.85.248:1382/syfy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="fx.png",FX
+http://104.236.232.245:1382/fx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="id.png",ID
+http://104.236.98.15:1382/id/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="infinito.png",TNT Series
+http://104.236.232.245:1382/tntseries/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="el gourmet.png",El Gourmet  
+http://tvultimate.ddns.net/LIVE/H01/CANAL268/PROFILE03.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="fox life.png",Fox Life
+http://104.236.85.248:1382/foxlife/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Latino-DISTRITO- COMEDIA.png",Distrito Comedia
+http://162.243.133.156:1583/distritocomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tbs.png",TBS
+http://104.236.94.5:1382/tbs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tlnovelas.png",Tlnovelas
+http://104.236.124.24:1583/tlnovelas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Latino-DISCOVERY- KIDS.png",Discovery Kids
+http://45.55.81.38:1583/discoverykids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="disney jr.png",Disney Jr
+http://104.131.39.88:1583/disneyjr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Cbeebies 
+http://104.131.117.246:8081/chuy/76/014-Cbeebies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Baby tv
+http://104.236.232.245:1382/babytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="nick jr.png",Nick Jr
+http://162.243.133.156:1583/nickjr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="disney channel.png",Disney Channel
+http://162.243.133.156:1583/disney/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon
+http://45.55.81.38:1583/nick/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="cartoon network.png",Cartoon Network
+http://104.131.39.88:1583/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="disney xd.png",Disney XD
+http://104.236.124.24:1583/disneyxd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="boomerang.png",Boomerang
+http://104.236.124.24:1583/boomerang/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tiin.png",TIIN
+http://104.131.117.246:8081/chuy/76/2154-Tiin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="history hd.png",History
+http://104.236.85.248:1382/history/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="history hd.png",History 2
+http://104.236.85.248:1382/h2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Mundofox
+http://162.243.133.156:1382/mundofox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="natgeo wild hd.png",NatGeo Wild HD
+http://104.236.85.248:1382/natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tlc hd.png",TLC HD
+http://104.236.98.15:1382/tlc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="discovery channel.png",Discovery Channel
+http://104.236.94.5:1382/discovery/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="animal planet.png",Animal Planet
+http://104.236.98.15:1382/animalplanet/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="home and health.png",Home and Health
+http://104.236.85.248:1382/discoveryhh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="natgeo.png",NatGeo
+http://104.236.85.248:1382/natgeo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="lifetime.png",Lifetime
+http://104.236.232.245:1382/lifetime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="wobi tv.png",WOBI TV
+http://104.236.85.248:1382/wobi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Cine Latino
+http://162.243.133.156:1382/cinelatino/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="fox 1 hd.png",Fox 1 HD
+http://104.236.98.15:1382/fox1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="fox action.png",Fox Action HD
+http://104.236.94.5:1382/foxaction/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="fox movies HD.png",Fox Movies HD
+http://104.236.94.5:1382/foxmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="fox cinema.png",Fox Cinéma
+http://104.236.94.5:1382/foxcinema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="fox family.png",Fox Family
+http://104.236.61.232:8081/live/sky69/FoxFamilycsp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="fox classics.png",Fox Classics
+http://104.236.98.15:1382/foxclassic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="cinecanal hd.png",Cinecanal HD
+http://104.236.124.24:1583/cinecanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tnt hd.png",TNT HD
+http://45.55.81.38:1583/tnt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="the film zone hd.png",The Film Zone HD
+http://104.236.232.245:1382/filmzone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="de pelicula hd.png",De Película HD
+http://45.55.81.38:1583/dpeliculamexicana/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="de pelicula hd.png",De Película Clasico
+http://104.131.39.88:1583/dpeliculaclasica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="space hd.png",Space HD
+http://104.236.124.24:1583/space/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvtultimate.png",Cinemax
+http://45.55.81.38:1583/cinemax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
+http://104.236.232.245:1382/studiouniv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="sat.1 hd.png",I.Sat
+http://45.55.81.38:1583/isat/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas HD
+http://104.236.124.24:1583/estrellas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas -1 hora
+http://104.131.39.88:1583/estrellas-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas -2 horas
+http://162.243.133.156:1583/estrellas-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Estrellas latinoamerica
+http://45.55.81.38:1583/estrellaslatinas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="canal 5 HD.png",Canal 5
+http://45.55.81.38:1583/cinco/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="azteca 7.png",Azteca 7
+http://162.243.133.156:1583/siete/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="canal 5 HD.png",EXA TV
+http://104.236.232.245:1382/exatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="azteca 13.png",El Trece HD
+http://45.55.81.38:1583/trece/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="azteca 13.png",El Trece -1 hora
+http://162.243.133.156:1583/trece-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="azteca 13.png",El Trece -2 horas
+http://104.131.39.88:1583/trece-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="gala tv hd.png",Gala TV
+http://104.131.39.88:1583/galatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="tvmas.png",TVMas HD 
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1 tvg-logo="canal once.png",Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="canal once.png",Canal Once HD
+http://104.236.124.24:1583/once/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="foro tv HD.png",Foro TV
+http://104.236.124.24:1583/forotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="teleformula.png",TeleFormula
+http://tvultimate.ddns.net/LIVE/H01/CANAL161/PROFILE03.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="tvultimate.png",PX TV
+http://tvultimate.ddns.net/LIVE/H01/CANAL528/PROFILE03.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="people.png",News People tv 
+http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8
+
+
+
+#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<<[/COLOR][COLOR RED]DEPORTES[/COLOR][COLOR LIME]>>>>>>>>>>>>>>[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="fox sports hd.png",Fox Sports 3
+http://104.236.124.24:1583/foxsports3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="espn hd.png",ESPN HD
+http://104.236.232.245:1382/espn+/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="espn hd.png",ESPN 
+http://104.236.98.15:1382/espn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="espn 2.png",ESPN2
+http://162.243.133.156:1583/espn2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="TCM.png",Univision TDN 
+http://162.243.133.156:1583/univisiontdn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="TCM.png",TDN 
+http://45.55.81.38:1583/tdn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Formula1
+http://104.131.39.88:1583/f1la/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Claro Sports
+http://104.236.124.24:1583/claro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="fox sports hd.png",Fox Sports
+http://162.243.133.156:1583/foxsports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="fox sports 2 hd.png",Fox Sports 2
+http://104.131.39.88:1583/foxsports2/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<<[/COLOR][COLOR RED]CANALES[/COLOR][COLOR RED]PREMIUM[/COLOR][COLOR LIME]>>>>>>>>>>>>>>[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="telemundo.png",Telemundo 
+http://104.236.200.163:1583/300815/wkaq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="golden.png",Golden Premier
+http://104.131.39.88:1583/goldenpremier1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="golden.png",Golden Premier2
+http://104.236.124.24:1583/goldenpremier2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Max Prime
+http://162.243.133.156:1583/maxprime/playlist.m3u8
+
+#EXTINF:0 tvg-logo="HBO.png",HBO
+http://104.236.94.5:1382/hbo/playlist.m3u8
+
+#EXTINF:0 tvg-logo="hbo plus.png",HBO Plus 
+http://104.236.85.248:1382/hboplus/playlist.m3u8
+
+#EXTINF:0 tvg-logo="hbo2.png",HBO 2 
+http://104.236.94.5:1382/hbo2/playlist.m3u8
 
 #EXTINF:0,HBO
 rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<<<<[/COLOR][COLOR RED]PELICULAS[/COLOR][COLOR LIME]>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.apartment1303themovie.com/images/posters/poster4.jpg", Apartamento 1303
+http://www.spruto.tv/get_file/1/49d3ace5335a6cabdc5a3581b37dbc85/86000/86749/86749.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.puntoencuentrocomplutense.es/wp-content/uploads/2014/03/poster-oficial-actores-hermosas-criaturas-L-MfgiKl.jpeg", Hermosas Criaturas
+http://www.spruto.tv/get_file/1/ec0d0600daeeec97ebaa31311b47e954/86000/86754/86754.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://ecx.images-amazon.com/images/I/51meba6mxTL._SY344_BO1,204,203,200_.jpg", Heart's war
+http://www.spruto.tv/get_file/1/eb749898480b80d9cfdc14d02b3502e9/86000/86758/86758.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://3.bp.blogspot.com/-PSdLnm7uySQ/UbhW6xVqB_I/AAAAAAAAL4s/1u0LFrcljl4/s1600/ritual-poster.jpg", El Ritual
+http://www.spruto.tv/get_file/1/bf6524f4bf8a27f4fd22679c3ab63e5d/86000/86768/86768.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://images.fandango.com/images/fandangoblog/tammyposterlarge.jpg", Tammy
+http://www.spruto.tv/get_file/1/da244c0319e3ae01bf70ba73c17a90b2/86000/86886/86886.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://gnula.nu/wp-content/uploads/2014/10/El_Ardor_poster_latino.jpg", El Ardor
+http://www.spruto.tv/get_file/1/e3eb16575a9ab7040738f775c378e0fc/86000/86900/86900.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://metropolisanluis.com/wp-content/uploads/2013/08/linea-de-emergencia-poster.jpg", Linea de emergencia
+http://www.spruto.tv/get_file/1/3108ebb516e9408172f63c0fff8735a0/87000/87388/87388.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.lafilacero.com/covers/1948.jpg", Mil palabras
+http://www.spruto.tv/get_file/1/9423b9ab396003b187bfe797cf0fa1ee/88000/88598/88598.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://shutupandwatchthemovie.files.wordpress.com/2010/09/resident-evil-1.jpg", Resident Evil 1
+http://www.spruto.tv/get_file/5/02f3cad653cf6bf90f3d6a687be0c7c1/107000/107712/107712.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.wildsoundmovies.com/images/resident_evil_2_poster.jpg", Resident Evil 2
+http://www.spruto.tv/get_file/5/a143559439fde8b3d5817dc38fcf6de4/107000/107714/107714.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.millaj.com/pics/resident3-poster5.jpg", Resident Evil 3
+http://www.spruto.tv/get_file/5/1f619a5dd9432ad4da1bffdbe29b0c37/107000/107716/107716.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://dameavi.com/Web/wp-content/uploads/2010/12/Resident-Evil-Ultratumba-3D.jpg", Resident Evil 4
+http://www.spruto.tv/get_file/5/fa3bad7fd1d1264e7465ba30c80092af/107000/107718/107718.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.planete-cine.com/images/r/res/Resident-Evil-retribution-160812.jpg", Resident Evil 5
+http://www.spruto.tv/get_file/5/81a03f967e961563abacedd4ac410e8a/107000/107720/107720.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://gnula.nu/wp-content/uploads/2014/05/fast_and_furious_poster_usa.jpg", RAPIDOS Y FURIOSOS 1
+http://www.spruto.tv/get_file/5/434f35c1a57dddfd97bddedf08ddcb49/106000/106827/106827.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://2.bp.blogspot.com/-lx_pdetYy1Q/UUynbCbyjtI/AAAAAAAAADA/ngQYmeECRYU/s1600/rapidos-y-furiosos-2.jpg", RAPIDOS Y FURIOSOS 2
+http://www.spruto.tv/get_file/5/212cee7b0787e8edea9c29142005f53e/106000/106829/106829.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://40.media.tumblr.com/050892cb788de6ebb8341d9fc1538da7/tumblr_mza0dnksa11rm2vrro1_400.jpg", RAPIDOS Y FURIOSOS 3
+http://www.spruto.tv/get_file/5/9b5cca36e542f6564b6243db0cc7680e/106000/106831/106831.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://gnula.nu/wp-content/uploads/2014/05/fast_and_furious_4_poster_usa.jpg", RAPIDOS Y FURIOSOS 4
+http://www.spruto.tv/get_file/5/77c6fd40d2150217d579dad0be22c890/106000/106833/106833.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.biosstars-mx.com/wp-content/uploads/2013/12/fck.jpg", RAPIDOS Y FURIOSOS 5
+http://www.spruto.tv/get_file/5/25824b7cd75852b54e4730e5ba84ad0f/106000/106835/106835.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://sinopsisiman.files.wordpress.com/2013/05/rapido-y-furioso-6-poster.jpg", RAPIDOS Y FURIOSOS 6
+http://www.spruto.tv/get_file/2/4b474dc1ff07a5c743d7e047cbb10e37/89000/89812/89812.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://criticsight.com/wp-content/uploads/2015/03/RAPIDOS-Y-FURIOSOS-7-POSTER-1-OFICIAL-MEXICO-ESPA%C3%91OL-LATINO-CRITICSIGHT.jpg", RAPIDOS Y FURIOSOS 7
+http://www.spruto.tv/get_file/5/b109a1ceb8b8eaa7e1cee0517fb85cdf/115000/115109/115109.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://i976.photobucket.com/albums/ae245/binbam/imagen01.jpg",Sed de Venganza
+http://www.spruto.tv/get_file/5/51fb81b0200dfb9fbaf250e67b10c947/112000/112079/112079.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.movie-poster-artwork-finder.com/posters/jack-and-jill-poster-artwork-adam-sandler-katie-holmes-allen-covert.jpg", JACK Y JILL
+http://www.spruto.tv/get_file/5/eba0f977a112474be076b0b9a7ebba1f/108000/108686/108686.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://movisionary.com/imagenes/afiche_solo_para_parejas.JPG", SOLO PARA PAREJAS
+http://www.spruto.tv/get_file/5/25233029eba7600c6efe237183e19485/114000/114219/114219.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://4.bp.blogspot.com/-u4qCWUpTBp4/VR5xXrBwSCI/AAAAAAAAV-k/bBcV-EP6K94/s1600/Rescatando%2Ba%2Bpap%C3%A1.jpg", RESCATANDO A PAPA
+http://www.spruto.tv/get_file/7/5bbfa6df890152c38e661d2f9372392a/76000/76865/76865.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://st-listas.20minutos.es/images/2008-11/64284/760310_640px.jpg?1228002453", ESTE CUERPO NO ES MIO
+http://www.spruto.tv/get_file/5/9b05f30b3917dcefac899f209846be8e/112000/112064/112064.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.elseptimoarte.net/carteles/malditos_vecinos_28042.jpg", MALDITOS VECINOS
+http://www.spruto.tv/get_file/2/d54fc4a1c763d0e0755c756a210cf8a4/105000/105286/105286.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://gnula.nu/wp-content/uploads/2014/12/Get_hard_poster_usa.jpg", DALE DURO
+http://www.spruto.tv/get_file/5/aec265b448ad3c6f6babea0ce4ea2d42/116000/116943/116943.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://2.bp.blogspot.com/-5nhw9IM0tGQ/VD4ryZnoiXI/AAAAAAAAAIM/lSpuSmSqggU/s1600/Jurassic%2BPark%2B4%2BBasic%2BPoster.jpg", JURASSIC WORLD
+http://www.spruto.tv/get_file/5/a956f2b62da58995fd4351c3079a913f/118000/118567/118567.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.imcine.gob.mx/sites/536bfc0fa137610966000002/content_entry537f86d493e05abc550001e6/543827bc9d727978d0000288/files/FINAL_LA_HIJA_DE_MOCTEZUMA_baja.jpg", LA HIJA DE MOCTEZUMA
+http://www.spruto.tv/get_file/5/6ec503588dbca389fa55ba83692be7b1/115000/115820/115820.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://s3.amazonaws.com/palapadata/peliculas/una-loca-entrevista.jpg", UNA LOCA ENTREVISTA
+http://www.spruto.tv/get_file/5/97815af2d345c20f5d14a74af09b15ce/115000/115515/115515.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://criticsight.com/wp-content/uploads/2011/06/capitan-america-poster-de-lanzamiento-1.jpg", CAPITAN AMERICA 1
+http://www.spruto.tv/get_file/5/99cf97e972d9eb68d08a64f6f26bb093/110000/110849/110849.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://i.imgur.com/1W8QeO5.jpg", CAPITAN AMERICA 2
+http://www.spruto.tv/get_file/5/21f09609e8f51f3672f339b7553bb1b2/110000/110852/110852.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://cinemania.es/img/conts/89ae01d_kal_el_poster.jpg", EL HOMBRE DE ACERO
+http://www.spruto.tv/get_file/5/cc2a24f35ec7c725969e48a275d2a814/109000/109085/109085.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://i45.tinypic.com/142to20.jpg", EL HOBBIT 1
+http://www.spruto.tv/get_file/2/34c04cb4d853bfa4246bf22a59f46b57/92000/92299/92299.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://img.anakinweb.com/blogs/users/51922_le_obbit_2.jpg", EL HOBBIT 2
+http://www.spruto.tv/get_file/1/ad12571326ffd5c9a573bfc551bec3aa/88000/88259/88259.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://unsoloclic.info/wp-content/uploads/2015/01/The-Hobbit-Battle-Of-The-Five-Armies.jpg", EL HOBBIT 3
+http://www.spruto.tv/get_file/5/325f31006a1edb90b8d703749f941c9b/115000/115101/115101.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://imgs24.com/images/esdlacomun.jpg", EL SEÑOR DE LOS ANILLOS 1
+http://www.spruto.tv/get_file/2/1cdcb7a5a34c448458c989c4a8ea63ac/92000/92303/92303.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://fotos.laopiniondemalaga.es/fotos/noticias/150x200/2008-12-19_IMG_2008-12-19_1229680762328_el_senor_de_los_anillos_-_las_dos_torres.jpg", EL SEÑOR DE LOS ANILLOS 2
+http://www.spruto.tv/get_file/2/ffdfa3598aa29f3d798de90672748ddd/92000/92307/92307.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.ekultura.hu/cikkek_kepei/nagy/378.jpg", EL SEÑOR DE LOS ANILLOS 3
+http://www.spruto.tv/get_file/2/71e2263d6e983814600c732e9076d858/92000/92306/92306.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://cdn.24.co.za/files/Cms/General/d/2445/4b94795820984418a0338e2192c835f8.jpg", X-men 1
+http://www.spruto.tv/get_file/2/f136f3a737a06d7d6f52255fc8d0c953/97000/97116/97116.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://film-stream.org/wp-content/uploads/2003/04/xmen2r-200x300.jpg", X-men 2
+http://www.spruto.tv/get_file/2/fa26cb0ffaaf6f30f17205ad95b7b2d5/105000/105715/105715.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://programtv.static.ele.ro/poze_tv/x-men-the-last-stand-468847l-400x400-n-8bf028c4.jpg", X-men 3
+http://www.spruto.tv/get_file/2/d6d5fa1018e5a9619555c437b26b9931/105000/105717/105717.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://3.bp.blogspot.com/-ezWRQf8eG0s/TgIJjWLpJjI/AAAAAAAACss/EWlu7_vKLiw/s320/550w_movies_x-men_first_class.jpg", X-men Primera Generacion
+http://www.spruto.tv/get_file/2/f33f853716f6ecf74c9b4c8ede9f7f65/105000/105720/105720.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://lh4.googleusercontent.com/-6Zj7ykCAcHw/VOd-oTX_fEI/AAAAAAAABO4/i6jQSYbDvAg/s640/blogger-image--1532068548.jpg", X-men Dias de Futuro Pasado
+http://www.spruto.tv/get_file/2/aa1cd1e775399507ece04af201c1641e/97000/97119/97119.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://3.bp.blogspot.com/_yKUIGVGFWJU/TGFcYxM0vDI/AAAAAAAAABk/CoXJ1mADFFs/s320/X+Men+Oringens+Wolverine.jpg", X-men Wolverine Origenes
+http://www.spruto.tv/get_file/2/5082de5577af1c96970323f85f6bb7d8/105000/105719/105719.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://fabiocaparica.com/wp-content/uploads/2013/08/theWolverine.jpg", X-men Wolverine Inmortal
+http://www.spruto.tv/get_file/2/2bcad26c929f87be992c432ca73b3d13/105000/105713/105713.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://farm3.staticflickr.com/2117/2359013260_6ae62b3f4e_b.jpg", BUSQUEDA IMPLACABLE 1
+http://www.spruto.tv/get_file/1/ddd1223bf92310814da0e02360f78835/86000/86899/86899.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://i.imgur.com/KClo5Fl.jpg", BUSQUEDA IMPLACABLE 2
+http://www.spruto.tv/get_file/1/4c8f4824917b793ad7b5fd3eb5d0c7ab/86000/86883/86883.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://peliculasyestrenos.net/wp-content/uploads/2015/05/v3nganza-todo-termina-aqui-venganza-3-takk3n-2015.jpg", BUSQUEDA IMPLACABLE 3
+http://www.spruto.tv/get_file/5/72a07283a1f952907c419c7ac8ae22d8/109000/109059/109059.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://i585.photobucket.com/albums/ss294/rogerx05/Pelis/La_leyenda_del_tesoro_perdido_Poster.jpg", LA LEYENDA DEL TESORO PERDIDO 1
+http://www.spruto.tv/get_file/7/9d9c949a8735bc7da3b9f51210a54cfb/77000/77011/77011.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://luiscurlyjr.host56.com/1667.jpg", La Leyenda del Tesoro Perdido 2
+http://www.spruto.tv/get_file/7/0b78b500d48aeb8d20f6576b6c5d6f56/77000/77012/77012.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://viewsfromthesofa.files.wordpress.com/2012/11/poster1.jpg", PIRATAS DEL CARIBE 1
+http://www.spruto.tv/get_file/1/d6d83a057012576d41fb41a61a1ebb11/87000/87999/87999.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.lashorasperdidas.com/wp-content/uploads//2006/08/critica-de-piratas-del-caribe2-cartel.jpg", PIRATAS DEL CARIBE 2
+http://www.spruto.tv/get_file/1/62f890eca2f5fe2da1b720a72f16a2b6/88000/88001/88001.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://lh5.googleusercontent.com/-7Nnh7RI-OXE/Tk8Hcr6HE6I/AAAAAAAADNU/Ct9YKscVurM/piratas3posst.gif", PIRATAS DEL CARIBE 3
+http://www.spruto.tv/get_file/1/88b3b417aa184515fd302453c0a805dd/88000/88003/88003.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://ww2.sinaimg.cn/large/6de0b84egw1dglzz3f1xdj.jpg", PIRATAS DEL CARIBE 4
+http://www.spruto.tv/get_file/1/0a3cfd247b30a76ac3a73830a0a0cb03/88000/88024/88024.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", TERMINATOR 1
+http://www.spruto.tv/get_file/2/5eeefeb160c8956b067f20c279456d73/99000/99463/99463.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", TERMINATOR 2
+http://www.spruto.tv/get_file/2/e65f192029d67988ccb97e73830f0421/99000/99462/99462.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", TERMINATOR 3
+http://www.spruto.tv/get_file/2/a765d5f2e70847a79a661cb08ed24fa7/106000/106215/106215.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", TERMINATOR 4
+http://www.spruto.tv/get_file/2/2ff899099f3d5e40b3c7c1bd0d67715c/106000/106217/106217.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", TERMINATOR 5
+http://www.spruto.tv/get_file/5/5f9332a1b90e53feec10094fc8a491c2/120000/120000/120000.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", HARRY POTTER 1
+http://www.spruto.tv/get_file/1/bf0c0a385e6697e57e8698580bd821ce/87000/87798/87798.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", HARRY POTTER 2
+http://www.spruto.tv/get_file/1/461629883a40e719768b3415a2442caf/87000/87801/87801.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", HARRY POTTER 3
+http://www.spruto.tv/get_file/1/0791ebc980bb10368f5c728910507a98/87000/87795/87795.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", HARRY POTTER 4
+http://www.spruto.tv/get_file/1/d0732cfbadb8791161080bc61e0bcb33/87000/87429/87429.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", HARRY POTTER 5
+http://www.spruto.tv/get_file/1/dde862b9af63b6021f3d9277ed638f50/87000/87980/87980.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", HARRY POTTER 6
+http://www.spruto.tv/get_file/1/90a67a27f9eda9cb3f482b074232d89d/87000/87794/87794.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", HARRY POTTER 7 parte 1
+http://www.spruto.tv/get_file/1/d6b2ad1c77d6d188a5065b8877875094/87000/87985/87985.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", HARRY POTTER 7 parte 2
+http://www.spruto.tv/get_file/1/54db2c3d7280ed8375e64e7f29271d7d/87000/87983/87983.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", LOS JUEGOS DEL HAMBRE 1
+http://www.spruto.tv/get_file/8/da8a7ecb77d96c2c90915547701496f1/120000/120832/120832.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", LOS JUEGOS DEL HAMBRE 2
+http://www.spruto.tv/get_file/2/1b969ffaa67939ed8e9666127bf66c3e/89000/89983/89983.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", LOS JUEGOS DEL HAMBRE 3
+http://www.spruto.tv/get_file/2/d60293a7e0b2a63ee276877578a81c6a/100000/100906/100906.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", IRON MAN 1
+http://www.spruto.tv/get_file/1/1a2703d460834959ef769c09094b6d70/87000/87803/87803.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", IRON MAN 2
+http://www.spruto.tv/get_file/5/e91fc8e010f0a096542a76a93d4e2877/108000/108007/108007.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", IRON MAN 3
+http://www.spruto.tv/get_file/5/64ec2b83e4a5b1d011d3481e21331156/116000/116842/116842.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", AVENGERS 1
+http://www.spruto.tv/get_file/5/c27b19c56ce6426718820f6d2ce07616/111000/111496/111496.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", AVENGERS 2
+http://www.spruto.tv/get_file/5/c08a02fe9c0898d5b84809adc2e05d3e/115000/115114/115114.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", INSIDIOUS 1
+http://www.spruto.tv/get_file/5/9dc58abe37b0aaf5fdf37066c08b9b40/118000/118551/118551.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", INSIDIOUS 2
+http://www.spruto.tv/get_file/5/062f98028b98ada2f78b4cb43ac5aecf/118000/118554/118554.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="",INSIDIOUS 3
+http://www.spruto.tv/get_file/5/268635239bbbed7f5079647cd8a82fab/116000/116076/116076.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", UNA NOCHE EN EL MUSEO 1
+http://www.spruto.tv/get_file/5/a2647bb5c64e9c190c1eec89b1ea7395/111000/111324/111324.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", UNA NOCHE EN EL MUSEO 2
+http://www.spruto.tv/get_file/5/59ece39ace2cff0b85c77c7e4539289c/111000/111327/111327.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", UNA NOCHE EN EL MUSEO 3
+http://www.spruto.tv/get_file/2/1bb4e6aa6a6efc957d602a72b71f3bd3/102000/102864/102864.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", La Dama de Negro 1
+http://www.spruto.tv/get_file/2/ca9dc7209f6e036d4b9ad6f1fc148f09/97000/97972/97972.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", La Dama de Negro 2
+http://www.spruto.tv/get_file/2/0e70e0e9c4dac0eb3b4e09bac155462b/101000/101791/101791.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", LOS INDESTRUCTIBLES 1
+http://www.spruto.tv/get_file/5/68918783d0ef282bad20006c45809328/107000/107983/107983.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", LOS INDESTRUCTIBLES 2
+http://www.spruto.tv/get_file/5/db32d118ced6947e7619cf10fa033d19/107000/107749/107749.mp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", LOS INDESTRUCTIBLES 3
+http://www.spruto.tv/get_file/1/adee92811357b0acd345712fda254260/88000/88265/88265.mp4
+ 
+ 
+ 
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", VOLVER AL FUTURO  (OPCION 1)
+http://5.104.175.35/dl/36f9b3c97ce2a078a940c2daf3727675/559b2f52/ffe87dadf98a1b7b147c15b4d9e765222c.flv
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", VOLVER AL FUTURO  (OPCION 2)
+http://st110.u1.videomega.tv/v/a7659df695d5c227c392a18c74643ebe.mp4?st=dxESf7E16QZ2zZ2OSzLSFQ&hash=mGGuwjrHSFzkKm-UbApCGw
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", VOLVER AL FUTURO  (OPCION 3)
+http://gs.video.tt/s?v=r3zr6rAja&r=1&t=1436233966&u=&c=e036bd84ac27d8ba1c90eaf65c21e782271be139063f06feddd9545a7e80605396a5f29447efc7980b7db6b9f268e90a&start=0
+ 
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", VOLVER AL FUTURO 2 (OPCION 1)
+http://st105.u1.videomega.tv/v/6425f0aae21b934b3911d21907528b59.mp4?st=ZuUA8X7HBmd-0Buetu3QSg&hash=1UKyfSkCBBqUScnumjBtIQ
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", VOLVER AL FUTURO 2 (OPCION 2)
+http://5.104.175.50/dl/6b42d0c6113b2249c1320e0085a80f14/559b3040/ff8700ce182af38bc257a1d984319b90e2.flv
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", VOLVER AL FUTURO 2 (OPCION 3)
+http://gs.video.tt/s?v=gq1YNWxJQ&r=1&t=1436234035&u=&c=09f520c1e8b4a190ab0844d4d76420fc29167993dd26cf858a74dbc9823cc4654f8ab24945ee81db2c1d2befa4ab34bc&start=0
+ 
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", VOLVER AL FUTURO 3 (OPCION 1)
+http://gs.video.tt/s?v=Zgr6NtNrd&r=1&t=1436234149&u=&c=a5259a35c83b8e9e74a6ad48fd4fe8ce4d74bc1b489fec16f2cc35656a9acba58a03179aad273f2a1573ede723f15aa8&start=0
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", VOLVER AL FUTURO 3 (OPCION 2)
+http://st304.u1.videomega.tv/v/a41a26201383ea87f1177ea53b6826a5.mp4?st=dews1LxreVVnDF9oZWgUsg&hash=n5BcocbevfWihgPmca1D6Q
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="", VOLVER AL FUTURO 3 (OPCION 3)
+http://5.104.175.50/dl/b85342d2637a3f634891afa0d6431b8e/559b2ef4/ff5b616bb11545eddf7cc03c26f5837aa5.flv
+ 
+ 
+#EXTINF:-1, Aladdín 1
+http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
+#EXTINF:-1, Aladdín 2
+http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
+#EXTINF:-1, Aladdín y el rey de los ladrones
+http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
+#EXTINF:-1, Alicia en el País de las Maravillas
+http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
+#EXTINF:-1, Anastasia
+http://www.spruto.tv/get_file/5/717a259eabde324b660eaf07d3b56c7f/110000/110197/110197.mp4
+#EXTINF:-1, Blancanieves y los Siete Enanitos
+http://www.spruto.tv/get_file/1/3a864a8bc2a6f68742ddff892b6a8e1a/80000/80738/80738.mp4
+#EXTINF:-1, Enredados
+http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
+#EXTINF:-1, Frozen: Una Aventura Congelada
+http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
+#EXTINF:-1, La Bella Durmiente
+http://www.spruto.tv/get_file/1/5a1b0057367871e647217efa738e97be/80000/80736/80736.mp4
+#EXTINF:-1, La Cenicienta 1
+http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
+#EXTINF:-1, La Cenicienta 2
+http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
+#EXTINF:-1, La Cenicienta 3
+http://www.spruto.tv/get_file/5/e503c7667fd1552077a930cb476548b4/110000/110194/110194.mp4
+#EXTINF:-1, La Bella y la Bestia
+http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
+#EXTINF:-1, La Bella y la Bestia 2
+http://www.spruto.tv/get_file/5/db0dd392dbcd04d1d5e6190a22443734/110000/110192/110192.mp4
+#EXTINF:-1, La Princesa Sofía: Érase una vez una Princesa
+http://www.spruto.tv/get_file/5/593ab7a4e734a6ec09e5cabf06798aeb/110000/110201/110201.mp4
+#EXTINF:-1, La Princesa Sofía: Un Palacio en el Agua
+http://www.spruto.tv/get_file/5/27ffbde5055018126b083d4eb4f2eb3a/110000/110203/110203.mp4
+#EXTINF:-1, La Princesa y el Sapo
+http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
+#EXTINF:-1, La Sirenita 1
+http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
+#EXTINF:-1, La Sirenita 2
+http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
+#EXTINF:-1, La Sirenita 3
+http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
+#EXTINF:-1, Mulán
+http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
+#EXTINF:-1, Pocahontas 1
+http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
+#EXTINF:-1, Pocahontas 2
+http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
+#EXTINF:-1, Valiente
+http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
+#EXTINF:-1,MULAN 2
+http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
+#EXTINF:-1, LOS MINIONS 2015
+http://www.spruto.tv/get_file/8/bfa94494494dce8d2d94a2ac17df3a7b/120000/120766/120766.mp4
+#EXTINF:-1, Jim y el Durazno Gigante
+http://www.spruto.tv/get_file/5/aa36105476db5fd6ba0b2a163438cbe7/117000/117386/117386.mp4
+#EXTINF:-1, Reyes de las Olas
+http://www.spruto.tv/get_file/5/bcd00ea2dc87343a5e7c9efa408f98be/117000/117388/117388.mp4
+#EXTINF:-1, The Last: Naruto the Movie
+http://www.spruto.tv/get_file/5/17f18f9ceb88b7b23cc713776d6db595/118000/118624/118624.mp4
+#EXTINF:-1, Intensa Mente
+http://www.spruto.tv/get_file/5/efa38a4951d96167b5ceb3ac0e0162c9/118000/118585/118585.mp4
+#EXTINF:-1, Pokémon: La película
+http://www.spruto.tv/get_file/5/c210540071556cb986030e20f2782671/117000/117055/117055.mp4
+#EXTINF:-1, Pokémon Mewtwo: El regreso
+http://www.spruto.tv/get_file/5/dc33a579cf7862835c68ee95cd251859/117000/117056/117056.mp4
+#EXTINF:-1, Casper (1995)
+http://www.spruto.tv/get_file/5/39b0d4dce6816e14b46a62c9624bf69e/116000/116997/116997.mp4
+#EXTINF:-1, Las cronicas de Narnia 1: El leon, la bruja y el ropero
+http://www.spruto.tv/get_file/5/5902aa0656fea147b710a96fefd7806e/115000/115822/115822.mp4
+#EXTINF:-1, Las crónicas de Narnia 2: El Príncipe Caspian
+http://www.spruto.tv/get_file/5/c39bca99af6e6a57c3e180811ce8ed33/115000/115824/115824.mp4
+#EXTINF:-1, Las crónicas de Narnia 3: La travesía del viajero del alba
+http://www.spruto.tv/get_file/5/5acd9aa19304e537cdbb600ef3770d46/115000/115826/115826.mp4
+#EXTINF:-1, Mini Espías 4 y Los Ladrones del Tiempo
+http://www.spruto.tv/get_file/7/ca962d0468cd8482991701edf96981ae/77000/77730/77730.mp4
+#EXTINF:-1, Mini Espías 3: Fin del juego
+http://www.spruto.tv/get_file/7/f904242c746389fd3036e89e0f02e0c8/77000/77729/77729.mp4
+#EXTINF:-1, El expreso polar castellano
+http://www.spruto.tv/get_file/5/a9fbadc52b1dabc3a007ecb2c899b252/115000/115096/115096.mp4
+#EXTINF:-1, Peter Pan
+http://www.spruto.tv/get_file/7/5ed3bad80bcafb940483a0e343703562/76000/76433/76433.mp4
+#EXTINF:-1, Los Aristogatos
+http://www.spruto.tv/get_file/7/0a83dda0909283bafc9f79e6c19a3588/76000/76384/76384.mp4
+#EXTINF:-1, Tinker Bell
+http://www.spruto.tv/get_file/7/6c8f9728d0c00f7a64ba9810d88b20b4/76000/76713/76713.mp4
+#EXTINF:-1, Tinker Bell y el Tesoro Perdido
+http://www.spruto.tv/get_file/7/71b87244efee571d729261758dc03e3c/76000/76714/76714.mp4
+#EXTINF:-1, Tinker Bell, Hadas al Rescate
+http://www.spruto.tv/get_file/7/2cea72eb7ddf23d292eaf862d76af12e/76000/76715/76715.mp4
+#EXTINF:-1, Super Buddies
+http://www.spruto.tv/get_file/7/218271532a38ae4d64b48f47e7653419/76000/76751/76751.mp4
+#EXTINF:-1, Snow Buddies: Cachorros en la Nieve
+http://www.spruto.tv/get_file/7/2602726612d6982b4e26a9ef2995b63f/76000/76747/76747.mp4
+#EXTINF:-1, Santa Buddies
+http://www.spruto.tv/get_file/7/3902b36a8fadbe6f392f99ed37ffc5cf/76000/76748/76748.mp4
+#EXTINF:-1, Hannah Montana: La Película
+http://www.spruto.tv/get_file/7/46fc21e46a996480630de0ed94ea7dc7/76000/76863/76863.mp4
+#EXTINF:-1, Tarzán 2
+http://www.spruto.tv/get_file/7/a8d34a6fe9a7f1e2e8007d130fc71302/76000/76858/76858.mp4
+#EXTINF:-1, Tierra de Osos 2
+http://www.spruto.tv/get_file/7/5ec2021b49bcd2e5bfeb34fddf1b5518/76000/76794/76794.mp4
+#EXTINF:-1, Las locuras del Emperador
+http://www.spruto.tv/get_file/7/8b2099339f3a5d6f8db668f8a1132a7c/76000/76792/76792.mp4
+#EXTINF:-1, Las locuras de Kronk
+http://www.spruto.tv/get_file/7/3e854dc9d928af0b58f22f6c81f84ce3/77000/77003/77003.mp4
+#EXTINF:-1, El Oso Paddington
+http://www.spruto.tv/get_file/5/2d4ebe352e71a5c4922efee18a8b9775/107000/107752/107752.mp4
+#EXTINF:-1, HERCULES DE DISNEY
+http://www.spruto.tv/get_file/7/8fc3b8061b609ba2471cbca432bafaa9/76000/76369/76369.mp4
+#EXTINF:-1 , EL PLANETA DEL TESORO
+http://www.spruto.tv/get_file/7/8231a379cc14dc49d1ad499140995837/76000/76354/76354.mp4
+#EXTINF:-1 , DRAGON BALL Z - LA RESURECCION DE FREEZER
+https://onedrive.live.com/download.aspx?resid=2007D2A43F96AD1F!571&authkey=!ADu9pQHOMih7IU4&ithint=video%2cavi
+#EXTINF:-1 , MALEFICA
+https://onedrive.live.com/download.aspx?resid=ddd89122e94140c5!223&authkey=!AK_xPvm1-tWDv5k&ithint=file%2cmkv
+#EXTINF:-1 , LA CENICIENTA
+https://onedrive.live.com/download.aspx?resid=2007D2A43F96AD1F!572&authkey=!AFV3bHlRQwzQTCM&ithint=video%2cmp4
+#EXTINF:-1 ,Bichos
+http://www.spruto.tv/get_file/1/4db5a34e70cdc29db0a6dc6a51bc4c67/81000/81999/81999.mp4
+#EXTINF:-1 ,Como entrenar a tu dragon
+http://www.spruto.tv/get_file/1/647c44d3f979575f21cb6331658b1ba7/86000/86732/86732.mp4
+#EXTINF:-1 ,Aviones 2
+http://www.spruto.tv/get_file/2/96c3d5d228f59086fbb5eefa7338ef4f/89000/89040/89040.mp4
+#EXTINF:-1 ,Llamando a ecco
+http://www.spruto.tv/get_file/1/65f9fab60393c3a045d412c96693b47e/86000/86647/86647.mp4
+#EXTINF:-1 ,Ratatouile
+http://www.spruto.tv/get_file/1/d71fc25c39dd7324200d0730be1bc7f3/86000/86897/86897.mp4
+#EXTINF:-1 ,La Era de Hielo 3
+http://www.spruto.tv/get_file/7/b87164d9bdbeb605d4300439829b589f/77000/77736/77736.mp4
+#EXTINF:-1 ,Bob Esponja Un HÃ©roe Fuera Del Agua 2015 720P HD
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!243&authkey=!AL0aXUncXk6enYQ&ithint=file%2cmkv
+#EXTINF:-1 ,LOS PINGUINOS DE MADAGASCAR
+https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!165&authkey=!AHMWZ-HLct8F6Es&ithint=file%2cmkv
+#EXTINF:-1,MONSTER UNIVERSITY
+https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!164&authkey=!ANUC_OMs-5mSJ94&ithint=video%2cmp4
+#EXTINF:-1,MEGAMENTE
+https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!163&authkey=!AGh7WQSF3dO9Jo4&ithint=video%2cmp4
+
+
+
+
+
+#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<<<<[/COLOR][COLOR RED]MUSICA[/COLOR][COLOR LIME]>>>>>>>>>>>>>>>>>[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="telehit hd.png",Telehit
+http://162.243.133.156:1583/telehit/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="mtv.png",MTV
+http://104.131.39.88:1583/mtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="mtv classic.png",VH1 Classics
+http://45.55.81.38:1583/vh1classic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="ritmoson latino.png",Ritmoson Latino
+http://104.131.39.88:1583/ritmoson/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="bandamax.png",Bandamax
+http://104.236.124.24:1583/bandamax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tv-aka.png",Akanew
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="vevo.png",VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+
+#EXTINF:-1 tvg-logo="vevo.png",Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="vevo.png",Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:1 tvg-logo="musica.png",Dance Hits
+http://pub1.radiotunes.com:80/radiotunes_dancehits?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",Hit 70's
+http://pub6.radiotunes.com:80/radiotunes_hit70s?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",60's Rock
+http://pub7.radiotunes.com:80/radiotunes_60srock?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",Oldies
+http://pub7.radiotunes.com:80/radiotunes_oldies?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",80's USA
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",90's Internacional
+http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Baladas
+http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Estrenos
+http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Electronica
+http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Fiesta Dance
+http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio"",Lentos
+http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Live music
+http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Top 40
+http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Top Europa
+http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
+#EXTINF:-1 tvg-logo="musica.png",Movie Soundtracks
+http://pub1.radiotunes.com:80/radiotunes_soundtracks?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 tvg-logo="musica.png",Best of the 60's
+http://pub7.radiotunes.com:80/radiotunes_hit60s?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 tvg-logo="musica.png",Classic Hip-Hop
+http://pub8.radiotunes.com:80/radiotunes_classicrap?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 tvg-logo="musica.png"1,90's R&B1
+http://pub2.radiotunes.com:80/radiotunes_90srnb?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",Romantica
+http://pub2.radiotunes.com:80/radiotunes_romantica?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",Best of the 80's
+http://pub7.radiotunes.com:80/radiotunes_the80s?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",Country
+http://pub8.radiotunes.com:80/radiotunes_country?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",World
+http://pub8.radiotunes.com:80/radiotunes_world?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Chillout
+http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Clasica
+http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
+#EXTINF:-1 tvg-logo="musica.png",Clasica Cine
+http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
+
+
+
+
+#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<<[/COLOR][COLOR RED] OTROS[/COLOR][COLOR LIME]>>>>>>>>>>>>>>>>[/COLOR]
+
+
+
 
 #EXTINF:0,True TV
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
@@ -173,7 +900,6 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 #EXTINF:0,NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:-1,[COLOR red]IPTV[/COLOR]
 #EXTINF:0,A&E
 http://109.236.92.136:1935/live/ae9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNzo0MTozNSBQTSZoYXNoX3ZhbHVlPW0zLzhzdG84TUIwYjJuSkdFRmlISmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:0,ABC (down)
