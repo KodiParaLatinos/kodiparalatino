@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<[/COLOR][COLOR RED]KODIPARALATINOS[/COLOR][COLOR LIME]>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<[/COLOR][COLOR red]KODIPARALATINOS[/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
 
 
 #EXTINF:0,TETEMUNDO
@@ -241,7 +241,7 @@ http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8
 
 
 
-#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<<[/COLOR][COLOR RED]DEPORTES[/COLOR][COLOR LIME]>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<[/COLOR][COLOR red]DEPORTES[/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
 
 
 #EXTINF:-1 tvg-logo="fox sports hd.png",Fox Sports 3
@@ -278,7 +278,7 @@ http://104.131.39.88:1583/foxsports2/playlist.m3u8
 
 
 
-#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<<[/COLOR][COLOR RED]CANALES[/COLOR][COLOR RED]PREMIUM[/COLOR][COLOR LIME]>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<[/COLOR][COLOR red]CANALES[/COLOR][COLOR red]PREMIUM[/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
 
 
 #EXTINF:-1 tvg-logo="telemundo.png",Telemundo 
@@ -311,7 +311,7 @@ rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.t
 
 
 
-#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<<<<[/COLOR][COLOR RED]PELICULAS[/COLOR][COLOR LIME]>>>>>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<<<[/COLOR][COLOR red]PELICULAS[/COLOR][COLOR lime]>>>>>>>>>>>>>>>>>>[/COLOR]
 
 #EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.apartment1303themovie.com/images/posters/poster4.jpg", Apartamento 1303
 http://www.spruto.tv/get_file/1/49d3ace5335a6cabdc5a3581b37dbc85/86000/86749/86749.mp4
@@ -653,7 +653,7 @@ https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!163&authkey=!AGh7
 
 
 
-#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<<<<[/COLOR][COLOR RED]MUSICA[/COLOR][COLOR LIME]>>>>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<<<[/COLOR][COLOR red]MUSICA[/COLOR][COLOR lime]>>>>>>>>>>>>>>>>>[/COLOR]
 
 
 #EXTINF:-1 tvg-logo="telehit hd.png",Telehit
@@ -737,7 +737,7 @@ http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 
 
 
-#EXTINF:-1,[COLOR LIME]<<<<<<<<<<<<<[/COLOR][COLOR RED] OTROS[/COLOR][COLOR LIME]>>>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<[/COLOR][COLOR red] OTROS[/COLOR][COLOR lime]>>>>>>>>>>>>>>>>[/COLOR]
 
 
 
