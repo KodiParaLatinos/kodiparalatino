@@ -1,12 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1,CARACOL INTERNACIONAL 
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=2051
-#EXTINF:-1,RCN Televisión de Colombia 
-http://199.180.114.174:84/crcn.m3u8
-#EXTINF:-1,RCN Novelas
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=1493
 #EXTINF:-1,Telecafe 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 #EXTINF:-1,CANAL CAPITAL 
