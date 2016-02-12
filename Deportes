@@ -29,7 +29,7 @@
     </item>
 
 
-#EXTM3U
+
 
 #EXTINF:0,Canal+ Liga
 http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/43.ts
@@ -72,31 +72,7 @@ http://80.243.189.26:9999/sportshd/sky5/index.m3u8
 #EXTINF:0,[COLOR FF11b500]Sky formula 1[/COLOR]
 http://80.243.189.26:9999/sportshd/skf1/index.m3u8
  
-  
-  
-  <channels>
 
-<channel>
-      <name>[COLOR lime]Haider Sport TV List[/COLOR]</name>
-  <thumbnail>https://www.craftdirect.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/2/4/242862-alt2.jpg</thumbnail>
-<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/sportlist</externallink> ##change haider
-   
-</channel>
-  </channels>
-  
- <channels>
-
-<channel>
-      <name>[COLOR lime]Jafaer Sport 2 TV List[/COLOR]</name>
-  <thumbnail>https://www.craftdirect.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/2/4/242862-alt2.jpg</thumbnail>
-<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/sport2</externallink> ##change haider
-
-  </channel>
-  </channels>
   
   
   
