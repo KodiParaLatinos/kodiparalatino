@@ -1,59 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<settings>
-   
-    <category label="33001">
-		<setting id="portal_name_1" type="text" label="30000" default="NFPS" />
-   	 	<setting id="portal_url_1" type="text" label="30001" default="http://portal.iptvprivateserver.tv" visible="eq(-2,false)" />
-	<setting id="portal_url_4" type="text" label="30001" default="http://portal.iptvprivateserver.tv" />
-   	 	<setting label="30008" type="bool" id="custom_mac_1" default="true"/>
-   	 	<setting id="portal_mac_1" type="text" label="30002" default="00:1A:78:D8:A9:4C" visible="eq(-2,false)" />
-   	 	
-   	 	<setting label="30009" type="bool" id="send_serial_1" default="true"/>
-   	 	<setting label="30014" type="bool" id="custom_serial_1" default="false" visible="eq(-1,true)"/>
-   	 	<setting type="sep"/>
-   	 	<setting label="30010" type="text" id="serial_number_1" default="" visible="eq(-2,true) + eq(-3,true)"/>
-   	 	<setting label="30011" type="text" id="device_id_1" default="" visible="eq(-3,true) + eq(-4,true)"/>
-   	 	<setting label="30012" type="text" id="device_id2_1" default="" visible="eq(-4,true) + eq(-5,true)"/>
-   	 	<setting label="30013" type="text" id="signature_1" default="" visible="eq(-5,true) + eq(-6,true)"/>
-   	 	
-    </category>
-    
-    <category label="33002">
-		<setting id="portal_name_2" type="text" label="30000" default="Rocket" />
-    	<setting id="portal_url_2" type="text" label="30001" default="http://portal.iptvrocket.tv" />
-   	 	<setting label="30008" type="bool" id="custom_mac_2" default="true"/>
-   	 	<setting id="portal_mac_2" type="text" label="30002" default="00:1A:78:8C:41:F0" visible="eq(-2,false)" />
-   	 	
-   	 	<setting label="30009" type="bool" id="send_serial_2" default="true"/>
-   	 	<setting label="30014" type="bool" id="custom_serial_2" default="false" visible="eq(-1,true)"/>
-   	 	<setting type="sep"/>
-   	 	<setting label="30010" type="text" id="serial_number_2" default="" visible="eq(-2,true) + eq(-3,true)"/>
-   	 	<setting label="30011" type="text" id="device_id_2" default="" visible="eq(-3,true) + eq(-4,true)"/>
-   	 	<setting label="30012" type="text" id="device_id2_2" default="" visible="eq(-4,true) + eq(-5,true)"/>
-   	 	<setting label="30013" type="text" id="signature_2" default="" visible="eq(-5,true) + eq(-6,true)"/>
-    </category>
-    
-    <category label="33003">
-		<setting id="portal_name_3" type="text" label="30000" default="IPTV66" />
-    	<setting id="portal_url_3" type="text" label="30001" default="http://mw1.iptv66.tv" />
-   	 	<setting label="30008" type="bool" id="custom_mac_3" default="true"/>
-   	 	<setting id="portal_mac_3" type="text" label="30002" default="00:1A:78:8C:41:F0" visible="eq(-2,false)" />
-   	 	
-   	 	<setting label="30009" type="bool" id="send_serial_3" default="true"/>
-   	 	<setting label="30014" type="bool" id="custom_serial_3" default="false" visible="eq(-1,true)"/>
-   	 	<setting type="sep"/>
-   	 	<setting label="30010" type="text" id="serial_number_3" default="" visible="eq(-2,true) + eq(-3,true)"/>
-   	 	<setting label="30011" type="text" id="device_id_3" default="" visible="eq(-3,true) + eq(-4,true)"/>
-   	 	<setting label="30012" type="text" id="device_id2_3" default="" visible="eq(-4,true) + eq(-5,true)"/>
-   	 	<setting label="30013" type="text" id="signature_3" default="" visible="eq(-5,true) + eq(-6,true)"/>
-    </category>
-    
-    
-    <category label="32002">
-    	<setting label="30007" type="bool" id="parental" default="false"/>
-    	<setting label="30006" type="text" id="password" option="hidden" default="0000"/>
-    </category>
-    
-    
-    
-</settings>
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pVYoNhX.jpg" type="yt-dl",yt-dl test
+http://link.brightcove.com/services/player/bcpid756015033001?bckey=AQ~~,AAAApYJi_Ck~,GxhXCegT1Dp39ilhXuxMJxasUhVNZiil&bctid=2878862109001
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,youtube plugin
+plugin://plugin.video.youtube/play/?video_id=YoB8t0B4jx4
+#EXTINF:-1 tvg-logo="Amedia Premium HD.png",rtmp test
+rtmp://flash.oit.duke.edu/vod/_definst_/test/Wildlife2
+#EXTINF:-1 ,rtmp test2
+rtmp://d.cdn.newschat.tv/edge playpath=canadas_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/?b?b*t$
+#EXTINF:-1 ,rtmp test3
+rtmpe://46.246.29.154:1935/live/ playpath=rtmp://93.174.95.125:1935/edge/_definst_/thj91224cuxnfr1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=10
+#EXTINF:-1 ,rtmp test4
+rtmpe://46.246.124.29:1935/live/spremsp playpath=spremsp swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive4.php?u=spremsp&vw=640&vh=400&domain=www.streamking.info token=#yw%tt#w@kku
+#EXTINF: -1,[COLOR white]Movie 3[/COLOR]
+http://played.to/xutcdh535aok
