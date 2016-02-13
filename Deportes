@@ -21,6 +21,16 @@
 
   </channel>
   </channels>
+  
+  <channel>
+      <name>[COLOR lime] Sport Adryan List[/COLOR]</name>
+  <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+<fanart>http://http://oi66.tinypic.com/10ekh10.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink> ##change haider
+
+  </channel>
+  </channels>
 
  <item>
     <title>[COLOR blue]*[/COLOR][COLOR red]  Deportes Lista de AdryanList[/COLOR] [COLOR red] [/COLOR]</title>
