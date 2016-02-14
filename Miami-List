@@ -3705,12 +3705,47 @@ https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
     
 <item>
-<title>[COLOR blue] [COLOR deepskyblue]--------- Infantil--------[/COLOR]</title>
+<title>[COLOR blue] [COLOR deepskyblue]--------- INFANTIL --------[/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://s19.postimg.org/hxbc2mpb7/aladdin.jpg</thumbnail><fanart></fanart>
 <externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/infantil</externallink>
 </item>
     
+  <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]MENU CATOAL [/B][/COLOR]</name>
+    <info>ESPANA</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart> 
     
+ <item>   
+<title>[COLOR blue] [COLOR deepskyblue]-------- CATOAL --------[/COLOR]</title>
+<fanart/>
+<thumbnail>http://serveriptvpy.com/catoal.png</thumbnail>
+<link>http://ignorame</link>
+<externallink>
+http://googledrive.com/host/0B7s3iHobrWwGZlplM3czbXBiQWs/catoal.xml
+</externallink>
+ </item>
+ 
+  <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]MENU BASSFOX [/B][/COLOR]</name>
+    <info>ESPANA</info>
+    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
+    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart> 
+ 
+ <item>
+<title>[COLOR blue] [COLOR deepskyblue]-------- BASSFOX --------[/COLOR]</title>
+<fanart/>
+<thumbnail>http://serveriptvpy.com/bassfox.png</thumbnail>
+<link>http://ignorame</link>
+<externallink>
+https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml
+</externallink>
+</item>
+ 
+ 
+ 
+ 
+
  
 
 	</channel>
