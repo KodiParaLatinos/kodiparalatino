@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,ESP Canal Liga
+http://micutzuiptv.noip.me:4444/live/champions/league/96.ts
+#EXTINF:-1,ESP Canal Futbol
+http://micutzuiptv.noip.me:4444/live/champions/league/94.ts
+#EXTINF:-1,ESP Canal Bein Spain
+http://micutzuiptv.noip.me:4444/live/champions/league/98.ts
+#EXTINF:-1,ESP Canal Deportes
+http://micutzuiptv.noip.me:4444/live/champions/league/99.ts
