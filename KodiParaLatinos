@@ -177,150 +177,6 @@ rtmp://31.220.40.60/privatestream/iberalia65 swfUrl=http://privatestream.tv/js/j
 rtmp://31.220.40.40/pull/partdz456 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="TV Guia_Canal Golf.tutvguia.com" tvg-name="Canal_Golf.tutvguia.com" tvg-logo="canalplusgolf.png" group-title="Castellano",C+ Golf
 rtmp://31.220.0.194/privatestream/golfplus00 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-
-
-
-#EXTINF:-1,[COLOR lime] 24/7 [/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[COLOR blue]FTA[/COLOR] The Simpsons
-http://iptvnation.com/simpsons.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] South Park
-http://iptvnation.com/southpark.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] Family Guy
-http://iptvnation.com/familyguy.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] Bobs Burgers
-http://iptvnation.com/bobs.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] Two and a Half Men
-http://iptvnation.com/two.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] How I met your mother
-http://iptvnation.com/how.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Big Bang Theory
-http://iptvnation.com/big.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Mentalist
-http://iptvnation.com/mentalist.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] Arrow
-http://iptvnation.com/arrow.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Grimm
-http://iptvnation.com/grimm.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] Bones
-http://iptvnation.com/bones.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] Criminal Minds
-http://iptvnation.com/criminal.mp4
-#EXTINF:-1,[COLOR lime]FTA[/COLOR] CSI: Miami
-http://iptvnation.com/csimiami.mp4
-
-#EXTINF:0,[COLOR lime] Latino[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",[COLOR orangered]LA RED HD[/COLOR]
-http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/chunklist.m3u8|X-Forwarded-For=31.220.176.0
-#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",[COLOR orangered]LA RED HD (2)[/COLOR]
-rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv
-#EXTINF:-1 tvg-id="TVGalicia.es" group-title="Spanish" tvg-logo="galicia.png",[COLOR orange]TV Galicia[/COLOR]
-http://media3.crtvg.es/live/tvge/chunklist.m3u8
-#EXTINF:-1 tvg-id="Lasexta.es" group-title="Spanish" tvg-logo="la_sexta_hd.png",[COLOR orangered]LA SEXTA HD[/COLOR]
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-#EXTINF:-1 tvg-id="Lasexta.es" group-title="Spanish" tvg-logo="la_sexta.png",[COLOR orange]LA SEXTA[/COLOR]
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
-#EXTINF:-1 tvg-id="Antenna3.es" group-title="Spanish" tvg-logo="antenna3.png",[COLOR orangered]Antenna 3 HD[/COLOR]
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
-#EXTINF:-1 tvg-id="Antenna3.es" group-title="Spanish" tvg-logo="antenna3.png",[COLOR orange]Antenna 3[/COLOR]
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8
-#EXTINF:-1 tvg-id="RussiaToday.es" group-title="Spanish" tvg-logo="russia_today.png",[COLOR orangered]Russia Today ES HD[/COLOR]
-http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_chile.png",[COLOR orange]TV Chile[/COLOR]
-http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",[COLOR orange]TVN[/COLOR]
-http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
-#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",[COLOR orange]TVN (2)[/COLOR]
-http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_mas.png",[COLOR orange]TV MÁS[/COLOR]
-http://50.7.98.234:1935/rtv/videortv/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_travel_channel.png",[COLOR orange]México Travel Channel[/COLOR]
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_televisio.png",[COLOR orange]México Television Michoacán[/COLOR]
-http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="navarra.png",[COLOR orange]Navarra TV[/COLOR]
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ondaluz.png",[COLOR orange]Ondaluz Sierra[/COLOR]
-http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="condavision.png",[COLOR orange]Condavision[/COLOR]
-http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ewtn.png",[COLOR orange]EWTN[/COLOR]
-http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="esperanza.png",[COLOR orange]Esperanza TV[/COLOR]
-http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="alcance_tv.png",[COLOR orange]Alcance TV[/COLOR]
-http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="almavision.png",[COLOR orange]Almavision[/COLOR]
-http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="lancelot.png",[COLOR orange]Lancelot TV[/COLOR]
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rts.png",[COLOR orange]RTS[/COLOR]
-http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telecafe.png",[COLOR orange]Telecafé[/COLOR]
-http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_13.png",[COLOR orange]Canal 13[/COLOR]
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="c5n.png",[COLOR orange]C5N[/COLOR]
-rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="zoom.png",[COLOR orange]Zoom TV[/COLOR]
-http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_sistema.png",[COLOR orange]TeleSistema[/COLOR]
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_antillas.png",[COLOR orange]TeleAntillas[/COLOR]
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleprogreso.png",[COLOR orange]TeleProgreso[/COLOR]
-http://162.212.176.83:8080/teleprogreso.m3u8?
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telemetro.png",[COLOR orange]TeleMetro[/COLOR]
-http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rpc.png",[COLOR orange]RPC[/COLOR]
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rbc.png",[COLOR orange]RBC[/COLOR]
-rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="eitb.png",[COLOR orange]EITB España[/COLOR]
-http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="adinet_tv.png",[COLOR orange]Adinet TV[/COLOR]
-http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_antiestres.png",[COLOR orange]Canal Antiestres[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cantinazo.png",[COLOR orange]Cantinazo[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Deutschewelle.de" group-title="Spanish" tvg-logo="deutsche_welle.png",[COLOR orange]Deutsche Welle (Latinoamérica)[/COLOR]
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleantioquia.png",[COLOR orange]Teleantoquia[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cosmovision.png",[COLOR orange]Cosmovision[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_u.png",[COLOR orange]Canal U[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cable_noticias.png",[COLOR orange]Cablenoticias[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="el_tiempo.png",[COLOR orange]El Tiempo[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="trendy_channel.png",[COLOR orange]Trendy[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_medellin.png",[COLOR orange]Tele medéllin[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tv_agro.png",[COLOR orange]TV Agro[/COLOR]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,Telecafe 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 #EXTINF:-1,CANAL CAPITAL 
@@ -518,581 +374,153 @@ http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:4.004,Televisión Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-#EXTINF:-1,UNIMAS
-http://sjc-uhls-proxy06.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=20720323&stream=viewer_240p&connectionId=oldurl-ad2ae852e55277020618ccb8a7f60178a12f8a9e&group=iphone
-#EXTINF:-1,Univision
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=6
-#EXTINF:-1,Unicable
-http://q.gs/9830047/todokodi14
-#EXTINF:-1,Telemundo
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=9602
-#EXTINF:-1,Telemundo
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=9135
-#EXTINF:-1,Telemundo
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=9607
-#EXTINF:-1,MUNDOMAX
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=8461
-#EXTINF:-1,ABC 5 Puerto Rico
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=8574
-#EXTINF:-1,TELEMUNDO PUERTO RICO
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=8469
-#EXTINF:-1,WAPA - Puerto Rico
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=8476
-#EXTINF:-1,AZCLIC
-http://200.76.77.237/LIVE/H01/CANAL725/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1,AZCLIC HD
-http://200.76.77.237/LIVE/H01/CANAL725/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,HD Theater
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,H2 Latinoamerica
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=297
-
-#EXTINF:-1,History Channel
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,HISTORY (SUR)
-http://canalespremium.com.mx/canales/353.m3u8
-
-#EXTINF:-1,NatGeo Wild
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,DISCOVERY WORLD
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Discovery Channel
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Animal Planet
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Home and Health
-http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,NatGeo
-http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,LIFETIME
-http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Discovery Science
-http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Discovery Civilization
-http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Discovery Turbo
-http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,TLC
-http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,WOBI TV
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,EL FINANCIERO BLOOMERANG
-http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,DISCOVERY THEATER HD
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,History HD
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,NatGeo Wild HD
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,DISCOVERY WORLD HD
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Discovery Channel
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Animal Planet
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Home and Health HD
-http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Fox NatGeo HD
-http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,LIFETIME HD
-http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Discovery Science
-http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Discovery Civilization
-http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Discovery Turbo
-http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,TLC
-http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,WOBI TV
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,EL FINANCIERO BLOOMERANG HD
-http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,TIIN
-http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?1332%2FParaKodi.ts
-#EXTINF:-1,NickToons
-http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Nick HD
-http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Nickelodeon (Nick)
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Nickelodeon (Nick)
-http://q.gs/9830047/todokodi5
-#EXTINF:-1,Nick Jr
-http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Cartoon Network
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Cartoon Network
-http://q.gs/9830047/todokodi6
-#EXTINF:-1,Disney XD
-http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Disney XD
-http://q.gs/9830047/todokodi7
-#EXTINF:-1,Disney Channel
-http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Disney Jr
-http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Discovery Kids
-http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Discovery Kids
-http://q.gs/9830047/todokodi8
-#EXTINF:-1,Tooncast
-http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Boomerang
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Tooncast
-http://q.gs/9830047/todokodi9
-#EXTINF:-1,CBeebies
-http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332%2FParaKodi.ts
-#EXTINF:-1,Baby TV
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=317
-#EXTINF:-1,Baby First TV
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=1
-
-#EXTINF:-1,Fox NatGeo HD
-http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Sony
-http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Warner HD
-http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Universal HD
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,FX HD
-http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,A&E HD
-http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,AXN HD
-http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,TruTV HD
-http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Comedy Central
-http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-
-#EXTINF:-1,HOLATV
-http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,FASHION TV
-http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-
-
-#EXTINF:-1,Fox
-http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,BBC Entertainment
-http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,E! Entertainment Television
-http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Studio Universal
-http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,SyFy
-http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,FX
-http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Investigación Discovery
-http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,TNT SERIES
-http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,El Gourmet
-http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,GARAGE TV
-http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Glitz
-http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Fox Life
-http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Distrito Comedia
-http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,TBS
-http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Tlnovelas
-http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,TVE
-http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,CineLatino
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=477
-#EXTINF:-1,Cine Dinamita
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=3465
-#EXTINF:-1,AZCINEMA
-http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Cinecanal (W)
-http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,TNT
-http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1,Golden Edge
-http://q.gs/9830047/todokodi12
-#EXTINF:-1,The Film Zone (W)
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,De Película
-http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,DHE
-http://q.gs/9830047/todokodi13
-#EXTINF:-1,AMC
-http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Space
-http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1,Fox 1 Este
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=433
-#EXTINF:-1 tvg-id="Sky-MX_I432.5034.tutvguia.com" tvg-name="432_FOX1O432FOX1OFOX_1_(West)" tvg-logo="fox1_oeste.png" group-title="cinema",Fox 1 Oeste
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=439
-#EXTINF:-1 tvg-id="Total-MX_I418.24158.tutvguia.com" tvg-name="418_FOXFO418FOXFOFox_Family_(West)" tvg-logo="fox-family.png" group-title="cinema",Fox Family
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=467
-#EXTINF:-1 tvg-id="Total-MX_I419.55325.tutvguia.com" tvg-name="419_FOXCO419FOXCOFox_Comedy" tvg-logo="fox-comedy.png" group-title="cinema",Fox Comedy
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=461
-#EXTINF:-1 tvg-id="Total-MX_I421.29522.tutvguia.com" tvg-name="421_FOXCI421FOXCIFox_Cinéma" tvg-logo="fox-cinema.png" group-title="cinema",Fox Cinema
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=457
-#EXTINF:-1 tvg-id="Total-MX_I416.33474.tutvguia.com" tvg-name="416_FACHD416FACHDFox_Action_HD_(East)" tvg-logo="fox_action_este.png" group-title="cinema",Fox Action Este
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=435
-#EXTINF:-1 tvg-id="Total-MX_I422.20301.tutvguia.com" tvg-name="422_FOXAO422FOXAOFox_Action_(West)" tvg-logo="fox_action_oeste.png" group-title="cinema",Fox Action Oeste
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=437
-#EXTINF:-1 tvg-id="Total-MX_I417.33135.tutvguia.com" tvg-name="417_FMOHD417FMOHDFox_Movies_HDTV_(East)" tvg-logo="Fox_Moxie_Channel.png" group-title="cinema",Fox Movies Latinoamerica
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=463
-#EXTINF:-1 tvg-id="Total-MX_I424.14707.tutvguia.com" tvg-name="424_FXCL424FXCLFox_Classics_Latin_America_(English_Titles)" tvg-logo="fox-classics.png" group-title="cinema",Fox Classics Latinoamerica
-
-#EXTINF:-1,Cinecanal (W)
-http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Cinemax (O)
-http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,TNT
-http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1,Golden
-http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 tvg-id="Total-MX_I431.44320.tutvguia.com" tvg-name="431_GDNP431GDNPGolden_Premier" tvg-logo="golden-premier.png" group-title="cinema",Golden Premier 1
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=4777
-#EXTINF:-1 tvg-id="Total-MX_I432.44321.tutvguia.com" tvg-name="432_GDNP2432GDNP2Golden_Premier_Delay_(Oeste)" tvg-logo="golden-premier.png" group-title="cinema",Golden Premier 2
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=4772
-#EXTINF:-1,Golden Edge
-http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 tvg-id="Total-MX_I401.3997.tutvguia.com" tvg-name="401_HBO401HBOHBO_Latin_America_HDTV_(West)" tvg-logo="hbo.png" group-title="cinema",HBO Latinoamerica
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=385
-#EXTINF:-1 tvg-id="Total-MX_I402.27164.tutvguia.com" tvg-name="402_HBO2402HBO2HBO_2_(Mexico)" tvg-logo="hbo2.png" group-title="cinema",HBO 2 Latinoamerica
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=365
-#EXTINF:-1 tvg-id="Total-MX_I406.13047.tutvguia.com" tvg-name="406_HBO+406HBO+HBO_Plus_(Mexico)" tvg-logo="hbo-plus.png" group-title="cinema",HBO Plus Este
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=453
-#EXTINF:-1 tvg-id="Total-MX_I403.3996.tutvguia.com" tvg-name="403_HBO+403HBO+HBO_Plus_(Panamericano)" tvg-logo="hbo-plus.png" group-title="cinema",HBO Plus Oeste
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=369
-#EXTINF:-1 tvg-id="Total-MX_I405.13049.tutvguia.com" tvg-name="405_OLEFAE405OLEFAEHBO_Family_(Spanish)" tvg-logo="hbo-family.png" group-title="cinema",HBO Family Latinoamerica
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=449
-#EXTINF:-1 tvg-id="Total-MX_I404.13048.tutvguia.com" tvg-name="404_HBOSG404HBOSGHBO_Signature_(Panamerican)" tvg-logo="hbo-signature.png" group-title="cinema",HBO Signature Latinoamerica
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=451
-#EXTINF:-1 tvg-id="Total-MX_I408.27449.tutvguia.com" tvg-name="408_MAXUPHD408MAXUPHDMAX_UP_HD_(Mexico)" tvg-logo="max-up.png" group-title="cinema",Max UP Latinoamerica
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=469
-#EXTINF:-1 tvg-id="Total-MX_I410.39170.tutvguia.com" tvg-name="410_MAXPRE410MAXPREMAX_Prime_Mexico" tvg-logo="max-prime.png" group-title="cinema",Max Prime Este
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=377
-#EXTINF:-1 tvg-id="Total-MX_I409.13050.tutvguia.com" tvg-name="409_MAXPRE409MAXPREMAX_Prime_Panamericano" tvg-logo="max-prime.png" group-title="cinema",Max Prime Oeste
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=379
-#EXTINF:-1 tvg-id="Total-MX_I407.28507.tutvguia.com" tvg-name="407_MAX407MAXMAX_(Mexico)" tvg-logo="max.png" group-title="cinema",MAX
-http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=381
-#EXTINF:-1,AMC
-http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1,Multicinema
-http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
-#EXTINF:-1,Paramount Channel
-http://q.gs/9830047/todokodi11
-#EXTINF:-1,AZ Cinema
-http://q.gs/9830047/todokodi10
-#EXTINF:-1,Space
-http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Studio Universal
-http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,I.Sat
-http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,TCM
-http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,MTV Live HD
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Telehit
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,VH1
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,MTV
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,MTV HITS
-http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,1CLASSICS
-http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Ritmoson Latino
-http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Bandamax
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Kiss tv
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-
-#EXTINF:-1,A-ONE
-http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,VEVO MUSIC 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,VEVO MUSIC 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,VEVO MUSIC 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:1,VOX TV
-rtmp://94.23.95.13/live2/vox/vox_360p
-
-#EXTINF:-1,MTV LIVE HD
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Telehit HD
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,VH1
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,MTV HD
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,MTV HITS HD
-http://200.76.77.237/LIVE/H01/CANAL727/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,1CLASSICS HD
-http://200.76.77.237/LIVE/H01/CANAL728/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1,HTV
-http://latinochannels.2fh.co/canales/hls/htv.m3u8
-#EXTINF:-1,RITMOSON HD
-http://200.76.77.237/LIVE/H01/CANAL731/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,BANDAMAX HD
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1,DW LATINOAMERICA
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0,AntMan
-https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!125&authkey=!AGNtTEpQX09rPyw&ithint=video%2cavi
-#EXTINF:0,AntMan [Sub]
-https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!126&authkey=!AF_4FghSRqItiIc&ithint=video%2cmp4
-#EXTINF:0,Intensamente (Dual)
-https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH5jc4CG1u-eE&ithint=file%2cmkv
-#EXTINF:0,Cuatro fantásticos (Dual)
-https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!145&authkey=!ADOr8gXDx17hwa4&ithint=file%2cmkv
-#EXTINF:0,Misión Imposible: Nación secreta (Dual)
-https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!144&authkey=!AJ-fcKMBvWIjhlg&ithint=file%2cmkv
-#EXTINF:0,Bikini Model Academy (subs)
-https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!131&authkey=!AJPr5XPDFgqnny4&ithint=video%2cavi
-#EXTINF:0,Road Wars
-https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!130&authkey=!AIsHzE5u8l6KHDg&ithint=file%2cmkv
-#EXTINF:5772,Estreno
-https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!150&authkey=!AFKO0Befeo0_a5g&ithint=file%2cmkv
-#EXTINF:0,Beasts of No Nation Latino Dual
-https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!169&authkey=!AO6tNCwsfEQ8Qbw&ithint=file%2cmkv
-#EXTINF:0,Coche policial
-https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!164&authkey=!AJaSmKadK9jNogw&ithint=file%2cmkv
-#EXTINF:0,Vicio Dual
-https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!129&authkey=!AFB5cXazuuQDIes&ithint=file%2cmkv
-#EXTINF:0,Howl
-https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!131&authkey=!APEObOMoKRL0phY&ithint=video%2cavi
-#EXTINF:0,Atrapado en los 90s
-https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!149&authkey=!APL72pt3Xboo76o&ithint=file%2cmkv
-#EXTINF:0,Los Minions
-https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!130&authkey=!AFu4BYBIctIlM2c&ithint=file%2cmkv
-#EXTINF:0,Dragon Ball Z: La Resurrección de Freezer
-https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!121&authkey=!APN7EmYyEcLcVEA&ithint=file%2cmkv
-#EXTINF:0,AREA 51
-https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!112&authkey=!ALhgRVsmdIjxyH0&ithint=video%2cavi
-#EXTINF:0,The Contract
-https://onedrive.live.com/download.aspx?resid=67C6DAD95A0F8A91!196&authkey=!AOc_5A-yJXWT5Wk&ithint=video%2cavi
-#EXTINF:0,Vacaciones
-https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1009&authkey=!AMC7z1svQs0fGk8&ithint=video%2cmp4
-#EXTINF:0,Exorcismo En El Vaticano
-https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1008&authkey=!APTbXvMQA5MxSzg&ithint=video%2cmp4
-#EXTINF:0,The Exorcism of Molly Hartley
-https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!435&authkey=!AAfEmKos2YvjGwQ&ithint=video%2cavi
-#EXTINF:0,Knock Knock
-https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!437&authkey=!ALjq5lSi6-ntWNM&ithint=file%2cmkv
-#EXTINF:0,Escupire Sobre Tu Tumba 3 [Sub]
-https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!996&authkey=!AFcD5lnhom26Uv8&ithint=video%2cmp4
-#EXTINF:0,La Revancha 1080p (Dual)
-https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!119&authkey=!AHZKAvDzN7doxHU&ithint=file%2cmkv
-#EXTINF:0,Yo -  él y Raquel Latino(Dual)(1080p)
-https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!122&authkey=!ANszxGEEqmrNGU4&ithint=file%2cmkv
-#EXTINF:0,Jugada Salvage (1080p) Dual
-https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!109&authkey=!ABGLvXmemEReiJo&ithint=video%2cmp4
-#EXTINF:0,Disney Nature El reino de los monos
-https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!111&authkey=!APQLSuo7x7UIHZc&ithint=video%2cmp4
-#EXTINF:0,Aire (latino) (1080)
-https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!113&authkey=!AH5TuBYcuSKVl_c&ithint=file%2cmkv
-#EXTINF:0,El Secreto De Adaline (latino)
-https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!112&authkey=!AMp60SpEvCK_z6o&ithint=video%2cavi
-#EXTINF:0,Tracers (Dual)1080p
-https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!115&authkey=!ACVUONn8OQlsm60&ithint=file%2cmkv
-#EXTINF:0,Terminator Génesis(Dual)
-https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!114&authkey=!AOVW4iPGIzv6-aU&ithint=file%2cmkv
-#EXTINF:0,La Horca [dual]
-https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!118&authkey=!ANs1AbnoxDvz08A&ithint=file%2cmkv
-#EXTINF:0,Ciudades De Papel
-https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!431&authkey=!ALWIfn4zeTzUl9o&ithint=file%2cmkv
-#EXTINF:0,Magic Mike XXL [dual]
-https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!516&authkey=!ADXBQuKDqYvTXsY&ithint=file%2cmkv
-#EXTINF:0,Shaun el cordero [lat]
-https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!531&authkey=!ANZNU4aBv6dIeI4&ithint=video%2cmp4
-#EXTINF:0,Tomorrowland: El Mundo del Mañana 
-https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!114&authkey=!AEgXYZxuD3gIeKU&ithint=file%2cmkv
-#EXTINF:0,EXTINF:-1,Tomorrowland El Mundo del Mañana
-http://73.36.97.218/Compus1286-Servidor/EXTINF%3A-1%2CTomorrowland%20El%20Mundo%20del%20Ma%C3%B1ana
-http://streamin.to/0ibi13mf7teb
-#EXTINF:0,Pixeles [BrScreener]
-https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1002&authkey=!AJYDv-y7Z4VbyN8&ithint=video%2cmp4
-#EXTINF:0,La Noche Del Demonio 3
-https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!226&authkey=!AF8f8HX22xDQGeg&ithint=video%2cmp4
-#EXTINF:0,Aloha
-http://streamin.to/jpvbe8ctazls
-#EXTINF:0,El Gran Pequeño
-https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!217&authkey=!ABWBQFfi5w4LlTk&ithint=video%2cmp4
-#EXTINF:0,Los Vengadores: La Era de Ultrón [Dual]
-https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!988&authkey=!AIkgN34Obsw2Dvc&ithint=video%2cmp4
-#EXTINF:0,Una última y nos vamos
-http://streamin.to/sy743nsc1nkh
-#EXTINF:0,Una última y nos vamos Opcion 2
-https://onedrive.live.com/download.aspx?resid=8F8E52C3E63CF853!1810&authkey=!ADxysPcJZHoaTpI&ithint=file%2cmkv
-#EXTINF:0,Espías
-http://streamin.to/xpl0ujn1ykko
-#EXTINF:0,Poltergeist [Web DL]
-http://streamin.to/xkwvkvsyhppa
-#EXTINF:0,Un Paseo Equivocado
-http://streamin.to/ydvovpogeds4
-#EXTINF:0,Pitch Perfect 2
-http://streamin.to/mfkjg4pyu7hh
-#EXTINF:0,Terremoto La Falla De San Andrés [Web DL]
-https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!236&authkey=!AMsX3JkTfM8nsWs&ithint=video%2cmp4
-#EXTINF:0,A la mala
-http://streamin.to/8t818jb2kg87
-#EXTINF:0,Ted 2 [ Brscreener ]
-http://streamin.to/crfgmee4o6i8
-#EXTINF:0,La ouija el experimento 2
-http://streamin.to/7qb4wum7ykbz
-#EXTINF:0,Los descendientes
-http://streamin.to/nsp3vz6me6a4
-#EXTINF:0,Extincion
-http://streamin.to/i74hqf0s1m6f
-#EXTINF:0,Mad Max: Furia en la carretera
-http://streamin.to/za9gxj4w8yct
-#EXTINF:0,Rurouni Kenshin
-http://streamin.to/9ey2pwvjdsce
-#EXTINF:0,Mortdecai
-http://streamin.to/24r2fnh2o2vc
-#EXTINF:0,Archivo 253
-http://streamin.to/57iuxowq6y8p
-#EXTINF:0,Jurassic World [Brscreener]
-https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!237&authkey=!AH6aw5sOxn8Lf54&ithint=video%2cmp4
-#EXTINF:0,Dos locas en fuga
-http://streamin.to/i89m3god6pjb
-#EXTINF:0,True Story
-http://streamin.to/m586d54wr6ug
-#EXTINF:0,Cincuenta sombras de Grey
-http://streamin.to/8uf1x1e5rizb
-#EXTINF:0,Fast & Furious 7
-http://streamin.to/kc51fk0i7u15
-#EXTINF:0,Heroe De Centro Comercial 2
-https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!120&authkey=!AI69kIiLDce2CrQ&ithint=video%2cmp4
-#EXTINF:0,La serie Divergente: Insurgente [ Dual ]
-https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!233&authkey=!AIsnDN6JCcFF6cg&ithint=video%2cmp4
-#EXTINF:0,Resucitados [ Dual ]
-https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!283&authkey=!AHnvu6c3-ihLIjw&ithint=video%2cmp4
-#EXTINF:0,La dama de oro
-http://streamin.to/dq6cqsp78kfq
-#EXTINF:0,With This Ring
-http://streamin.to/q7qyzc24dy2u
-#EXTINF:0,Dale duro
-http://streamin.to/z045uamo9226
-#EXTINF:0,The Marine 4: Moving Target
-http://streamin.to/40fr9mirxoi6
-#EXTINF:0,El Instituto Atticus
-http://streamin.to/9n8exr0uzjtq
-#EXTINF:0,Chappie
-http://streamin.to/a5xvh4g6ytr4
-#EXTINF:0,Negocios con resaca
-http://streamin.to/iyt069v6jqma
-#EXTINF:0,Killing Jesus
-http://streamin.to/ok34ctmwoyy3
-#EXTINF:0,Ex Machina
-http://streamin.to/b2qxtl2me6xq
-#EXTINF:0,Focus
-http://streamin.to/013islskjx3z
-#EXTINF:0,Una Noche Para Sobrevivir
-http://streamin.to/264bpoo1loie
-#EXTINF:0,La Dama De Negro 2
-http://streamin.to/budnnybuzp3s
-#EXTINF:0,Black Sea
-http://streamin.to/t00a3e67er13
-#EXTINF:0,Kingsman El Servicio Secreto
-http://streamin.to/5vkarle1stra
+
+
+#EXTINF:-1,[COLOR lime] 24/7 [/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,[COLOR blue]FTA[/COLOR] The Simpsons
+http://iptvnation.com/simpsons.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] South Park
+http://iptvnation.com/southpark.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Family Guy
+http://iptvnation.com/familyguy.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Bobs Burgers
+http://iptvnation.com/bobs.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Two and a Half Men
+http://iptvnation.com/two.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] How I met your mother
+http://iptvnation.com/how.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Big Bang Theory
+http://iptvnation.com/big.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Mentalist
+http://iptvnation.com/mentalist.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Arrow
+http://iptvnation.com/arrow.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] The Grimm
+http://iptvnation.com/grimm.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Bones
+http://iptvnation.com/bones.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] Criminal Minds
+http://iptvnation.com/criminal.mp4
+#EXTINF:-1,[COLOR lime]FTA[/COLOR] CSI: Miami
+http://iptvnation.com/csimiami.mp4
+
+#EXTINF:0,[COLOR lime] Latino[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",[COLOR orangered]LA RED HD[/COLOR]
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/chunklist.m3u8|X-Forwarded-For=31.220.176.0
+#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",[COLOR orangered]LA RED HD (2)[/COLOR]
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="Spanish" tvg-logo="galicia.png",[COLOR orange]TV Galicia[/COLOR]
+http://media3.crtvg.es/live/tvge/chunklist.m3u8
+#EXTINF:-1 tvg-id="Lasexta.es" group-title="Spanish" tvg-logo="la_sexta_hd.png",[COLOR orangered]LA SEXTA HD[/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1 tvg-id="Lasexta.es" group-title="Spanish" tvg-logo="la_sexta.png",[COLOR orange]LA SEXTA[/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="Antenna3.es" group-title="Spanish" tvg-logo="antenna3.png",[COLOR orangered]Antenna 3 HD[/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1 tvg-id="Antenna3.es" group-title="Spanish" tvg-logo="antenna3.png",[COLOR orange]Antenna 3[/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="RussiaToday.es" group-title="Spanish" tvg-logo="russia_today.png",[COLOR orangered]Russia Today ES HD[/COLOR]
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_chile.png",[COLOR orange]TV Chile[/COLOR]
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",[COLOR orange]TVN[/COLOR]
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",[COLOR orange]TVN (2)[/COLOR]
+http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_mas.png",[COLOR orange]TV MÁS[/COLOR]
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_travel_channel.png",[COLOR orange]México Travel Channel[/COLOR]
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_televisio.png",[COLOR orange]México Television Michoacán[/COLOR]
+http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="navarra.png",[COLOR orange]Navarra TV[/COLOR]
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ondaluz.png",[COLOR orange]Ondaluz Sierra[/COLOR]
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="condavision.png",[COLOR orange]Condavision[/COLOR]
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ewtn.png",[COLOR orange]EWTN[/COLOR]
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="esperanza.png",[COLOR orange]Esperanza TV[/COLOR]
+http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="alcance_tv.png",[COLOR orange]Alcance TV[/COLOR]
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="almavision.png",[COLOR orange]Almavision[/COLOR]
+http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="lancelot.png",[COLOR orange]Lancelot TV[/COLOR]
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rts.png",[COLOR orange]RTS[/COLOR]
+http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telecafe.png",[COLOR orange]Telecafé[/COLOR]
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_13.png",[COLOR orange]Canal 13[/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="c5n.png",[COLOR orange]C5N[/COLOR]
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="zoom.png",[COLOR orange]Zoom TV[/COLOR]
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_sistema.png",[COLOR orange]TeleSistema[/COLOR]
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_antillas.png",[COLOR orange]TeleAntillas[/COLOR]
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleprogreso.png",[COLOR orange]TeleProgreso[/COLOR]
+http://162.212.176.83:8080/teleprogreso.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telemetro.png",[COLOR orange]TeleMetro[/COLOR]
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rpc.png",[COLOR orange]RPC[/COLOR]
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rbc.png",[COLOR orange]RBC[/COLOR]
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="eitb.png",[COLOR orange]EITB España[/COLOR]
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="adinet_tv.png",[COLOR orange]Adinet TV[/COLOR]
+http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_antiestres.png",[COLOR orange]Canal Antiestres[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cantinazo.png",[COLOR orange]Cantinazo[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Deutschewelle.de" group-title="Spanish" tvg-logo="deutsche_welle.png",[COLOR orange]Deutsche Welle (Latinoamérica)[/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleantioquia.png",[COLOR orange]Teleantoquia[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cosmovision.png",[COLOR orange]Cosmovision[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_u.png",[COLOR orange]Canal U[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cable_noticias.png",[COLOR orange]Cablenoticias[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="el_tiempo.png",[COLOR orange]El Tiempo[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="trendy_channel.png",[COLOR orange]Trendy[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_medellin.png",[COLOR orange]Tele medéllin[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tv_agro.png",[COLOR orange]TV Agro[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1719,6 +1147,165 @@ https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!165&authkey=!AHMW
 https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!164&authkey=!ANUC_OMs-5mSJ94&ithint=video%2cmp4
 #EXTINF:-1,MEGAMENTE
 https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!163&authkey=!AGh7WQSF3dO9Jo4&ithint=video%2cmp4
+#EXTINF:0,AntMan
+https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!125&authkey=!AGNtTEpQX09rPyw&ithint=video%2cavi
+#EXTINF:0,AntMan [Sub]
+https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!126&authkey=!AF_4FghSRqItiIc&ithint=video%2cmp4
+#EXTINF:0,Intensamente (Dual)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH5jc4CG1u-eE&ithint=file%2cmkv
+#EXTINF:0,Cuatro fantásticos (Dual)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!145&authkey=!ADOr8gXDx17hwa4&ithint=file%2cmkv
+#EXTINF:0,Misión Imposible: Nación secreta (Dual)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!144&authkey=!AJ-fcKMBvWIjhlg&ithint=file%2cmkv
+#EXTINF:0,Bikini Model Academy (subs)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!131&authkey=!AJPr5XPDFgqnny4&ithint=video%2cavi
+#EXTINF:0,Road Wars
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!130&authkey=!AIsHzE5u8l6KHDg&ithint=file%2cmkv
+#EXTINF:5772,Estreno
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!150&authkey=!AFKO0Befeo0_a5g&ithint=file%2cmkv
+#EXTINF:0,Beasts of No Nation Latino Dual
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!169&authkey=!AO6tNCwsfEQ8Qbw&ithint=file%2cmkv
+#EXTINF:0,Coche policial
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!164&authkey=!AJaSmKadK9jNogw&ithint=file%2cmkv
+#EXTINF:0,Vicio Dual
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!129&authkey=!AFB5cXazuuQDIes&ithint=file%2cmkv
+#EXTINF:0,Howl
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!131&authkey=!APEObOMoKRL0phY&ithint=video%2cavi
+#EXTINF:0,Atrapado en los 90s
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!149&authkey=!APL72pt3Xboo76o&ithint=file%2cmkv
+#EXTINF:0,Los Minions
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!130&authkey=!AFu4BYBIctIlM2c&ithint=file%2cmkv
+#EXTINF:0,Dragon Ball Z: La Resurrección de Freezer
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!121&authkey=!APN7EmYyEcLcVEA&ithint=file%2cmkv
+#EXTINF:0,AREA 51
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!112&authkey=!ALhgRVsmdIjxyH0&ithint=video%2cavi
+#EXTINF:0,The Contract
+https://onedrive.live.com/download.aspx?resid=67C6DAD95A0F8A91!196&authkey=!AOc_5A-yJXWT5Wk&ithint=video%2cavi
+#EXTINF:0,Vacaciones
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1009&authkey=!AMC7z1svQs0fGk8&ithint=video%2cmp4
+#EXTINF:0,Exorcismo En El Vaticano
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1008&authkey=!APTbXvMQA5MxSzg&ithint=video%2cmp4
+#EXTINF:0,The Exorcism of Molly Hartley
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!435&authkey=!AAfEmKos2YvjGwQ&ithint=video%2cavi
+#EXTINF:0,Knock Knock
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!437&authkey=!ALjq5lSi6-ntWNM&ithint=file%2cmkv
+#EXTINF:0,Escupire Sobre Tu Tumba 3 [Sub]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!996&authkey=!AFcD5lnhom26Uv8&ithint=video%2cmp4
+#EXTINF:0,La Revancha 1080p (Dual)
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!119&authkey=!AHZKAvDzN7doxHU&ithint=file%2cmkv
+#EXTINF:0,Yo -  él y Raquel Latino(Dual)(1080p)
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!122&authkey=!ANszxGEEqmrNGU4&ithint=file%2cmkv
+#EXTINF:0,Jugada Salvage (1080p) Dual
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!109&authkey=!ABGLvXmemEReiJo&ithint=video%2cmp4
+#EXTINF:0,Disney Nature El reino de los monos
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!111&authkey=!APQLSuo7x7UIHZc&ithint=video%2cmp4
+#EXTINF:0,Aire (latino) (1080)
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!113&authkey=!AH5TuBYcuSKVl_c&ithint=file%2cmkv
+#EXTINF:0,El Secreto De Adaline (latino)
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!112&authkey=!AMp60SpEvCK_z6o&ithint=video%2cavi
+#EXTINF:0,Tracers (Dual)1080p
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!115&authkey=!ACVUONn8OQlsm60&ithint=file%2cmkv
+#EXTINF:0,Terminator Génesis(Dual)
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!114&authkey=!AOVW4iPGIzv6-aU&ithint=file%2cmkv
+#EXTINF:0,La Horca [dual]
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!118&authkey=!ANs1AbnoxDvz08A&ithint=file%2cmkv
+#EXTINF:0,Ciudades De Papel
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!431&authkey=!ALWIfn4zeTzUl9o&ithint=file%2cmkv
+#EXTINF:0,Magic Mike XXL [dual]
+https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!516&authkey=!ADXBQuKDqYvTXsY&ithint=file%2cmkv
+#EXTINF:0,Shaun el cordero [lat]
+https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!531&authkey=!ANZNU4aBv6dIeI4&ithint=video%2cmp4
+#EXTINF:0,Tomorrowland: El Mundo del Mañana 
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!114&authkey=!AEgXYZxuD3gIeKU&ithint=file%2cmkv
+#EXTINF:0,EXTINF:-1,Tomorrowland El Mundo del Mañana
+http://73.36.97.218/Compus1286-Servidor/EXTINF%3A-1%2CTomorrowland%20El%20Mundo%20del%20Ma%C3%B1ana
+http://streamin.to/0ibi13mf7teb
+#EXTINF:0,Pixeles [BrScreener]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1002&authkey=!AJYDv-y7Z4VbyN8&ithint=video%2cmp4
+#EXTINF:0,La Noche Del Demonio 3
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!226&authkey=!AF8f8HX22xDQGeg&ithint=video%2cmp4
+#EXTINF:0,Aloha
+http://streamin.to/jpvbe8ctazls
+#EXTINF:0,El Gran Pequeño
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!217&authkey=!ABWBQFfi5w4LlTk&ithint=video%2cmp4
+#EXTINF:0,Los Vengadores: La Era de Ultrón [Dual]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!988&authkey=!AIkgN34Obsw2Dvc&ithint=video%2cmp4
+#EXTINF:0,Una última y nos vamos
+http://streamin.to/sy743nsc1nkh
+#EXTINF:0,Una última y nos vamos Opcion 2
+https://onedrive.live.com/download.aspx?resid=8F8E52C3E63CF853!1810&authkey=!ADxysPcJZHoaTpI&ithint=file%2cmkv
+#EXTINF:0,Espías
+http://streamin.to/xpl0ujn1ykko
+#EXTINF:0,Poltergeist [Web DL]
+http://streamin.to/xkwvkvsyhppa
+#EXTINF:0,Un Paseo Equivocado
+http://streamin.to/ydvovpogeds4
+#EXTINF:0,Pitch Perfect 2
+http://streamin.to/mfkjg4pyu7hh
+#EXTINF:0,Terremoto La Falla De San Andrés [Web DL]
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!236&authkey=!AMsX3JkTfM8nsWs&ithint=video%2cmp4
+#EXTINF:0,A la mala
+http://streamin.to/8t818jb2kg87
+#EXTINF:0,Ted 2 [ Brscreener ]
+http://streamin.to/crfgmee4o6i8
+#EXTINF:0,La ouija el experimento 2
+http://streamin.to/7qb4wum7ykbz
+#EXTINF:0,Los descendientes
+http://streamin.to/nsp3vz6me6a4
+#EXTINF:0,Extincion
+http://streamin.to/i74hqf0s1m6f
+#EXTINF:0,Mad Max: Furia en la carretera
+http://streamin.to/za9gxj4w8yct
+#EXTINF:0,Rurouni Kenshin
+http://streamin.to/9ey2pwvjdsce
+#EXTINF:0,Mortdecai
+http://streamin.to/24r2fnh2o2vc
+#EXTINF:0,Archivo 253
+http://streamin.to/57iuxowq6y8p
+#EXTINF:0,Jurassic World [Brscreener]
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!237&authkey=!AH6aw5sOxn8Lf54&ithint=video%2cmp4
+#EXTINF:0,Dos locas en fuga
+http://streamin.to/i89m3god6pjb
+#EXTINF:0,True Story
+http://streamin.to/m586d54wr6ug
+#EXTINF:0,Cincuenta sombras de Grey
+http://streamin.to/8uf1x1e5rizb
+#EXTINF:0,Fast & Furious 7
+http://streamin.to/kc51fk0i7u15
+#EXTINF:0,Heroe De Centro Comercial 2
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!120&authkey=!AI69kIiLDce2CrQ&ithint=video%2cmp4
+#EXTINF:0,La serie Divergente: Insurgente [ Dual ]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!233&authkey=!AIsnDN6JCcFF6cg&ithint=video%2cmp4
+#EXTINF:0,Resucitados [ Dual ]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!283&authkey=!AHnvu6c3-ihLIjw&ithint=video%2cmp4
+#EXTINF:0,La dama de oro
+http://streamin.to/dq6cqsp78kfq
+#EXTINF:0,With This Ring
+http://streamin.to/q7qyzc24dy2u
+#EXTINF:0,Dale duro
+http://streamin.to/z045uamo9226
+#EXTINF:0,The Marine 4: Moving Target
+http://streamin.to/40fr9mirxoi6
+#EXTINF:0,El Instituto Atticus
+http://streamin.to/9n8exr0uzjtq
+#EXTINF:0,Chappie
+http://streamin.to/a5xvh4g6ytr4
+#EXTINF:0,Negocios con resaca
+http://streamin.to/iyt069v6jqma
+#EXTINF:0,Killing Jesus
+http://streamin.to/ok34ctmwoyy3
+#EXTINF:0,Ex Machina
+http://streamin.to/b2qxtl2me6xq
+#EXTINF:0,Focus
+http://streamin.to/013islskjx3z
+#EXTINF:0,Una Noche Para Sobrevivir
+http://streamin.to/264bpoo1loie
+#EXTINF:0,La Dama De Negro 2
+http://streamin.to/budnnybuzp3s
+#EXTINF:0,Black Sea
+http://streamin.to/t00a3e67er13
+#EXTINF:0,Kingsman El Servicio Secreto
+http://streamin.to/5vkarle1stra
 
 
 
