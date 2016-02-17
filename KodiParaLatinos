@@ -316,7 +316,7 @@ http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:4.004,Televisión Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 
-#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<[/COLOR][COLOR red]ESPAÑA[/COLOR][COLOR red]HD[/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<[/COLOR][COLOR red]ESPAÑA[/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="TV Guia_Nuevo Tiempo.tutvguia.com" tvg-name="Nuevo_Tiempo.tutvguia.com" tvg-logo="nuevo-tiempo.png" group-title="Religión",Nuevo Tiempo
