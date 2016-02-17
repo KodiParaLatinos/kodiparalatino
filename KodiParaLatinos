@@ -103,24 +103,6 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8?
 #EXTINF:0,PAC-12 Net. (Washington)
 http://xrxs.net/video/live-p12wash-4728.m3u8?
 
-#EXTINF:0,[COLOR blue]Sk sport 1[/COLOR]
-http://80.243.189.26:9909/sportshd/sky1/index.m3u8
-
-#EXTINF:0,[COLOR blue]Sk sport 2[/COLOR]
-http://80.243.189.26:9909/sportshd/sky2/index.m3u8
-
-#EXTINF:0,[COLOR blue]Sk sport 3[/COLOR]
-http://80.243.189.26:9909/sportshd/sky3/index.m3u8
-
-#EXTINF:0,[COLOR blue]Sk sport 4[/COLOR]
-http://80.243.189.26:9909/sportshd/sky4/index.m3u8
-
-#EXTINF:0,[COLOR blue]Sk sport 5[/COLOR]
-http://80.243.189.26:9909/sportshd/sky1/index.m3u8
-
-#EXTINF:0,[COLOR FF11b500]Sky formula 1[/COLOR]
-http://80.243.189.26:9909/sportshd/skf1/index.m3u8
-
 #EXTINF:0,[COLOR FF11b500]Sky news[/COLOR]
 http://80.243.189.26:9909/sportshd/skynews/index.m3u8
 #EXTINF:-1,CNN News
@@ -1223,6 +1205,24 @@ http://162.243.133.156:1583/foxsports/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="fox sports 2 hd.png",Fox Sports 2
 http://104.131.39.88:1583/foxsports2/playlist.m3u8
+
+#EXTINF:0,[COLOR blue]Sk sport 1[/COLOR]
+http://80.243.189.26:9909/sportshd/sky1/index.m3u8
+
+#EXTINF:0,[COLOR blue]Sk sport 2[/COLOR]
+http://80.243.189.26:9909/sportshd/sky2/index.m3u8
+
+#EXTINF:0,[COLOR blue]Sk sport 3[/COLOR]
+http://80.243.189.26:9909/sportshd/sky3/index.m3u8
+
+#EXTINF:0,[COLOR blue]Sk sport 4[/COLOR]
+http://80.243.189.26:9909/sportshd/sky4/index.m3u8
+
+#EXTINF:0,[COLOR blue]Sk sport 5[/COLOR]
+http://80.243.189.26:9909/sportshd/sky1/index.m3u8
+
+#EXTINF:0,[COLOR FF11b500]Sky formula 1[/COLOR]
+http://80.243.189.26:9909/sportshd/skf1/index.m3u8
 
 
 
