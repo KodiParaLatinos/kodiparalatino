@@ -1,1014 +1,1168 @@
- #EXTM3U
- #EXTINF:0,TETEMUNDO 
-http://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/chunklist.m3u8
-#EXTINF:0,UNIVISION
-http://streamup.global.ssl.fastly.net/app/univision2chivas_69s-stream/chunklist.m3u8
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTINF:0,TELEMUNDO 39
-https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
-#EXTINF:0,UNIVISION 23
-https://video05-lax.streamup.com/app/turbo-maxs-channel/playlist.m3u8
 
-#EXTINF:0,Azteca 13 
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:0,Azteca Noticias
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:0,Azteca 7 Monterrey
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:0,Proyecto 40
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 
-#EXTINF:0,HBO
-rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
+<item><title>[COLOR=green]-[/COLOR][COLOR=gold]MOVIES  - 24/7 - DUAL AUDIO[/COLOR][COLOR=green]-----[/COLOR]</title><link></link></item>
+			
+			
+			<item>
+			<title>Mega Kids</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_kids live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_kids$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>Katty HD</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_katyhd live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_katyhd$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
 
-#EXTINF:0,True TV
-http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
 
-#EXTINF:0,Miami TV
-http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0,Miami Music TV
-http://74.208.152.93/music/stream3/stream.m3u8
+			
+			
 
-#EXTINF:0,WGN
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+			
+			
+			<item>
+			<title>Vitato HD</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_vitatotv live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_vitatotv$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
 
-#EXTINF:0,NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+			
+			
 
-#EXTINF:0,Weather Channel US
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+			
+			
+			
+			<item>
+			<title>Mega Extremo</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_extremo live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_extremo$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			
 
-#EXTINF:-1,CARTOON NETWORK
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+			
+			<item>
+			<title>Cine Star</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_cine_star live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_cine_star$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+	
+			
+			
+			<item>
+			<title>Cinema latino</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_cinemalatinohd01 live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_cinemalatinohd01$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
 
-#EXTINF:-1,HSN
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+			
+			
+			<item>
+			<title>lcreme_staff</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_lcreme_staff live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_lcreme_staff$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>lcreme max</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_lcrememax live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_lcrememax$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Creme Cartoon</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_cremecartoon live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_cremecartoon$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Morena_channels</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_morena_channels12 live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_morena_channels12$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Cinescape</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_cinescape live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_cinescape$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>Cinema Series HD</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_cinema_serieshd live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_cinema_serieshd$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>Mega_Movieshd</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_megamovieshd live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_megamovieshd$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Universal</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_universal_movies live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_universal_movies$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>Broadmovies</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_broadmovies live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_broadmovies$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Club_Terror</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_club_terror live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_club_terror$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>Terror y Suspendo</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_terror_y_suspenso live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_terror_y_suspenso$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+		
+			
+			
+			
+			<item>
+			<title>Dragon Ball Peliculas</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_thousan live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_thousan$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			
+			<item>
+			<title>Cinema_Serieshd</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_cinema_serieshd live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_cinema_serieshd$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>Universal Movies</title>
+			<link>http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8</link><!-- -->
+			</item>	
+			
+			
+			
+			<item>
+			<title>Peliculas HBO</title>
+			<link>rtmp://50.7.69.186/iguide playpath=0bf02qe6msgtu4s swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link><!-- -->
+			</item>	
+			<item>
+			<title>Canal Cine</title>
+			<link>http://68.71.42.179/live/livestream1/playlist.m3u8</link><!-- -->
+			</item>	
+			
+			
+			
 
-#EXTINF:-1,HSN 2
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+			
+			<item>
+			<title>[COLOR gold]------SERIES 24/7------[/COLOR]</title>
+			<link>http://allmyvideos.net/f0xzoy30c5bl</link><!-- -->
+			</item>	
 
-#EXTINF:-1,TWiT Live
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+			<item>
+			
+		
+			
+			
+			<item>
+			<title>Mega Toons</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_extincion live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_extincion$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Anime 24/7 </title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_richiriconrand0mtv live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_richiriconrand0mtv$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
 
-#EXTINF:-1,NBC GOLF SD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+			
+			
+			<item>
+			<title>Mega Chavo del 8</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_chavo live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_chavo$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>Chespirito Mania</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_chespirito_mania live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_chespirito_mania$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Familia Peluche</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_familia live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_familia$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+				<item>
+			<title>Mega Malcolm</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_megamalcolm live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_megamalcolm$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			<item>
+			<title>Mega Vecinos</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_vecinos live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_vecinos$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			
+			<item><title>Todo Anime</title><link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link></item>
+			
+			
+			
+			<item>
+			<title>Saint Seiya : Caballero del Zodiaco </title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_bot live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_bot$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
 
-#EXTINF:-1,NBC GOLF 720p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+			
+			<item>
+			<title>Super Campeones</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_campeoneshd live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_campeoneshd$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Dragon Ball</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_animes live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_animes$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Pokemon</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_animeshd live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_animeshd$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
 
-#EXTINF:-1,NBC GOLF 1080p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+			<item>
+			<title>Principe del Rap </title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_principe_del_rap live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_principe_del_rap$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Dragon Ball 2</title>
+			<link>rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330</link>
+			</item>
+			
+		
+			
+			<item>
+			<title>South Park</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_revolucionhd live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_revolucionhd$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+		
+			
+			
+			<item>
+			<title>Mega Simpsons</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_simpson live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_simpson$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Simpsons Mania</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_simpson_mania live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_simpson_mania$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
 
-#EXTINF:0,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
+			
+			
 
-#EXTINF:0,PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8?
+			
+			
+			
+			
+		
+			
 
-#EXTINF:0,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Moutain)
-http://xrxs.net/video/live-p12moun-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8?
-
-#EXTINF:0,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-
-#EXTINF:0,ESPN
-http://62.210.206.122:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,ESPN 2
-http://62.210.206.122:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
-#EXTINF:0,Fox Sports 1
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
-
-#EXTINF:0,[COLOR blue]Sk sport 1[/COLOR]
-http://80.243.189.26:9999/sportshd/sky1/index.m3u8
-#EXTINF:0,[COLOR blue]Sk sport 2[/COLOR]
-http://80.243.189.26:9999/sportshd/sky2/index.m3u8
-#EXTINF:0,[COLOR blue]Sk sport 3[/COLOR]
-http://80.243.189.26:9999/sportshd/sky3/index.m3u8
-#EXTINF:0,[COLOR blue]Sk sport 4[/COLOR]
-http://80.243.189.26:9999/sportshd/sky4/index.m3u8
-#EXTINF:0,[COLOR blue]Sk sport 5[/COLOR]
-http://80.243.189.26:9999/sportshd/sky5/index.m3u8
-
-#EXTINF:0,[COLOR FF11b500]Sky formula 1[/COLOR]
-http://80.243.189.26:9999/sportshd/skf1/index.m3u8
-
-#EXTINF:0,[COLOR FF11b500]Sky news[/COLOR]
-http://80.243.189.26:9999/sportshd/skynews/index.m3u8
-
-#EXTINF:-1,CNN News
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,CNN News (stream 2)
-rtmp://d.cdn.newschat.tv/edge playpath=cnn_live swfUrl=http://www.newsviews.tv/player.swf live=1 pageUrl=http://www.newsviews.tv/news-views-video-six
-
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,ABC News (stream 2)
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:0,CNN International
-http://edge1.everyon.tv/etv1sb/phd16/chunklist_w41036801.m3u8
-#EXTINF:-1,Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
-
-#EXTINF:-1,Vevo1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-
- 
- <item>
-	<title>[COLOR green]--- ENTRETENIMIENTO ---[/COLOR]</title>
-<link>http://0.0.6.0:12347</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Sony</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Warner HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Universal HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>FX HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>A&E HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Studio Universal</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>AXN HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>TruTV HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Comedy Central</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>HOLATV</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>FASHION TV</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Fox</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>BBC Entertainment</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>E! Entertainment Television</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Studio Universal</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>SyFy</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>FX</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Investigación Discovery</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>TNT SERIES</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>El Gourmet</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>GARAGE TV</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Glitz</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Fox Life</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Distrito Comedia</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>TBS</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Tlnovelas</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>TVE</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>[COLOR green]--- INFANTILES ---[/COLOR]</title>
-<link>http://0.0.6.0:12347</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Discovery Kids</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>NickToons</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Nick HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Nickelodeon (Nick)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Nickelodeon (Nick)</title>
-<link>http://q.gs/9830047/todokodi5</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Nick Jr</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Cartoon Network</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Disney XD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Disney Channel</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Disney Jr</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Tooncast</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Boomerang</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>CBeebies</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>TIIN</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?1332%2FParaKodi.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Pakapaka</title>
-<link>http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>TaTeTi</title>
-<link>http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-      <item>
-	<title>[COLOR green]--- DEPORTES ---[/COLOR]</title>
-<link>http://0.0.6.0:12347</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>EUROSPORT</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/esarn011_delivery@37350/master.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>EUROSPORT</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/esarn012_delivery@75190/master.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>EUROSPORT</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/esarn013_delivery@75191/master.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>EUROSPORT</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/esarn014_delivery@75192/master.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>EUROSPORT</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/esarn016_delivery@90477/master.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>EUROSPORT</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/esarn017_delivery@47402/master.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>EUROSPORT</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/esarn018_delivery@76469/master.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Sky Sports 1</title>
-<link>http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Sky Sports 2</title>
-<link>http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Sky Sports 3</title>
-<link>http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Sky Sports 4</title>
-<link>http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Sky Sports 5</title>
-<link>http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Arena Sport 1</title>
-<link>http://169.45.89.106:1935/app/arhd1lsh58/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Arena Sport 2</title>
-<link>http://169.45.89.106:1935/app/arhd2lsh/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Arena Sport 3</title>
-<link>http://169.45.89.106:1935/app/arhd3lsh58/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Arena Sport 4</title>
-<link>http://169.45.89.106:1935/app/arhd4lsh/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>NTV FUTBOL 1</title>
-<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/124/index.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>NTV FUTBOL 2</title>
-<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/530/index.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>NTV FUTBOL 3</title>
-<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/522/index.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>NTV PLUS Sport</title>
-<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/107/index.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>NTV  Sport</title>
-<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/123/index.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Real Madrid TV</title>
-<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>CDN SPORT MAX</title>
-<link>http://108.168.206.90:1935/cdn/cdn/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>dvxtv sport arg</title>
-<link>http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w581676071_b800000_slesp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Redbull TV</title>
-<link>http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>ESPN +</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>ESPN</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>ESPN 2</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>ESPN 3</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Fox Sports</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Fox Sports 2</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>PX</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>Fox Sports HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item>  
-    
-    <item>
-	<title>  [COLOR green]--- PELICULAS ---[/COLOR]</title>
-<link>http://0.0.6.0:12347</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>universal movies</title>
-<link>http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Cinecanal (W)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>TNT</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>TNT</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>The Film Zone (W)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>De Película</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>AMC</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Space</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Space</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Cinecanal (W)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Cinemax (O)</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Golden</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Golden Edge</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>AMC</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>I.Sat</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>TCM</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>AZCINEMA</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-
-    <item>
-	<title>[COLOR green]---CUTURALES ---[/COLOR]</title>
-<link>http://0.0.6.0:12347</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>History Channel</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>NatGeo Wild</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>NatGeo</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>LIFETIME</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Discovery Science</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Discovery Civilization</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Discovery Turbo</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>TLC</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>WOBI TV</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>EL FINANCIERO BLOOMERANG</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>DISCOVERY THEATER HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>DISCOVERY WORLD HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Discovery Channel</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Animal Planet</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Home and Health HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-
-    <item>
-	<title>[COLOR green]--- FOX ---[/COLOR]</title>
-<link>http://0.0.6.0:12347</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX 1080</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX1</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX1 1080</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX ACTION HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX ACTION HD 1080</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX MOVIES HD </title>
-<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX MOVIES HD 1080</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX CINEMA</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL421/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX FAMILY</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL475/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX CLASSIC</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL478/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX LIFE</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL271/PROFILE05.m3u8?-1332/1499-20150816T153535.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-     <item>
-	<title>FOX ACTION </title>
-<link>http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-     <item>
-	<title>FOX MOVIES </title>
-<link>http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL421/PROFILE05.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>FOX CLASSICS</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL424/PROFILE05.m3u8?supertvlat=%2F.ts</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-
-    <item>
-	<title>[COLOR green]--- HBO ---[/COLOR]</title>
-<link>http://0.0.6.0:12347</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>HBO 2</title>
-<link>http://st02.brn03.iptv.czechbone.net:8083/120-tv-pc.m3u8</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>HBO</title>
-<link>http://31.220.40.118/LiveEdge/HBOLASD/chunklist_w271075884_b1000000.m3u8?token=c8cca07d3672532fbd6bb8d6bf369dfb</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-
-    <item>
-	<title>HBO HD</title>
-<link>http://31.220.41.103/LiveEdge/HBOEastUS/chunklist_w1884548916_b1000000.m3u8?token=be1cff8b4a750ee7c822b8fabbaaa266</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>HBO Plus</title>
-<link>http://31.220.40.123/LiveEdge/HBOPlusLASD/chunklist_w1292009357_b1000000.m3u8?token=a207f55169bc12eabb23b8cd5f776cdc</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-
-    <item>
-	<title>HBO Plus</title>
-<link>http://31.220.40.123/LiveEdge/HBOPlusLASD/media_w1292009357_b1000000_39.ts?token=a207f55169bc12eabb23b8cd5f776cdc</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-
-    <item>
-	<title>HBO Plus</title>
-<link>http://31.220.40.118/LiveEdge/HBO2SD/chunklist_w228243756_b1000000.m3u8?token=3050484cc503a97e209bb57f73447420</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-
-    <item>
-	<title>[COLOR green]--- MUSICALES ---[/COLOR]</title>
-<link>http://0.0.6.0:12347</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>MTV Live HD</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Telehit</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>VH1</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>MTV</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>MTV HITS</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>1CLASSICS</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Ritmoson Latino</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Bandamax</title>
-<link>http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>Kiss tv</title>
-<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-    
-    <item>
-	<title>VEVO MUSIC </title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
-<thumbnail>tvg-logo="logotv.png</thumbnail>
-    </item> 
-
-    
+			
+				<item>
+			<title>The Simpsons USA</title>
+			<link>http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8 </link>
+			</item>
+			
+			
+			<item><title>The Simpsons  [COLOR blue]USA[/COLOR]</title><link>http://iptvnation.com/simpsons.mp4</link></item>
+<item><title>South Park  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/southpark.mp4</link></item>
+<item><title>Family Guy  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/familyguy.mp4</link></item>
+<item><title>Bobs Burgers  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/bobs.mp4</link></item>
+<item><title>Two and a Half Men  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/two.mp4</link></item>
+<item><title>How I met your mother  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/how.mp4</link></item>
+<item><title>The Big Bang Theory  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/big.mp4</link></item>
+<item><title>The Mentalist  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/mentalist.mp4</link></item>
+<item><title>Arrow  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/arrow.mp4</link></item>
+<item><title>The Grimm  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/grimm.mp4</link></item>
+<item><title>Bones  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/bones.mp4</link></item>
+<item><title>Criminal Minds  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/criminal.mp4</link></item>
+<item><title>CSI: Miami  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/csimiami.mp4</link></item>
