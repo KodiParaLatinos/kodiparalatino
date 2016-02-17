@@ -378,7 +378,7 @@ rtmp://31.220.0.194/privatestream/golfplus00 swfUrl=http://privatestream.tv/js/j
 #EXTINF:-1,DW LATINOAMERICA
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<[/COLOR][COLOR red] 24/7[/COLOR][COLOR red]HD[/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<[/COLOR][COLOR red] 24/7 [/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR blue]FTA[/COLOR] The Simpsons
@@ -408,7 +408,7 @@ http://iptvnation.com/criminal.mp4
 #EXTINF:-1,[COLOR lime]FTA[/COLOR] CSI: Miami
 http://iptvnation.com/csimiami.mp4
 
-#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<[/COLOR][COLOR red] Latino[/COLOR][COLOR red]HD[/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<[/COLOR][COLOR red] Latino [/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
 http://0.0.0.0:1234
 
 
