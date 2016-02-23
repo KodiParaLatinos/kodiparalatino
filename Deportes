@@ -1,3 +1,12 @@
+  
+   <item>
+<title>[COLOR gold][B]LIVE Sports HD/SD UPDATE EVERDAY[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://ww1.prweb.com/prfiles/2013/06/09/11806053/gI_127433_OWS_logo_white_green_beyond_boundaries.png</thumbnail>
+</item>
+
+  
   <channels>
 
 <channel>
@@ -29,16 +38,11 @@
 <link>http://ignoreme</link>
    <externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink> ##change haider
 
- <item>
-<title>[COLOR gold][B]LIVE Sports HD/SD UPDATE EVERDAY[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
-<thumbnail>http://ww1.prweb.com/prfiles/2013/06/09/11806053/gI_127433_OWS_logo_white_green_beyond_boundaries.png</thumbnail>
-</item>
 
- 
   </channel>
   </channels>
+  
+  
 
  <item>
     <title>[COLOR blue]*[/COLOR][COLOR red]  Deportes Lista de AdryanList[/COLOR] [COLOR red] [/COLOR]</title>
