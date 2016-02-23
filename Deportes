@@ -1,14 +1,4 @@
-</streaminginfos>
 
-
-
-
-<item>
-<title>[COLOR green]Live Sports[/COLOR][COLOR red] All Sports From sportDevil[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
- <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
-</item>
   
   <channels>
 
