@@ -1,14 +1,12 @@
    <channels>
 
 <channel>
-<item>
 <title>[COLOR green]Live Sports[/COLOR][COLOR red] All Sports From sportDevil[/COLOR]</title>
 <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 <fanart>http://http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
  <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
-</item>
 
 </channel>
   </channels>
