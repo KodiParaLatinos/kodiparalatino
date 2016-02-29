@@ -1,4 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
+
+    <channels>
  <channel>
     <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]MENU BASSFOX [/B][/COLOR]</name>
     <info></info>
@@ -11,7 +14,9 @@
 <externallink>https://dl.dropboxusercontent.com/s/dgyqvy9w6zujtrk/bassfox.index.1.6.0.indexprincipalnocopiar.xml</externallink>
 </item>
  
+</channel>
 
+	</channels>
 
 
 
