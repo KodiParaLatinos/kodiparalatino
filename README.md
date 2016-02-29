@@ -1,98 +1,148 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+
+-<stream>
 
 
-<channels>
+-<item>
 
-<channel>
-<name>       [COLOR=orange] [B]                      BASSFOX LES COMUNICA       [/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
+<title>[COLOR yellow][B][I] Name of TV channel 1 [/I][/B][/COLOR]</title>
 
-<channel>
-<name>[COLOR=lightskyblue][B]Esta versión que usas esta Desactualizada[/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
+<link>http://sample_link_to_tv_channel.m3u8</link>
 
-<channel>
-<name>[COLOR=lightskyblue][B]Actualiza la nueva versión del Add-on[/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
+<thumbnail>http://www.link to thumbnail</thumbnail>
 
-<channel>
-<name>[COLOR=lightskyblue][B]Si no es Automático hazlo comprobando actualización[/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
-
-<channel>
-<name>[COLOR=lightskyblue][B]Si aún no puedes actualizarlo, pidelo en el Grupo de BassFox[/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
-
-<channel>
-<name>[COLOR=lightskyblue][B]BassFox es un Add-on gratuito no pagues nada[/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
-
-<channel>
-<name>[COLOR=lightskyblue][B]Si pagaste por este Add-on reportalo al siguiente Mail[/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
-
-<channel>
-<name>[COLOR=lightskyblue][B]>>>> [COLOR=mediumseagreen]simplementematu@gmail.com[/COLOR] <<<< [/B]</name>[/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
+</item>
 
 
-<channel>
-<name>[COLOR=lightskyblue][B]BassFox les agradece su preferencia[/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
+-<item>
+
+<title>Name of News channel 2</title>
+
+<link>http://sample_link_to_news_channel.m3u8</link>
+
+<thumbnail/>
+
+</item>
 
 
-<channel>
-<name>[COLOR=lightskyblue][B]NO MATEN A LOS ADDON GRATUITOS POR FAVOR[/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
+-<item>
+
+<title>YouTube - Video Link</title>
+
+<link>https://www.youtube.com/watch?v=xxxxxxxx</link>
+
+<thumbnail/>
+
+</item>
 
 
-<channel>
-<name>[COLOR=cadetblue][B]BASSFOX Febrero 2016[/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
+-<item>
+
+<title>YouTube - Video Link</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=xxxxxxxx</link>
+
+<thumbnail>http://www.link to thumbnail</thumbnail>
+
+</item>
 
 
-</channels>
+-<item>
+
+<title>YouTube - Video Link</title>
+
+<link>plugin://plugin.video.youtube/?action=play_video&videoid=xxxxxxxx</link>
+
+<thumbnail>http://www.link to thumbnail</thumbnail>
+
+</item>
+
+
+-<item>
+
+<title>YouTube - Video Link</title>
+
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xxxxxxxx</link>
+
+<thumbnail>http://www.link to thumbnail</thumbnail>
+
+</item>
+
+
+-<item>
+
+<title>YouTube - User (playlists)</title>
+
+<link>https://www.youtube.com/user/UserName</link>
+
+<thumbnail>http://www.link to thumbnail</thumbnail>
+
+</item>
+
+
+-<item>
+
+<title>YouTube - User (playlists)</title>
+
+<link>plugin://plugin.video.youtube/user/UserName</link>
+
+<thumbnail>http://www.link to thumbnail</thumbnail>
+
+</item>
+
+
+-<item>
+
+<title>YouTube - Channel (playlists)</title>
+
+<link>https://www.youtube.com/channel/ChannelName</link>
+
+<thumbnail>http://www.link to thumbnail</thumbnail>
+
+</item>
+
+
+-<item>
+
+<title>YouTube - Channel (playlists)</title>
+
+<link>plugin://plugin.video.youtube/channel/ChannelName</link>
+
+<thumbnail>http://www.link to thumbnail</thumbnail>
+
+</item>
+
+
+-<item>
+
+<title>DailyMotion - Video Link</title>
+
+<link>http://www.dailymotion.com/video/yyyyy_xxxx-xxx-xxx-xxx_xxxxx</link>
+
+<thumbnail>http://www.link to thumbnail</thumbnail>
+
+</item>
+
+
+-<item>
+
+<title>DailyMotion - Video Link</title>
+
+<link>http://www.dailymotion.com/video/yyyyy</link>
+
+<thumbnail>http://www.link to thumbnail</thumbnail>
+
+</item>
+
+
+-<item>
+
+<title>DailyMotion - Video Link</title>
+
+<link>plugin://plugin.video.dailymotion_com/?mode=playVideo&url=yyyyy</link>
+
+<thumbnail>http://www.link to thumbnail</thumbnail>
+
+</item>
+
+</stream>
