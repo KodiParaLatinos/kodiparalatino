@@ -1,25 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
+<channel>
 
-    <channels>
- <channel>
-    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B]MENU BASSFOX [/B][/COLOR]</name>
-    <info></info>
-    <thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail>
-    <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart> 
- 
- <item>
-<title>[COLOR blue] [COLOR deepskyblue]-------- BASSFOX --------[/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://dl.dropboxusercontent.com/s/dgyqvy9w6zujtrk/bassfox.index.1.6.0.indexprincipalnocopiar.xml</externallink>
+<item>
+<title>Sopcast Local Stream (Choose any Stream in Sopcast)</title>
+<link>http://127.0.0.1:8902
 </item>
- 
-</channel>
 
-	</channels>
+<item>
+<title>Chelsa TV</title>
+<link>rtmpe://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 timeout=5</link>
+<description></description>
+<thumbnail></thumbnail>
+</item>
 
+<item>
+<title>Clubland TV (Low Quality)</title>
+<link>rtmpe://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chclublandtvuk/2011/11/23/eaa7236a-9ee7-43e2-ace7-6b0e3e3aecfb timeout=5</link>
+<description></description>
+<thumbnail></thumbnail>
+</item>
 
+<item>
+<title>NBA 24/7</title>
+<link>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</link>
+<description></description>
+<thumbnail></thumbnail>
+</item>
 
+<item>
+<title>NRK 2 (Good Quality)</title>
+<link>http://mi6.gv.filmon.com:1935/live/375.high.stream/playlist.m3u8</link>
+<description></description>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Europa Plus (Good Quality)</title>
+<link>http://178.151.4.67:8888/udp/238.0.0.139:1234</link>
+<description></description>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Radio 95.9 MHz UNID (Good Quality)</title>
+<link>http://best.str.nettvplus.com:8080/stream/?fw=true&route=OPTIMAL&sp=nettvplus&channel=tvleskovac&stream=1mb&b=3</link>
+<description>Music</description>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Capital TV (Pakistan)</title>
+<link>http://184.107.236.10:1935/live/myStream.sdp/chunklist.m3u8?wowzasessionid=915640394</link>
+<description>Asian News Channel</description>
+<thumbnail></thumbnail>
+</item>
+
+<item><title>Dunya</title>
+<link>rtmp://50.117.24.90/live playpath=mp4:livestream_1.f4v swfVfy=1 live=true timeout=10 swfUrl=http://dunyanews.tv/videoplayer/jwplayer.flash.swf pageUrl=http://dunyanews.tv/livehd/</link></item>
+
+<item>
+<title>Sun Tv (Indian)</title>
+<link>rtmpe://141.8.244.56/live playpath=sun_tv_hq token=%X786(nPK@#. swfUrl=http://sportsembed.com/class/playerhd.swf live=1 pageUrl=http://sportsembed.com/ timeout=5</link>
+<description>Asian</description>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Zee TV (India)</title>
+<link>rtmp://$doregex[rtmp]/live playpath=ztvtvtvtvtv?id=177617 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv conn=S:OK live=1 swfVfy=1 timeout=10</link>
+<regex>
+<name>rtmp</name>
+<expres>.*redirect=([\.\d]+)</expres>
+<page>http://mips.tv:1935/loadbalancer</page>
+</regex>
+</item>
+
+</channels>
 
 
 
