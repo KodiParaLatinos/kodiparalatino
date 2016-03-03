@@ -1,47 +1,26 @@
 #EXTM3U
 
 
-#EXTINF:0,TETEMUNDO Opcion1
-https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
 
-#EXTINF:0,UNIVISION Opcion 1
-https://video05-lax.streamup.com/app/univision2chivas_69s-stream/playlist.m3u8
-
-#EXTINF:0,True TV
-http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
-
-#EXTINF:0,Miami TV
-http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
-
-#EXTINF:0,Miami Music TV
-http://74.208.152.93/music/stream3/stream.m3u8
-
-#EXTINF:0,WGN
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-
-#EXTINF:0,NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-#EXTINF:0,Fox Sports 1
+#EXTINF:0,Fox Sports 
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 #EXTINF:0,CNN International
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w41036801.m3u8
 
-#EXTINF:0,TETEMUNDO 
-http://video06-atl.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
-#EXTINF:0,UNIVISION
-http://video06-atl.streamup.com/app/univision2chivas_69s-stream/playlist.m3u8
+#EXTINF:0,Fox Sports 1
+http://54.161.200.196/server/play/fs2ctg/4028000/prog.m3u8?anv=1454719010244%26X-Anvato-Adst-Auth=W8KwjyDBpI9uS6X%2FWRctgNk0lxu8DzS7q7Js3hIe7%2BTLVx0hIrzVqPNi6gkLQXy2
+#EXTINF:0,Red Bull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:-1,Euro Sport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
-#EXTINF:0,TELEMUNDO 39
-https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
-#EXTINF:0,UNIVISION 23
-https://video05-lax.streamup.com/app/turbo-maxs-channel/playlist.m3u8
+#EXTINF:0,True TV US
+http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="telemundo.png",Telemundo Puerto Rico
-http://104.236.200.163:1583/300815/wkaq/playlist.m3u8
-
-#EXTINF:0,Telemundo Pacifico
-http://video06-atl.streamup.com/app/telemundo-pacifics-stream/playlist.m3u8
+#EXTINF:0,Miami TV
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,Miami Music TV
+http://74.208.152.93/music/stream3/stream.m3u8
 
 #EXTINF:0,GalaTV
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
@@ -108,24 +87,6 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8?
 
 #EXTINF:0,PAC-12 Net. (Washington)
 http://xrxs.net/video/live-p12wash-4728.m3u8?
-
-#EXTINF:0,[COLOR blue]Sk sport 1[/COLOR]
-http://80.243.189.26:9909/sportshd/sky1/index.m3u8
-
-#EXTINF:0,[COLOR blue]Sk sport 2[/COLOR]
-http://80.243.189.26:9909/sportshd/sky2/index.m3u8
-
-#EXTINF:0,[COLOR blue]Sk sport 3[/COLOR]
-http://80.243.189.26:9909/sportshd/sky3/index.m3u8
-
-#EXTINF:0,[COLOR blue]Sk sport 4[/COLOR]
-http://80.243.189.26:9909/sportshd/sky4/index.m3u8
-
-#EXTINF:0,[COLOR blue]Sk sport 5[/COLOR]
-http://80.243.189.26:9909/sportshd/sky1/index.m3u8
-
-#EXTINF:0,[COLOR FF11b500]Sky formula 1[/COLOR]
-http://80.243.189.26:9909/sportshd/skf1/index.m3u8
 
 #EXTINF:0,[COLOR FF11b500]Sky news[/COLOR]
 http://80.243.189.26:9909/sportshd/skynews/index.m3u8
@@ -480,7 +441,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tv_agro.png",[COLOR orange]TV Agro[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
 
-#EXTINF:0,[COLOR lime][B]CANADÁ[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="498px-CBC-Television-Logo.png" group-title="CANADÁ",CBC
 http://192.99.201.121:1935/eu2/cbc.stream/default.m3u8
