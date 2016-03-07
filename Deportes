@@ -44,14 +44,13 @@
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/EVENTOS</externallink> ##change haider
    
+</channel>
+  </channels>
+  
+  
+ <channels>
 
-
- <item>
-    <title>[COLOR blue]*[/COLOR][COLOR red]  Deportes Lista de AdryanList[/COLOR] [COLOR red] [/COLOR]</title>
-	<link>http://ignorame</link><thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail><fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
-	<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
-    </item>
-
+<channel>
 
 <!--	
 			
