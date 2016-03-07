@@ -1166,3 +1166,153 @@
 <item><title>Bones  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/bones.mp4</link></item>
 <item><title>Criminal Minds  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/criminal.mp4</link></item>
 <item><title>CSI: Miami  [COLOR red]USA[/COLOR]</title><link>http://iptvnation.com/csimiami.mp4</link></item>
+
+
+
+
+
+
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_480p_av-b.m3u8?sd=10&rebase=on
+
+<item> <title>[COLOR pink]Tu History [/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mfv_05 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
+
+
+
+	<!--
+	
+
+	<item> <title>[COLOR pink]Tu History [/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mfv_08 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_mfv_08$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item> 
+
+	<item> <title>[COLOR pink]H2[/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mfv_09 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_mfv_09$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
+
+	<item> <title>[COLOR pink]Nat Geo Wild / History Channel[/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_canalhistoria live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_canalhistoria$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
+
+	-->
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<item> <title>[COLOR blue]Telemundo opcion 01[/COLOR]</title> <link>$doregex[get-link]</link> <regex> <name>get-link</name> <expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20931896/streams/live/playlist.m3u8')</expres> <page></page> </regex>  </item> 
+	
+	<item> <title>[COLOR blue]Telemundo opcion 02[/COLOR]</title> <link>$doregex[get-link]</link> <regex> <name>get-link</name> <expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8')</expres> <page></page> </regex>  </item>	
+	
+		
+	<item> <item> <title>[COLOR blue]Telemundo opcion 3 [/COLOR]</title><!-- http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php --> <link>https://video-cdn.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8</link> </item>	
+	
+	<item> <item> <title>[COLOR blue]Telemundo opcion 4 [/COLOR]</title><!-- http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php --> <link>https://video-cdn.streamup.com/app/bypass_tvs-stream/playlist.m3u8</link> </item>	
+ 	
+ 	<item> <title>[COLOR blue]Telemundo 44 [/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_telemundo44 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_telemundo44$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
+
+<item> <title>[COLOR blue]Telemundo PR[/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_telemundopr live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_telemundopr$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
+
+
+ 	<!-- 	<item><title>[COLOR blue]Univision (opc.1)[/COLOR]</title><link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link><regex>        <name>path</name>        <expres>file: "(.*).flv</expres>        <page>https://www.streamlive.to/view/69932</page></regex><regex>        <name>tok</name>        <expres>token":"([^"]*)</expres>        <page>$doregex[tokpg]</page>        <referer>https://www.streamlive.to</referer></regex><regex>        <name>tokpg</name>        <expres>getJSON\("([^"]*)</expres>        <page>https://www.streamlive.to/view/69932</page></regex><regex>        <name>xs</name>        <expres>/(\?xs=.*?)"</expres>        <page>https://www.streamlive.to/view/69932</page>        <rawpost>captcha=$doregex[answer]</rawpost>        <referer>https://www.streamlive.to</referer>        <cookieJar></cookieJar>        <ignorecache/></regex><regex>        <name>answer</name>        <expres>$pyFunction:($doregex[captcha])</expres>        <page></page></regex><regex>        <name>captcha</name>        <expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>        <page></page></regex><regex>        <name>xcaptcha</name>        <expres>Question: (.*) =</expres>        <page>https://www.streamlive.to/view/69932</page>        <referer>http://www.streamlive.to</referer>        <cookieJar></cookieJar></regex></item>	<item> <title>[COLOR blue]Univision 03[/COLOR]</title><!-- http://www.mirandotv.net/2014/03/univision-en-vivo-por-internet.html  <link>$doregex[get-link]</link> <regex> <name>get-link</name> <expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8')</expres> <page></page> </regex>  </item> --> 	
+	
+	
+<item> <title>[COLOR blue]UNIVERSO[/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_universo_ live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_universo$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
+	
+	
+	
+	
+	
+ 	<item> <title>[COLOR blue]Univision 44 HD[/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_univision_hd44 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_univision_hd44$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item> 
+
+
+	
+ 	<item> <title>[COLOR blue]Univision 45 HD[/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_univision_hd45 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_univision_hd45$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>	
+
+
+	
+ 	<item> <title>[COLOR blue]Univision  New York ***[/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_univision_mar04 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_univision_mar04$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>	
+		
+ <item> <title>[COLOR blue]Univision 69[/COLOR]</title> <link>rtmp://$doregex[rtmpip]/live playpath=anahii?id=5286 conn=S:OK swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf pageUrl=http://www.streamify.tv live=1 timeout=20</link> <regex> <name>rtmpip</name> <expres>redirect=(.*)</expres> <page>http://www.streamify.tv:1935/loadbalancer</page> <referer>http://www.streamify.tv/resources/scripts/eplayer.swf</referer> </regex> </item>
+ 
+
+ 
+ <item><title>[COLOR blue]Univision HD[/COLOR]</title><link>https://video06-atl.streamup.com/app/univision2chivas_69s-stream/chunklist.m3u8</link></item>
+
+ 
+<item><title>[COLOR blue]MundoMax[/COLOR]</title><link>https://video-cdn.streamup.com/app/ana69s-stream/playlist.m3u8</link></item>
+
+
+
+ 
+
+ 
+ <item> <title>[COLOR blue]Unimas 02 [/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_unimas23 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_unimas23$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>	
+ 
+ 
+ 
+ <item> <title>[COLOR blue]Estrella TV[/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_estrella1000 live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_estrella1000$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
+
+
+<item> 
+<title>[COLOR blue]Estrella TV en vivo[/COLOR]</title>
+<utube>fTd25zr2v2U</utube></item>
+
+
+	
+	<item> <title>[COLOR blue]WAPA PR[/COLOR]</title> <link>rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>	</item>		
+	
+	
+ 
+ <item> <title>[COLOR blue]Tv de Ecuador[/COLOR]</title> <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_miratvdeecuadorc live=1 timeout=20</link> <regex> <name>clearCode</name> <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres> <page></page> </regex> <regex> <name>getencoded</name> <expres>:mvnkey-(.*)</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getserver</name> <expres>(.*?);</expres> <page>$doregex[getUrl]</page> </regex> <regex> <name>getUrl</name> <expres>(.*)</expres> <page>http://mvn.vaughnsoft.net/video/edge/live_miratvdeecuadorc$doregex[gettime]-$doregex[gettime].33434</page> </regex> <regex> <name>gettime</name> <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres> <page></page> </regex> </item>
+ 
+ 
+
+
+
+
+
+
+
+
+
