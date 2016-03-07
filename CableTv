@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+
+ 
+ 
+#EXTINF:0,America TV 
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
+#EXTINF:0, America TV 1
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 #EXTINF:0,MundoMax
 https://video-cdn.streamup.com/app/ana69s-channel_aac/playlist.m3u8
 #EXTINF:0,TELEMUNDO
