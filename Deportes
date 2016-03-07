@@ -44,8 +44,7 @@
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/EVENTOS</externallink> ##change haider
    
-</channel>
-  </channels>
+
 
  <item>
     <title>[COLOR blue]*[/COLOR][COLOR red]  Deportes Lista de AdryanList[/COLOR] [COLOR red] [/COLOR]</title>
@@ -506,7 +505,9 @@
 </item>
 
 
-
+</channel>
+  </channels>
+  
 
 
 #EXTINF:0,Canal+ Liga
