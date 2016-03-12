@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR lime][B]*[/B][/COLOR]   [COLOR red][B] STALKER [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>i66.tinypic.com/10ekh10.jpg</thumbnail>
-<fanart>i66.tinypic.com/10ekh10.jpg</fanart>
-<externallink>https://copy.com/QpzZKN0zwSm9CcR2</externallink>
-</item>
+
+
+<favourites>
+    <favourite name="All">ActivateWindow(10025,&quot;plugin://plugin.video.stalker/?genre_id=%2a&amp;genre_name=All&amp;mode=channels&amp;portal=%7b%22name%22%3a%20%22%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NFPS%22%2c%20%22parental%22%3a%20%22true%22%2c%20%22url%22%3a%20%22http%3a%2f%2fmw1.iptv66.tv%22%2c%20%22ppassword%22%3a%20%220000%22%2c%20%22mac%22%3a%20%2200%3a1A%3a78%3a83%3a31%3a88%22%2c%20%22serial%22%3a%20%7b%22send_serial%22%3a%20true%2c%20%22custom%22%3a%20false%7d%2c%20%22password%22%3a%20%224970202958093%22%2c%20%22login%22%3a%20%224970202958093%22%7d&quot;,return)</favourite>
+</favourites>
