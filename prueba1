@@ -1,87 +1,298 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-<channel>
-
 <item>
-<title>Sopcast Local Stream (Choose any Stream in Sopcast)</title>
-<link>http://127.0.0.1:8902
-</item>
+			<title>[COLOR deepskyblue]ESPN Deportes[/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR skyblue][LIGA MX][/COLOR]</title>
+			<thumbnail>http://3.bp.blogspot.com/-9L5QPnyvgds/UIByzahUSWI/AAAAAAAArpE/t9PpgnYRgQ0/s320/espn+deportes+online.jpg</thumbnail>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_psn$doregex[id] live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_psn$doregex[id]$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>id</name>
+			<expres>a href="/psn(.*?)"</expres>
+			<page>http://vaughnlive.tv/browse/espanol</page>
+			</regex>
+			</item>
+			
 
+
+
+
+
+		
+			
 <item>
-<title>Chelsa TV</title>
-<link>rtmpe://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 timeout=5</link>
-<description></description>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Clubland TV (Low Quality)</title>
-<link>rtmpe://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chclublandtvuk/2011/11/23/eaa7236a-9ee7-43e2-ace7-6b0e3e3aecfb timeout=5</link>
-<description></description>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NBA 24/7</title>
-<link>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</link>
-<description></description>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NRK 2 (Good Quality)</title>
-<link>http://mi6.gv.filmon.com:1935/live/375.high.stream/playlist.m3u8</link>
-<description></description>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Europa Plus (Good Quality)</title>
-<link>http://178.151.4.67:8888/udp/238.0.0.139:1234</link>
-<description></description>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Radio 95.9 MHz UNID (Good Quality)</title>
-<link>http://best.str.nettvplus.com:8080/stream/?fw=true&route=OPTIMAL&sp=nettvplus&channel=tvleskovac&stream=1mb&b=3</link>
-<description>Music</description>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Capital TV (Pakistan)</title>
-<link>http://184.107.236.10:1935/live/myStream.sdp/chunklist.m3u8?wowzasessionid=915640394</link>
-<description>Asian News Channel</description>
-<thumbnail></thumbnail>
-</item>
-
-<item><title>Dunya</title>
-<link>rtmp://50.117.24.90/live playpath=mp4:livestream_1.f4v swfVfy=1 live=true timeout=10 swfUrl=http://dunyanews.tv/videoplayer/jwplayer.flash.swf pageUrl=http://dunyanews.tv/livehd/</link></item>
-
-<item>
-<title>Sun Tv (Indian)</title>
-<link>rtmpe://141.8.244.56/live playpath=sun_tv_hq token=%X786(nPK@#. swfUrl=http://sportsembed.com/class/playerhd.swf live=1 pageUrl=http://sportsembed.com/ timeout=5</link>
-<description>Asian</description>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Zee TV (India)</title>
-<link>rtmp://$doregex[rtmp]/live playpath=ztvtvtvtvtv?id=177617 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv conn=S:OK live=1 swfVfy=1 timeout=10</link>
+<title>[COLOR lightblue]Plus Liga [/COLOR] </title>
+<link>rtmp://nl.iguide.to/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item> 			
+			
+			
+			
+			
+	<item>
+<title>Bein ñ / Liga BBVA  [COLOR skyblue][ ][/COLOR]</title>
+<link>$doregex[url]</link>
 <regex>
-<name>rtmp</name>
-<expres>.*redirect=([\.\d]+)</expres>
-<page>http://mips.tv:1935/loadbalancer</page>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72400',False,False,'http://vipracing.info/')</expres>
+	<page></page>
 </regex>
+<thumbnail></thumbnail>
 </item>
 
-</channels>
+<item>
+<title>Bein ES / Liga BBVA  [COLOR skyblue][ ][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53681',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>		
+			
+<item>
+<title>Bein ñ op2 / Liga BBVA   [COLOR coral][ ][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53682',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>	
+
+			
+	<item>
+<title>Bein ES</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72851',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>			
+<item>
+<title>VIP03 / [COLOR coral][Juventus vs. US Sassuolo][/COLOR]•[COLOR coral][NBA | Miami Heat vs. Chicago Bulls][/COLOR]•[COLOR coral][NBA | New York Knicks vs. Los Angeles Clippers][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71391',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>	
+			
+	<item>
+<title>Vip04 / [COLOR coral][WWE Late Night Smackdown ][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71393',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>	
+
+	<item>
+<title>Vip05 / [COLOR skyblue][AS Monaco vs. Stade de Reims ][/COLOR] • [COLOR coral][ NBA | New Orleans Pelicans vs. Memphis Grizzlies][/COLOR] </title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71395',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>		
+			
+			
+<item>
+<title>Vip06 / [COLOR coral][...] [/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71396',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+		
+	<item>
+<title>Vip07 / Multicanal  [COLOR coral][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71996',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+				
+			
+	<item>
+<title>Vip08 / Liga Premiere Inglesa</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72002',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+	<item>
+<title>Vip08 / Liga Premiere Inglesa op2</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72000',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+	<item>
+<title>SkySports 3 / ATP Tour | ATP World Tour Masters Indian Wells </title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72744',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
 
 
 
 
 
+
+
+
+
+			<item>
+			<title>[COLOR lightblue]FutbolAndres:  Multicanal Deportivo [Canal+ Liga][/COLOR]   [COLOR coral][--][/COLOR]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.pubucaster.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.embeducaster.com/membedplayer/fbandresdzx4/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.embeducaster.com</referer>
+			</regex>
+			<thumbnail>logo.logo.logo</thumbnail></item>
+			
+			<item>
+			<title>[COLOR lightblue]FutbolAndres:  Multicanal Deportivo [LIGA MX][/COLOR]   [COLOR coral][--][/COLOR]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.pubucaster.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.embeducaster.com/membedplayer/andresfutbol14/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.embeducaster.com</referer>
+			</regex>
+			<thumbnail>logo.logo.logo</thumbnail></item>
+			
+			
+			<!--
+
+			<item>
+<title>[COLOR lightblue]milloxtv 01:  Multicanal Deportivo [--][/COLOR]   [COLOR coral][/COLOR]</title>
+<link>https://$doregex[get-response]/app/$doregex[get-id]_aac/playlist.m3u8</link><regex><name>get-response</name><expres>(.*)</expres><page>https://lancer.streamup.com/api/redirect/$doregex[get-id]</page></regex><regex><name>get-id</name><expres>"roomSlug": "(.*?)"</expres>
+<page>https://streamup.com/$doregex[get-ch]</page></regex>	<regex><name>get-ch</name><expres>https://streamup.com/(.*?)/</expres>
+<page>http://milloxtva.blogspot.mx/p/ch1.html</page>
+</regex>	
+</item>			
+
+
+
+
+	<item>
+<title>[COLOR lightblue]milloxtv 05:  Multicanal Deportivo [FoxSports][/COLOR]   [COLOR coral][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/embedplayer_new.php?width=650&amp;height=400&amp;channel=$doregex[ch]&amp;autoplay=true',False,False,'http://www.milloxtv.org')</expres>
+	<page></page>
+</regex>
+<regex>
+<name>ch</name> 
+<expres>http://www.iguide.to/embed/(.*?)&</expres>
+<page>http://milloxtva.blogspot.mx/p/ch5.html</page>			
+</regex>
+
+<thumbnail></thumbnail>
+</item>	
+
+	<item>
+<title>[COLOR lightblue]milloxtv 06:  Multicanal Deportivo [FoxSports][/COLOR]   [COLOR coral][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/embedplayer_new.php?width=650&amp;height=400&amp;channel=$doregex[ch]&amp;autoplay=true',False,False,'http://www.milloxtv.org')</expres>
+	<page></page>
+</regex>
+<regex>
+<name>ch</name> 
+<expres>http://www.iguide.to/embed/(.*?)&</expres>
+<page>http://milloxtva.blogspot.mx/p/ch6.html</page>			
+</regex>
+
+<thumbnail> </thumbnail>
+</item>	
+
+-->
+
+	<item>
+<title>[COLOR lightblue]MaxDeportes 01:  Multicanal Deportivo[/COLOR]   [COLOR coral][--][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/embedplayer_new.php?width=650&amp;height=400&amp;channel=$doregex[ch]&amp;autoplay=true',False,False,'http://maxdeportv.net')</expres>
+	<page></page>
+</regex>
+<regex>
+<name>ch</name> 
+<expres>http://www.iguide.to/embed/(.*?)&</expres>
+<page>http://maxdeportv.net/?canal=1</page>			
+</regex>
+
+<thumbnail></thumbnail>
+</item>	
 
 
 https://dl.dropboxusercontent.com/s/dgyqvy9w6zujtrk/bassfox.index.1.6.0.indexprincipalnocopiar.xml
