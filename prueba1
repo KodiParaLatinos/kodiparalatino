@@ -4,7 +4,7 @@
 <channels>
 
 <channel>
-<name>       [COLOR=orange] [B]                      MIAMILIST LES COMUNICA       [/B] [/COLOR] </name>
+<name>       [COLOR=red] [B]                      MIAMILIST LES COMUNICA       [/B] [/COLOR] </name>
 <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
@@ -12,7 +12,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=lightskyblue][B]Esta versión que usas esta Desactualizada[/B] [/COLOR] </name>
+<name>[COLOR=blue][B]Esta versión que usas esta Desactualizada[/B] [/COLOR] </name>
 <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
@@ -20,7 +20,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=lightskyblue][B]Actualiza a la nueva versión del Add-on[/B] [/COLOR] </name>
+<name>[COLOR=blue][B]Actualiza a la nueva versión del Add-on[/B] [/COLOR] </name>
 <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
@@ -28,7 +28,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=lightskyblue][B]Si no es Automático hazlo comprobando actualización[/B] [/COLOR] </name>
+<name>[COLOR=blue][B]Si no es Automático hazlo comprobando actualización[/B] [/COLOR] </name>
 <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
@@ -36,7 +36,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=lightskyblue][B]Si aún no puedes actualizarlo, pidelo en el Grupo de Facebook IPTV LATINO[/B] [/COLOR] </name>
+<name>[COLOR=blue][B]Si aún no puedes actualizarlo, pidelo en el Grupo de Facebook IPTV LATINO[/B] [/COLOR] </name>
 <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
@@ -44,7 +44,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=lightskyblue][B]MiamiList es un Add-on gratuito no pagues nada[/B] [/COLOR] </name>
+<name>[COLOR=blue][B]MiamiList es un Add-on gratuito no pagues nada[/B] [/COLOR] </name>
 <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
@@ -52,7 +52,7 @@
 </channel>>
 
 <channel>
-<name>[COLOR=lightskyblue][B]Si pagaste por este Add-on reportalo al siguiente Mail[/B] [/COLOR] </name>
+<name>[COLOR=blue][B]Si pagaste por este Add-on reportalo al siguiente Mail[/B] [/COLOR] </name>
 <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
@@ -60,7 +60,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=lightskyblue][B]>>>> [COLOR=mediumseagreen]santaclara681@gmail.com[/COLOR] <<<< [/B]</name>[/COLOR] </name>
+<name>[COLOR=blue][B]>>>> [COLOR=lime]santaclara681@gmail.com[/COLOR] <<<< [/B]</name>[/COLOR] </name>
 <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
@@ -69,21 +69,21 @@
 
 
 <channel>
-<name>[COLOR=lightskyblue][B]MiamiList les agradece su preferencia[/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
+<name>[COLOR=blue][B]MiamiList les agradece su preferencia[/B] [/COLOR] </name>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+<fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>http://ignoreme</externallink>
-</channel>
+</channel
 
 
 <channel>
-<name>[COLOR=cadetblue][B]MiamiList Marzo 2016[/B] [/COLOR] </name>
-<thumbnail>https://dl.dropbox.com/s/d81xbdkr997yrrp/logocanal.jpg?dl</thumbnail>
-<fanart>http://cdnph.upi.com/sv/b/upi_com/UPI-6631420933489/2015/1/bd8e429c47a6ae6c488e9702e23e3a46/Hackers-from-Anonymous-take-down-Fr</fanart>
+<name>[COLOR=blue][B]MiamiList Marzo 2016[/B] [/COLOR] </name>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+<fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>http://ignoreme</externallink>
-</channel>
+</channel
 
 
 </channels>
