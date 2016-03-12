@@ -83,7 +83,13 @@
     <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
     <fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
     
-    
+    <item>
+<title>[COLOR blue]Movies[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
+<thumbnail>http://orig04.deviantart.net/4e6c/f/2015/052/6/f/movies_general_folder_icon_by_zsotti60-d8ix5rx.png</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
   
 
   <item>
