@@ -9,7 +9,13 @@
     <link>http://Ignoreme</link>
     <externallink>http://textuploader.com/aeatt/raw</externallink>
   
-
+<item>
+<title>[COLOR blue]Series Ingles[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=tvNavigator</jsonrpc>
+<thumbnail>http://i.imgur.com/OD1vguc.png</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
 
 
 
