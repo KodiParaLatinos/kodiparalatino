@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
-			<title>[COLOR lime]ESPN Deportes[/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR lime][LIGA MX][/COLOR]</title>
+			<title>[COLOR lime]ESPN Deportes[/COLOR] [COLOR lime][LIGA MX][/COLOR]</title>
 			<thumbnail>http://3.bp.blogspot.com/-9L5QPnyvgds/UIByzahUSWI/AAAAAAAArpE/t9PpgnYRgQ0/s320/espn+deportes+online.jpg</thumbnail>
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_psn$doregex[id] live=1 timeout=20</link>
 			<regex>
@@ -79,7 +79,7 @@
 
 			
 	<item>
-<title>[COLOR lime]Bein ES[/COLOR</title>
+<title>[COLOR lime]Bein ES[/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -89,7 +89,7 @@
 <thumbnail></thumbnail>
 </item>			
 <item>
-<title>VIP03 / [COLOR lime][Juventus vs. US Sassuolo][/COLOR]•[COLOR lime][NBA | Miami Heat vs. Chicago Bulls][/COLOR]•[COLOR lime][NBA | New York Knicks vs. Los Angeles Clippers][/COLOR]</title>
+<title>[COLOR lime]VIP03 / [Juventus vs. US Sassuolo][/COLOR]•[COLOR lime][NBA | Miami Heat vs. Chicago Bulls][/COLOR]•[COLOR lime][NBA | New York Knicks vs. Los Angeles Clippers][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -100,7 +100,7 @@
 </item>	
 			
 	<item>
-<title>Vip04 / [COLOR lime][WWE Late Night Smackdown ][/COLOR]</title>
+<title>[COLOR lime]Vip04 / [COLOR lime][WWE Late Night Smackdown ][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -111,7 +111,7 @@
 </item>	
 
 	<item>
-<title>Vip05 / [COLOR lime][AS Monaco vs. Stade de Reims ][/COLOR] • [COLOR coral][ NBA | New Orleans Pelicans vs. Memphis Grizzlies][/COLOR] </title>
+<title>[COLOR lime]Vip05 / [COLOR lime][AS Monaco vs. Stade de Reims ][/COLOR] • [COLOR coral][ NBA | New Orleans Pelicans vs. Memphis Grizzlies][/COLOR] </title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -123,7 +123,7 @@
 			
 			
 <item>
-<title>Vip06 / [COLOR lime][...] [/COLOR]</title>
+<title>[COLOR lime]Vip06 / [COLOR lime][...] [/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
