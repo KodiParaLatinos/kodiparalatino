@@ -1195,7 +1195,13 @@ https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH
 <externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/series</externallink>
 </item 
     
-
+<item>
+<title>[COLOR blue]Series Ingles[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=tvNavigator</jsonrpc>
+<thumbnail>http://i.imgur.com/OD1vguc.png</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</item>
     
     
 	
