@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
-			<title>[COLOR deepskyblue]ESPN Deportes[/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR skyblue][LIGA MX][/COLOR]</title>
+			<title>[COLOR lime]ESPN Deportes[/COLOR] [COLOR lightblue][PSN][/COLOR] [COLOR lime][LIGA MX][/COLOR]</title>
 			<thumbnail>http://3.bp.blogspot.com/-9L5QPnyvgds/UIByzahUSWI/AAAAAAAArpE/t9PpgnYRgQ0/s320/espn+deportes+online.jpg</thumbnail>
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_psn$doregex[id] live=1 timeout=20</link>
 			<regex>
@@ -41,17 +41,11 @@
 
 
 
-		
-			
-<item>
-<title>[COLOR lightblue]Plus Liga [/COLOR] </title>
-<link>rtmp://nl.iguide.to/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item> 			
-			
 			
 			
 			
 	<item>
-<title>Bein ñ / Liga BBVA  [COLOR skyblue][ ][/COLOR]</title>
+<title>[COLOR lime] Bein ñ / Liga BBVA  [/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -62,7 +56,7 @@
 </item>
 
 <item>
-<title>Bein ES / Liga BBVA  [COLOR skyblue][ ][/COLOR]</title>
+<title>[COLOR lime]Bein ES / Liga BBVA  [/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -73,7 +67,7 @@
 </item>		
 			
 <item>
-<title>Bein ñ op2 / Liga BBVA   [COLOR coral][ ][/COLOR]</title>
+<title>[COLOR lime]Bein ñ  / Liga BBVA   [/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -85,7 +79,7 @@
 
 			
 	<item>
-<title>Bein ES</title>
+<title>[COLOR lime]Bein ES[/COLOR</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -95,7 +89,7 @@
 <thumbnail></thumbnail>
 </item>			
 <item>
-<title>VIP03 / [COLOR coral][Juventus vs. US Sassuolo][/COLOR]•[COLOR coral][NBA | Miami Heat vs. Chicago Bulls][/COLOR]•[COLOR coral][NBA | New York Knicks vs. Los Angeles Clippers][/COLOR]</title>
+<title>VIP03 / [COLOR lime][Juventus vs. US Sassuolo][/COLOR]•[COLOR lime][NBA | Miami Heat vs. Chicago Bulls][/COLOR]•[COLOR lime][NBA | New York Knicks vs. Los Angeles Clippers][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -106,7 +100,7 @@
 </item>	
 			
 	<item>
-<title>Vip04 / [COLOR coral][WWE Late Night Smackdown ][/COLOR]</title>
+<title>Vip04 / [COLOR lime][WWE Late Night Smackdown ][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -117,7 +111,7 @@
 </item>	
 
 	<item>
-<title>Vip05 / [COLOR skyblue][AS Monaco vs. Stade de Reims ][/COLOR] • [COLOR coral][ NBA | New Orleans Pelicans vs. Memphis Grizzlies][/COLOR] </title>
+<title>Vip05 / [COLOR lime][AS Monaco vs. Stade de Reims ][/COLOR] • [COLOR coral][ NBA | New Orleans Pelicans vs. Memphis Grizzlies][/COLOR] </title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -129,7 +123,7 @@
 			
 			
 <item>
-<title>Vip06 / [COLOR coral][...] [/COLOR]</title>
+<title>Vip06 / [COLOR lime][...] [/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -141,7 +135,7 @@
 
 		
 	<item>
-<title>Vip07 / Multicanal  [COLOR coral][/COLOR]</title>
+<title>[COLOR lime] Vip07 / Multicanal  [/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -154,7 +148,7 @@
 				
 			
 	<item>
-<title>Vip08 / Liga Premiere Inglesa</title>
+<title>[COLOR lime]Vip08 / Liga Premiere Inglesa[/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -164,7 +158,7 @@
 <thumbnail></thumbnail>
 </item>
 	<item>
-<title>Vip08 / Liga Premiere Inglesa op2</title>
+<title>[COLOR lime]Vip08 / Liga Premiere Inglesa [/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -175,7 +169,7 @@
 </item>
 
 	<item>
-<title>SkySports 3 / ATP Tour | ATP World Tour Masters Indian Wells </title>
+<title>[COLOR lime]SkySports 3 / ATP Tour | ATP World Tour Masters Indian Wells [/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -194,7 +188,7 @@
 
 
 			<item>
-			<title>[COLOR lightblue]FutbolAndres:  Multicanal Deportivo [Canal+ Liga][/COLOR]   [COLOR coral][--][/COLOR]</title>
+			<title>[COLOR lime]FutbolAndres:  Multicanal Deportivo [Canal+ Liga][/COLOR]   [COLOR coral][--][/COLOR]</title>
 			<link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
 			<name>ip</name>
@@ -211,7 +205,7 @@
 			<thumbnail>logo.logo.logo</thumbnail></item>
 			
 			<item>
-			<title>[COLOR lightblue]FutbolAndres:  Multicanal Deportivo [LIGA MX][/COLOR]   [COLOR coral][--][/COLOR]</title>
+			<title>[COLOR lime]FutbolAndres:  Multicanal Deportivo [LIGA MX][/COLOR]   [COLOR coral][--][/COLOR]</title>
 			<link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
 			<name>ip</name>
@@ -231,7 +225,7 @@
 			<!--
 
 			<item>
-<title>[COLOR lightblue]milloxtv 01:  Multicanal Deportivo [--][/COLOR]   [COLOR coral][/COLOR]</title>
+<title>[COLOR lime]milloxtv 01:  Multicanal Deportivo [--][/COLOR]   [COLOR coral][/COLOR]</title>
 <link>https://$doregex[get-response]/app/$doregex[get-id]_aac/playlist.m3u8</link><regex><name>get-response</name><expres>(.*)</expres><page>https://lancer.streamup.com/api/redirect/$doregex[get-id]</page></regex><regex><name>get-id</name><expres>"roomSlug": "(.*?)"</expres>
 <page>https://streamup.com/$doregex[get-ch]</page></regex>	<regex><name>get-ch</name><expres>https://streamup.com/(.*?)/</expres>
 <page>http://milloxtva.blogspot.mx/p/ch1.html</page>
@@ -242,7 +236,7 @@
 
 
 	<item>
-<title>[COLOR lightblue]milloxtv 05:  Multicanal Deportivo [FoxSports][/COLOR]   [COLOR coral][/COLOR]</title>
+<title>[COLOR lime]milloxtv 05:  Multicanal Deportivo [FoxSports][/COLOR]   [COLOR coral][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -259,7 +253,7 @@
 </item>	
 
 	<item>
-<title>[COLOR lightblue]milloxtv 06:  Multicanal Deportivo [FoxSports][/COLOR]   [COLOR coral][/COLOR]</title>
+<title>[COLOR lime]milloxtv 06:  Multicanal Deportivo [FoxSports][/COLOR]   [COLOR coral][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -278,7 +272,7 @@
 -->
 
 	<item>
-<title>[COLOR lightblue]MaxDeportes 01:  Multicanal Deportivo[/COLOR]   [COLOR coral][--][/COLOR]</title>
+<title>[COLOR lime]MaxDeportes 01:  Multicanal Deportivo[/COLOR]   [COLOR coral][--][/COLOR]</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -293,6 +287,16 @@
 
 <thumbnail></thumbnail>
 </item>	
+
+
+		
+			
+<item>
+<title>[COLOR lime]Plus Liga [/COLOR] </title>
+<link>rtmp://nl.iguide.to/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item> 			
+			
+
+
 
 
 https://dl.dropboxusercontent.com/s/dgyqvy9w6zujtrk/bassfox.index.1.6.0.indexprincipalnocopiar.xml
