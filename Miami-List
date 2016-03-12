@@ -94,7 +94,7 @@
     
     
     <item>
-<title>[COLOR lime]*[/COLOR][COLOR blue]  [B]Movies[/B] [/COLOR]</title>
+<title>[COLOR lime]*[/COLOR][COLOR blue]  [B]Movies Estrenos[/B] [/COLOR]</title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.exodus/?action=movieNavigator</jsonrpc>
 <thumbnail>http://orig04.deviantart.net/4e6c/f/2015/052/6/f/movies_general_folder_icon_by_zsotti60-d8ix5rx.png</thumbnail>
