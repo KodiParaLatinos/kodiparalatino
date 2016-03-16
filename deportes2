@@ -26,21 +26,21 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title>[COLOR red][B]BeiN Sports/B][/COLOR]</title>
+<title>[COLOR red][B]BeiN Sports[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/bein.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime]Bundesliga Live Streams[/COLOR]</title>
+<title>[COLOR lime][B]Bundesliga Live Streams[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/bundesliga-streams.net.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyblue]Dimsports.eu Live Sports[/COLOR]</title>
+<title>[COLOR deepskyblue][B]Dimsports.eu Live Sports[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
@@ -56,27 +56,27 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
  <item>
- <title> [COLOR yellow] [B]Sportsdevil[/B] [/COLOR]</title>
+ <title> [COLOR yellow] [B]Sports Devil[/B] [/COLOR]</title>
  <link>http://ignor.ame</link>
  <externallink>http://adrian.kodistream.info/adryan/sd.xml</externallink>
  </item>
 
 <item>
-<title> [COLOR violet][B][/B] Acestreams [/COLOR]</title>
+<title> [COLOR violet][B] Acestreams [/B][/COLOR]</title>
  <link>http://ignor.ame</link>
  <externallink>http://adrian.kodistream.info/adryan/ace.xml</externallink>
  </item>
   
 
  <item>
- <title>[COLOR golden][B]USA•UK[/B]Sports Channels [/COLOR]</title>
+ <title>[COLOR gol][B]USA•UK[/B]Sports Channels [/COLOR]</title>
  <link>http://ignor.ame</link>
  <externallink>http://adrian.kodistream.info/adryan/usauk.xml</externallink>
  </item>
  
 
  <item>
-<title> [COLOR brown][B]Dinozap[/B] Channels [/COLOR][COLOR lime]Guia de Eventos[/COLOR]</title>
+<title> [COLOR brown][B]Dinozap Channels [/B][/COLOR][COLOR lime]Guia de Eventos[/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -119,7 +119,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title> [COLOR black][B]Torrent-TV[/B] [/COLOR][COLOR lime][Plexus][/COLOR]</title>
+<title> [COLOR wite][B]Torrent-TV[/B] [/COLOR][COLOR lime][Plexus][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -137,7 +137,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title> [COLOR pin][B]VipGoal.Net[/B] [/COLOR] </title>
+<title> [COLOR pink][B]VipGoal.Net[/B] [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -157,7 +157,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title>[COLOR ivory][B]Pirlo.TV[/B] [/COLOR]</title>
+<title>[COLOR blue][B]Pirlo.TV[/B] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -192,24 +192,6 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </item>
 
 
-<item>
-<title>[COLOR blue][B]mamaHD[/B] [/COLOR][COLOR lime] Channels[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR lime][makelist.param3][/COLOR]</title>
-<sportsdevil>http://mamahd.com/[makelist.param1]</sportsdevil>
-<thumbnail>[makelist.param2]</thumbnail>
-<referer>http://mamahd.com/</referer>
-
-]]></listrepeat>
-<expres>href="http://mamahd.com/(.*?)"[\w\W\s]{0,16}"(.*?)"[\w\W\s]{0,10}>(.*?)<</expres>
-<page>http://mamahd.com/index.html</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
 
 
 <item>
