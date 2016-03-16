@@ -592,4 +592,791 @@
 </regex>
 </item>
 
+<!--	
+			
+			
+				
+			
+				
+	<item>
+<title>Canal Deportes 2 +</title>
+<link>$doregex[url]|User-Agent=iPhone&Referer=$doregex[embedurl]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:base64.b64decode("$doregex[b64url]")</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>b64url</name>
+	<expres>input type.*\n.*\n.*value="(.*?)"</expres>
+	<page>$doregex[embedurl]</page>
+	<agent>iPhone</agent>
+	<referer>http://www.vipgoal.net/</referer>
+</regex>
+<regex>
+	<name>embedurl</name>
+	<expres>src="(.*?)"</expres>
+	<page>http://www.sunhd.info/channelsa.php?file=115</page>
+	<agent>iPhone</agent>
+	<referer>http://www.vipgoal.net/</referer>
+</regex>
+</item>	
 
+-->
+
+
+
+
+
+		
+			<item>
+			<title>ESPN Deportes [COLOR lightblue][PSN][/COLOR][COLOR coral] *** [/COLOR]</title>
+			<thumbnail>http://3.bp.blogspot.com/-9L5QPnyvgds/UIByzahUSWI/AAAAAAAArpE/t9PpgnYRgQ0/s320/espn+deportes+online.jpg</thumbnail>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_psn$doregex[id] live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_psn$doregex[id]$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>id</name>
+			<expres>a href="/psn(.*?)"</expres>
+			<page>http://vaughnlive.tv/browse/espanol</page>
+			</regex>
+			</item>
+			
+
+<!--
+
+<item>
+<title>[COLOR coral] *** [/COLOR] [Multicanal 01]</title>
+<link>https://$doregex[get-response]/app/$doregex[get-id]_aac/playlist.m3u8</link><regex><name>get-response</name><expres>(.*)</expres><page>https://lancer.streamup.com/api/redirect/$doregex[get-id]</page></regex><regex><name>get-id</name><expres>"roomSlug": "(.*?)"</expres>
+<page>https://streamup.com/$doregex[get-ch]</page></regex>	<regex><name>get-ch</name><expres>https://streamup.com/(.*?)/</expres>
+<page>http://krivp.blogspot.mx/p/1.html</page>
+</regex>	
+</item>
+
+
+		<item>
+			<title>[COLOR coral] *** [/COLOR] [Multicanal 02]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.liveflash.tv/membedplayer/rivo146/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.liveflash.tv</referer>
+			</regex>
+			<thumbnail>logo.logo.logo</thumbnail></item>
+
+	
+
+ <item>
+			<title>[COLOR coral] *** [/COLOR] [Multicanal 03]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.mips.tv/membedplayer/$doregex[id]/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mips.tv</referer>
+			</regex>
+			<regex>
+			<name>id</name>
+			<expres>channel='(.*?)'</expres>
+			<page>http://rivzs1.blogspot.mx/p/3.html</page>
+			</regex>
+
+			</item>	
+			
+			
+
+
+
+ <item>
+			<title>[COLOR coral] *** [/COLOR] [Multicanal 04]</title>
+			<link>https://video02-atl.streamup.com/app/osihtormar1s-stream_aac/playlist.m3u8</link>
+</item>	
+
+
+
+
+
+
+			
+		<item>
+			<title>[COLOR coral] *** [/COLOR] [Multicanal 05]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.liveflash.tv/membedplayer/greheaehosihto/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.liveflash.tv</referer>
+			</regex>
+			<thumbnail>logo.logo.logo</thumbnail></item>	
+			
+			
+			<item>
+<title>[COLOR coral] *** [/COLOR] [Multicanal 06]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/embedplayer_new.php?width=650&amp;height=400&amp;channel=$doregex[ch]&amp;autoplay=true',False,False,'http://maxdeportv.net')</expres>
+	<page></page>
+</regex>
+<regex>
+<name>ch</name> 
+<expres>http://www.iguide.to/embed/(.*?)&</expres>
+<page>http://maxdeportv.net/?canal=36</page>			
+</regex>
+
+<thumbnail></thumbnail>
+</item>	
+			
+
+
+<item>
+			<title>[COLOR coral] *** [/COLOR] [Multicanal 07] [LIGA MX]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.pubucaster.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.embeducaster.com/membedplayer/$doregex[ch]/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.embeducaster.com</referer>
+			</regex>
+			<regex>
+			<name>ch</name>
+			<expres>channel='(.*?)'</expres>
+			<page>http://cdn-captv.blogspot.mx/2016/02/ucaster-ch01.html</page>
+			</regex></item>	
+			
+			
+ <item>
+			<title>[COLOR coral] *** [/COLOR] [Multicanal 08]</title>
+			<link>http://azubuhlspull-a.akamaihd.net/00ecfe1417eb82c2ae9ef17bce87b143/eu-west-1/video221983CHulugute3340/master.m3u8</link>
+</item>	
+
+
+<item>
+<title>[COLOR coral] *** [/COLOR] [Multicanal 09]</title>
+<link>https://$doregex[get-response]/app/$doregex[get-id]_aac/playlist.m3u8</link><regex><name>get-response</name><expres>(.*)</expres><page>https://lancer.streamup.com/api/redirect/$doregex[get-id]</page></regex><regex><name>get-id</name><expres>"roomSlug": "(.*?)"</expres>
+<page>https://streamup.com/captv2802</page></regex>	
+</item>
+
+
+
+	 <item>
+			<title>[COLOR coral] *** [/COLOR] [Multicanal 10]</title>
+			<link>https://video07-lax.streamup.com/app/captv2802s-stream_aac/chunklist.m3u8</link>
+</item>			
+
+
+
+
+<item>
+			<title>TDN (Solo Mexico) </title>
+			<link>http://tvsaguadbk-lh.akamaihd.net/i/gdldepca02_1@120885/master.m3u8</link>
+			
+			<thumbnail></thumbnail>
+			</item>
+
+			
+<item>
+<title>TDN [solo MEXICO]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvsaguadbk-lh.akamaihd.net/z/gdldepca02_1@120885/manifest.f4m?hdcore=2.11.3&g=UKQUFJQNOFXN</link>
+</item>			
+		
+
+<item>
+			<title>GALA TV (Solo Mexico) </title>
+			<link>http://tvsaguadbk-lh.akamaihd.net/i/gdldepca01_1@120884/master.m3u8</link>
+			
+			<thumbnail></thumbnail>
+			</item>
+
+
+<item>
+<title>Gala TV [solo MEXICO]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvsaguadbk-lh.akamaihd.net/z/gdldepca01_1@120884/manifest.f4m?hdcore=2.11.3&g=UKQUFJQNOFXN</link>
+</item>
+<item>
+<title>Gala TV [solo MEXICO]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tvsaguadbk-lh.akamaihd.net/z/gdldepca01_1@120884/manifest.f4m?hdcore=2.11.3&amp;g=UKQUFJQNOFXN</link>
+</item>
+
+
+-->
+			
+			
+<item>
+<title>[COLOR lightblue]Plus Liga [/COLOR]</title>
+<link>rtmp://nl.iguide.to/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item> 			
+			
+			
+			
+			
+	<item>
+<title>Bein ñ / Liga BBVA</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72400',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Bein ES / Liga BBVA</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53681',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>		
+			
+<item>
+<title>Bein ñ op2 / Liga BBVA</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53682',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>	
+
+			
+	<item>
+<title>Bein ES</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72851',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>			
+<item>
+<title>VIP03 / Liga Campeones </title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71391',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>	
+			
+	<item>
+<title>Vip04 / Liga Premiere Inglesa</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71393',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>	
+
+	<item>
+<title>Vip05 / Liga Premiere Inglesa</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71395',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>		
+			
+			
+<item>
+<title>Vip06 / Liga Premiere Inglesa</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71396',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+		
+	<item>
+<title>Vip06 / Liga Premiere Inglesa</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71996',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+				
+			
+	<item>
+<title>Vip08 / Liga Premiere Inglesa</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72002',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+	<item>
+<title>Vip08 / Liga Premiere Inglesa op2</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72000',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+			<item>
+			<title>[COLOR lightblue]FutbolAndres:  Multicanal Deportivo [Canal+ Liga][/COLOR]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.pubucaster.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.embeducaster.com/membedplayer/fbandresdzx4/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.embeducaster.com</referer>
+			</regex>
+			<thumbnail>logo.logo.logo</thumbnail></item>
+			
+			
+
+	<item>
+<title>[COLOR lightblue]MaxDeportes 01:  Multicanal Deportivo [COLOR coral][Directv Sports][/COLOR][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/embedplayer_new.php?width=650&amp;height=400&amp;channel=$doregex[ch]&amp;autoplay=true',False,False,'http://maxdeportv.net')</expres>
+	<page></page>
+</regex>
+<regex>
+<name>ch</name> 
+<expres>http://www.iguide.to/embed/(.*?)&</expres>
+<page>http://maxdeportv.net/?canal=1</page>			
+</regex>
+
+<thumbnail></thumbnail>
+</item>	
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lightblue]MaxDeportes 02:  Multicanal Deportivo [COLOR coral][Directv Sports][/COLOR][/COLOR]</title>
+<link>https://$doregex[get-response]/app/$doregex[get-id]_aac/playlist.m3u8</link><regex><name>get-response</name><expres>(.*)</expres><page>https://lancer.streamup.com/api/redirect/$doregex[get-id]</page></regex><regex><name>get-id</name><expres>"roomSlug": "(.*?)"</expres>
+<page>https://streamup.com/$doregex[get-ch]</page></regex>	<regex><name>get-ch</name><expres>https://streamup.com/(.*?)/</expres>
+<page>http://maxdeportv.net/?canal=2</page>
+</regex>	
+</item>
+
+
+</channel>
+  </channels>
+  
+
+
+#EXTINF:0,Canal+ Liga
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/43.ts
+
+#EXTINF:0,Canal+ Futbol
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/42.ts
+
+#EXTINF:0,Canal+ Deportes
+http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/44.ts
+
+#EXTINF:0,EUROSPORT
+http://ooyalahd2-f.akamaihd.net/i/esarn011_delivery@37350/master.m3u8
+
+#EXTINF:0,EUROSPORT 1
+http://ooyalahd2-f.akamaihd.net/i/esarn012_delivery@75190/master.m3u8
+
+#EXTINF:0,EUROSPORT 2
+http://ooyalahd2-f.akamaihd.net/i/esarn013_delivery@75191/master.m3u8
+
+#EXTINF:0,EUROSPORT 3
+http://ooyalahd2-f.akamaihd.net/i/esarn014_delivery@75192/master.m3u8
+#EXTINF:0,ESPN
+http://62.210.206.122:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:0,ESPN 2
+http://62.210.206.122:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+#EXTINF:0,Fox Sports 1
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
+
+#EXTINF:0,[COLOR blue]Sk sport 1[/COLOR]
+http://80.243.189.26:9999/sportshd/sky1/index.m3u8
+#EXTINF:0,[COLOR blue]Sk sport 2[/COLOR]
+http://80.243.189.26:9999/sportshd/sky2/index.m3u8
+#EXTINF:0,[COLOR blue]Sk sport 3[/COLOR]
+http://80.243.189.26:9999/sportshd/sky3/index.m3u8
+#EXTINF:0,[COLOR blue]Sk sport 4[/COLOR]
+http://80.243.189.26:9999/sportshd/sky4/index.m3u8
+#EXTINF:0,[COLOR blue]Sk sport 5[/COLOR]
+http://80.243.189.26:9999/sportshd/sky5/index.m3u8
+
+#EXTINF:0,[COLOR FF11b500]Sky formula 1[/COLOR]
+http://80.243.189.26:9999/sportshd/skf1/index.m3u8
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+<item>
+<title>Fox Sports Mexico [COLOR lightblue][/COLOR] </title>
+<link>http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8</link>
+<thumbnail>logo.logo.logo</thumbnail></item>	
+			
+<item>
+<title>Fox Sports 2 Mexico [COLOR lightblue][/COLOR] </title>
+<link>http://201.161.59.4/foxsportsplus.isml/manifest(format=m3u8-aapl).m3u8</link><thumbnail>logo.logo.logo</thumbnail></item>
+
+ 
+ 
+ 
+  <item>
+	<title>Canal+ Liga</title>
+<link></link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Canal+ Futbol</title>
+<link>http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/42.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+	
+	<title>Canal+ Deportes</title>
+<link>http://micutzuiptv.noip.me:8888/live/tvonlinestreams.com/tvonlinestreams.com/44.ts</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+	  <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn011_delivery@37350/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn012_delivery@75190/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn013_delivery@75191/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn014_delivery@75192/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn016_delivery@90477/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn017_delivery@47402/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>EUROSPORT</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/esarn018_delivery@76469/master.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Sky Sports 1</title>
+<link>http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Sky Sports 2</title>
+<link>http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Sky Sports 3</title>
+<link>http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Sky Sports 4</title>
+<link>http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Sky Sports 5</title>
+<link>http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Arena Sport 1</title>
+<link>http://169.45.89.106:1935/app/arhd1lsh58/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Arena Sport 2</title>
+<link>http://169.45.89.106:1935/app/arhd2lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Arena Sport 3</title>
+<link>http://169.45.89.106:1935/app/arhd3lsh58/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Arena Sport 4</title>
+<link>http://169.45.89.106:1935/app/arhd4lsh/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>NTV FUTBOL 1</title>
+<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/124/index.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>NTV FUTBOL 2</title>
+<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/530/index.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>NTV FUTBOL 3</title>
+<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/522/index.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>NTV PLUS Sport</title>
+<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/107/index.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>NTV  Sport</title>
+<link>http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/123/index.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Real Madrid TV</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>CDN SPORT MAX</title>
+<link>http://108.168.206.90:1935/cdn/cdn/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>dvxtv sport arg</title>
+<link>http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w581676071_b800000_slesp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Redbull TV</title>
+<link>http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>ESPN +</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>ESPN</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>ESPN 2</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>ESPN 3</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Fox Sports</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Fox Sports 2</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>PX</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+    
+    <item>
+	<title>Fox Sports HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1</link>
+<thumbnail>tvg-logo="logotv.png</thumbnail>
+    </item>
+
+  <item>
+    <title>[COLOR blue]*[/COLOR][COLOR red]  Deportes Lista de AdryanList[/COLOR] [COLOR red] [/COLOR]</title>
+	<link>http://ignorame</link><thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+	<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
+    </item>
+	
+	
+
+<item><title> [COLOR red][/COLOR][COLOR red]deportes livesportstreams [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livesportstreams.tv.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+
+ <item><title> [COLOR red][/COLOR][COLOR red]RojaDirecta [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+<item><title> [COLOR red][/COLOR][COLOR red]deportes Livetv [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livetv.ru.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+<item><title> [COLOR red][/COLOR][COLOR red]deportes Lshunter [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/lshunter.tv.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+
+
+<item><title> [COLOR red][/COLOR][COLOR red]deportes firstrowsports [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.ge.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+ 
+ <item><title> [COLOR red][/COLOR][COLOR red][B]USA/UK[/B] Sports Channels [/COLOR]</title>
+ <link>http://ignor.ame</link>
+ <externallink>http://adrian.kodistream.info/adryan/usauk.xml</externallink>
+ </item>
