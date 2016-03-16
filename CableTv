@@ -1,31 +1,21 @@
-
-
-
 #EXTM3U
 
 
 
- 
- 
-#EXTINF:0,America TV 
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
-#EXTINF:0, America TV 1
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
-#EXTINF:0,MundoMax
-https://video-cdn.streamup.com/app/ana69s-channel_aac/playlist.m3u8
+
+
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
 #EXTINF:0,TELEMUNDO
 http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
-#EXTINF:0,TELEMUNDO 1
-https://video-cdn.streamup.com/app/telemundox2chivas_69s-stream_aac/playlist.m3u8
-#EXTINF:0,Telemundo Pacifico
-https://video-cdn.streamup.com/app/telemundo-pacifics-stream_aac/playlist.m3u8
-#EXTINF:0,UNIVISION 
-https://video-cdn.streamup.com/app/univision2chivas_69s-stream_aac/chunklist.m3u8
+
+#EXTINF:-1,UNIVISION
+http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
 #EXTINF:0,UNIVISION 1
 http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
 
-#EXTINF:0,Fox Family
-http://104.236.61.232:8081/live/sky69/FoxFamilycsp/playlist.m3u8
+#EXTINF:-1,TVeo Miami
+http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0,Azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
