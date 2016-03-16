@@ -47,11 +47,223 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue]Agenda del Dia [/COLOR][COLOR skyblue] RojaDirecta[/COLOR]</title>
+<title>[COLOR red][B] RojaDirecta[/B] [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
 <thumbnail>logo.logo.logo</thumbnail>
 <thumbnail>logo.logo.logo</thumbnail></item>
+
+
+
+ <item>
+ <title> [COLOR yellow] [B]Sportsdevil[/B] [/COLOR]</title>
+ <link>http://ignor.ame</link>
+ <externallink>http://adrian.kodistream.info/adryan/sd.xml</externallink>
+ </item>
+
+<item>
+<title> [COLOR violet][B][/B] Acestreams [/COLOR]</title>
+ <link>http://ignor.ame</link>
+ <externallink>http://adrian.kodistream.info/adryan/ace.xml</externallink>
+ </item>
+  
+
+ <item>
+ <title>[COLOR golden][B]USA•UK[/B]Sports Channels [/COLOR]</title>
+ <link>http://ignor.ame</link>
+ <externallink>http://adrian.kodistream.info/adryan/usauk.xml</externallink>
+ </item>
+ 
+
+ <item>
+<title> [COLOR brown][B]Dinozap[/B] Channels [/COLOR][COLOR lime]Guia de Eventos[/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[B][COLOR deepskyblue]Canal [/COLOR][COLOR skyblue] [makelist.param1][/COLOR][/B]</title>
+    <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>(?s)bed\s*(\d+)\s(.+?)Em</expres>
+<page>$doregex[getpage]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<item>
+    <title>[B][COLOR dodgerblue][makelist2.param1]-[makelist2.param2][/COLOR][/B]</title>
+    <sportsdevil>http://www.dinozap.info/redirect/channel.php?id=[makelist.param1]</sportsdevil>
+    <referer>http://www.dinozap.info/</referer>
+</item>
+]]></listrepeat>
+<expres>(?s)\s*([\d\:]+)\s*(.+?\))\s*</expres>
+<page>[makelist.param2]</page>
+<referer>http://www.dinozap.info</referer>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getpage</name>
+<expres>$pyFunction:codecs.decode(page_data,'gb18030').encode('ascii','xmlcharrefreplace')</expres>
+<page>http://www.dinozap.info/prog.txt</page>
+<cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+<item>
+<title> [COLOR black][B]Torrent-TV[/B] [/COLOR][COLOR lime][Plexus][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue][makelist.param2] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/[makelist.param1].acelive&amp;mode=1&amp;name=Adryanlist+Futbol</link>
+]]></listrepeat>
+<expres>translation=(.*)".*>(.*?)<</expres>
+<page>http://torrent-tv.ru/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title> [COLOR pin][B]VipGoal.Net[/B] [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue][B][makelist.param2][/B][/COLOR]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)online.*?src="(.*?)"</expres>
+<page>http://www.vipgoal.net/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR ivory][B]Pirlo.TV[/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR coral][makelist.param1][/COLOR] • [COLOR skyblue][B][makelist.param3][/B][/COLOR][COLOR skyblue][makelist.param4][/COLOR]</title>
+<sportsdevil>http://www.pirlotvlive.com/[makelist.param2]</sportsdevil>
+<referer>http://www.pirlotvlive.com</referer>
+]]></listrepeat>
+<expres>t\"\>(.*?)\<[\w\W\s]{0,120}../(.*?)"[\w\W\s]{0,10}blank">(.*?)<[\w\W\s]{0,2}>(.*?)<</expres>
+<page>http://www.pirlotvlive.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title> [COLOR sky blue][B]WIZHD[/B] [/COLOR][COLOR lime]Eventos del dia /  TODAY SCHEDULE [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lime][makelist.param1][/COLOR]</title>
+<link>rtmp://94.102.49.194/live playpath=wizhd[makelist.param3] swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedcr.php?live=wizhd[makelist.param3]&vw=640&vh=460</link>
+</item>	
+]]></listrepeat>
+<expres>class="name">(.*?)<[\w\W\s]{0,685}href="(.*?)">Stream (.*?)<</expres>
+<page>http://wizhdsports.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]mamaHD[/B] [/COLOR][COLOR lime] Channels[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lime][makelist.param3][/COLOR]</title>
+<sportsdevil>http://mamahd.com/[makelist.param1]</sportsdevil>
+<thumbnail>[makelist.param2]</thumbnail>
+<referer>http://mamahd.com/</referer>
+
+]]></listrepeat>
+<expres>href="http://mamahd.com/(.*?)"[\w\W\s]{0,16}"(.*?)"[\w\W\s]{0,10}>(.*?)<</expres>
+<page>http://mamahd.com/index.html</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR red][B]Canales de iGuide.to[/B] [/COLOR][COLOR lime]Eventos del dia[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR silver][makelist.param3] -[[makelist.param2]][/COLOR]</title>
+<link>rtmp://nl.iguide.to/iguide playpath=[makelist.param1] swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7 live=1 timeout=15</link>
+</item>
+]]></listrepeat>
+<expres>images/channels/(.*?)_[\w\W\s]{0,55}www.iguide.to/view/(.*?)/(.*?)"</expres>
+<page>http://www.iguide.to/channels/?sort=3</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item
+
+
+
+
+
+
+
+<item>
+<title> [COLOR silver][B]Arenavision[/B] [/COLOR][COLOR lime]AGENDA / SCHEDULE [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lime]Marzo [makelist.param1][/COLOR] [COLOR lime][makelist.param2][/COLOR] [COLOR gray][makelist.param3][/COLOR] [COLOR yellow][makelist.param4][/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param5]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+</item>	
+]]></listrepeat>
+<expres>(.*?)/03/16(.*?)CET(.*?):(.*?)/AV(.*?)/</expres>
+<page>http://arenavision.in/agenda</page>
+</regex>
+</item>
+
+
+
+
+
+
+
+
 
 
 
