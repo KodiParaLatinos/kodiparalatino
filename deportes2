@@ -56,20 +56,20 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
  <item>
- <title> [COLOR yellow] [B]Sports Devil[/B] [/COLOR]</title>
+ <title>[COLOR yellow] [B]Sports Devil[/B] [/COLOR]</title>
  <link>http://ignor.ame</link>
  <externallink>http://adrian.kodistream.info/adryan/sd.xml</externallink>
  </item>
 
 <item>
-<title> [COLOR violet][B] Acestreams [/B][/COLOR]</title>
+<title>[COLOR violet][B] Acestreams [/B][/COLOR]</title>
  <link>http://ignor.ame</link>
  <externallink>http://adrian.kodistream.info/adryan/ace.xml</externallink>
  </item>
   
 
  <item>
- <title>[COLOR gol][B]USA•UK[/B]Sports Channels [/COLOR]</title>
+ <title>[COLOR red][B]USA•UK[/B]Sports Channels [/COLOR]</title>
  <link>http://ignor.ame</link>
  <externallink>http://adrian.kodistream.info/adryan/usauk.xml</externallink>
  </item>
@@ -119,7 +119,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title> [COLOR wite][B]Torrent-TV[/B] [/COLOR][COLOR lime][Plexus][/COLOR]</title>
+<title>[COLOR white][B]Torrent-TV[/B] [/COLOR][COLOR lime][Plexus][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -137,7 +137,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title> [COLOR pink][B]VipGoal.Net[/B] [/COLOR] </title>
+<title>[COLOR pink][B]VipGoal.Net[/B] [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -175,7 +175,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title> [COLOR sky blue][B]WIZHD[/B] [/COLOR][COLOR lime]Eventos del dia /  TODAY SCHEDULE [/COLOR]</title>
+<title>[COLOR sky blue][B]WIZHD[/B] [/COLOR][COLOR lime]Eventos del dia /  TODAY SCHEDULE [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -218,7 +218,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title> [COLOR silver][B]Arenavision[/B] [/COLOR][COLOR lime]AGENDA / SCHEDULE [/COLOR]</title>
+<title> [COLOR yellow][B]Arenavision[/B] [/COLOR][COLOR lime]AGENDA / SCHEDULE [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
