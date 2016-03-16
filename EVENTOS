@@ -1,5 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
 </streaminginfos>
 
+ <item>
+    <title>[COLOR blue]*[/COLOR][COLOR red] Lista de Deportes [/COLOR] [COLOR red] [/COLOR]</title>
+	<link>http://ignorame</link><thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
+	<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
+    </item>
+	
+	
+
+<item><title> [COLOR red][/COLOR][COLOR red]deportes livesportstreams [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livesportstreams.tv.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+
+ <item><title> [COLOR red][/COLOR][COLOR red]RojaDirecta [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+<item><title> [COLOR red][/COLOR][COLOR red]deportes Livetv [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livetv.ru.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+<item><title> [COLOR red][/COLOR][COLOR red]deportes Lshunter [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/lshunter.tv.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+
+
+<item><title> [COLOR red][/COLOR][COLOR red]deportes firstrowsports [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.ge.cfg&amp;mode=1</jsonrpc>
+<thumbnail>logo.logo.logo</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail></item>
+ 
+ <item><title> [COLOR red][/COLOR][COLOR red][B]USA/UK[/B] Sports Channels [/COLOR]</title>
+ <link>http://ignor.ame</link>
+ <externallink>http://adrian.kodistream.info/adryan/usauk.xml</externallink>
+ </item>
 
 
 
@@ -14,7 +62,6 @@
 
 
 
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
 			<title>[COLOR lime]ESPN Deportes[/COLOR] [COLOR lime][LIGA MX][/COLOR]</title>
@@ -1011,48 +1058,4 @@ http://80.243.189.26:9999/sportshd/skf1/index.m3u8
 <thumbnail>tvg-logo="logotv.png</thumbnail>
     </item>
 
-  <item>
-    <title>[COLOR blue]*[/COLOR][COLOR red]  Deportes Lista de AdryanList[/COLOR] [COLOR red] [/COLOR]</title>
-	<link>http://ignorame</link><thumbnail>http://1.bp.blogspot.com/-adoG1KlFxJM/Vq7f8FJLycI/AAAAAAAABR4/AqwcXSEqrX0/s320/MIAMI%2BLIST.jpg</thumbnail><fanart>http://oi66.tinypic.com/10ekh10.jpg</fanart>
-	<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
-    </item>
-	
-	
-
-<item><title> [COLOR red][/COLOR][COLOR red]deportes livesportstreams [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livesportstreams.tv.cfg&amp;mode=1</jsonrpc>
-<thumbnail>logo.logo.logo</thumbnail>
-<thumbnail>logo.logo.logo</thumbnail></item>
-
-
- <item><title> [COLOR red][/COLOR][COLOR red]RojaDirecta [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
-<thumbnail>logo.logo.logo</thumbnail>
-<thumbnail>logo.logo.logo</thumbnail></item>
-
-<item><title> [COLOR red][/COLOR][COLOR red]deportes Livetv [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livetv.ru.cfg&amp;mode=1</jsonrpc>
-<thumbnail>logo.logo.logo</thumbnail>
-<thumbnail>logo.logo.logo</thumbnail></item>
-
-<item><title> [COLOR red][/COLOR][COLOR red]deportes Lshunter [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/lshunter.tv.cfg&amp;mode=1</jsonrpc>
-<thumbnail>logo.logo.logo</thumbnail>
-<thumbnail>logo.logo.logo</thumbnail></item>
-
-
-
-<item><title> [COLOR red][/COLOR][COLOR red]deportes firstrowsports [/COLOR][COLOR yellow] Nesecita descargar sportsdevil para ver estos canales[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.ge.cfg&amp;mode=1</jsonrpc>
-<thumbnail>logo.logo.logo</thumbnail>
-<thumbnail>logo.logo.logo</thumbnail></item>
  
- <item><title> [COLOR red][/COLOR][COLOR red][B]USA/UK[/B] Sports Channels [/COLOR]</title>
- <link>http://ignor.ame</link>
- <externallink>http://adrian.kodistream.info/adryan/usauk.xml</externallink>
- </item>
