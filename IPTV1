@@ -2,7 +2,17 @@
 
 
 <item>
-	<title>[COLOR dodgerblue][B] * [/B][/COLOR]America TV Miami</title>
+<title>Cubavision</title>
+<link>rtmp://195.154.174.31/alfa playpath=cubavision swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=1 pageUrl=http://www.cubaportal.org/paginas/cubavision.aspx</link>
+</item>
+
+<item>
+<title>TV Marti</title>
+<link>rtmp://cp117766.live.edgefcs.net/live playpath=live_high@47386 swfUrl=http://www.martinoticias.com/flash_6.24.1.42690.3/MediaPlayer.swfx live=1 pageUrl=http://www.martinoticias.com/externalwidget/0/4.html</link>
+</item>
+
+<item>
+	<title>America TV Miami</title>
 	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 	<regex>
 	<name>get-m3u8final</name>
