@@ -4,33 +4,31 @@
 http://0.0.0.0:1234
 
 
-#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<[/COLOR][COLOR blue]Update 02/17/16[/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<[/COLOR][COLOR blue]Update 03/19/16[/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
 http://0.0.0.0:1234
 
 
-#EXTINF:0,TETEMUNDO 
-http://video06-atl.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
+#EXTINF:0,TELEMUNDO
+http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
 
-#EXTINF:0,TETEMUNDO Opcion1
-https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
+#EXTINF:-1,UNIVISION
+http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
+#EXTINF:0,UNIVISION 1
+http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
 
-#EXTINF:0,UNIVISION
-http://video06-atl.streamup.com/app/univision2chivas_69s-stream/playlist.m3u8
+#EXTINF:-1,TVeo Miami
+http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0,TELEMUNDO 39
-https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
-
-#EXTINF:0,UNIVISION 23
-https://video05-lax.streamup.com/app/turbo-maxs-channel/playlist.m3u8
-
-#EXTINF:0,UNIVISION Opcion 1
-https://video05-lax.streamup.com/app/univision2chivas_69s-stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="telemundo.png",Telemundo Puerto Rico
-http://104.236.200.163:1583/300815/wkaq/playlist.m3u8
-
-#EXTINF:0,Telemundo Pacifico
-http://video06-atl.streamup.com/app/telemundo-pacifics-stream/playlist.m3u8
+#EXTINF:0,Azteca 13 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:0,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:0,Azteca 7 Monterrey
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:0,Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 
 #EXTINF:0,GalaTV
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
