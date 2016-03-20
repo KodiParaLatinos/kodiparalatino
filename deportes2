@@ -3,6 +3,199 @@
 
 
 <item>
+<title>[COLOR red][B]LIGA ESPAÑA[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/la-liga/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
+]]></listrepeat>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR green][B]Premier League[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/english-premier-league/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
+]]></listrepeat>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B]Bundesliga[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/german-bundesliga/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
+]]></listrepeat>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]Serie A[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/serie-a/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
+]]></listrepeat>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]UEFA Champions League[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>href="(/streaming.*?)">(.*?)<</expres>
+<page>http://www.livefootballol.me/streaming/uefa-champions-league/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>acestream://(.*?)"</expres>
+			<page>[makelist.param1]<page>
+			</regex>
+]]></listrepeat>
+<expres>href="(.*?)"><[\w\W\s]{0,6}>(.*?AceStream)<</expres>
+<page>http://www.livefootballol.me[makelist2.param1]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
 <title>[COLOR green][B]Live Sports[/B] [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
