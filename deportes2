@@ -8,7 +8,7 @@
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <title>[COLOR blue][makelist2.param2][/COLOR]</title>
     <link>$doregex[makelist]</link>
 ]]></listrepeat>
 <expres>href="(/streaming.*?)">(.*?)<</expres>
@@ -23,7 +23,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
+			<title>[COLOR lime][makelist.param2][/COLOR]</title>
 			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
 			<regex>
 			<name>hash</name> 
@@ -46,7 +46,7 @@
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <title>[COLOR blue][makelist2.param2][/COLOR]</title>
     <link>$doregex[makelist]</link>
 ]]></listrepeat>
 <expres>href="(/streaming.*?)">(.*?)<</expres>
@@ -61,7 +61,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
+			<title>[COLOR lime][makelist.param2][/COLOR]</title>
 			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
 			<regex>
 			<name>hash</name> 
@@ -84,7 +84,7 @@
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <title>[COLOR blue][makelist2.param2][/COLOR]</title>
     <link>$doregex[makelist]</link>
 ]]></listrepeat>
 <expres>href="(/streaming.*?)">(.*?)<</expres>
@@ -99,7 +99,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
+			<title>[COLOR lime][makelist.param2][/COLOR]</title>
 			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
 			<regex>
 			<name>hash</name> 
@@ -122,7 +122,7 @@
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <title>[COLOR blue][makelist2.param2][/COLOR]</title>
     <link>$doregex[makelist]</link>
 ]]></listrepeat>
 <expres>href="(/streaming.*?)">(.*?)<</expres>
@@ -137,7 +137,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
+			<title>[COLOR lime][makelist.param2][/COLOR]</title>
 			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
 			<regex>
 			<name>hash</name> 
@@ -159,7 +159,7 @@
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <title>[COLOR blue][makelist2.param2][/COLOR]</title>
     <link>$doregex[makelist]</link>
 ]]></listrepeat>
 <expres>href="(/streaming.*?)">(.*?)<</expres>
@@ -174,7 +174,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-			<title>[COLOR deepskyblue][makelist.param2][/COLOR]</title>
+			<title>[COLOR lime][makelist.param2][/COLOR]</title>
 			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
 			<regex>
 			<name>hash</name> 
