@@ -619,7 +619,7 @@
 
 
 <item>
-<title>TV Stadium 7/title>
+<title>TV Stadium 7</title>
 <link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tech&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
 <regex>
 <name>get-decode</name>
@@ -777,14 +777,14 @@
 <thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail></item>	
 
 <item>
-<title>[COLOR skyblue]Claro[/COLOR] </title>
+<title>Claro </title>
 <link>http://104.236.124.24:1583/claro/playlist.m3u8</link>
 <thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail></item>	
 
 
 
 <item>
-<title>[COLOR skyblue]TDN Mexico[/COLOR] </title>
+<title>TDN Mexico</title>
 <link>http://104.236.46.32:8081/live/sky96/tdn/playlist.m3u8</link>
 <thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail></item>	
  
