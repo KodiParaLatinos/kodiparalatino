@@ -21,7 +21,9 @@
   <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 <fanart>http://http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink> ##change haider
+   <externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink> 
+   
+
 
 
   </channel>
@@ -34,7 +36,18 @@
   <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
 <fanart>http://http://oi66.tinypic.com/10ekh10.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/EVENTOS</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/EVENTOS</externallink>
+   
+   <channel>
+      <name>[COLOR lime] EVENTOS DEL DIA[/COLOR]</name>
+  <thumbnail>http://oi66.tinypic.com/10ekh10.jpg</thumbnail>
+<fanart>http://http://oi66.tinypic.com/10ekh10.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/KodiParaLatinos/kodiparalatino/master/Clasico</externallink>
+   
+   
+   
+   ##change haider
    
 
 
