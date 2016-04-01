@@ -3,8 +3,50 @@
 
 
 
+<item>
+<title>Bein Español</title>
+<link>$doregex[getVipRacing]</link>
+			<regex>
+			<name>getVipRacing</name>
+			<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-2/frame')</expres>
+			<page></page>
+			</regex>
+ <thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail></item> 
 
 
+
+<item>
+<title>Bein Español</title>
+<link>$doregex[getVipRacing]</link>
+			<regex>
+			<name>getVipRacing</name>
+			<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/bein-es')</expres>
+			<page></page>
+			</regex>
+ <thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail></item>  
+
+
+<item>
+<title>Canal Plus Liga  </title>
+<link>rtmp://nl.iguide.to/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
+</item> 	
+
+<item>
+<title>Bein ES</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53681',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
+</item>
+
+<item>
+<title>Plus Liga</title>
+<link>rtmp://nl.iguide.to/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item> 			
+			
 
 
 <item>
@@ -94,8 +136,8 @@
 <thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>
 
-		
-	<item>
+
+<item>
 <title>VIP 5 </title>
 <link>$doregex[url]</link>
 <regex>
@@ -104,6 +146,7 @@
 	<page></page>
 </regex>
 <thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
+
 
 
 <title>Futbol  BEIN SPORTS </title>
@@ -119,7 +162,7 @@
 <link>https://$doregex[get-response]/app/$doregex[get-id]_aac/playlist.m3u8</link><regex><name>get-response</name><expres>(.*)</expres><page>https://lancer.streamup.com/api/redirect/$doregex[get-id]</page></regex><regex><name>get-id</name><expres>"roomSlug": "(.*?)"</expres>
 <page>https://streamup.com/$doregex[get-ch]</page></regex>	<regex><name>get-ch</name><expres>https://streamup.com/(.*?)/</expres>
 <page>http://maxdeportv.net/?canal=2</page>
-</regex>	<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</regex>	<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>
 
 
@@ -137,10 +180,10 @@
 <page>http://maxdeportv.net/?canal=10</page>			
 </regex>
 
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>	
 <item>
-<title>Max Deportes 11 [COLOR skyblue][I](multicanal)[/I][/COLOR] [COLOR coral]      [/COLOR]</title>
+<title>Max Deportes</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -153,12 +196,12 @@
 <page>http://maxdeportv.net/?canal=11</page>			
 </regex>
 
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>	
 
 
 <item>
-<title>Max Deportes </title>
+<title>Max Deportes 1</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -171,27 +214,9 @@
 <page>http://maxdeportv.net/?canal=14</page>			
 </regex>
 
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>	
  
-<item>
-<title>Max Deportes 1</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/embedplayer_new.php?width=650&amp;height=400&amp;channel=$doregex[ch]&amp;autoplay=true',False,False,'http://maxdeportv.net')</expres>
-	<page></page>
-</regex>
-<regex>
-<name>ch</name> 
-<expres>http://www.iguide.to/embed/(.*?)&</expres>
-<page>http://maxdeportv.net/?canal=18</page>			
-</regex>
-
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-</item>	
-
-
 <item>
 <title>Max Deportes 2</title>
 <link>$doregex[url]</link>
@@ -206,13 +231,31 @@
 <page>http://maxdeportv.net/?canal=18</page>			
 </regex>
 
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
+</item>	
+
+
+<item>
+<title>Max Deportes 3</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/embedplayer_new.php?width=650&amp;height=400&amp;channel=$doregex[ch]&amp;autoplay=true',False,False,'http://maxdeportv.net')</expres>
+	<page></page>
+</regex>
+<regex>
+<name>ch</name> 
+<expres>http://www.iguide.to/embed/(.*?)&</expres>
+<page>http://maxdeportv.net/?canal=18</page>			
+</regex>
+
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>
 
 
 
 	<item>
-<title> Univision Deportes </title>
+<title>Univision Deportes </title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -225,7 +268,7 @@
 <page>http://maxdeportv.net/?canal=36</page>			
 </regex>
 
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>	
 
 
@@ -234,24 +277,24 @@
 <link>https://$doregex[get-response]/app/$doregex[get-id]_aac/playlist.m3u8</link><regex><name>get-response</name><expres>(.*)</expres><page>https://lancer.streamup.com/api/redirect/$doregex[get-id]</page></regex><regex><name>get-id</name><expres>"roomSlug": "(.*?)"</expres>
 <page>https://streamup.com/$doregex[get-ch]</page></regex>	<regex><name>get-ch</name><expres>https://streamup.com/(.*?)/</expres>
 <page>http://maxdeportv.net/?canal=38</page>
-</regex>	<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</regex>	<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>Multicanal </title>
+<title>Multicanal 1</title>
 <link>https://video06-atl.streamup.com/app/athleticss-stream_aac/playlist.m3u8</link>
 <regex>
 <name>get-response</name>
 <expres>(.*)</expres>
 <page>https://lancer.streamup.com/api/redirect/athletics-stream</page>
-</regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</regex><thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>
 
 
 
 	<item>
-<title>Multicanal 1</title>
+<title>Multicanal 2</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -264,12 +307,12 @@
 <page>http://maxdeportv.net/?canal=39</page>			
 </regex>
 
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>	
 
 
 <item>
-			<title> LigaMX </title>
+			<title>LigaMX </title>
 			<link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
 			<name>ip</name>
@@ -287,7 +330,7 @@
 			<name>ch</name>
 			<expres>channel='(.*?)'</expres>
 			<page>http://rivzs1.blogspot.mx/</page> 
-			</regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item>
+			</regex><thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail></item>
 
 
 <item>       
@@ -311,7 +354,7 @@
 			<page>http://futbol.to/canal1/</page>
 			<referer>http://www.zony.tv</referer>
 			</regex>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>
 
 <item>         
@@ -335,7 +378,7 @@
 			<page>http://futbol.to/canal3/</page>
 			<referer>http://www.mips.tv</referer>
 			</regex>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail>
 </item>
 
 
@@ -348,56 +391,6 @@
 </item>
 
 
-<item>
-<title>Bein Español
-<link>$doregex[getVipRacing]</link>
-			<regex>
-			<name>getVipRacing</name>
-			<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-2/frame')</expres>
-			<page></page>
-			</regex>
- <thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item> 
-
-
-
-<item>
-<title>Bein Español</title>
-<link>$doregex[getVipRacing]</link>
-			<regex>
-			<name>getVipRacing</name>
-			<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/bein-es')</expres>
-			<page></page>
-			</regex>
- <thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item>  
-
-
-<item>
-<title>Canal Plus Liga  </title>
-<link>rtmp://nl.iguide.to/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-</item> 	
-
-<item>
-<title>Bein ES</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=53681',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-</item>
-
-<item>
-<title>Plus Liga</title>
-<link>rtmp://nl.iguide.to/iguide playpath=nkmbihjxj5lmd5b swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel30323&autoplay=true token=#ed%h0#w18623jsda6523IDGD</link></item> 			
-			
-
-<item>
-<title>+ TOROS   [COLOR gray][I]cinestrenostv[/I][/COLOR]</title> <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link><regex><name>get-m3u8-decoded</name><expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres><page></page></regex><regex><name>get-m3u8-encoded</name><expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres><page>$doregex[get-embed4]</page><referer>http://verdirectotv.com/tv/</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed4</name><expres>iframe src="(.*?)"</expres><page>$doregex[get-embed3]</page><referer>http://verdirectotv.com/tv/</referer><agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent></regex><regex><name>get-embed3</name><expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://verdirectotv.com/tv/digitales2/plustoros.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex></item>
 
 <item>
 <title>TV Stadium </title>
@@ -774,26 +767,26 @@
 			<page>http://vipracing.info/channel/bein-es1</page>
 			</regex>
 
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item>	
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail></item>	
 
  
  
 <item>
 <title>Univision TDN </title>
 <link>http://104.236.61.232:8081/live/sky69/UnivisionTDNcsp/playlist.m3u8</link>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item>	
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail></item>	
 
 <item>
 <title>[COLOR skyblue]Claro[/COLOR] </title>
 <link>http://104.236.124.24:1583/claro/playlist.m3u8</link>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item>	
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail></item>	
 
 
 
 <item>
 <title>[COLOR skyblue]TDN Mexico[/COLOR] </title>
 <link>http://104.236.46.32:8081/live/sky96/tdn/playlist.m3u8</link>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail></item>	
+<thumbnail>https://wallpaperspal.com/wp-content/uploads/real-madrid-vs-fc-barcelona-2015-2016-el-clasico-hd-wallpaper-800x448.jpg</thumbnail></item>	
  
 
 
