@@ -1,0 +1,384 @@
+#EXTM3U
+
+#EXTINF:-1,Azteca 13 (TDT)
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,Proyecto 40 (TDT)
+http://aztecalive-lh.akamaihd.net/i/16up5a31u_1@85250/master.m3u8
+#EXTINF:-1,Azteca noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+#EXTINF:-1,Azteca 7 HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1115
+#EXTINF:-1,==Mosaico Televisa==
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1,Canal de las Estrellas (TDT)
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,Canal de las estrellas
+http://191.101.228.168/tp.php/playlist.m3u8?id=1123
+#EXTINF:-1,Canal 5
+http://191.101.228.168/tp.php/playlist.m3u8?id=1111
+#EXTINF:-1,Gala tv
+http://191.101.228.168/tp.php/playlist.m3u8?id=1239
+#EXTINF:-1,FORO TV
+http://191.101.228.168/tp.php/playlist.m3u8?id=1107
+#EXTINF:-1,==Mosaico México=+
+w
+#EXTINF:-1,Once tv señal internacional
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1,MULTIMEDIOS TELEVISION
+http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
+#EXTINF:-1,Una voz con todos
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+#EXTINF:-1,Canal 2 Ciudad Obregon
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+#EXTINF:-1,RCG
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1,XHSDD 5tv
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:-1,TVMAS
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,XHMOR 49 SMRTV
+http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8
+#EXTINF:-1,XHQ 30 TV Pacífico
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1,XHTLX 22 TDT
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:-1,GALATV Merida
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8?
+#EXTINF:-1,INGENIO TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,EFECTO TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
+#EXTINF:-1,CAPITAL 21 CDMX
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1,Aprende TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
+#EXTINF:-1,Canal del Congreso MX
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:-1,C7 Guadalajara
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:-1,Canal 66 Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+#EXTINF:-1,==Mosaico Internacional==
+q
+#EXTINF:-1,Canal De Las Estrellas Latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,Teveo Miami USA
+http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Canal 13 (Nicaragua)
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:-1,Tele Uno TV - Costa Rica
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1,Telesistema (Rep Dominicana)
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w547403028_b764000.m3u8
+#EXTINF:-1,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1,CANAL U
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
+#EXTINF:-1,LIFE DESIGN HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+#EXTINF:-1,CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1,CosmoVision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1,Colosal TV Costa Rica
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:-1,Extremadura TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,La sexta (Spain)
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
+#EXTINF:-1,El 13 TV (Full HD)
+http://grilla.gigared.com.ar/streams/166V3/1/1.m3u8
+#EXTINF:-1,TECtv [Arg]
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1,TVES
+rtmp://198.24.135.42:80/canal10/canal10
+#EXTINF:-1,C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1,TELEMEDELLIN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,CANAL CAPITAL BOGOTA
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1,LA 2 SD
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1,TV SEVILLA SD
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
+#EXTINF:-1,CANAL SUR TV SD
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,Vmas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1,TVC LATINO
+rtmp://76.79.146.124/live/TVCSB
+#EXTINF:-1,Teleantillanas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1,RPC Canal 13
+http://70.36.100.38:1935/live/canal13_hq.stream/playlist.m3u8
+#EXTINF:-1,Canal 11
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,telecaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1,TV AZTECA GUATE
+http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/master.m3u8
+#EXTINF:-1,cinematvplay
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
+#EXTINF:-1,MEGA (España)
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1,TVN HD
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/master.m3u8
+#EXTINF:-1,Canal 6
+http://stream.ssh101.com:1935/live/0s31s/chunklist.m3u8
+#EXTINF:-1,TV 5 MONDE AMÉRIQUE LATINE
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:-1,viajar
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/index_814_av-b.m3u8
+#EXTINF:-1,dw latinoamerica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,Mexico Travel Channel
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:-1,DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:-1,WIN SPORTS
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:-1,real madrid tv
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:-1,MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1,Cantinazo TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1,Virgin Radio
+http://fms.105.net:1935/live/virgin1/.m3u8?
+#EXTINF:-1,VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,ONE TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1,Miami TV Music
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Discovery Channel en español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,24h RTVE (Spain)
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,TRENDY MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1,Q Musica
+mms://streamqm.uigc.net/qmusica
+#EXTINF:-1,G360
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1,TV Blast
+http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+#EXTINF:-1,Teve Musica HD
+http://ss6.domint.net:2086/tmtv_str/musica/playlist.m3u8
+#EXTINF:-1,cinematvplay
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
+#EXTINF:-1,htv
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,Gol TV HD
+http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:-1,CB24 Noticias Centroamérica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:-1,MTV Rocks
+http://94.74.65.100:19123/ott/68:1122
+#EXTINF:-1,cbeebies
+http://209.126.106.202:8080/cbee/index.m3u8
+#EXTINF:-1,Ta Te Ti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8??sd=10&rebase=on
+#EXTINF:-1,==Total Play==
+f
+#EXTINF:-1,Azteca Clic
+http://191.101.228.168/tp.php/playlist.m3u8?id=1103
+#EXTINF:-1,TBS
+http://tv.tecnotv.net/live/error1.mp4
+#EXTINF:-1,HOLA TV
+http://191.101.228.168/tp.php/playlist.m3u8?id=1367
+#EXTINF:-1,UNICABLE
+http://209.126.106.202:8080/unicable2/index.m3u8
+#EXTINF:-1,UNICABLE
+http://191.101.228.168/tp.php/playlist.m3u8?id=1363
+#EXTINF:-1,FASHION TV
+http://191.101.228.168/tp.php/playlist.m3u8?id=1371
+#EXTINF:-1,MASCHIC
+http://191.101.228.168/tp.php/playlist.m3u8?id=1375
+#EXTINF:-1,GOURMET
+http://191.101.228.168/tp.php/playlist.m3u8?id=1416
+#EXTINF:-1,E
+http://191.101.228.168/tp.php/playlist.m3u8?id=1392
+#EXTINF:-1,Boomerang
+http://191.101.228.168/tp.php/playlist.m3u8?id=1492
+#EXTINF:-1,Cartoon Network
+http://191.101.228.168/tp.php/playlist.m3u8?id=1483
+#EXTINF:-1,Cbeebies
+http://191.101.228.168/tp.php/playlist.m3u8?id=1455
+#EXTINF:-1,Discovery Kids
+http://191.101.228.168/tp.php/playlist.m3u8?id=1452
+#EXTINF:-1,Tiin
+http://191.101.228.168/tp.php/playlist.m3u8?id=1496
+#EXTINF:-1,Tooncast
+http://191.101.228.168/tp.php/playlist.m3u8?id=1500
+#EXTINF:-1,Nick HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1475
+#EXTINF:-1,Nicktoons
+http://191.101.228.168/tp.php/playlist.m3u8?id=1472
+#EXTINF:-1,Nickelodeon
+http://191.101.228.168/tp.php/playlist.m3u8?id=1480
+#EXTINF:-1,Disney
+http://191.101.228.168/tp.php/playlist.m3u8?id=1468
+#EXTINF:-1,Disney Jr
+http://191.101.228.168/tp.php/playlist.m3u8?id=1459
+#EXTINF:-1,DISNEY XD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1488
+#EXTINF:-1,HMX
+http://191.101.228.168/tp.php/playlist.m3u8?id=1322
+#EXTINF:-1,Formula 1
+http://191.101.228.168/tp.php/playlist.m3u8?id=1647
+#EXTINF:-1,ESPN
+http://191.101.228.168/tp.php/playlist.m3u8?id=1671
+#EXTINF:-1,ESPN 2
+http://191.101.228.168/tp.php/playlist.m3u8?id=1675
+#EXTINF:-1,ESPN 3
+http://191.101.228.168/tp.php/playlist.m3u8?id=1655
+#EXTINF:-1,ESPN +
+http://191.101.228.168/tp.php/playlist.m3u8?id=1651
+#EXTINF:-1,Fox Sports
+http://191.101.228.168/tp.php/playlist.m3u8?id=1659
+#EXTINF:-1,Fox Sports 2
+http://191.101.228.168/tp.php/playlist.m3u8?id=1663
+#EXTINF:-1,Fox
+http://199.180.114.174:88/files/fox.m3u8
+#EXTINF:-1,Fx
+http://191.101.228.168/tp.php/playlist.m3u8?id=1343
+#EXTINF:-1,Fox 1
+http://191.101.228.168/tp.php/playlist.m3u8?id=1559
+#EXTINF:-1,Fox Action
+http://191.101.228.168/tp.php/playlist.m3u8?id=1562
+#EXTINF:-1,Fox Movies
+http://191.101.228.168/tp.php/playlist.m3u8?id=1567
+#EXTINF:-1,Fox Cinema
+http://191.101.228.168/tp.php/playlist.m3u8?id=1571
+#EXTINF:-1,Fox Classics
+http://191.101.228.168/tp.php/playlist.m3u8?id=1575
+#EXTINF:-1,Fox Life
+http://191.101.228.168/tp.php/playlist.m3u8?id=1427
+#EXTINF:-1,Warner Channel
+http://191.101.228.168/tp.php/playlist.m3u8?id=1335
+#EXTINF:-1,TruTV HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1355
+#EXTINF:-1,BBC
+http://tv.tecnotv.net/live/error1.mp4
+#EXTINF:-1,Universal Channel HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1339
+#EXTINF:-1,Universal Channel
+http://tv.tecnotv.net/live/error1.mp4
+#EXTINF:-1,TLC Discovery
+http://191.101.228.168/tp.php/playlist.m3u8?id=1551
+#EXTINF:-1,Tlnovelas
+http://191.101.228.168/tp.php/playlist.m3u8?id=1440
+#EXTINF:-1,TNT
+http://tv.tecnotv.net/live/error1.mp4
+#EXTINF:-1,TNT HD
+http://tv.tecnotv.net/live/error1.mp4
+#EXTINF:-1,TNT Series
+http://191.101.228.168/tp.php/playlist.m3u8?id=1411
+#EXTINF:-1,Film Zone HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1594
+#EXTINF:-1,Sony HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1331
+#EXTINF:-1,Space
+http://tv.tecnotv.net/live/error1.mp4
+#EXTINF:-1,Space HD
+http://tv.tecnotv.net/live/error1.mp4
+#EXTINF:-1,Studio Universal
+http://191.101.228.168/tp.php/playlist.m3u8?id=1635
+#EXTINF:-1,Syfy
+http://191.101.228.168/tp.php/playlist.m3u8?id=1399
+#EXTINF:-1,ISAT
+http://191.101.228.168/tp.php/playlist.m3u8?id=1639
+#EXTINF:-1,TBS
+http://191.101.228.168/tp.php/playlist.m3u8?id=1435
+#EXTINF:-1,TCM
+http://191.101.228.168/tp.php/playlist.m3u8?id=1643
+#EXTINF:-1,Glitz
+http://191.101.228.168/tp.php/playlist.m3u8?id=1423
+#EXTINF:-1,Golden HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1592
+#EXTINF:-1,Golden Edge
+http://191.101.228.168/tp.php/playlist.m3u8?id=1623
+#EXTINF:-1,Distrito Comedia
+http://191.101.228.168/tp.php/playlist.m3u8?id=1431
+#EXTINF:-1,E!
+http://tv.tecnotv.net/live/error1.mp4
+#EXTINF:-1,Cinecanal
+http://191.101.228.168/tp.php/playlist.m3u8?id=1583
+#EXTINF:-1,Cinecanal + HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1583
+#EXTINF:-1,Cinemax
+http://191.101.228.168/tp.php/playlist.m3u8?id=1615
+#EXTINF:-1,Comedy Central
+http://191.101.228.168/tp.php/playlist.m3u8?id=1360
+#EXTINF:-1,De pelicula HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1599
+#EXTINF:-1,AMC HD
+http://tv.tecnotv.net/live/error1.mp4
+#EXTINF:-1,AXN HD
+http://tv.tecnotv.net/live/error1.mp4
+#EXTINF:-1,Bandamax
+http://191.101.228.168/tp.php/playlist.m3u8?id=1732
+#EXTINF:-1,MTV
+http://191.101.228.168/tp.php/playlist.m3u8?id=1716
+#EXTINF:-1,MTV HITS
+http://191.101.228.168/tp.php/playlist.m3u8?id=1720
+#EXTINF:-1,MTV Live
+http://191.101.228.168/tp.php/playlist.m3u8?id=1700
+#EXTINF:-1,Ritmoson
+http://191.101.228.168/tp.php/playlist.m3u8?id=1728
+#EXTINF:-1,Telehit
+http://191.101.228.168/tp.php/playlist.m3u8?id=1704
+#EXTINF:-1,ONE CLASICO
+http://191.101.228.168/tp.php/playlist.m3u8?id=1724
+#EXTINF:-1,VH1
+http://191.101.228.168/tp.php/playlist.m3u8?id=1708
+#EXTINF:-1,VH1 Classics
+http://tv.tecnotv.net/live/error1.mp4
+#EXTINF:-1,A&E
+http://191.101.228.168/tp.php/playlist.m3u8?id=1347
+#EXTINF:-1,Discovery Theater
+http://191.101.228.168/tp.php/playlist.m3u8?id=1503
+#EXTINF:-1,Nat Geo
+http://191.101.228.168/tp.php/playlist.m3u8?id=1531
+#EXTINF:-1,NatGeo Wild
+http://191.101.228.168/tp.php/playlist.m3u8?id=1511
+#EXTINF:-1,Investigation Discovery
+http://191.101.228.168/tp.php/playlist.m3u8?id=1407
+#EXTINF:-1,Lifetime
+http://191.101.228.168/tp.php/playlist.m3u8?id=1535
+#EXTINF:-1,History HD
+http://191.101.228.168/tp.php/playlist.m3u8?id=1506
+#EXTINF:-1,H2
+http://104.236.61.232:8081/live/sky69/2Hcsp/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://191.101.228.168/tp.php/playlist.m3u8?id=1524
+#EXTINF:-1,Home And Health
+http://191.101.228.168/tp.php/playlist.m3u8?id=1527
+#EXTINF:-1,Discovery Channel
+http://191.101.228.168/tp.php/playlist.m3u8?id=1519
+#EXTINF:-1,Discovery Civilization
+http://191.101.228.168/tp.php/playlist.m3u8?id=1544
+#EXTINF:-1,Discovery Science
+http://191.101.228.168/tp.php/playlist.m3u8?id=1540
+#EXTINF:-1,Discovery Turbo
+http://191.101.228.168/tp.php/playlist.m3u8?id=1547
+#EXTINF:-1,Discovery World
+http://191.101.228.168/tp.php/playlist.m3u8?id=1516#EXTINF:1,GARAGE TV
+#EXTINF:-1,Telemax
+http://enhd.co:1935/ilive/ilive/playlist.m3u8
