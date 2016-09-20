@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1,RU | Zoo Park
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2159.ts
+#EXTINF:-1,RU | Telekanal Zvezda
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2152.ts
+#EXTINF:-1,RU | Sony Turbo
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2148.ts
+#EXTINF:-1,RU | Russia 1
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2151.ts
+#EXTINF:-1,RU | Ren
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2153.ts
+#EXTINF:-1,RU | Outdoor Channel
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2157.ts
+#EXTINF:-1,RU | National Geographic
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2154.ts
+#EXTINF:-1,RU | Nat Geo Wild
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2155.ts
+#EXTINF:-1,RU | Moya Planeta
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2160.ts
+#EXTINF:-1,RU | HTB
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2150.ts
+#EXTINF:-1,RU | HD Life
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2149.ts
+#EXTINF:-1,RU | Discovery Channel
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2156.ts
+#EXTINF:-1,RU | Discovery
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2147.ts
+#EXTINF:-1,RU | Animal Planet
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2158.ts
+#EXTINF:-1,RU | 24 Doc
+http://ip.kmsat.info:8000/live/Fernando/Fernando/2161.ts
+#EXTINF:-1,RU | Viasat Nature
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1859.ts
+#EXTINF:-1,RU | Viasat History
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1860.ts
+#EXTINF:-1,RU | Viasat Explorer
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1861.ts
+#EXTINF:-1,RU | TV1000
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1862.ts
+#EXTINF:-1,RU | NTV Football 3
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1855.ts
+#EXTINF:-1,RU | NTV Football 2
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1854.ts
+#EXTINF:-1,RU | NTV Football 1
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1853.ts
+#EXTINF:-1,RU | Nash Futbol
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1856.ts
+#EXTINF:-1,RU | Match Nash Sport
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1858.ts
+#EXTINF:-1,RU | Match
+http://ip.kmsat.info:8000/live/Fernando/Fernando/1857.ts
