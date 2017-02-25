@@ -1,4 +1,41 @@
 
+	
+
+<tem>
+<title>[COLOR lime]•  [/COLOR][COLOR skyblue][B]TotalPlay[/B] [/COLOR] [COLOR lightslategray][ Opcion [COLOR lightblue][B]1[/B] [/COLOR] ][/COLOR][COLOR deepblue][B]LatinoWeb[/B] [/COLOR] </title><!-- si la pones  en tu addon favor de mencionar Adryanlist -->
+<link>$doregex[makelist]</link><!-- si la pones  en tu addon favor de mencionar Adryanlist -->
+<regex>
+<name>makelist</name><!-- si la pones  en tu addon favor de mencionar Adryanlist -->
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>$doregex[url]|User-Agent=iPad&amp;Referer=http://www.latino-webtv.ml</link>
+<regex>
+<name>url</name>
+<expres>file: "(.*?)"</expres>
+<page>http://latino-webtv.com/embed/$doregex[url2]</page>
+<referer>http://embed.latino-webtv.com/natgeo.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent>
+</regex>
+<regex>
+<name>url2</name>
+<expres>SRC="http://latino-webtv.com/embed/(.*?)"</expres>
+<page>http://embed.latino-webtv.com/$doregex[url3]</page>
+<agent>iPad</agent>
+</regex>
+<regex>
+<name>url3</name>
+<expres>src="http://embed.latino-webtv.com/(.*?)"</expres>
+<page>http://latino-webtv.com/[makelist.param1]-en-vivo/</page>
+<agent>iPad</agent>
+</regex>
+<thumbnail>[makelist.param3]</thumbnail> 
+]]></listrepeat> <!-- si la pones  en tu addon favor de mencionar Adryanlist -->
+<expres>href="(.*?)-en-[\w\W\s]{0,13}alt="(.*?)"[\w\W\s]{0,7}src="(.*?)"</expres>
+<page>http://latino-webtv.com/</page><!-- si la pones  en tu addon favor de mencionar Adryanlist -->
+<referer></referer>
+<cookieJar></cookieJar>
+</regex><thumbnail>http://adryanlist.org/adryan/img/entretenimiento.jpg</thumbnail><!-- si la pones  en tu addon favor de mencionar Adryanlist -->
+</item>
 
 
 <item>
