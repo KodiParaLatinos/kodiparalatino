@@ -1,30 +1,4 @@
 
-
-
-
-<tem>
-<title>[COLOR lime]•  [/COLOR][COLOR skyblue][B]TotalPlay[/B] [/COLOR] [COLOR lightslategray][ Opcion [COLOR lightblue][B]1[/B] [/COLOR] ][/COLOR][COLOR deepblue][B]f4mtester Requerido[/B] [/COLOR] </title>
-
-<link>$doregex[makelist]</link><!-- si la pones  en tu addon favor de mencionar Adryanlist -->
-<regex>
-<name>makelist</name><!-- si la pones  en tu addon favor de mencionar Adryanlist -->
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[getM3u8]&amp;name=Adryanlist - [makelist.param3]</link>
-<regex><name>getM3u8</name>
-<expres>(?s)url: "(.*?)"</expres>
-<page>[makelist.param1]</page>
-<cookieJar></cookieJar></regex>
-]]></listrepeat> <!-- si la pones  en tu addon favor de mencionar Adryanlist -->
-<expres><![CDATA[href="(.*?)"]]></expres>
-<page>http://tvplayerlatino.com/envivo/</page>
-<referer>http://tvplayerlatino.com/envivo/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</agent><!-- si la pones  en tu addon favor de mencionar Adryanlist -->
-</regex>
-<thumbnail>http://adryanlist.org/adryan/img/entretenimiento.jpg</thumbnail><!-- si la pones  en tu addon favor de mencionar Adryanlist -->
-</item>
-
-
 	
 
 <tem>
