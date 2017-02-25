@@ -42,33 +42,3 @@
 
  
 
-<item>
-<title>[COLOR lime]•  [/COLOR][COLOR skyblue][B]TotalPlay[/B] [/COLOR] [COLOR lightslategray][ Opcion [COLOR lightblue][B]1[/B] [/COLOR] ][/COLOR][COLOR lightslategray][B]  [/B] [/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-   <name>makelist</name>
-   <listrepeat><![CDATA[
-          <title>[COLOR skyblue] [makelist.param1][/COLOR]    [COLOR lightslategray][I]Emitiendo:[makelist.param4][/COLOR] [/I]</title>
-          <link>$doregex[getstream]|User-Agent=Lavf/58.20.100</link>
-          <thumbnail>[makelist.param3]</thumbnail>
-          <referer>http://tvplayerlatino.com/envivo/ver/AMC/</referer>
-          <agent>Lavf/58.20.100</agent>
-          <info>[makelist.param5]</info>
-          <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-   ]]></listrepeat>
-   <expres>TITULO=(.*?)IDCANAL=(.*?)LOGO=(.*?)PROGRAMA=(.*?)INFORMACION=(.*?)PERRORRO</expres>
-   <page>http://premium.exabytetv.info:7001/ADDONSCR/cablebasicosrc.php</page>
-   <cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>getstream</name>
-<expres>source src="(.*?)"</expres>
-<page>http://tvplayerlatino.com/envivo/ver/[makelist.param2]/?noflash</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36</agent>
-<referer>http://tvplayerlatino.com/envivo/</referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://adryanlist.org/adryan/img/totalplay.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>	
